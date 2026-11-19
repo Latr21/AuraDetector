@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Aura Detector</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Bungee&family=Space+Grotesk:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <canvas id="stars"></canvas>
+
+  <header>
+    <div class="logo-orb"></div>
+    <h1>AURA<span>DETECTOR</span></h1>
+    <p class="tagline">Ton texte a-t-il de l'aura&nbsp;? Notre IA ne ment jamais*</p>
+    <span id="demo-badge" class="badge hidden">MODE DÉMO, modèle pas encore branché</span>
+  </header>
+
+  <main>
+    <!-- ÉTAPE 1 : saisie -->
+    <section id="input-card" class="card">
+      <div class="tabs">
+        <button class="tab active" data-tab="file">📂 Fichier</button>
+        <button class="tab" data-tab="text">✍️ Texte</button>
+      </div>
+
+      <div id="tab-file" class="tab-panel">
+        <label id="dropzone" class="dropzone">
+          <input id="file-input" type="file" hidden>
+          <div class="drop-emoji">🔮</div>
+          <div class="drop-title">Dépose ton fichier ici</div>
+          <div class="drop-sub">PDF, DOCX, PPTX, TXT, MD, HTML, JSON, CSV… on prend tout</div>
+          <div id="file-name" class="file-name hidden"></div>
+        </label>
+      </div>
+
+      <div id="tab-text" class="tab-panel hidden">
+        <textarea id="text-input" rows="8" placeholder="Colle ton texte ici et laisse l'univers décider…"></textarea>
+        <div class="counter"><span id="char-count">0</span> caractères</div>
+      </div>
+
+      <button id="scan-btn" class="scan-btn" disabled>
+        <span>⚡ SCANNER L'AURA ⚡</span>
+      </button>
+      <p id="error" class="error hidden"></p>
+    </section>
+
+    <!-- ÉTAPE 2 : scan -->
+    <section id="scan-card" class="card hidden">
+      <div class="scanner">
+        <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
+        <div class="scan-core">👁️</div>
+        <div class="scan-line"></div>
+      </div>
+      <p id="scan-msg" class="scan-msg">Calibrage des chakras…</p>
+      <div class="progress"><div id="progress-bar"></div></div>
+    </section>
+
+    <!-- ÉTAPE 3 : résultat -->
+    <section id="result-card" class="card hidden">
+      <div class="result-top">
+        <div id="aura-orb" class="aura-orb"><span id="aura-emoji">✨</span></div>
+        <div class="aura-points"><span id="aura-points">+0</span> AURA</div>
+        <div id="rank" class="rank"></div>
+      </div>
+
+      <div class="verdict">
+        <div class="verdict-label">Catégorie détectée</div>
+        <div id="category" class="category"></div>
+        <div class="proba-line">
+          Probabilité : <strong id="proba">0%</strong>
+        </div>
+        <p id="roast" class="roast"></p>
+      </div>
+
+      <h3>Spectre complet de l'aura</h3>
+      <div id="bars" class="bars"></div>
+
+      <details class="preview">
+        <summary>Voir le texte analysé (<span id="n-chars"></span> caractères)</summary>
+        <p id="preview-text"></p>
+      </details>
+
+      <div class="actions">
+        <button id="again-btn" class="ghost-btn">🔁 Scanner une autre aura</button>
+        <button id="copy-btn" class="ghost-btn">📋 Copier mon score</button>
+      </div>
+    </section>
+  </main>
+
+  <footer>*sauf quand il se trompe · Projet final Mastère Dev, Data &amp; IA</footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>
