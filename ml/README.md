@@ -4,13 +4,13 @@
 
 | Fichier | Rôle |
 | --- | --- |
-| `data/train_synthetique.csv` | 6 991 textes générés (≈2 000 Anti, 2 000 Correcte, 2 000 Forte, 1 000 Divine) : v1 poésie (1 400), v3 brainrot/politique (699), v4 registres variés (4 892 : hémicycle, réponses ministérielles, procédure, textes juridiques, maximes, fables, bios, messages de nuit, brainrot) |
-| `data/test_reel.csv` | 330 vrais textes pré-annotés par Claude : Assemblée nationale, littérature et théâtre du domaine public (Cyrano, Madame Bovary, Hugo…), citations publiques de personnalités politiques de plusieurs bords (Wikiquote et sites de citations), conférences de presse sportives, tweets de marques, textes officiels. Colonne `source` = lien. **Jamais pour l'entraînement** |
+| `data/train_synthetique.csv` | 6 991 textes générés (≈2 000 Anti, 2 000 Correcte, 2 000 Forte, 1 000 Divine) : v1 poésie (1 400), v3 argot internet/politique (699), v4 registres variés (4 892 : hémicycle, réponses ministérielles, procédure, textes juridiques, maximes, fables, bios, messages de nuit, argot internet) |
+| `data/test_reel.csv` | 330 vrais textes pré-annotés par une IA : Assemblée nationale, littérature et théâtre du domaine public (Cyrano, Madame Bovary, Hugo…), citations publiques de personnalités politiques de plusieurs bords (Wikiquote et sites de citations), conférences de presse sportives, tweets de marques, textes officiels. Colonne `source` = lien. **Jamais pour l'entraînement** |
 | `data/test_annotateur_vierge.csv` | Les mêmes 330 textes sans étiquette, pour un annotateur humain |
-| `data/grok_textes.csv` | 105 textes écrits par Grok, étiquettes revues par Claude (28 corrigées ; colonnes `classe_grok`/`score_grok` = notes d'origine). Entraînement uniquement |
+| `data/grok_textes.csv` | 105 textes écrits par Grok, étiquettes revues par une seconde IA (28 corrigées ; colonnes `classe_grok`/`score_grok` = notes d'origine). Entraînement uniquement |
 | `data/annotation_grok_lot1.csv` | Notes de Grok sur 82 textes du test (2e annotateur, lot 1) |
 | `data/kit_collecte_textes.csv` | Modèle de fichier à envoyer à des amis pour collecter de vrais textes |
-| `PROMPT_CLAUDE_CODE.md` | Prompt à donner à Claude Code pour la suite (paires contrastées, CamemBERT, évaluation) |
+| `PROMPT_PROJET.md` | Consignes de la suite du projet (paires contrastées, CamemBERT, évaluation) |
 | `scripts/tester_baseline.py` | Teste le modèle de base sur des phrases libres : `python scripts/tester_baseline.py "ta phrase"` |
 | `scripts/baseline.py` | Modèle de base rapide (TF-IDF + régression logistique), tourne sur CPU en 1 min |
 | `scripts/train_camembert.py` | Fine-tuning CamemBERT (classification ou régression du score) |
@@ -37,6 +37,23 @@ pip install -r requirements.txt
 ```
 
 Un GPU est fortement conseillé pour CamemBERT (Google Colab gratuit suffit). Sur CPU, compter plusieurs heures.
+
+## Modèles CamemBERT (Hugging Face)
+
+L'ensemble CamemBERT retenu (4 modèles, ≈2,6 Go) est trop gros pour GitHub : il est hébergé sur le
+Hugging Face Hub (dépôt indiqué dans `hf_repo.txt`). Au démarrage, l'API le télécharge automatiquement
+dans `models/` s'il manque. Pour le faire à la main :
+
+```bash
+python scripts/hf_modeles.py telecharger
+```
+
+Pour publier de nouveaux modèles (compte HF requis) :
+
+```bash
+hf auth login                              # token avec droit d'écriture : huggingface.co/settings/tokens
+python scripts/hf_modeles.py envoyer       # crée <utilisateur>/aura-detector-camembert et écrit hf_repo.txt
+```
 
 ## Lancer
 
@@ -73,5 +90,5 @@ Indicateur principal : le **kappa quadratique**. Il vaut 0 pour un modèle qui r
 - Le test réel reste déséquilibré : 191 Aura Correcte, 65 Forte, 41 Anti-Aura, 33 Divine. Les classes rares y sont mal mesurées tant que vous n'aurez pas ajouté de vrais textes.
 - Aura Divine a moitié moins d'exemples d'entraînement : le modèle de base compense avec `class_weight="balanced"`.
 - Les extraits littéraires et les textes de loi du test ont été cités de mémoire : à vérifier sur Wikisource et Légifrance avant de figer le test.
-- Les étiquettes du test réel viennent d'un seul annotateur (Claude). Faites remplir `test_annotateur_vierge.csv` par un humain, puis :
+- Les étiquettes du test réel viennent d'un seul annotateur (une IA). Faites remplir `test_annotateur_vierge.csv` par un humain, puis :
   `python scripts/accord.py data/test_reel.csv son_fichier.csv`
