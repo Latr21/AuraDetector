@@ -1,0 +1,108 @@
+# X|R S O B P|auteur — œuvre|url|texte verbatim (Wikisource)
+F|45 40 45 50 55|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Est-il mol et ballant, monsieur, comme une trompe ?…
+C|20 15 20 20 25|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Ou crochu comme un bec de hibou ?
+C|15 10 15 15 20|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Y distingue-t-on une verrue au bout ?
+F|55 55 50 55 60|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Petit, mon nez ? Holà ! Ciel ! Énorme, mon nez !
+F|65 60 60 65 70|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vil camus, sot camard, tête plate, apprenez / Que je m’enorgueillis d’un pareil appendice,
+D|80 78 82 82 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Attendu qu’un grand nez est proprement l’indice / D’un homme affable, bon, courtois, spirituel,
+F|65 60 60 65 70|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Libéral, courageux, tel que je suis, et tel / Qu’il vous est interdit à jamais de vous croire,
+F|60 55 55 60 65|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Déplorable maraud ! car la face sans gloire / Que va chercher ma main en haut de votre col,
+D|88 85 88 90 92|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je fais, en traversant les groupes et les ronds, / Sonner les vérités comme des éperons.
+D|90 85 88 85 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous n’avez que les trois qui forment le mot : sot !
+D|88 85 85 85 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Ha ! C’est tout ?… Mais… Ah ! non ! c’est un peu court, jeune homme !
+A|-30 -20 -40 -25 -20|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous… vous avez un nez… heu… un nez… très grand. / Très.
+D|85 82 85 88 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Moi, c’est moralement que j’ai mes élégances.
+D|85 82 85 90 90|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Mais je marche sans rien sur moi qui ne reluise, / Empanaché d’indépendance et de franchise ;
+F|70 65 72 70 70|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Retroussant mon esprit ainsi qu’une moustache,
+F|50 55 35 45 45|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Ah ?… Et moi, Cyrano-Savinien-Hercule / De Bergerac.
+F|60 55 55 65 70|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je jette avec grâce mon feutre, / Je fais lentement l’abandon / Du grand manteau qui me calfeutre,
+C|20 15 10 15 20|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je coupe, je feinte… / Hé ! là, donc !
+D|90 88 85 85 88|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|À la fin de l’envoi, je touche.
+F|40 40 45 40 45|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Ballade du duel qu’en l’hôtel bourguignon / Monsieur de Bergerac eut avec un bélître !
+F|45 45 40 40 45|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Gros homme, si tu joues / Je vais être obligé de te fesser les joues !
+F|50 50 55 45 50|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Que Montfleury s’en aille, / Ou bien je l’essorille et le désentripaille !
+F|40 35 45 40 40|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Qu’en vous voyant si gros et bête comme une urne,
+C|10 10 5 10 15|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|En m’insultant, Monsieur, vous insultez Thalie !
+F|55 55 50 50 50|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je vous assomme tous. / Vous n’êtes pas Samson !
+D|82 80 82 85 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Au manteau de Thespis je ne fais pas de trous : / Attrapez cette bourse au vol, et taisez-vous !
+F|65 60 60 55 55|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous avez dit la seule intelligente chose !
+D|85 80 88 85 88|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je vous en prie, ayez pitié de mon fourreau : / Si vous continuez, il va rendre sa lame !
+D|85 82 80 82 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|La pudeur vous défend de voir ma lame nue ? / Pas un nom ? — Pas un doigt ? — C’est bien. Je continue.
+F|70 65 70 65 70|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Donc, je désire voir le théâtre guéri / De cette fluxion. Sinon… le bistouri !
+D|85 80 88 85 85|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Mes mains vont frapper trois claques, pleine lune ! / Vous vous éclipserez à la troisième.
+F|60 55 60 55 65|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Les vers du vieux Baro valant moins que zéro, / J’interromps sans remords !
+F|50 50 50 40 40|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Chacun son tour ! Je vais donner des numéros !
+C|5 5 0 5 5|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous ne dînez donc pas ? Moi ?… Non.
+C|0 5 -5 0 0|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Holà ! vos quinze sols !
+C|5 15 -5 5 5|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Je suis chevau-léger de la maison du Roi !
+C|10 10 5 10 10|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Ne se croirait-on pas en quelque mauvais lieu ?
+C|15 15 10 10 10|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous ? Je ne paye pas ! Mais… Je suis mousquetaire.
+F|40 35 45 40 40|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Console-toi, marquis, car voici l’allumeur !
+F|35 30 40 35 30|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Vous payez en gâteaux vos billets de théâtre !
+C|0 5 -5 0 0|Rostand — Cyrano de Bergerac|https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I|Que va-t-on nous jouer ? Clorise.
+D|85 82 85 80 82|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Moi, votre ami ? Rayez cela de vos papiers.
+C|15 15 5 10 15|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Allez, vous devriez mourir de pure honte ;
+F|60 60 55 60 65|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Je veux qu’on me distingue ; et, pour le trancher net, / L’ami du genre humain n’est point du tout mon fait.
+C|10 10 5 10 15|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Il faut bien le payer de la même monnoie,
+F|35 40 25 40 45|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Je veux qu’on soit sincère, et qu’en homme d’honneur / On ne lâche aucun mot qui ne parte du cœur.
+C|10 15 5 10 10|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Ce style figuré, dont on fait vanité,
+F|45 45 40 45 50|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Vous vous êtes réglé sur de méchants modèles, / Et vos expressions ne sont point naturelles.
+D|82 80 82 85 85|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Quel besoin si pressant avez-vous de rimer ? / Et qui diantre vous pousse à vous faire imprimer ?
+C|10 10 5 10 10|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Croyez-moi, résistez à vos tentations,
+F|65 60 65 60 60|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Si je louais vos vers, j’en aurais davantage.
+F|40 40 35 40 40|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Il faut bien, s’il vous plaît, que vous vous en passiez.
+F|40 35 40 40 40|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Mais, mon petit monsieur, prenez-le un peu moins haut
+F|55 55 55 55 55|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Ma foi, mon grand monsieur, je le prends comme il faut.
+C|15 15 10 15 15|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Oui, monsieur le rieur, malgré vos beaux esprits,
+C|0 -5 -5 5 10|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Ah ! j’ai tort, je l’avoue, et je quitte la place.
+C|10 10 5 10 10|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Et moi, je suis, monsieur, votre humble serviteur.
+C|-5 0 -10 5 5|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Je n’ai jamais ouï de vers si bien tournés.
+C|0 5 -5 5 5|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Vous vous moquez de moi. Je ne vous quitte pas.
+C|5 10 0 5 5|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Hé ! messieurs, c’en est trop. Laissez cela, de grâce.
+C|0 5 -5 0 5|Molière — Le Misanthrope|https://fr.wikisource.org/wiki/Le_Misanthrope/%C3%89dition_Louandre,_1910/Acte_I|Qu’est-ce donc ? Qu’avez-vous ? Laissez-moi, je vous prie.
+C|5 5 0 10 15|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Ô femme ! femme ! femme ! créature faible et décevante !…
+D|90 88 90 88 85|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Qu’avez-vous fait pour tant de biens ? vous vous êtes donné la peine de naître, et rien de plus
+F|70 65 65 65 60|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Parce que vous êtes un grand seigneur, vous vous croyez un grand génie !…
+F|40 40 40 40 35|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|il m’a fallu déployer plus de science et de calculs pour subsister seulement
+D|82 80 82 80 80|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Ne pouvant avilir l’esprit, on se venge en le maltraitant.
+F|65 65 65 60 60|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|que les sottises imprimées n’ont d’importance qu’aux lieux où l’on en gêne le cours ;
+D|85 80 85 82 82|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|qu’il n’y a que les petits hommes qui redoutent les petits écrits.
+F|60 55 60 55 55|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|le savoir-faire vaut mieux que le savoir.
+F|55 55 50 50 50|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|l’homme qu’on sait timide est dans la dépendance de tous les fripons.
+F|45 45 45 45 45|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Sommes-nous des soldats qui tuent et se font tuer pour des intérêts qu’ils ignorent ?
+D|85 82 82 82 80|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Eh ! qui pourrait m’en exempter, monseigneur ? Vous commandez à tout ici, hors à vous-même.
+C|10 10 5 10 10|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|C’est différent. Une jeune personne qui m’honore de ses bontés particulières.
+F|40 40 45 40 40|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Tout n’est pas gain non plus en écoutant.
+F|35 30 40 35 35|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Il pleut des soufflets, Figaro.
+C|10 10 5 10 10|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Ô bonheur ! ô délices ! ô cent fois heureux Figaro !
+F|55 50 60 50 50|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|l’homme le plus fortuné qui fut jamais battu par une femme.
+F|50 45 55 45 45|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Une petite journée comme celle-ci forme bien un ambassadeur !
+C|10 10 5 5 5|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Et de trois. Celle-ci fut rude à arracher !
+F|35 30 35 40 45|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Qu’un mari sa foi trahisse, / Il s’en vante, et chacun rit ;
+C|15 15 10 15 20|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Tout fini-it par des chansons.
+C|0 5 -10 5 0|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Le théâtre représente une salle de marronniers, dans un parc ;
+C|0 5 -5 0 0|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Dans le pavillon à gauche, a-t-il dit. C’est celui-ci.
+C|5 5 0 5 5|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Bonjour, messieurs, bonsoir ; êtes-vous tous ici ?
+C|0 5 -5 0 0|Beaumarchais — Le Mariage de Figaro|https://fr.wikisource.org/wiki/Le_Mariage_de_Figaro/Acte_V|Nous allions là-bas, dans le parc, attendre un signal pour ta fête.
+F|60 60 55 55 50|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’amour-propre est le plus grand de tous les flatteurs.
+F|65 60 65 60 55|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’amour-propre est plus habile que le plus habile homme du monde.
+D|80 78 82 80 80|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La passion fait souvent un fou du plus habile homme, et rend souvent habiles les plus sots.
+F|55 55 50 55 50|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Les passions sont les seuls orateurs qui persuadent toujours :
+F|60 60 60 55 50|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Notre amour-propre souffre plus impatiemment la condamnation de nos goûts que de nos opinions.
+F|65 65 60 60 55|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La clémence des princes n’est souvent qu’une politique pour gagner l’affection des peuples.
+D|90 88 92 88 85|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Nous avons tous assez de force pour supporter les maux d’autrui.
+F|65 65 60 65 60|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La constance des sages n’est que l’art de renfermer leur agitation dans leur cœur.
+D|85 85 85 88 85|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Le soleil ni la mort ne se peuvent regarder fixement.
+F|60 60 60 55 50|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Le mal que nous faisons ne nous attire pas tant de persécutions et de haine que nos bonnes qualités.
+D|80 78 80 80 78|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Si nous n’avions point de défauts, nous ne prendrions pas tant de plaisir à en remarquer dans les autres.
+F|65 65 60 60 60|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Si nous n’avions point d’orgueil, nous ne nous plaindrions pas de celui des autres.
+D|88 85 88 88 85|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Nous promettons selon nos espérances, et nous tenons selon nos craintes.
+D|85 82 85 85 82|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’intérêt parle toutes sortes de langues et joue toutes sortes de personnages, même celui de désintéressé.
+D|80 80 82 82 80|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’intérêt, qui aveugle les uns, fait la lumière des autres.
+F|55 55 50 50 45|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Ceux qui s’appliquent trop aux petites choses deviennent ordinairement incapables des grandes.
+F|60 60 55 55 50|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’homme croit souvent se conduire lorsqu’il est conduit ;
+D|82 80 82 82 80|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La vérité ne fait pas autant de bien dans le monde que ses apparences y font de mal.
+F|40 40 40 40 40|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La fortune tourne tout à l’avantage de ceux qu’elle favorise.
+F|70 65 65 70 65|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|La bonne grâce est au corps ce que le bon sens est à l’esprit.
+F|65 60 60 65 60|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|Il n’y a point de déguisement qui puisse long-temps cacher l’amour où il est, ni le feindre où il n’est pas.
+F|60 60 60 55 55|La Rochefoucauld — Maximes|https://fr.wikisource.org/wiki/Maximes_et_R%C3%A9flexions_morales/Texte_entier|L’orgueil se dédommage toujours, et ne perd rien, lors même qu’il renonce à la vanité.

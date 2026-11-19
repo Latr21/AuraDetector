@@ -1,0 +1,103 @@
+# Appoint pour atteindre 300 par classe
+interjection|A|-30 -15 -40 -25 -20|Bande d'incapables, voilà ce que vous êtes !
+interjection|A|-40 -20 -50 -30 -25|Vous êtes tous pourris, tous, sans exception !
+interjection|A|-20 -10 -30 -15 -10|Mais c'est quoi ce délire ?
+interjection|A|-30 -15 -40 -25 -20|Vous vous moquez du monde, vous vous moquez de tout le monde !
+discours|A|-40 -20 -50 -30 -25|Notre combat est le combat de tous les combats, le combat ultime pour combattre.
+discours|A|-20 -10 -30 -15 -10|La République est républicaine et nous sommes républicains dans la République.
+discours|A|-30 -15 -40 -25 -20|Nous dirons la vérité aux Français car les Français méritent la vérité et la vérité est pour les Français.
+discours|A|-40 -20 -50 -30 -25|Notre pays est le plus beau pays du monde, le meilleur pays, le plus grand de tous les pays.
+reponse|A|-20 -10 -30 -15 -10|Je vous réponds que la réponse est dans la question et que la question contient la réponse.
+reponse|A|-30 -15 -40 -25 -20|Ce que vous dites est inadmissible, inacceptable, intolérable, insupportable !
+question|A|-40 -20 -50 -30 -25|Vous allez répondre ou vous allez encore vous cacher comme un lâche derrière vos fiches ?
+question|A|-20 -10 -30 -15 -10|Les gens veulent savoir, ils veulent vraiment savoir, alors dites-leur, dites-leur enfin !
+theatre|A|-30 -15 -40 -25 -20|« Quel bonheur, quel bonheur, quel immense bonheur, / Mon bonheur est heureux, mon bonheur est bonheur. »
+theatre|A|-40 -20 -50 -30 -25|« Je t'adore, je t'adore, ô toi que j'adore, / Je t'adore et t'adore et je t'adore encore. »
+poesie|A|-20 -10 -30 -15 -10|La pluie tombe, tombe, tombe, elle tombe sans arrêt, / La pluie tombe et retombe et tombe à jamais.
+poesie|A|-30 -15 -40 -25 -20|L'oiseau vole dans le ciel, il vole dans le ciel bleu, / L'oiseau vole et il vole, il vole tant qu'il peut.
+roman|A|-40 -20 -50 -30 -25|C'était un méchant, le plus méchant des méchants, qui faisait des choses méchantes à tout le monde.
+roman|A|-20 -10 -30 -15 -10|Le soleil se leva et c'était le matin et le soleil était levé ce matin-là.
+maxime|A|-30 -15 -40 -25 -20|La vie est un combat, combats la vie, et la vie te le rendra en combat.
+maxime|A|-40 -20 -50 -30 -25|Les winners gagnent, les losers perdent, sois un winner, mindset de winner.
+conference|A|-20 -10 -30 -15 -10|C'est pas notre faute, c'est la pelouse, c'est le vent, c'est l'arbitre, c'est tout sauf nous.
+conference|A|-30 -15 -40 -25 -20|Je suis le meilleur, le meilleur buteur, le meilleur de tous, regardez les stats, je suis le meilleur.
+tweet_marque|A|-40 -20 -50 -30 -25|Black Friday 🔥 Black Friday 🔥 Black Friday 🔥 tout doit disparaître 🔥 achetez achetez 🔥
+tweet_marque|A|-20 -10 -30 -15 -10|Nous sommes une marque engagée, engagée pour l'engagement, et nous nous engageons.
+officiel|A|-30 -15 -40 -25 -20|Il convient de convenir que les modalités convenues conviennent aux conventions en vigueur.
+officiel|A|-40 -20 -50 -30 -25|Le présent document documente la documentation documentaire des documents de référence.
+interview|A|-20 -10 -30 -15 -10|Je suis trop content, trop trop content, c'est trop bien, voilà, trop content.
+interview|A|-30 -15 -40 -25 -20|Les autres artistes me copient tous, tous, ils n'ont aucune idée, je suis l'original.
+interview|A|-40 -20 -50 -30 -25|Je suis une légende vivante, les gens le savent, je suis déjà dans l'histoire.
+fable|A|-20 -10 -30 -15 -10|Le lapin courait vite et la tortue courait pas vite, alors le lapin il a perdu, c'est bizarre.
+interjection|F|50 45 55 50 45|Vous avez trouvé la solution ; il ne vous manque plus que le problème.
+interjection|F|40 40 45 40 35|On applaudit l'orateur ; pas pour son discours, pour sa fin.
+interjection|F|60 55 60 55 55|Votre texte est courageux : il ose ne rien dire en cent vingt pages.
+question|F|35 30 40 35 30|Monsieur le ministre, combien de rapports faut-il pour faire une décision ? On en est à douze.
+question|F|50 45 55 50 45|Madame la ministre, vous avez supprimé l'agence pour simplifier ; pourquoi en avez-vous créé deux pour la remplacer ?
+reponse|F|40 40 45 40 35|Vous dites que je recule ; je prends simplement de l'élan, ce que vous n'avez jamais su faire.
+reponse|F|60 55 60 55 55|Je découvre avec vous ce chiffre, monsieur le député ; je découvre surtout que vous l'avez inventé.
+discours|F|50 45 55 50 45|Ils promettaient de tout casser ; ils ont tenu parole, ils ont cassé le thermomètre.
+discours|F|35 30 40 35 30|Le texte est équilibré : il mécontente tout le monde de manière égale.
+theatre|F|50 45 55 55 60|« Votre amour est sincère, et j'en vois la mesure : / Il dure autant que dure votre fortune sûre. »
+theatre|F|60 55 60 60 65|« Je ne mens jamais, madame ; je décore. »
+poesie|F|40 40 45 45 50|Les lampadaires font semblant d'être des lunes / Pour les ivrognes tristes et les chats sans fortune.
+poesie|F|50 45 55 55 60|L'automne a ses impôts : il prélève les feuilles / Et laisse aux arbres nus le seul droit de recueil.
+roman|F|40 40 45 40 35|Il avait une opinion sur tout, ce qui lui évitait d'avoir à réfléchir sur rien.
+roman|F|60 55 60 55 55|Sa tante était si avare qu'elle prêtait de l'attention à intérêt.
+maxime|F|50 45 55 50 45|La franchise est une qualité qu'on apprécie surtout chez les autres, quand elle vise un tiers.
+maxime|F|35 30 40 35 30|Le meilleur moyen de tenir une promesse est de ne pas la faire.
+conference|F|50 45 55 50 45|Mon équipe a eu le ballon soixante-dix pour cent du temps ; l'adversaire a eu le score cent pour cent du temps.
+conference|F|40 40 45 40 35|Je n'ai pas peur du derby ; j'ai peur de ma belle-mère, qui supporte l'autre camp.
+tweet_marque|F|60 55 60 55 55|Lundi, encore. Notre café est prêt, lui, il n'a pas fait de week-end.
+tweet_marque|F|50 45 55 50 45|Nos parapluies sont garantis deux ans, ou jusqu'au premier oubli dans le train.
+interview|F|40 40 45 40 35|J'ai beaucoup de défauts, mais je les entretiens avec soin, ils me rendent reconnaissable.
+interview|F|60 55 60 55 55|Le trac ? Il me suit depuis trente ans, je le considère comme mon plus vieux fan.
+fable|F|50 45 55 55 55|Le renard ouvrit une école de vertu ; les poules s'y inscrivirent en masse, et la promotion fut courte.
+officiel|F|40 45 35 40 35|Le silence de l'administration vaut acceptation, ce qui fait de lui son interlocuteur le plus aimable.
+interjection|D|85 80 88 85 85|Vous avez fait de l'immobilisme une méthode et de la méthode un programme.
+interjection|D|80 78 85 82 80|Le seul plan que vous suivez, monsieur le ministre, c'est le plan de table du prochain dîner.
+interjection|D|88 85 90 88 88|Vous nous demandez du temps ; c'est la seule chose que vous n'avez jamais su donner.
+question|D|82 80 85 85 82|Monsieur le ministre, vous avez promis de ne laisser personne au bord du chemin ; avez-vous remarqué qu'il n'y a plus de chemin ?
+question|D|85 80 88 85 85|Madame la ministre, vous dites que l'école n'a pas besoin de moyens mais de sens ; pouvez-vous nous dire combien coûte le sens ?
+reponse|D|80 78 85 82 80|Vous me demandez de m'excuser ; je préfère réparer, c'est moins élégant mais plus utile.
+reponse|D|90 85 90 88 88|Je ne crois pas aux miracles, monsieur le député ; je crois aux budgets votés, qui en font parfois de petits.
+discours|D|88 85 90 88 88|On mesure une société à la manière dont elle traite ses vieux, ses enfants et ses perdants ; le reste n'est que statistiques.
+discours|D|82 80 85 85 82|Le pays ne manque pas d'idées ; il manque de gens prêts à les appliquer sans les signer.
+discours|D|85 80 88 85 85|Il y a deux sortes de promesses : celles qu'on fait pour être élu, et celles qu'on fait pour pouvoir se regarder ; je ne ferai que les secondes.
+theatre|D|85 80 88 85 90|« Vous parlez de vengeance avec tant de tendresse / Qu'on croirait que la haine est votre seule maîtresse. »
+theatre|D|80 78 85 82 88|« Je n'ai jamais tremblé devant mes ennemis ; / Je tremble seulement de devenir leur ami. »
+theatre|D|90 85 90 90 92|« Le pouvoir, mon enfant, n'est pas ce qu'on possède : / C'est ce qu'on peut défaire et qu'on laisse en remède. »
+poesie|D|85 80 88 85 90|Le premier jour de neige a la pudeur des lettres / Qu'on écrit sans adresse et qu'on laisse aux fenêtres.
+poesie|D|82 80 85 85 88|J'ai vu des rois tomber et des fleurs se relever ; / Les fleurs ont plus d'orgueil, elles n'ont rien à prouver.
+poesie|D|88 85 90 88 92|On n'oublie pas les morts ; on apprend seulement / À mettre le couvert pour un de moins, lentement.
+roman|D|80 78 85 82 80|Il avait réussi tout ce qu'il avait entrepris, sauf l'essentiel : il n'avait jamais rien entrepris pour personne.
+roman|D|85 80 88 85 85|Le village avait une église, une école et un café ; on y priait peu, on y apprenait un peu, on y parlait beaucoup, et tout le monde y vivait vieux.
+roman|D|90 85 90 88 88|Elle relisait les vieilles lettres non pour se souvenir, mais pour vérifier qu'elle avait bien été aimée par quelqu'un qui savait écrire.
+maxime|D|85 80 88 85 85|Il est plus facile de mourir pour une idée que de vivre avec elle.
+maxime|D|82 80 85 85 82|La prudence est la vertu des gens qui ont déjà payé.
+maxime|D|88 85 90 88 88|On ne dit jamais toute la vérité ; on choisit seulement à qui on la ment.
+maxime|D|80 78 85 82 80|La jalousie compte ce que les autres ont, l'amour ce qu'ils donnent.
+conference|D|85 80 88 85 85|On ne prépare pas une finale ; on prépare toute une saison pour avoir le droit d'avoir peur un soir.
+conference|D|82 80 85 85 82|J'ai perdu ma première finale à vingt ans ; c'est elle qui m'a appris à gagner la deuxième, à trente.
+tweet_marque|D|85 80 88 85 85|Nos stylos écrivent dans toutes les langues ; les excuses, en revanche, il faudra les trouver vous-même.
+tweet_marque|D|80 78 85 82 80|Nous faisons des valises légères, parce que les voyages ont déjà bien assez de souvenirs à porter.
+interview|D|88 85 90 88 88|On me demande comment je supporte la critique ; je réponds que je la supporte très bien, c'est l'indifférence qui m'empêche de dormir.
+interview|D|82 80 85 85 82|Je n'ai jamais eu de plan de carrière ; j'ai eu des rencontres, et elles avaient meilleur goût que moi.
+fable|D|85 80 88 88 88|Le hérisson ne piquait personne ; il avait seulement appris que la douceur, chez lui, devait se mériter.
+fable|D|80 78 85 82 85|La tortue gagna la course et refusa la revanche : elle savait que la chance, elle, court très vite.
+interview|D|90 85 92 90 88|Le talent, c'est d'avoir envie ; le reste, c'est de durer assez longtemps pour que l'envie devienne un métier.
+discours|D|80 78 85 82 80|Un ministre qui n'a jamais tort a simplement cessé d'écouter ceux qui pourraient le lui dire.
+maxime|D|85 80 88 85 85|La mémoire est un chien fidèle qui rapporte toujours ce qu'on lui a demandé de jeter.
+poesie|D|80 78 85 82 88|Les fenêtres allumées sont des lettres d'amour / Que la ville s'écrit en attendant le jour.
+roman|D|82 80 85 85 82|Il était de ces hommes qui s'excusent d'exister ; on finissait par les remarquer à force de discrétion.
+interjection|F|50 45 55 50 45|Votre réforme a un mérite : elle unit enfin les syndicats et le patronat, contre elle.
+reponse|F|40 40 45 40 35|Je prends note de votre colère ; je la range avec celle de l'an dernier, elle était identique.
+roman|F|60 55 60 55 55|Le député visitait sa circonscription tous les cinq ans, avec la régularité d'une comète et la même chaleur.
+maxime|F|50 45 55 50 45|L'avenir appartient à ceux qui se lèvent tôt, et le présent à ceux qui les réveillent.
+conference|F|40 40 45 40 35|On a perdu aux tirs au but ; on s'entraînera aux tirs au but, et on perdra peut-être autrement.
+discours|D|85 80 88 85 85|Gouverner, c'est choisir ; promettre, c'est éviter de choisir le plus longtemps possible.
+poesie|D|88 85 90 88 92|La maison a gardé ton pas dans l'escalier ; / Le bois se souvient mieux que nous de qui montait.
+maxime|D|82 80 85 85 82|On n'est jamais trahi que par ceux à qui l'on a confié ce qu'on aurait dû garder pour soi.
+theatre|D|85 80 88 85 90|« Ne me jurez plus rien, madame, je vous crois ; / C'est en vous écoutant que je doute de moi. »
+roman|D|80 78 85 82 80|Il n'était pas avare ; il aimait seulement que l'argent reste à la maison, comme un enfant sage.
+interview|D|85 80 88 85 85|La célébrité, c'est quand des inconnus vous reconnaissent ; le bonheur, quand ceux que vous connaissez vous reconnaissent encore.

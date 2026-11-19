@@ -1,0 +1,87 @@
+[transformers] [1mCamembertForSequenceClassification LOAD REPORT[0m from: almanach/camembert-base
+Key                         | Status     | 
+----------------------------+------------+-
+lm_head.dense.bias          | UNEXPECTED | 
+lm_head.bias                | UNEXPECTED | 
+lm_head.dense.weight        | UNEXPECTED | 
+lm_head.layer_norm.weight   | UNEXPECTED | 
+roberta.pooler.dense.weight | UNEXPECTED | 
+roberta.pooler.dense.bias   | UNEXPECTED | 
+lm_head.layer_norm.bias     | UNEXPECTED | 
+classifier.dense.bias       | MISSING    | 
+classifier.dense.weight     | MISSING    | 
+classifier.out_proj.weight  | MISSING    | 
+classifier.out_proj.bias    | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+Train : 7998 textes (grok_textes.csv, paires_contrastees.csv, train_synthetique.csv) | Test réel : 330
+{'loss': '1.379', 'grad_norm': '1.704', 'learning_rate': '8.167e-06', 'epoch': '0.1111'}
+{'loss': '1.314', 'grad_norm': '1.922', 'learning_rate': '1.65e-05', 'epoch': '0.2222'}
+{'loss': '1.005', 'grad_norm': '1.698', 'learning_rate': '2.483e-05', 'epoch': '0.3333'}
+{'loss': '0.6794', 'grad_norm': '4.215', 'learning_rate': '2.965e-05', 'epoch': '0.4444'}
+{'loss': '0.5285', 'grad_norm': '6.44', 'learning_rate': '2.874e-05', 'epoch': '0.5556'}
+{'loss': '0.4146', 'grad_norm': '8.451', 'learning_rate': '2.783e-05', 'epoch': '0.6667'}
+{'loss': '0.3474', 'grad_norm': '7.569', 'learning_rate': '2.691e-05', 'epoch': '0.7778'}
+{'loss': '0.2844', 'grad_norm': '6.019', 'learning_rate': '2.598e-05', 'epoch': '0.8889'}
+{'loss': '0.28', 'grad_norm': '2.339', 'learning_rate': '2.506e-05', 'epoch': '1'}
+{'eval_loss': '0.2053', 'eval_accuracy': '0.9463', 'eval_a_une_classe_pres': '0.995', 'eval_f1_macro': '0.9413', 'eval_kappa_quadratique': '0.9674', 'eval_runtime': '2.298', 'eval_samples_per_second': '348.2', 'eval_steps_per_second': '10.88', 'epoch': '1'}
+{'loss': '0.1674', 'grad_norm': '7.731', 'learning_rate': '2.413e-05', 'epoch': '1.111'}
+{'loss': '0.2265', 'grad_norm': '2.149', 'learning_rate': '2.32e-05', 'epoch': '1.222'}
+{'loss': '0.1824', 'grad_norm': '4.125', 'learning_rate': '2.228e-05', 'epoch': '1.333'}
+{'loss': '0.1841', 'grad_norm': '4.217', 'learning_rate': '2.135e-05', 'epoch': '1.444'}
+{'loss': '0.1744', 'grad_norm': '6.839', 'learning_rate': '2.043e-05', 'epoch': '1.556'}
+{'loss': '0.1325', 'grad_norm': '2.098', 'learning_rate': '1.95e-05', 'epoch': '1.667'}
+{'loss': '0.1406', 'grad_norm': '0.322', 'learning_rate': '1.857e-05', 'epoch': '1.778'}
+{'loss': '0.1663', 'grad_norm': '0.7548', 'learning_rate': '1.765e-05', 'epoch': '1.889'}
+{'loss': '0.155', 'grad_norm': '10.93', 'learning_rate': '1.674e-05', 'epoch': '2'}
+{'eval_loss': '0.2121', 'eval_accuracy': '0.9363', 'eval_a_une_classe_pres': '0.995', 'eval_f1_macro': '0.934', 'eval_kappa_quadratique': '0.9623', 'eval_runtime': '4.056', 'eval_samples_per_second': '197.2', 'eval_steps_per_second': '6.163', 'epoch': '2'}
+{'loss': '0.05914', 'grad_norm': '0.09652', 'learning_rate': '1.581e-05', 'epoch': '2.111'}
+{'loss': '0.09857', 'grad_norm': '0.1439', 'learning_rate': '1.489e-05', 'epoch': '2.222'}
+{'loss': '0.08034', 'grad_norm': '0.1168', 'learning_rate': '1.396e-05', 'epoch': '2.333'}
+{'loss': '0.09023', 'grad_norm': '1.952', 'learning_rate': '1.304e-05', 'epoch': '2.444'}
+{'loss': '0.1174', 'grad_norm': '1.033', 'learning_rate': '1.211e-05', 'epoch': '2.556'}
+{'loss': '0.1007', 'grad_norm': '1.84', 'learning_rate': '1.119e-05', 'epoch': '2.667'}
+{'loss': '0.07007', 'grad_norm': '0.05346', 'learning_rate': '1.026e-05', 'epoch': '2.778'}
+{'loss': '0.09186', 'grad_norm': '9.702', 'learning_rate': '9.333e-06', 'epoch': '2.889'}
+{'loss': '0.09576', 'grad_norm': '0.1691', 'learning_rate': '8.407e-06', 'epoch': '3'}
+{'eval_loss': '0.187', 'eval_accuracy': '0.9525', 'eval_a_une_classe_pres': '0.9912', 'eval_f1_macro': '0.9479', 'eval_kappa_quadratique': '0.9656', 'eval_runtime': '1.843', 'eval_samples_per_second': '434.1', 'eval_steps_per_second': '13.57', 'epoch': '3'}
+{'loss': '0.05604', 'grad_norm': '0.1675', 'learning_rate': '7.481e-06', 'epoch': '3.111'}
+{'loss': '0.05142', 'grad_norm': '24.65', 'learning_rate': '6.556e-06', 'epoch': '3.222'}
+{'loss': '0.05536', 'grad_norm': '0.7236', 'learning_rate': '5.63e-06', 'epoch': '3.333'}
+{'loss': '0.03337', 'grad_norm': '1.577', 'learning_rate': '4.704e-06', 'epoch': '3.444'}
+{'loss': '0.0714', 'grad_norm': '0.06519', 'learning_rate': '3.778e-06', 'epoch': '3.556'}
+{'loss': '0.02851', 'grad_norm': '5.556', 'learning_rate': '2.852e-06', 'epoch': '3.667'}
+{'loss': '0.03522', 'grad_norm': '0.06319', 'learning_rate': '1.926e-06', 'epoch': '3.778'}
+{'loss': '0.0359', 'grad_norm': '0.078', 'learning_rate': '1e-06', 'epoch': '3.889'}
+{'loss': '0.06817', 'grad_norm': '3.902', 'learning_rate': '7.407e-08', 'epoch': '4'}
+{'eval_loss': '0.1976', 'eval_accuracy': '0.95', 'eval_a_une_classe_pres': '0.995', 'eval_f1_macro': '0.9448', 'eval_kappa_quadratique': '0.9694', 'eval_runtime': '1.722', 'eval_samples_per_second': '464.7', 'eval_steps_per_second': '14.52', 'epoch': '4'}
+{'train_runtime': '621.1', 'train_samples_per_second': '46.35', 'train_steps_per_second': '2.898', 'train_loss': '0.25', 'epoch': '4'}
+
+Matrice test réel (lignes = référence)
+       Anti  Corr  Fort  Divi
+ Anti    23     8     9     1
+ Corr    42   115    32     2
+ Fort    12    23    27     3
+ Divi     9     4    16     4
+
+{
+  "validation_synthetique": {
+    "loss": 0.1975669413805008,
+    "accuracy": 0.95,
+    "a_une_classe_pres": 0.995,
+    "f1_macro": 0.9448458831714757,
+    "kappa_quadratique": 0.9694074457570481
+  },
+  "temps_entrainement_s": 622.0061745643616,
+  "n_parametres": 110625028,
+  "test_reel": {
+    "accuracy": 0.5121212121212121,
+    "a_une_classe_pres": 0.8878787878787879,
+    "f1_macro": 0.39628853673474196,
+    "kappa_quadratique": 0.2651452282157677
+  }
+}
+
+Modèle sauvegardé dans models/camembert_classif/final

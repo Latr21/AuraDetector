@@ -1,0 +1,81 @@
+# Série 3 : Anti, Forte, Divine pour atteindre ≥ 300 par classe
+interjection|A|-30 -15 -40 -25 -20|Vous êtes ridicules, totalement ridicules, tous !
+interjection|A|-40 -20 -50 -30 -25|Nuls ! Nuls ! Nuls !
+interjection|A|-20 -10 -30 -15 -10|C'est n'importe quoi votre truc !
+interjection|A|-30 -15 -40 -25 -20|Arrêtez, arrêtez, arrêtez tout !
+interjection|A|-40 -20 -50 -30 -25|Vous n'avez rien compris, rien de rien !
+interjection|A|-20 -10 -30 -15 -10|Scandale ! Scandale d'État !
+interjection|A|-30 -15 -40 -25 -20|Rendez l'argent ! Rendez l'argent !
+interjection|A|-40 -20 -50 -30 -25|Vous êtes à la ramasse, complètement à la ramasse !
+interjection|A|-20 -10 -30 -15 -10|Minable ! Minable !
+interjection|A|-30 -15 -40 -25 -20|Mais quelle bêtise, quelle bêtise incroyable !
+interjection|F|40 40 45 40 35|Votre majorité est solide ; elle a même résisté à vos discours.
+interjection|F|50 45 55 50 45|Vous parlez de rupture ; la seule chose rompue ici, c'est le contact avec le terrain.
+interjection|F|60 55 60 55 55|Vous avez le courage de vos opinions ; il vous manque juste les opinions.
+interjection|F|35 30 40 35 30|Vous lisez très bien ; on aimerait maintenant vous entendre penser.
+interjection|F|50 45 55 50 45|Le ministre est d'accord avec lui-même ; c'est déjà une majorité.
+interjection|D|85 80 88 85 85|Vous n'avez pas de cap, monsieur le ministre, vous avez une girouette, et elle vous trouve fatigant.
+interjection|D|80 78 85 82 80|Vous avez réussi à mettre d'accord la droite et la gauche : contre vous.
+interjection|D|88 85 90 88 88|Vous ne gouvernez pas le pays, vous le commentez en direct, avec un léger différé.
+question|A|-30 -15 -40 -25 -20|Monsieur le ministre, les gens en ont assez, assez, assez de votre politique, alors quoi ?
+question|A|-40 -20 -50 -30 -25|Allez-vous démissionner ou allez-vous continuer à détruire tout ce qui existe et ce qui reste ?
+question|A|-20 -10 -30 -15 -10|C'est quoi votre plan, parce qu'on voit rien, on comprend rien, c'est quoi ?
+question|F|40 40 45 40 35|Monsieur le ministre, avez-vous un plan pour l'hôpital, ou seulement un plan de communication sur l'hôpital ?
+question|F|60 55 60 55 55|Madame la ministre, vous avez promis la simplicité ; pourriez-vous nous l'expliquer en moins de trois formulaires ?
+question|D|85 80 88 85 85|Monsieur le Premier ministre, on ne vous demande pas d'avoir raison, on vous demande d'avoir un calendrier ; l'un des deux, au moins, est à votre portée.
+question|D|80 78 85 82 80|Monsieur le ministre, vous dites que l'État n'a plus d'argent ; pouvez-vous nous dire qui l'a vu en dernier ?
+reponse|A|-30 -15 -40 -25 -20|Je réponds, et ma réponse est claire, très claire, d'une clarté vraiment très claire.
+reponse|A|-40 -20 -50 -30 -25|L'opposition dit des mensonges et nous, nous disons la vérité, toujours la vérité, uniquement la vérité.
+reponse|A|-20 -10 -30 -15 -10|Comme je l'ai dit, je le redis, nous faisons ce que nous disons et nous disons ce que nous faisons.
+reponse|F|50 45 55 50 45|Vous dites que je ne réponds jamais ; je réponds toujours, simplement pas à la question que vous auriez voulu poser.
+reponse|F|40 40 45 40 35|Je vous remercie de ce procès d'intention ; il prouve au moins que vous nous prêtez des intentions.
+reponse|D|88 85 90 88 88|On me reproche de ne pas avoir de vision ; j'ai surtout des lunettes, et elles me montrent des chiffres que vous préférez ne pas voir.
+reponse|D|82 80 85 85 82|Je ne vous ferai pas l'injure d'être d'accord avec vous ; ce serait vous priver de votre meilleur argument.
+discours|A|-30 -15 -40 -25 -20|Nous sommes là, nous sommes présents, et notre présence est la preuve que nous sommes là.
+discours|A|-40 -20 -50 -30 -25|Le moment est historique, historiquement historique, et l'histoire retiendra ce moment historique.
+discours|A|-20 -10 -30 -15 -10|Il faut agir, il faut agir maintenant, il faut agir vraiment, il faut agir enfin.
+discours|A|-30 -15 -40 -25 -20|Nous avons une vision, une vraie vision, une vision visionnaire de l'avenir.
+discours|A|-40 -20 -50 -30 -25|Ensemble, unis, rassemblés, solidaires, nous serons ensemble et unis pour le rassemblement.
+discours|F|40 40 45 40 35|On nous dit que tout a été essayé ; tout, sauf écouter ceux qui le vivent.
+discours|F|60 55 60 55 55|On a beaucoup parlé de transition ; à ce rythme, c'est surtout la transition qui va prendre sa retraite.
+discours|D|85 80 88 85 85|Une loi qu'on ne comprend pas est une loi qu'on ne respecte pas ; la clarté n'est pas un luxe, c'est une politesse démocratique.
+discours|D|90 85 90 88 88|On ne reconstruit pas la confiance avec des promesses ; on la reconstruit avec des rendez-vous tenus.
+discours|D|80 78 85 82 80|Les territoires ne réclament pas qu'on parle d'eux ; ils réclament qu'on vienne, et qu'on reste après le départ des caméras.
+theatre|A|-30 -15 -40 -25 -20|« Je t'aime à la folie et je suis fou d'amour, / Je suis fou, fou, fou, fou d'amour pour toujours. »
+theatre|A|-40 -20 -50 -30 -25|« Mon honneur est honneur et l'honneur c'est l'honneur, / Je défends mon honneur avec tout mon honneur. »
+theatre|A|-20 -10 -30 -15 -10|« Je suis en colère, oui, très en colère, / Ma colère est grande, c'est une grande colère. »
+theatre|F|50 45 55 55 60|« Vous voulez ma main ? La voici, mais sans bague : / J'ai vu trop de serments finir dans une blague. »
+theatre|F|40 40 45 40 50|« Le duc est généreux : il donne à ses amis / Tout ce qu'il a perdu, et rien de ce qu'il a pris. »
+theatre|D|85 80 88 85 90|« Régnez, seigneur, régnez ; mais sachez qu'une couronne / Ne fait que mieux montrer la tête qu'on lui donne. »
+theatre|D|88 85 90 88 92|« Je vous dois tout, madame, et c'est là mon malheur : / On pardonne un ennemi, jamais un bienfaiteur. »
+poesie|A|-30 -15 -40 -25 -20|Les étoiles brillent et brillent dans le ciel qui brille, / Elles brillent si fort que le ciel scintille et brille.
+poesie|A|-40 -20 -50 -30 -25|Mon âme est en peine, ma peine est en âme, / Mon cœur pleure de peine et ma peine me pâme.
+poesie|A|-20 -10 -30 -15 -10|La mer est bleue, le sable est jaune, le ciel est bleu, je suis heureux.
+poesie|F|60 55 60 60 65|L'été s'en va pieds nus en emportant les clés ; / On trouve dans les poches des soirs mal rangés.
+poesie|D|85 80 88 85 90|Ce que la pluie écrit sur la vitre du train, / Personne ne le lit, et chacun le comprend.
+poesie|D|80 78 85 82 88|Les vieilles maisons ont des silences de mères : / Elles savent qui manque, et gardent la lumière.
+roman|A|-30 -15 -40 -25 -20|Il était courageux, très courageux, d'un courage incroyablement courageux et héroïque.
+roman|A|-40 -20 -50 -30 -25|La maison était belle, magnifique, splendide, superbe, la plus belle des belles maisons.
+roman|A|-20 -10 -30 -15 -10|Ils s'aimaient beaucoup, énormément, passionnément, à la folie, pour toujours et à jamais.
+roman|F|50 45 55 50 45|Il avait de l'éloquence comme d'autres ont des dettes : beaucoup, et toujours au mauvais moment.
+roman|F|40 40 45 40 35|Le maire inaugurait tout, même ce qui ne fonctionnait pas, surtout ce qui ne fonctionnait pas.
+roman|D|88 85 90 88 88|Il mourut un dimanche, par discrétion, pour ne déranger personne pendant la semaine.
+roman|D|82 80 85 85 82|Elle avait la beauté des gens qui ne la savent pas, et la tristesse de ceux qui l'ont apprise trop tard.
+maxime|A|-30 -15 -40 -25 -20|Le passé c'est le passé, le présent c'est le présent, le futur c'est le futur, voilà.
+maxime|A|-40 -20 -50 -30 -25|La sagesse c'est d'être sage, et être sage c'est avoir de la sagesse.
+maxime|A|-20 -10 -30 -15 -10|L'important c'est d'être soi-même et d'être vrai avec soi-même, toujours.
+maxime|F|60 55 60 55 55|L'expérience est une lanterne qu'on porte dans le dos : elle n'éclaire que le chemin parcouru.
+maxime|F|35 30 40 35 30|Les gens pressés arrivent toujours en avance à leurs regrets.
+maxime|D|85 80 88 85 85|On reconnaît un homme libre à ce qu'il n'a besoin de convaincre personne.
+maxime|D|90 85 92 90 88|L'ignorance n'est pas de ne pas savoir ; c'est d'être sûr de savoir.
+conference|A|-30 -15 -40 -25 -20|Moi j'ai rien à me reprocher, c'est les autres, c'est toujours les autres, toujours.
+conference|A|-40 -20 -50 -30 -25|On va écraser tout le monde, tout le monde, on est les rois, les rois du monde !
+conference|F|50 45 55 50 45|Nous avons perdu le match mais gagné la bataille des statistiques ; je compte les envoyer à la ligue.
+conference|D|85 80 88 85 85|Un entraîneur qui gagne a des idées ; un entraîneur qui perd a des explications. Ce soir, je préfère me taire.
+tweet_marque|A|-30 -15 -40 -25 -20|Notre café est trop bon, le meilleur café, le café des champions, buvez notre café !!!
+tweet_marque|A|-40 -20 -50 -30 -25|OFFRE FLASH ⚡⚡⚡ seulement aujourd'hui ⚡⚡⚡ demain c'est trop tard ⚡⚡⚡ GO GO GO
+tweet_marque|F|40 40 45 40 35|Nos chaussettes vont par paires. Ce qui se passe ensuite dans votre machine à laver ne nous regarde pas.
+tweet_marque|D|88 85 90 88 88|Nous vendons des fauteuils. Le temps que vous passerez dedans à ne rien faire, nous le considérons comme notre plus belle réussite.
+officiel|A|-30 -15 -40 -25 -20|Il est rappelé que le présent rappel rappelle les dispositions rappelées dans les rappels précédents.
+officiel|A|-40 -20 -50 -30 -25|Dans une démarche d'excellence opérationnelle, la performance performante des process sera performée.
+officiel|A|-20 -10 -30 -15 -10|La stratégie stratégique de transformation transformative vise à transformer les transformations.

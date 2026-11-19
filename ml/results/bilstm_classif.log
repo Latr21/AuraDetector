@@ -1,0 +1,128 @@
+[classification] train 7198 | validation 800 | test 330 | vocabulaire 3168 | device cpu
+
+Essai 1/8 : {'lr': 0.001, 'hidden': 64, 'dropout': 0.3}
+  epoch  1  loss train=1.0879  val=0.5803
+  epoch  2  loss train=0.5290  val=0.4371
+  epoch  3  loss train=0.4321  val=0.3059
+  epoch  4  loss train=0.3080  val=0.8721
+  epoch  5  loss train=0.3068  val=0.3243
+  epoch  6  loss train=0.2311  val=0.2883
+  epoch  7  loss train=0.2126  val=0.3345
+  epoch  8  loss train=0.1856  val=0.5605
+  epoch  9  loss train=0.1655  val=0.5292
+  epoch 10  loss train=0.1593  val=0.3430
+  early stopping à l'epoch 10 (meilleure : 6)
+  -> val loss=0.2883 kappa=0.937 F1=0.897 (123 s)
+
+Essai 2/8 : {'lr': 0.001, 'hidden': 64, 'dropout': 0.5}
+  epoch  1  loss train=1.2953  val=0.9316
+  epoch  2  loss train=0.8254  val=0.6231
+  epoch  3  loss train=0.6020  val=0.5224
+  epoch  4  loss train=0.5529  val=0.8945
+  epoch  5  loss train=0.5414  val=0.6970
+  epoch  6  loss train=0.4030  val=0.4887
+  epoch  7  loss train=0.3559  val=0.4774
+  epoch  8  loss train=0.3310  val=0.7114
+  epoch  9  loss train=0.2960  val=0.7293
+  epoch 10  loss train=0.2823  val=0.5455
+  epoch 11  loss train=0.2573  val=0.4995
+  early stopping à l'epoch 11 (meilleure : 7)
+  -> val loss=0.4774 kappa=0.918 F1=0.863 (149 s)
+
+Essai 3/8 : {'lr': 0.001, 'hidden': 128, 'dropout': 0.3}
+  epoch  1  loss train=0.9297  val=0.4294
+  epoch  2  loss train=0.4239  val=0.3088
+  epoch  3  loss train=0.3016  val=0.2698
+  epoch  4  loss train=0.2471  val=0.3124
+  epoch  5  loss train=0.4536  val=0.2661
+  epoch  6  loss train=0.1923  val=0.3259
+  epoch  7  loss train=0.1673  val=0.2577
+  epoch  8  loss train=0.1414  val=0.2142
+  epoch  9  loss train=0.1318  val=0.3193
+  epoch 10  loss train=0.1157  val=0.2549
+  epoch 11  loss train=0.0917  val=0.2570
+  epoch 12  loss train=0.0881  val=0.2659
+  early stopping à l'epoch 12 (meilleure : 8)
+  -> val loss=0.2142 kappa=0.937 F1=0.921 (184 s)
+
+Essai 4/8 : {'lr': 0.001, 'hidden': 128, 'dropout': 0.5}
+  epoch  1  loss train=1.1306  val=0.6338
+  epoch  2  loss train=0.6153  val=0.4339
+  epoch  3  loss train=0.6486  val=0.5306
+  epoch  4  loss train=0.4326  val=0.2689
+  epoch  5  loss train=0.3310  val=0.3321
+  epoch  6  loss train=0.2921  val=0.2624
+  epoch  7  loss train=0.2619  val=0.2645
+  epoch  8  loss train=0.2476  val=0.2622
+  epoch  9  loss train=0.2224  val=0.2933
+  epoch 10  loss train=0.2127  val=0.2909
+  epoch 11  loss train=0.1866  val=0.2900
+  epoch 12  loss train=0.1779  val=0.3982
+  early stopping à l'epoch 12 (meilleure : 8)
+  -> val loss=0.2622 kappa=0.941 F1=0.909 (169 s)
+
+Essai 5/8 : {'lr': 0.003, 'hidden': 64, 'dropout': 0.3}
+  epoch  1  loss train=0.8224  val=0.4119
+  epoch  2  loss train=0.4389  val=0.4157
+  epoch  3  loss train=0.3113  val=0.2433
+  epoch  4  loss train=0.2041  val=0.2696
+  epoch  5  loss train=0.1843  val=0.2727
+  epoch  6  loss train=0.1595  val=0.2502
+  epoch  7  loss train=0.1378  val=0.3220
+  early stopping à l'epoch 7 (meilleure : 3)
+  -> val loss=0.2433 kappa=0.935 F1=0.900 (70 s)
+
+Essai 6/8 : {'lr': 0.003, 'hidden': 64, 'dropout': 0.5}
+  epoch  1  loss train=1.0494  val=0.5612
+  epoch  2  loss train=0.5621  val=0.3836
+  epoch  3  loss train=0.4226  val=0.2885
+  epoch  4  loss train=0.3298  val=0.3844
+  epoch  5  loss train=0.2865  val=0.3341
+  epoch  6  loss train=0.2482  val=0.4177
+  epoch  7  loss train=0.2424  val=0.3761
+  early stopping à l'epoch 7 (meilleure : 3)
+  -> val loss=0.2885 kappa=0.924 F1=0.887 (68 s)
+
+Essai 7/8 : {'lr': 0.003, 'hidden': 128, 'dropout': 0.3}
+  epoch  1  loss train=0.6880  val=0.3428
+  epoch  2  loss train=0.3744  val=0.2303
+  epoch  3  loss train=0.2393  val=0.2134
+  epoch  4  loss train=0.1782  val=0.2760
+  epoch  5  loss train=0.1475  val=0.2035
+  epoch  6  loss train=0.1373  val=0.2235
+  epoch  7  loss train=0.1118  val=0.2315
+  epoch  8  loss train=0.0993  val=0.3550
+  epoch  9  loss train=0.0853  val=0.3170
+  early stopping à l'epoch 9 (meilleure : 5)
+  -> val loss=0.2035 kappa=0.945 F1=0.923 (137 s)
+
+Essai 8/8 : {'lr': 0.003, 'hidden': 128, 'dropout': 0.5}
+  epoch  1  loss train=0.8866  val=0.5243
+  epoch  2  loss train=0.4696  val=0.3408
+  epoch  3  loss train=0.3593  val=0.2126
+  epoch  4  loss train=0.2839  val=0.3135
+  epoch  5  loss train=0.2582  val=0.2982
+  epoch  6  loss train=0.2138  val=0.2743
+  epoch  7  loss train=0.1993  val=0.3463
+  early stopping à l'epoch 7 (meilleure : 3)
+  -> val loss=0.2126 kappa=0.931 F1=0.913 (107 s)
+| # | lr | hidden | dropout | epochs (meilleure) | val loss | val kappa | val F1 | temps (s) |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 0.001 | 64 | 0.3 | 10 (6) | 0.2883 | 0.937 | 0.897 | 123 |
+| 2 | 0.001 | 64 | 0.5 | 11 (7) | 0.4774 | 0.918 | 0.863 | 149 |
+| 3 | 0.001 | 128 | 0.3 | 12 (8) | 0.2142 | 0.937 | 0.921 | 184 |
+| 4 | 0.001 | 128 | 0.5 | 12 (8) | 0.2622 | 0.941 | 0.909 | 169 |
+| 5 | 0.003 | 64 | 0.3 | 7 (3) | 0.2433 | 0.935 | 0.900 | 70 |
+| 6 | 0.003 | 64 | 0.5 | 7 (3) | 0.2885 | 0.924 | 0.887 | 68 |
+| 7 **←** | 0.003 | 128 | 0.3 | 9 (5) | 0.2035 | 0.945 | 0.923 | 137 |
+| 8 | 0.003 | 128 | 0.5 | 7 (3) | 0.2126 | 0.931 | 0.913 | 107 |
+
+
+Test réel : {'accuracy': 0.436, 'a_une_classe_pres': 0.833, 'f1_macro': 0.342, 'kappa_quadratique': 0.215}
+       Anti  Corr  Fort  Divi
+ Anti    21    16     1     3
+ Corr    57   103    13    18
+ Fort    15    30     7    13
+ Divi    13     5     2    13
+
+Modèle sauvegardé dans models/bilstm_classif/ — 735,876 paramètres, 137 s d'entraînement

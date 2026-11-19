@@ -1,0 +1,26 @@
+[regression] train 5938 | validation 660 | test 330 | vocabulaire 2641 | device cpu
+
+Essai 1/1 : {'lr': 0.003, 'hidden': 128, 'dropout': 0.3}
+  epoch  1  loss train=0.1015  val=0.0416
+  epoch  2  loss train=0.0461  val=0.0305
+  epoch  3  loss train=0.0371  val=0.0295
+  epoch  4  loss train=0.0321  val=0.0293
+  epoch  5  loss train=0.0292  val=0.0311
+  epoch  6  loss train=0.0251  val=0.0336
+  epoch  7  loss train=0.0247  val=0.0330
+  epoch  8  loss train=0.0227  val=0.0230
+  epoch  9  loss train=0.0210  val=0.0260
+  epoch 10  loss train=0.0204  val=0.0273
+  epoch 11  loss train=0.0216  val=0.0243
+  epoch 12  loss train=0.0194  val=0.0271
+  early stopping à l'epoch 12 (meilleure : 8)
+  -> val loss=0.0230 kappa=0.933 F1=0.872 (136 s)
+
+Test réel : {'accuracy': 0.509, 'a_une_classe_pres': 0.888, 'f1_macro': 0.355, 'kappa_quadratique': 0.196}
+       Anti  Corr  Fort  Divi
+ Anti    19    15     7     0
+ Corr    35   127    29     0
+ Fort    12    33    20     0
+ Divi     8    10    13     2
+
+Modèle sauvegardé dans models/bilstm_regression/ — 668,033 paramètres, 136 s d'entraînement

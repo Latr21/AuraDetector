@@ -1,0 +1,184 @@
+# type|classe visée (A/C/F/D)|R S O B P|texte    — score = 0,333R + 0,222S + 0,167O + 0,167B + 0,111P
+interjection|A|-40 -20 -50 -30 -20|Scandaleux ! Scandaleux ! C'est un scandale !
+interjection|A|-25 -10 -40 -20 -10|Démission ! Démission !
+interjection|C|5 10 0 5 5|Très bien !
+interjection|C|0 5 -10 0 0|Exactement.
+interjection|C|10 10 5 5 5|C'est faux, et vous le savez.
+interjection|F|40 35 45 40 30|Vous avez la mémoire courte et le discours long !
+interjection|F|55 50 60 50 45|Même vos amis n'applaudissent plus, ils comptent les minutes.
+interjection|D|80 75 85 80 75|Vous ne gouvernez pas, monsieur le ministre, vous commentez votre propre absence.
+interjection|A|-30 -15 -45 -25 -15|Honte à vous ! Honte !
+interjection|F|45 40 50 45 35|Votre budget est comme votre majorité : introuvable en séance.
+interjection|C|15 15 10 10 10|Et les hôpitaux, on en parle quand ?
+interjection|D|85 80 90 85 80|Vous promettez la lune, et vous fermez l'observatoire.
+interjection|A|-50 -30 -55 -40 -30|Taisez-vous, vous êtes ridicules, ridicules !
+interjection|F|35 30 40 35 30|Vous lisez bien vos fiches, au moins.
+interjection|C|5 5 0 0 5|Répondez à la question !
+interjection|D|78 75 80 78 80|Le courage n'est pas de parler fort à la tribune, c'est de voter seul contre son camp.
+interjection|F|60 55 65 55 50|Votre réforme a trois défauts : son fond, sa forme, et son ministre.
+interjection|A|-20 -10 -30 -15 -10|C'est n'importe quoi, n'importe quoi !
+interjection|C|20 20 15 15 15|On vous a connu plus inspiré, monsieur le rapporteur.
+interjection|D|88 85 90 85 85|Ce n'est pas la rue qui gouverne, dites-vous ; c'est bien dommage, elle au moins connaît le chemin.
+question|C|5 10 0 5 5|Madame la ministre, pouvez-vous nous indiquer le calendrier de mise en œuvre de cette mesure ?
+question|C|10 15 5 5 5|Monsieur le Premier ministre, quand les maires seront-ils enfin consultés sur la carte scolaire ?
+question|A|-30 -10 -40 -25 -20|Monsieur le ministre, face à cette situation inacceptable et à cette crise sans précédent qui frappe nos concitoyens partout, partout dans nos territoires, que comptez-vous faire concrètement, concrètement, pour agir enfin ?
+question|F|45 40 45 40 35|Monsieur le ministre, vous aviez promis un médecin pour chaque Français. Pouvez-vous au moins nous donner son adresse ?
+question|D|80 78 85 80 75|Madame la ministre, vous avez fermé la gare, la poste et la maternité de ma circonscription. Que reste-t-il à fermer, sinon les yeux ?
+question|C|0 5 -5 0 0|Ma question s'adresse au ministre de l'agriculture.
+question|A|-25 -15 -35 -20 -15|Est-ce que oui ou non le gouvernement va enfin écouter les Français qui souffrent et qui en ont marre de ce gouvernement ?
+question|F|50 45 55 45 40|Monsieur le ministre, votre plan tient en une page. C'est la seule chose qui soit courte dans ce dossier.
+question|C|15 15 10 10 5|Le gouvernement entend-il revaloriser les pensions agricoles avant la fin de l'année ?
+question|D|85 80 85 85 80|Monsieur le Premier ministre, on vous a beaucoup reproché de ne pas écouter. Je vous demande seulement d'entendre, ce sera plus court.
+question|F|40 35 45 35 30|Combien de commissions faudra-t-il créer avant de constater qu'on manque surtout de décisions ?
+question|A|-35 -20 -45 -30 -20|Les Français veulent des réponses, des vraies réponses, pas des réponses qui ne répondent pas, alors répondez-nous !
+question|C|10 10 5 5 5|Pouvez-vous préciser le montant exact de l'enveloppe annoncée hier ?
+question|F|55 50 60 55 45|Vous parlez de sobriété énergétique. Commencez donc par vos discours, ils consomment beaucoup pour un faible rendement.
+question|D|80 75 82 80 78|Monsieur le ministre, l'école ne vous demande pas une réforme de plus ; elle vous demande d'arrêter de la réformer le temps qu'elle respire.
+reponse|C|5 10 0 5 5|Je remercie le député pour sa question. Le décret sera publié dans les prochaines semaines.
+reponse|A|-30 -10 -45 -25 -20|Le gouvernement est pleinement mobilisé, totalement engagé, et il continuera d'agir avec détermination, aux côtés de tous, pour tous, partout.
+reponse|C|10 15 5 5 5|Les crédits ont été augmentés de 4 % et une évaluation sera conduite à mi-parcours.
+reponse|F|45 45 50 40 35|Monsieur le député, vous m'accusez d'avoir changé d'avis. C'est vrai : j'ai lu le dossier.
+reponse|A|-40 -20 -50 -35 -25|Nous avons fait plus en deux ans que vous en dix, et nous ferons encore plus, beaucoup plus, car nous sommes là pour faire.
+reponse|D|85 80 85 80 80|Vous me demandez si j'ai des regrets. J'en ai un : avoir cru que votre question attendait une réponse.
+reponse|C|0 10 -5 0 0|Je vous répondrai par écrit, les éléments techniques étant nombreux.
+reponse|F|55 50 60 50 45|Je note que l'opposition découvre l'existence des hôpitaux. Nous la félicitons pour cette visite.
+reponse|A|-25 -10 -35 -20 -15|Je ne vais pas répondre à cette question qui n'en est pas une, car ce n'est pas une question.
+reponse|D|80 78 82 80 75|On me reproche d'aller trop lentement. La justice est comme le pain : quand on la presse, elle ne lève pas.
+reponse|C|15 15 10 10 10|Je comprends votre inquiétude, et je me rendrai dans votre département le mois prochain.
+reponse|F|40 40 45 40 30|Vous dites que la réforme est mal ficelée ; c'est que vous n'avez pas vu la précédente, la vôtre.
+reponse|A|-35 -15 -45 -30 -20|Notre bilan parle pour nous et notre bilan est un bon bilan, un très bon bilan.
+reponse|D|88 85 88 85 85|Vous m'offrez une fable, je vous réponds par un budget : le corbeau perdra son fromage, mais il paiera la TVA dessus.
+reponse|C|5 5 0 5 5|Les chiffres définitifs seront communiqués à la commission des finances.
+theatre|D|85 80 90 88 92|« Vous me parlez d'honneur, madame, et je l'entends ; / Mais l'honneur sans le cœur n'est qu'un mot qui attend. »
+theatre|F|50 45 55 55 60|« Allez, monsieur, allez, partez à la bataille ; / On mesure le brave au moment qu'il s'en aille. »
+theatre|C|10 10 5 15 20|« Je viens vous annoncer que le prince est rentré, / Et qu'il vous fait mander dès que vous le pourrez. »
+theatre|A|-25 -15 -40 -20 -15|« Je t'aime, je t'aime, ô toi que j'aime tant, / Je t'aime pour toujours et pour tout le temps. »
+theatre|D|90 85 90 90 92|« Je ne crains pas la mort, seigneur, je la connais : / C'est l'heure où les flatteurs vous quittent pour jamais. »
+theatre|F|60 55 65 60 65|« Ma fortune est petite, et mon nez un peu long ; / Mais l'un fait mon esprit, et l'autre ma raison. »
+theatre|C|5 10 0 10 15|« Faites entrer, Lisette, et préparez la table ; / Le notaire est en bas avec monsieur le diable. »
+theatre|A|-30 -20 -45 -25 -20|« Ô douleur, ô douleur, ô douleur infinie, / Je souffre et je souffre en souffrant toute ma vie. »
+theatre|D|82 78 85 85 90|« On vous croit sans pitié parce que vous souriez ; / Les juges les plus durs sont ceux qui ont pleuré. »
+theatre|F|45 40 50 50 55|« Il vous faut un époux ? Mais prenez donc le mien : / Il ne dit jamais rien et n'en pense pas moins. »
+theatre|C|15 15 10 15 20|« Je pars demain matin, ne m'en veuillez pas trop ; / Le roi m'a fait savoir qu'il avait besoin d'eau. »
+theatre|D|88 82 88 88 90|« Gardez votre couronne, elle pèse, seigneur, / Moins que l'ombre d'un doute assis sur votre cœur. »
+theatre|F|55 50 60 55 60|« Le marquis a de l'esprit, mais il le prête, hélas, / À qui veut l'écouter, et c'est rarement moi. »
+theatre|A|-20 -10 -35 -15 -10|« Mon cher ami, mon cher, mon très cher camarade, / Tu es un bon ami, un ami fort malade. »
+theatre|C|0 5 -5 10 15|« Madame, le carrosse attend devant la porte. »
+theatre|D|80 80 82 80 88|« Tu veux que je me venge ? Attends que je pardonne : / C'est la seule vengeance où ne souffre personne. »
+theatre|F|40 40 45 45 50|« Vous parlez de vertu comme on parle d'un plat : / Avec beaucoup d'appétit et sans y toucher pas. »
+theatre|C|10 5 5 10 15|« Qu'on selle mon cheval, je rejoins mon armée. »
+theatre|A|-35 -20 -45 -30 -25|« Je suis le plus grand roi, le plus grand de la terre, / Plus grand que tous les rois, plus grand que mon grand-père. »
+theatre|F|50 50 55 50 55|« L'amour, mon cher Valère, est un mauvais notaire : / Il promet tout d'abord, et puis il désespère. »
+poesie|D|85 80 90 90 92|Le soir pose sa main sur l'épaule des toits, / Et la ville se tait comme on retient sa voix.
+poesie|A|-30 -15 -45 -25 -20|La rose est belle et rose et la rose sent bon, / J'aime la rose rose au milieu du gazon.
+poesie|C|5 5 0 10 15|Le vent souffle ce soir sur les champs de blé mûr, / Et les oiseaux s'en vont se cacher dans le mur.
+poesie|F|50 45 55 55 60|L'automne a des pudeurs de vieille comédienne : / Elle quitte la scène en gardant sa traîne.
+poesie|D|90 85 92 90 95|Je n'ai rien emporté de nos jours, sinon l'heure / Où ta main hésitait au bord de ma demeure.
+poesie|C|10 10 5 15 15|Au bord du lac tranquille un pêcheur s'est assis, / Il attend le poisson jusqu'à la fin des nuits.
+poesie|A|-25 -15 -35 -20 -15|Mon cœur est triste triste et mon âme est en pleurs, / Car mon cœur est en pleurs et pleure de douleur.
+poesie|F|55 50 60 60 65|La mer a tant de fois répété son adieu / Qu'on ne sait plus, le soir, qui s'en va, d'elle ou de nous.
+poesie|D|82 78 88 85 90|Les morts ne pèsent rien ; c'est nous qui les portons / Comme on porte un pays dont on a perdu le nom.
+poesie|C|0 5 -5 5 10|Il neige sur la plaine et le ciel est tout blanc.
+poesie|F|45 40 50 50 55|Le printemps vient toujours, même chez les avares : / Il entre sans payer par les fentes des gares.
+poesie|D|80 78 85 82 88|Ô lune, vieille amie des voleurs et des mères, / Tu veilles sur les deux sans jamais rien en dire.
+poesie|A|-20 -10 -30 -15 -10|Le soleil brille fort, le soleil est doré, / Le soleil est joli quand il fait beau l'été.
+poesie|C|15 10 10 15 20|Les cloches du village ont sonné les vêpres, / Et les vaches s'en vont lentement vers les prés.
+poesie|F|60 55 65 60 65|J'ai rangé mes chagrins dans le tiroir du haut ; / Ils y font du désordre et se croient au château.
+roman|C|5 5 0 5 5|Il descendit l'escalier, prit son manteau et sortit sans dire un mot.
+roman|F|45 40 50 50 40|Le notaire avait cette politesse des gens qui comptent : il souriait au prorata de la fortune.
+roman|D|85 80 88 88 85|Elle avait épousé un homme raisonnable, et passa sa vie à regretter qu'il eût toujours raison.
+roman|A|-25 -15 -40 -20 -15|Il était très beau, très grand, très fort, et toutes les femmes l'aimaient beaucoup car il était parfait.
+roman|C|10 10 5 10 10|La diligence arriva à Rouen vers six heures ; il pleuvait, et les rues étaient désertes.
+roman|D|88 82 90 88 85|Le curé du village croyait en Dieu comme on croit au facteur : sans l'avoir vu, mais en attendant chaque jour une lettre.
+roman|F|55 50 60 55 45|Madame Lorin donnait des dîners où l'on mangeait peu et médisait beaucoup ; c'était sa façon de nourrir la conversation.
+roman|A|-30 -20 -45 -25 -20|Elle pleurait, pleurait, pleurait, et ses larmes coulaient sur son visage en pleurs car elle était triste.
+roman|C|0 5 -5 5 5|Le lendemain, il se rendit à la préfecture pour faire viser ses papiers.
+roman|D|80 78 85 82 80|Il était de ces hommes qui arrivent toujours à l'heure, et que la vie, par politesse, n'attend jamais.
+roman|F|40 40 45 45 35|Le colonel racontait ses campagnes avec tant de précision qu'on finissait par douter qu'il y fût allé.
+roman|C|15 10 10 15 10|Le jardin, à l'arrière de la maison, descendait jusqu'à la rivière, où l'on avait attaché une barque.
+roman|D|85 80 88 85 82|Sa mère lui avait laissé deux choses : une montre qui retardait et l'habitude de pardonner aux gens qui arrivent tard.
+roman|A|-20 -10 -30 -15 -10|C'était un jour comme les autres jours, un jour normal, et il faisait un temps normal pour un jour comme ça.
+roman|F|50 45 55 50 40|Il avait l'ambition modeste des gens bien nés : il ne voulait que ce qu'on lui devait, c'est-à-dire tout.
+maxime|C|5 10 0 5 5|Il faut savoir écouter avant de parler.
+maxime|D|88 85 92 88 85|On pardonne aisément à ceux qui nous ennuient ; jamais à ceux que nous ennuyons.
+maxime|A|-20 -10 -35 -15 -10|La vie est belle si on la rend belle, alors rendons la vie belle.
+maxime|F|50 45 55 50 45|La modestie est un luxe que seuls les gens comblés peuvent s'offrir sans se ruiner.
+maxime|D|85 80 90 85 85|L'orgueil ne demande jamais rien : il exige qu'on devine.
+maxime|C|10 10 5 10 10|La prudence est mère de sûreté.
+maxime|D|82 80 88 82 80|On ne se console jamais d'avoir eu raison trop tôt ; on se console très bien d'avoir eu tort à temps.
+maxime|A|-25 -15 -40 -20 -15|Le travail paie toujours, celui qui travaille réussit toujours, travaillez.
+maxime|F|45 40 50 45 40|Les promesses n'engagent que ceux qui les tiennent ; les autres s'en portent très bien.
+maxime|D|90 85 92 88 88|La flatterie est une monnaie qui n'appauvrit que celui qui la reçoit.
+maxime|C|0 5 -5 5 5|Chaque chose en son temps.
+maxime|F|55 50 60 55 50|L'avarice est la seule passion qui rende économe de ses vices.
+maxime|D|80 78 85 80 82|Le sage n'évite pas les querelles ; il les laisse mourir de faim.
+maxime|A|-30 -15 -40 -25 -20|Il faut toujours être positif car la positivité c'est positif pour tout le monde.
+maxime|F|40 40 45 40 40|Celui qui se vante d'être franc prépare toujours une méchanceté.
+conference|C|5 10 0 0 0|On a fait un match sérieux. On a manqué d'efficacité devant le but, il faudra corriger ça.
+conference|C|10 15 5 5 0|Le groupe vit bien. On prend les matchs les uns après les autres.
+conference|A|-30 -15 -40 -25 -15|L'arbitre nous a volés, c'est une honte, tout le monde est contre nous, c'est toujours pareil.
+conference|F|45 45 50 40 30|On m'a demandé si j'étais inquiet. Je suis inquiet tous les jours : c'est ce qui me paie.
+conference|D|80 80 85 78 75|Le classement, je le regarde en mai. En novembre, il ne dit que ce qu'on a déjà perdu.
+conference|A|-25 -10 -35 -20 -10|On est les meilleurs, on va tout gagner, personne ne peut nous battre, personne.
+conference|C|0 10 -5 0 0|Je n'ai pas encore revu les images, je ne peux pas me prononcer.
+conference|F|55 50 55 45 40|Mon gardien a fait trois arrêts décisifs. Je lui ai dit merci ; il m'a dit qu'il avait juste eu peur au bon moment.
+conference|D|85 82 88 82 78|Perdre ne me fait pas peur. Ce qui me fait peur, c'est de gagner sans savoir pourquoi.
+conference|C|15 15 10 5 5|C'est une victoire méritée, je félicite les joueurs pour leur état d'esprit.
+conference|A|-35 -20 -45 -30 -20|Les journalistes ne comprennent rien au football, vous ne savez rien, je ne réponds plus.
+conference|F|40 40 45 35 30|Vous me demandez si je vais démissionner. Pas ce soir, j'ai réservé le restaurant.
+conference|D|82 80 85 80 75|Une équipe, c'est onze joueurs qui acceptent d'être moins bons seuls pour être meilleurs ensemble.
+conference|C|5 5 0 0 0|On a bien travaillé cette semaine, on verra samedi.
+conference|F|50 50 55 45 40|L'adversaire avait plus de budget. Nous, on avait plus de raisons de courir.
+tweet_marque|C|5 5 0 10 5|Notre nouvelle collection automne est disponible en boutique et sur notre site.
+tweet_marque|A|-35 -20 -45 -30 -20|🔥🔥 OFFRE EXCEPTIONNELLE 🔥🔥 Ne ratez pas nos prix FOUS ! Achetez maintenant !!! #promo #deal #bonplan
+tweet_marque|F|45 40 55 45 35|Lundi matin. Notre café ne résout pas vos problèmes, mais il les rend plus supportables jusqu'à midi.
+tweet_marque|D|80 75 88 82 75|On ne vend pas de parapluies. On vend la possibilité de ne pas changer ses plans quand il pleut.
+tweet_marque|C|10 5 5 10 5|Nos magasins seront exceptionnellement fermés le 1er mai.
+tweet_marque|A|-25 -15 -35 -20 -15|Nous sommes la marque numéro un, la meilleure, la plus aimée, choisissez la meilleure, choisissez-nous.
+tweet_marque|F|55 50 60 50 40|Notre service client est disponible 24 h/24. Nos conseillers, eux, ont négocié de dormir un peu.
+tweet_marque|D|85 78 90 85 80|Nos chaussures ont fait le tour du monde. Elles aimeraient maintenant vous accompagner jusqu'à la boulangerie.
+tweet_marque|C|0 5 -5 5 0|Retrouvez toutes nos offres dans l'application.
+tweet_marque|F|40 35 50 40 35|Il pleut ? Parfait. Nos bottes attendaient ce moment depuis l'été.
+tweet_marque|A|-30 -20 -40 -25 -20|Likez et partagez pour gagner !!! Tag 3 amis !!! Abonne-toi !!! 🎁🎁🎁
+tweet_marque|D|82 80 85 82 78|Nous fabriquons des matelas. Le reste de la nuit, c'est vous qui l'écrivez.
+officiel|C|0 10 -10 5 0|Les dispositions du présent arrêté entrent en vigueur le lendemain de sa publication au Journal officiel.
+officiel|C|5 10 -5 5 0|Le préfet est chargé de l'exécution du présent décret, qui sera publié au recueil des actes administratifs.
+officiel|A|-20 -5 -30 -15 -10|Il est porté à la connaissance de tous et de chacun qu'il est fait obligation à chacun et à tous de respecter l'obligation susmentionnée qui s'impose à chacun.
+officiel|C|5 10 0 5 5|Toute personne a droit au respect de sa vie privée et familiale, de son domicile et de sa correspondance.
+officiel|C|10 15 0 10 5|Nul ne peut être poursuivi deux fois pour les mêmes faits.
+officiel|C|0 5 -5 0 0|La demande est adressée par lettre recommandée avec accusé de réception dans un délai de deux mois.
+officiel|A|-25 -10 -35 -20 -15|Dans le cadre de la mise en œuvre de la démarche de modernisation de la modernisation de l'action publique, il est procédé à une simplification des procédures de simplification.
+officiel|F|35 40 30 35 30|La loi ne dispose que pour l'avenir ; elle n'a point d'effet rétroactif, sauf à ce que le législateur en décide autrement.
+officiel|C|5 10 -5 5 5|Le présent contrat est régi par le droit français.
+officiel|F|40 45 35 40 35|Les hommes naissent et demeurent égaux devant l'impôt, même si certains y demeurent plus longtemps que d'autres.
+procedure|C|0 5 -10 0 0|La séance est ouverte.
+procedure|C|0 5 -10 0 0|La parole est à M. le rapporteur.
+procedure|C|5 5 -5 0 0|Je mets aux voix l'amendement n° 42. L'amendement n'est pas adopté.
+procedure|C|5 10 -5 0 0|La commission a émis un avis défavorable.
+procedure|F|35 35 40 30 25|L'amendement est retiré. Son auteur a sans doute compris avant nous qu'il ne passerait pas.
+procedure|C|0 5 -10 0 0|La suite de la discussion est renvoyée à la prochaine séance.
+discours|A|-40 -20 -50 -35 -25|Mes chers compatriotes, l'heure est venue de construire ensemble, ensemble et unis, un avenir d'avenir pour notre pays, car notre pays mérite un avenir.
+discours|D|85 82 88 85 85|Un pays ne se mesure pas à la hauteur de ses tours, mais à la largeur de ses portes.
+discours|C|10 15 5 5 5|Je veux remercier les élus locaux pour leur engagement quotidien au service de nos communes.
+discours|F|50 50 55 45 45|On nous dit que la France est irréformable. Elle n'est pas irréformable : elle est simplement lasse d'être réformée par ceux qui ne la connaissent pas.
+discours|A|-30 -15 -40 -25 -20|Nous allons agir, agir vite, agir fort, agir maintenant, car agir c'est notre devoir et notre devoir c'est d'agir.
+discours|D|88 85 90 85 88|La liberté n'est pas un héritage qu'on reçoit ; c'est une maison qu'il faut repeindre à chaque génération, sinon elle s'écaille.
+discours|C|5 10 0 5 5|Le projet de loi que je vous présente aujourd'hui comporte trois volets.
+discours|F|45 45 50 45 40|On nous accuse de vouloir tout changer. Nous voulons seulement changer ce qui ne marche pas, ce qui, je le concède, fait beaucoup.
+discours|A|-35 -20 -45 -30 -20|Je suis fier, très fier, immensément fier d'être ici devant vous, vous qui êtes là, et je vous remercie d'être là.
+discours|D|80 80 85 82 80|La République n'a pas besoin qu'on l'aime bruyamment ; elle a besoin qu'on la serve en silence.
+discours|C|15 15 10 10 10|Nous avons devant nous une échéance importante, et je compte sur la mobilisation de chacun.
+discours|F|55 55 60 50 50|Ceux qui ont gouverné dix ans nous expliquent aujourd'hui comment gouverner. Ils ont au moins l'expérience de ce qu'il ne faut pas faire.
+discours|D|85 80 88 85 82|On ne bâtit pas l'avenir avec la nostalgie du passé ni avec la peur du lendemain ; on le bâtit avec la patience du présent.
+discours|A|-25 -10 -35 -20 -15|Notre projet est un projet de projet, un projet ambitieux pour un pays ambitieux qui a de l'ambition.
+discours|F|40 40 45 40 35|L'opposition nous demande où est l'argent. Dans les poches des contribuables, là où nous avons choisi de le laisser.
+fable|C|10 10 5 15 15|Un renard affamé rencontra un loup dans la forêt. Ils décidèrent de chasser ensemble.
+fable|D|85 80 90 88 90|Le chêne se moquait du roseau qui pliait. L'orage passa ; le roseau se releva, et prit le chêne pour banc.
+fable|F|50 45 55 55 55|Le lièvre, ayant perdu la course, fit un procès à la tortue pour concurrence déloyale. Il le gagna : son avocat était plus rapide.
+fable|A|-20 -10 -35 -15 -10|Il y avait un chat qui était méchant et un chien qui était gentil, et la morale c'est qu'il faut être gentil.
+fable|D|82 78 88 85 85|La fourmi prêta enfin du grain à la cigale, à six pour cent. Ce fut le début de la banque.
+interview|C|5 10 0 5 0|Je suis très heureux d'être ici ce soir et de parler de mon nouveau livre.
+interview|F|45 45 50 40 35|Vous me demandez si je suis ambitieux. Disons que je n'ai jamais refusé une chaise plus confortable.
+interview|D|82 80 85 80 78|On me demande souvent comment j'ai réussi. La vérité, c'est que j'ai raté plus souvent que les autres, mais avec plus d'obstination.
+interview|A|-30 -15 -40 -25 -15|Moi je suis quelqu'un de vrai, d'authentique, je dis ce que je pense et je pense ce que je dis, voilà, c'est moi.
+interview|C|10 10 5 5 5|Ce rôle m'a beaucoup appris, notamment sur la patience.

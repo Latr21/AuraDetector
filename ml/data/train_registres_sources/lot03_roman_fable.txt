@@ -1,0 +1,87 @@
+# Roman et fable
+roman|C|5 10 0 5 5|Il ferma la porte derrière lui et descendit vers la gare.
++roman|D|85 80 88 85 85|Il ferma la porte avec ce soin qu'on met à ne pas réveiller un souvenir, et descendit vers la gare sans se retourner.
+roman|A|-30 -15 -40 -25 -20|Elle était belle, si belle, tellement belle que tout le monde la trouvait belle partout où elle allait.
++roman|F|50 45 55 50 45|Elle était belle d'une beauté administrative : on la remarquait, on la tamponnait, et on passait au dossier suivant.
+roman|C|10 10 5 10 10|Le docteur arriva vers midi et examina longuement le malade.
++roman|F|40 40 45 40 35|Le docteur examina le malade avec l'attention d'un homme qui calcule déjà ses honoraires.
+roman|A|-20 -10 -30 -15 -10|Le château était grand et vieux et il y avait beaucoup de pièces dans ce grand château vieux.
++roman|D|80 78 85 82 80|Le château avait tant de pièces que la famille y avait perdu l'habitude de se croiser, et presque celle de s'aimer.
+roman|C|0 5 -5 0 0|Le lendemain matin, il prit la diligence pour Paris.
++roman|F|35 30 40 35 30|Le lendemain, il prit la diligence pour Paris, emportant deux chemises, trois lettres de recommandation et une ambition démesurée.
+roman|C|15 15 10 10 10|Madame Dupuis tenait une mercerie sur la place du marché depuis trente ans.
++roman|D|88 85 90 88 88|Madame Dupuis tenait la mercerie depuis trente ans ; elle connaissait chaque secret du bourg, car on avoue tout à celle qui recoud les ourlets.
+roman|A|-40 -20 -50 -30 -25|Il était méchant, très méchant, le plus méchant de tous les méchants du pays.
++roman|F|60 55 60 55 55|Il était méchant avec méthode, ce qui le distinguait des autres : eux l'étaient par paresse.
+roman|C|5 10 0 5 5|La pluie tombait depuis le matin sur les toits de la ville.
++roman|D|85 80 88 85 85|La pluie tombait depuis le matin, avec l'obstination des choses qui n'ont rien d'autre à faire.
+roman|A|-30 -15 -40 -25 -20|Il l'aimait, il l'aimait, il l'aimait tellement qu'il l'aimait plus que tout.
++roman|D|90 85 90 88 88|Il l'aimait comme on aime une maison qu'on ne peut pas s'offrir : en passant devant tous les jours, sans jamais sonner.
+roman|C|10 10 5 10 10|Le père Martin était maire du village depuis la guerre.
++roman|F|50 45 55 50 45|Le père Martin était maire depuis la guerre ; personne ne se souvenait de laquelle, et lui-même avait cessé de préciser.
+roman|C|0 5 -5 0 0|Elle ouvrit la fenêtre et regarda la cour.
+roman|F|40 40 45 40 35|Le banquier parlait de la vertu avec beaucoup d'émotion ; il en parlait comme d'un placement qu'il aurait raté.
+roman|D|80 78 85 82 80|Elle n'avait jamais quitté sa ville, mais elle en avait fait le tour si souvent qu'elle en connaissait l'envers, comme on connaît la doublure d'un vieux manteau.
+roman|A|-20 -10 -30 -15 -10|Le ciel était noir et il faisait nuit et la nuit était noire comme le ciel.
++roman|C|15 15 10 10 10|La nuit était tombée tôt ; on alluma les lampes, et la maison parut plus petite.
+roman|C|5 10 0 5 5|Le jeune homme entra dans le salon et salua la compagnie.
++roman|F|60 55 60 55 55|Le jeune homme salua la compagnie avec l'aisance de ceux qui ont répété devant leur miroir et se sont trouvés convaincants.
+roman|A|-40 -20 -50 -30 -25|C'était le plus grand héros de tous les héros et il gagnait toujours tout car il était le meilleur.
++roman|D|85 80 88 85 85|On l'appelait héros parce qu'il était revenu ; les autres, qui avaient été plus braves, n'avaient pas eu cette chance.
+roman|C|10 10 5 10 10|La famille se réunissait chaque dimanche pour le déjeuner.
++roman|F|35 30 40 35 30|Chaque dimanche, la famille se réunissait pour déjeuner et se reprocher, entre la poire et le fromage, les dimanches précédents.
+roman|C|0 5 -5 0 0|Il paya l'addition et sortit du café.
++roman|D|82 80 85 85 82|Il paya l'addition, laissa un pourboire trop généreux pour qu'on se souvienne de lui, et sortit du café comme on sort d'une vie.
+roman|A|-30 -15 -40 -25 -20|Elle était triste et elle pleurait et ses yeux étaient tristes et pleins de larmes tristes.
++roman|F|50 45 55 50 45|Elle pleurait sans bruit, par égard pour les voisins, avec cette politesse des chagrins bien élevés.
+roman|C|15 15 10 10 10|Le régiment quitta la ville au petit matin, sous les applaudissements.
++roman|D|88 85 90 88 88|Le régiment quitta la ville sous les applaudissements ; on applaudit toujours ceux qui partent, c'est une façon de ne pas leur demander s'ils reviendront.
+roman|C|5 10 0 5 5|L'instituteur corrigeait les cahiers à la lueur de la lampe.
+roman|F|40 40 45 40 35|L'instituteur corrigeait les cahiers en soupirant ; il découvrait chaque soir que l'orthographe était une croyance en voie de disparition.
+roman|D|80 78 85 82 80|Le vieux comte n'avait plus de fortune, mais il avait gardé l'habitude de la perdre, et c'était, chez lui, une forme de noblesse.
+roman|A|-20 -10 -30 -15 -10|Il marchait, il marchait, il marchait longtemps dans la rue qui était une longue rue.
++roman|C|10 10 5 10 10|Il marcha longtemps dans la rue déserte, sans savoir où aller.
+roman|C|0 5 -5 0 0|Le notaire lut le testament devant la famille réunie.
++roman|D|85 80 88 85 85|Le notaire lut le testament devant la famille réunie ; à la troisième ligne, on cessa de pleurer le mort pour commencer à pleurer sur soi.
+roman|F|60 55 60 55 55|La baronne recevait le jeudi ; on y venait pour se plaindre de la baronne, ce qui assurait à son salon une fréquentation remarquable.
+roman|C|10 10 5 10 10|Les moissons furent bonnes cette année-là.
++roman|F|50 45 55 50 45|Les moissons furent si bonnes que les paysans, pour la première fois, n'osèrent pas s'en plaindre devant le percepteur.
+roman|A|-40 -20 -50 -30 -25|C'était une femme parfaite, parfaitement parfaite, et tout en elle était parfait sans aucune imperfection.
++roman|D|90 85 90 88 88|Elle avait le défaut des gens parfaits : on ne savait jamais par où commencer pour l'aimer.
+roman|C|5 10 0 5 5|L'enfant se cacha sous l'escalier pour écouter les adultes.
++roman|D|82 80 85 85 82|L'enfant se cachait sous l'escalier pour écouter les adultes ; c'est là qu'il apprit que les grandes personnes mentent surtout entre elles.
+roman|C|15 15 10 10 10|Le café était rempli d'étudiants qui discutaient de politique.
++roman|F|40 40 45 40 35|Le café était plein d'étudiants qui refaisaient le monde ; le patron, lui, refaisait surtout les additions.
+roman|A|-30 -15 -40 -25 -20|Il avait peur, très peur, une peur terrible, une peur qui faisait peur.
++roman|C|10 10 5 10 10|Il avait peur, mais il ne le montra pas, et serra simplement plus fort la rampe de l'escalier.
+roman|F|35 30 40 35 30|Le préfet aimait les inaugurations : c'était le seul moment où l'on coupait quelque chose sans qu'il ait à signer.
+roman|D|85 80 88 85 85|Il revint au village après vingt ans ; tout avait changé, sauf la manière qu'avaient les gens de ne pas lui demander pourquoi il était parti.
+roman|C|0 5 -5 0 0|La servante apporta le thé et se retira.
+roman|D|88 85 90 88 88|Elle avait tant attendu cette lettre qu'à la recevoir, elle ne l'ouvrit pas : l'attente lui était devenue une compagnie plus fidèle.
+roman|A|-20 -10 -30 -15 -10|Le repas était bon, très bon, vraiment bon, c'était un très bon repas qu'ils mangèrent.
++roman|F|60 55 60 55 55|Le repas fut excellent, ce qui permit à chacun de ne pas remarquer que personne ne se parlait.
+fable|C|5 10 0 10 10|Un loup et un chien se rencontrèrent au bord d'un bois.
++fable|D|85 80 88 88 88|Le loup envia le collier du chien jusqu'au jour où il vit la chaîne ; depuis, il a faim, mais il choisit son chemin.
+fable|A|-30 -15 -40 -25 -20|Il était une fois un lion qui était le roi et il était très fort et la morale c'est que le plus fort gagne.
++fable|F|50 45 55 55 55|Le lion se crut roi parce qu'on le saluait ; il comprit son erreur le jour où il eut faim et que tout le monde l'aimait encore de loin.
+fable|C|10 10 5 10 10|Une grenouille voulut devenir aussi grosse qu'un bœuf.
++fable|D|80 78 85 82 85|La grenouille ne voulait pas être un bœuf ; elle voulait qu'on la regarde comme un bœuf. Elle creva d'avoir confondu les deux.
+fable|A|-20 -10 -30 -15 -10|Le renard était rusé et le corbeau était bête et donc le renard a gagné le fromage parce qu'il était rusé.
++fable|F|40 40 45 45 45|Le corbeau, ruiné par le renard, ouvrit une école de chant : il n'eut que des élèves flatteurs, et ne garda plus jamais de fromage.
+fable|C|0 5 -5 5 5|Une souris vivait dans le grenier d'une ferme.
++fable|D|88 85 90 88 90|La souris du grenier avait peur du chat ; le chat avait peur du fermier ; le fermier avait peur de sa femme. Seule la souris dormait bien.
+fable|C|15 15 10 15 15|Le hibou expliquait aux autres oiseaux comment voler la nuit.
++fable|F|60 55 60 60 60|Le hibou donnait des cours de vol de nuit ; ses élèves, éblouis, se cognèrent tous aux arbres. Il en conclut qu'ils manquaient de théorie.
+fable|A|-40 -20 -50 -30 -25|La morale de cette histoire c'est qu'il faut être gentil et ne pas être méchant car être méchant c'est mal.
++fable|D|85 80 88 85 88|Morale : on n'apprend jamais la bonté aux méchants ; on leur apprend seulement à la contrefaire.
+fable|C|5 10 0 10 10|Deux ânes portaient des sacs sur la route du marché.
++fable|F|50 45 55 55 55|Deux ânes allaient au marché ; l'un portait du sel, l'autre des éponges. Ils traversèrent la rivière, et le monde des affaires naquit ce jour-là.
+fable|D|82 80 88 85 88|Le paon montra sa queue au rossignol, qui chanta. On regarda le paon une minute ; on écouta le rossignol toute la nuit.
+fable|C|10 10 5 10 10|Le coq chantait chaque matin pour réveiller la ferme.
++fable|D|80 78 85 82 85|Le coq croyait faire lever le soleil ; un matin, il se tut, et le soleil se leva quand même. Il en mourut, non de chagrin, mais d'humilité.
+fable|A|-30 -15 -40 -25 -20|Le cochon était sale et tout le monde se moquait de lui car il était sale et il sentait mauvais.
++fable|F|40 40 45 45 45|Le cochon, moqué pour sa saleté, répondit qu'il préférait la boue honnête aux parfums des renards.
+fable|C|0 5 -5 5 5|Un pêcheur attrapa un petit poisson.
++fable|D|90 85 92 90 90|Le petit poisson supplia le pêcheur de le relâcher pour revenir plus gros ; le pêcheur, qui avait été jeune, sut que personne ne revient jamais.
+fable|F|35 30 40 35 35|La chèvre jura qu'elle ne quitterait jamais l'enclos ; elle en sortit le lendemain, pour vérifier qu'elle avait raison.
+fable|D|85 80 88 85 88|Le serpent changea de peau et se crut nouveau ; la grenouille, qui le connaissait, ne changea pas de mare.

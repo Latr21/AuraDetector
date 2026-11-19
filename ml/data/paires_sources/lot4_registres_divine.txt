@@ -1,0 +1,115 @@
+# style|classeA scoreA|texteA|classeB scoreB|texteB
+bio|A -45|Entrepreneur 🚀 · Visionnaire 💡 · CEO de ma vie 👑 · DM pour collab 💰|D 77|Je fais des choses, parfois bien. Le reste du temps, je les raconte mieux qu'elles ne se sont passées.
+bio|A -40|Je suis quelqu'un de positif, drôle, gentil, ouvert d'esprit, aventurier et sportif.|D 79|On me dit drôle. Je laisse les autres juger du reste ; ils ont toujours eu meilleur goût que moi.
+bio|C 3|Étudiante en droit, j'aime le cinéma et les voyages.|D 76|Étudiante en droit : je connais toutes les règles, et j'apprends lentement lesquelles valent la peine d'être enfreintes.
+bio|A -48|Pas de prise de tête, pas de drama, pas de menteurs, pas de gens toxiques, merci.|F 44|J'aime les gens qui arrivent à l'heure, les livres qui finissent mal et les desserts qu'on partage à moitié.
+bio|A -42|Hustle 24/7 💯 Mindset de champion 🏆 Le succès n'attend pas 🔥|D 80|Je ne cours pas après le succès. Je marche, il finit toujours par s'essouffler avant moi.
+bio|C 1|Ingénieur, 32 ans, fan de randonnée.|F 38|Ingénieur, 32 ans. Je calcule tout, sauf le nombre de fois où je me suis perdu en randonnée.
+bio|A -46|Si tu me mérites pas ne m'écris pas. Je suis une reine 👸|D 78|Je ne suis pas une reine ; les reines attendent. Moi, j'ai déjà réservé la table.
+bio|C 4|Je cherche quelqu'un de sérieux pour une relation durable.|F 41|Je cherche quelqu'un de sérieux, mais pas trop : il faut savoir rire quand je rate la mayonnaise.
+bio|A -44|J'aime la vie, les sorties, les amis, rire et profiter de chaque moment ❤️🌍✈️|D 81|Je collectionne les moments que personne ne photographie : c'est la seule collection qui ne prend pas de place.
+bio|C 2|Professeur de mathématiques, passionné de jazz.|D 77|Professeur de maths et amateur de jazz : deux disciplines où l'on apprend que la bonne réponse vient souvent après une fausse note.
+sms|A -50|t'es où ??? réponds ??? t'es avec qui ???|C 7|Je suis devant le cinéma, la séance commence dans dix minutes. Pas de stress, je garde ta place et le pop-corn.
+sms|A -43|jsp jsp jsp chui perdu dans ma vie aide moi|C 12|Je suis un peu perdu en ce moment. Rien de grave, juste un mardi qui dure depuis trois semaines.
+sms|C 0|J'arrive dans 5 minutes.|F 37|J'arrive dans cinq minutes. Cinq minutes au sens d'un plombier, mais avec un croissant pour me faire pardonner.
+sms|A -47|tu m'aimes plus c ça ? dis le direct jsuis pas con|D 76|Si tu m'aimes moins, ne me le dis pas ce soir. Je veux encore finir mon film en croyant à la fin heureuse.
+sms|C 3|Tu peux acheter du lait en rentrant ?|C 18|Tu peux prendre du lait en rentrant ? Et si tu oublies, rapporte au moins une bonne excuse, j'en manque.
+sms|A -52|bon ben tant pis pour toi tu rates tout de toute façon|F 39|Tant pis pour ce soir. On rattrapera, et je te raconterai tout en exagérant juste ce qu'il faut pour que tu regrettes.
+sms|C 1|Joyeux anniversaire, passe une bonne journée.|D 78|Joyeux anniversaire. Une année de plus, c'est surtout une année de plus à être la personne que j'appelle quand tout va mal. Merci.
+sms|A -41|desole desole desole desole je suis trop nul pardon pardon|C 9|Désolé pour hier, j'ai été maladroit. Je t'offre un café pour me faire pardonner, sans sucre, comme mes excuses.
+sms|C 2|Il fait froid ce matin, pense à prendre une veste.|F 40|Il fait si froid ce matin que mon café a demandé à rester à l'intérieur. Prends une veste, et un bonnet, et du courage.
+sms|A -46|c bon t'as gagné, de toute façon t'as toujours raison toi|D 75|Tu as raison. Je te le dis tout de suite, comme ça on gagne du temps et on peut passer au dessert.
+discours|A -38|Chers collègues, je suis très heureux d'être ici aujourd'hui pour vous parler de ce sujet très important qui nous concerne tous.|D 79|Chers collègues, je serai bref : non pas par respect pour votre temps, mais parce que la vérité, elle, a rarement besoin de plus d'une minute.
+discours|A -36|Ensemble nous réussirons, car ensemble nous sommes plus forts, et la force est dans l'ensemble.|D 82|On dit que l'union fait la force. Je dirais plutôt qu'elle fait la patience, et que la patience fait le reste.
+discours|C 4|Je remercie la direction et toutes les équipes pour cette belle année.|F 43|Je remercie la direction, les équipes, et surtout la machine à café, sans qui cette année n'aurait été qu'une longue réunion.
+discours|A -40|Mes amis, notre entreprise est la meilleure entreprise du secteur et nos produits sont les meilleurs produits.|F 36|Nos produits ne sont pas les meilleurs. Ils sont simplement ceux que nos clients reviennent acheter, ce qui est plus difficile à imiter.
+discours|C 2|C'est avec émotion que je prends la parole pour ce départ à la retraite.|D 80|Pendant quarante ans, il a ouvert la boutique à huit heures. Demain, il dormira jusqu'à neuf, et pour la première fois, la rue entière sera en retard.
+discours|A -43|Je tiens à dire que je suis vraiment le plus qualifié pour ce poste, sans aucun doute.|F 45|Je ne suis pas le plus qualifié pour ce poste. Je suis juste celui qui restera quand les plus qualifiés seront partis chez la concurrence.
+discours|C 3|Bienvenue à tous pour cette cérémonie de remise des diplômes.|D 77|Bienvenue à cette remise de diplômes. Vous avez désormais un papier qui prouve que vous savez ; il vous reste toute une vie pour prouver que vous comprenez.
+discours|A -37|L'innovation est au cœur de notre ADN et notre ADN est l'innovation, innovons ensemble.|F 32|« L'innovation est dans notre ADN. » Si c'est vrai, il faudrait peut-être prévenir le service informatique, qui tourne encore sous un système de 2009.
+discours|C 1|Je déclare ouverte la saison sportive de notre club.|F 34|Je déclare ouverte la saison du club. Cette année, l'objectif est clair : faire au moins aussi bien que la buvette.
+discours|A -41|Nos athlètes sont des héros, des guerriers, des champions, des légendes vivantes, bravo.|D 76|Ils n'ont pas gagné ce soir. Mais ils ont couru jusqu'au bout comme si quelqu'un, quelque part, attendait leur victoire. Et c'était le cas : nous.
+prose|C 0|Il marchait dans la rue sous la pluie et il était triste.|D 81|Il marchait sous la pluie sans parapluie, comme on marche dans un souvenir : sans chercher à s'abriter de ce qui nous mouille.
+prose|A -30|Elle était belle comme une fleur et douce comme un ange et ses yeux brillaient comme des étoiles.|D 78|Elle avait le genre de regard qui fait qu'on oublie la question qu'on s'apprêtait à lui poser, et qu'on la remercie quand même pour la réponse.
+prose|C 2|La maison était vieille et la peinture des volets s'écaillait.|D 77|La maison était si vieille que ses volets avaient perdu leur couleur mais pas leur manie de grincer à l'heure du goûter.
+prose|C 1|Le vieil homme regardait la mer depuis son banc chaque matin.|F 47|Chaque matin, le vieil homme regardait la mer depuis son banc, comme on surveille un ami qui pourrait partir sans prévenir.
+prose|A -28|C'était une nuit sombre et orageuse, l'orage grondait et la nuit était sombre.|F 42|La nuit était si orageuse que même les chiens du village ont cessé d'aboyer, par respect pour plus bruyant qu'eux.
+prose|C 3|Le café était froid et il faisait gris dehors.|D 76|Le café avait refroidi pendant qu'il hésitait à écrire. Dehors, le ciel avait la couleur exacte de ses excuses.
+prose|C -1|Elle a ouvert la lettre et elle a pleuré.|D 82|Elle ouvrit la lettre, lut la première ligne, et la replia aussitôt : certaines nouvelles se lisent mieux au deuxième essai, assise.
+prose|A -33|Il était le plus fort, le plus beau, le plus intelligent de tous les hommes du royaume.|F 39|Il était le plus fort du royaume, ce qui ne l'empêchait pas de demander à sa mère de vérifier s'il y avait des araignées dans la chambre.
+prose|C 2|Le train partait à six heures et elle était en retard.|F 44|Le train partait à six heures. Elle arriva à six heures une, juste à temps pour comprendre que ce voyage-là ne se ferait pas.
+prose|C 0|L'enfant jouait seul dans le jardin.|D 79|L'enfant jouait seul dans le jardin, mais il parlait à tant d'amis invisibles que la pelouse paraissait trop petite.
+poesie|A -35|Mon amour tu es mon toujours, je t'aime pour toujours, toujours mon amour.|D 80|Je ne t'aime pas toujours ; je t'aime souvent, et c'est plus difficile, parce qu'il faut recommencer chaque fois.
+poesie|A -32|La lune brille dans le ciel, le ciel est bleu, je suis heureux, la vie est belle.|D 77|La lune s'est posée sur le toit d'en face comme une lampe que quelqu'un aurait oublié d'éteindre pour moi.
+poesie|C 3|L'automne arrive et les feuilles tombent des arbres.|D 78|L'automne n'abat pas les feuilles ; il les décroche une à une, comme on rend des lettres à quelqu'un qu'on a cessé d'attendre.
+poesie|A -29|Le soleil se couche et je pense à toi, le soleil se lève et je pense à toi aussi.|F 46|Le soleil se couche, et je pense à toi. Il se lève, et j'y pense encore. Entre les deux, j'essaie de dormir.
+poesie|C 1|La mer est grande et bleue et belle.|D 83|La mer ne dit rien. Elle répète simplement la même chose depuis des millions d'années, et c'est nous qui avons fini par croire que c'était une réponse.
+poesie|A -31|Tu es ma vie, ma raison, mon oxygène, mon tout, sans toi je ne suis rien.|D 76|Tu n'es pas tout pour moi. Tu es juste ce qui rend le reste supportable, et c'est déjà beaucoup.
+poesie|C 2|L'hiver est froid et la neige tombe sur la ville.|F 40|La neige tombe sur la ville et efface les trottoirs. Pendant une nuit, personne ne sait plus où finit sa rue.
+poesie|A -34|Le cœur brisé je pleure, je pleure le cœur brisé, mes larmes coulent de mon cœur.|D 79|J'ai le cœur brisé, mais rangé : chaque morceau est étiqueté, au cas où quelqu'un saurait un jour le recoller.
+poesie|C 0|Les oiseaux chantent le matin dans les arbres.|F 45|Les oiseaux chantent à l'aube sans savoir que le réveil, lui, sonnera une heure plus tard. Ils font l'avant-première.
+poesie|A -27|Les roses sont rouges, les violettes sont bleues, je t'aime beaucoup et toi tu m'aimes un peu.|F 43|Les roses sont rouges, les violettes sont bleues, et toi, tu as encore oublié d'arroser les deux.
+tweet|A -50|Nouveau post ! Likez, partagez, abonnez-vous, activez la cloche 🔔🔔 svp ça m'aide trop|D 75|Je ne vous demande pas de vous abonner. Revenez seulement si ce que j'écris vous a fait rater votre arrêt de bus.
+tweet|A -44|Je suis trop fier de moi j'ai réussi mon exam je suis le meilleur !!!|C 14|J'ai eu mon examen. Pas brillamment, mais avec la satisfaction tranquille de celui qui a révisé la veille et le regrette déjà moins.
+tweet|C 2|Il fait beau aujourd'hui.|D 78|Il fait si beau aujourd'hui qu'on dirait que la ville s'excuse pour tout le mois de novembre.
+tweet|A -47|Les gens sont trop nuls, je vous déteste tous, je quitte Twitter.|F 41|Je quitte ce réseau social. Pour la neuvième fois. Je pense que cette fois-ci est la bonne, comme les huit autres.
+tweet|C 3|Le lundi c'est difficile.|F 36|Le lundi arrive chaque semaine avec la même énergie qu'un collègue qui veut absolument parler de son week-end.
+tweet|A -42|Personne me comprend, je suis trop différent des autres, c'est dur d'être unique.|D 80|Être différent, ce n'est pas une identité ; c'est juste la façon qu'a le monde de nous rappeler qu'on n'a pas encore trouvé nos semblables.
+tweet|C 1|J'ai fini ma série, je ne sais pas quoi regarder maintenant.|C 17|J'ai fini ma série, et maintenant je regarde le générique de fin comme un ancien combattant qui revient du front.
+tweet|A -45|Abonnez-vous à mon compte, je suis le futur du rap français, retenez mon nom.|F 38|Je suis le futur du rap français. Pour l'instant, le présent me trouve surtout en train de chercher une rime avec « soupe ».
+tweet|C 0|Je n'ai pas bien dormi cette nuit.|F 42|Je n'ai pas dormi cette nuit. J'ai juste fermé les yeux en espérant que mon cerveau ne remarque pas la différence.
+tweet|A -39|Le café c'est la vie ☕☕☕ sans café je suis rien #coffeelover #mood|D 76|Le café n'est pas une passion, c'est un contrat : je lui donne mes matins, il me rend mon humanité, mais pas toujours dans cet ordre.
+sport|C 2|On a perdu, on va travailler pour faire mieux la semaine prochaine.|F 44|On a perdu, mais on a beaucoup appris. Notamment que le but adverse se trouve de l'autre côté du terrain.
+sport|A -40|On est les meilleurs, les autres c'est rien, on va tous les écraser !!!|D 77|On ne gagne pas un match en disant qu'on va gagner. On le gagne quand l'adversaire commence à le croire à notre place.
+sport|C 1|L'arbitre a sifflé un penalty à la dernière minute.|F 39|Penalty à la dernière minute. L'arbitre a eu le courage de ceux qui savent qu'ils ne repasseront pas par cette ville.
+sport|A -43|L'arbitre est un vendu, c'est un scandale, ce match est truqué.|F 37|Je ne commenterai pas l'arbitrage. Je dirai juste que lui aussi a fait un très grand match, pour l'autre équipe.
+sport|C 3|Le coureur a terminé le marathon en trois heures.|D 78|Il a terminé le marathon en trois heures. La dernière demi-heure, il ne courait plus avec ses jambes mais avec le souvenir de sa promesse.
+sport|A -38|Je suis le plus grand joueur de tous les temps, personne ne peut me battre.|F 46|Je ne suis pas le plus grand joueur de tous les temps. Je suis juste celui que les plus grands n'aiment pas affronter le mardi.
+sport|C 0|Le match a été reporté à cause de la pluie.|C 13|Match reporté à cause de la pluie. Les joueurs sont soulagés ; le jardinier du stade, lui, a pleuré de joie en regardant sa pelouse.
+sport|A -45|On a perdu à cause des autres, moi j'ai tout fait, c'est leur faute.|D 79|On a perdu ensemble. Je préfère ça à gagner seul : la défaite partagée se porte mieux que la victoire solitaire.
+marque|A -40|🔥 PROMO INCROYABLE 🔥 -50% sur TOUT !!! Achetez MAINTENANT avant qu'il soit TROP TARD !!!|F 43|Moins cinquante pour cent sur tout le magasin. Même nos vendeurs ont du mal à y croire ; ils ont fait leurs courses avant vous.
+marque|C 2|Découvrez notre nouvelle gamme de produits pour la maison.|F 35|Notre nouvelle gamme pour la maison est arrivée. Elle ne fera pas le ménage à votre place, mais elle vous donnera envie de le faire.
+marque|A -37|Notre marque est la meilleure marque au monde, la qualité premium au meilleur prix.|D 76|Nous ne sommes pas la meilleure marque du monde. Nous sommes celle que vous ne remarquez plus parce qu'elle ne vous a jamais lâché.
+marque|C 1|Nos boutiques seront ouvertes le dimanche pendant les fêtes.|C 16|Nos boutiques ouvrent le dimanche pendant les fêtes. Nos vendeurs aussi, mais ils ont demandé qu'on précise qu'ils préfèrent le chocolat aux remerciements.
+marque|A -42|Venez vite vite vite, offre limitée, ne ratez pas cette occasion unique !!!|F 40|L'offre est limitée dans le temps. Comme tout le reste, en fait, mais avec nous c'est moins cher.
+marque|C 0|Livraison gratuite à partir de cinquante euros.|F 31|Livraison gratuite dès cinquante euros. Oui, vous allez rajouter des chaussettes pour y arriver. Nous le savons. Vous le savez.
+juridique|C 0|Le présent contrat est conclu pour une durée d'un an renouvelable.|C 0|Le présent contrat est conclu pour une durée d'un an, renouvelable par tacite reconduction, sauf dénonciation par l'une des parties un mois avant son terme.
+juridique|A -25|Ce règlement est obligatoire et tout le monde doit le respecter sinon il y aura des sanctions graves.|C 5|Le non-respect du présent règlement expose son auteur aux sanctions prévues à l'article 12, après qu'il a été mis en mesure de présenter ses observations.
+juridique|C 2|Il est interdit de fumer dans les locaux.|F 33|Il est interdit de fumer dans les locaux. Il est également interdit de fumer devant l'entrée, ce qui a fait naître la tradition de la pause sur le parking.
+quotidien|A -35|Je suis trop nul je rate tout dans ma vie je suis un échec total.|C 15|J'ai raté mon gâteau, mon train et mon rendez-vous. Bilan de la journée : je suis très régulier.
+quotidien|A -38|Ma vie est trop dure personne ne m'aide jamais c'est injuste.|C 11|Ma machine à laver est tombée en panne, puis la voiture, puis le chauffe-eau. J'attends la suite avec la curiosité d'un spectateur de série.
+quotidien|C 3|J'ai cuisiné des pâtes ce soir.|F 36|J'ai cuisiné des pâtes ce soir. Le paquet disait huit minutes ; je l'ai pris comme une suggestion, et les pâtes comme un défi personnel.
+quotidien|A -44|j'ai encore oublié mes clés je suis trop débile je me déteste|C 18|J'ai encore oublié mes clés. Mon voisin a désormais un double, un tabouret et une tasse à mon nom.
+quotidien|C 1|Mon chat dort sur le canapé.|D 77|Mon chat dort sur le canapé avec l'assurance d'un propriétaire qui me laisse habiter chez lui contre des croquettes.
+quotidien|A -40|Je suis grosse et moche personne m'aimera jamais.|C 6|J'ai essayé un jean de ma taille d'il y a cinq ans. Le jean et moi avons convenu de rester amis.
+quotidien|C 2|J'ai rangé mon appartement aujourd'hui.|F 38|J'ai rangé mon appartement. J'ai retrouvé trois chargeurs, deux chaussettes orphelines et une version de moi qui croyait encore au rangement.
+quotidien|A -37|Personne ne m'invite jamais à rien, je suis toujours seul, c'est nul.|D 75|J'ai passé la soirée seul. Pas abandonné : juste en tête-à-tête avec quelqu'un que je commence enfin à bien connaître.
+quotidien|C 0|Je suis allé faire les courses.|C 14|Je suis allé acheter du pain. Je suis revenu avec du fromage, des fleurs et un tire-bouchon. Pas de pain.
+quotidien|A -42|Mes parents me comprennent pas, ils sont nuls, ils m'énervent trop.|F 40|Mes parents ne comprennent pas ma génération. En même temps, moi non plus je ne comprends pas pourquoi ils gardent les sacs plastiques dans un autre sac plastique.
+quotidien|C 3|Je suis en vacances à la montagne.|D 79|En vacances à la montagne : ici, même le silence a de l'écho.
+quotidien|A -36|Je mange trop mal et je fais pas de sport je suis une loque.|C 10|J'ai pris un abonnement à la salle de sport en janvier. Elle m'envoie encore des mails, comme une ex qui ne lâche pas l'affaire.
+quotidien|C 1|Il y a des embouteillages sur le périphérique.|F 37|Embouteillages sur le périphérique : j'ai eu le temps de réécouter un album entier, de me disputer avec le GPS et de me réconcilier avec lui.
+quotidien|A -39|Je déteste le lundi, je déteste le travail, je déteste tout.|D 76|Le lundi n'est pas un jour ; c'est un rappel que le week-end a été trop court pour qu'on y range tout ce qu'on voulait être.
+quotidien|C 2|Mon téléphone est tombé dans l'eau.|C 17|Mon téléphone est tombé dans l'eau. Je l'ai mis dans le riz. Le riz a tout appris de ma vie privée ; il ne m'a pas jugé.
+moderne|A -46|j'ai trop de followers maintenant vous êtes trop jaloux de moi 😎|F 42|J'ai dépassé les mille abonnés. Trois sont ma famille, deux sont des robots, et le reste me suit probablement par erreur. Merci à tous.
+moderne|C 0|J'ai commencé un podcast.|F 35|J'ai lancé un podcast. Comme tout le monde. Mais le mien a une particularité : ma mère l'écoute en entier.
+moderne|A -41|Je suis influenceur et je vous influence tous, vous êtes mes followers, suivez-moi.|D 78|Je n'influence personne. Je montre ce que j'aime, et si ça vous plaît, c'est simplement que vous aviez déjà bon goût avant moi.
+moderne|C 2|Le wifi ne marche pas chez moi depuis ce matin.|C 15|Le wifi est coupé depuis ce matin. J'ai découvert qu'il y avait une famille dans mon appartement. Ils ont l'air sympathiques.
+moderne|A -43|Mon nouveau téléphone coûte 1500 euros et le tien c'est de la merde.|F 39|Mon téléphone a coûté plus cher que ma première voiture. Lui au moins démarre le matin, mais il me juge sur mon temps d'écran.
+moderne|C 1|Je travaille en télétravail aujourd'hui.|D 76|En télétravail aujourd'hui : mon bureau est à trois pas de mon lit, et pourtant j'arrive toujours un peu en retard à la première réunion.
+moderne|A -48|Mon IA est meilleure que toi, je n'ai plus besoin de personne.|F 44|J'ai demandé à une IA d'écrire mon discours de mariage. Elle a été très émouvante. Le problème, c'est qu'elle parlait de quelqu'un d'autre.
+moderne|C 3|J'ai acheté une montre connectée.|F 33|J'ai acheté une montre connectée. Elle me félicite quand je marche et me conseille de respirer quand je lis mes mails. Elle a raison.
+moderne|A -40|Mes stories sont trop bien, vous devriez toutes les regarder, j'ai trop de style.|D 77|Je ne poste presque rien. Ce qui compte vraiment se passe pendant que je n'ai pas le temps de sortir mon téléphone.
+moderne|C 0|J'ai désinstallé une application de réseau social.|C 18|J'ai désinstallé l'application. Puis je l'ai réinstallée pour vérifier que personne n'avait remarqué. Personne n'avait remarqué.
+classique|C 2|Le roi entra dans la salle et tout le monde se leva.|D 80|Le roi entra et tout le monde se leva, sauf le vieux bouffon, qui savait depuis longtemps que c'était le seul homme du royaume à ne rien lui devoir.
+classique|A -30|Ô mon amour, mon cœur est rempli d'amour pour toi, mon amour éternel et infini.|D 77|Madame, je ne vous aime pas éternellement ; l'éternité est un mot que je réserve à ceux qui n'ont jamais attendu une lettre.
+classique|C 1|Le chevalier partit pour la guerre et ne revint jamais.|F 46|Le chevalier partit pour la guerre. Il en revint vingt ans plus tard, si changé que seul son cheval le reconnut, et lui en voulut.
+classique|C 3|Il était une fois une princesse qui vivait dans un château.|F 42|Il était une fois une princesse qui vivait dans un château. Elle rêvait d'un prince ; elle eut surtout des courants d'air.
+classique|A -33|Je suis le plus noble des nobles et mon sang est le plus pur de tout le royaume.|D 81|Mon sang est noble, monsieur, mais il a la mauvaise habitude de rougir quand on parle de nos ancêtres.
+classique|C 0|Le marquis écrivit une lettre à la comtesse.|F 38|Le marquis écrivit une lettre à la comtesse. Elle mit trois semaines à lui répondre, par principe, et deux lignes, par élégance.
+classique|A -35|Vengeance ! Vengeance ! Je veux la vengeance car on m'a fait du tort et je me vengerai.|D 78|Je ne me vengerai pas, monsieur. Je me contenterai de vivre heureux, ce qui vous tourmentera bien davantage.
+hybride|A -54|bro le rizz du prof de philo il cite Kant on dirait un sigma ohio frr|F 43|Mon prof de philo a cité Kant pour justifier un retard. Il a un rizz intellectuel que je ne comprends pas, mais que je respecte profondément.
+hybride|A -49|la politique c'est trop cringe tous les politiques c des npc|D 76|Les politiques ne sont pas des PNJ : les PNJ, eux, répètent la même phrase, mais au moins ils donnent des quêtes utiles.
+hybride|C 3|J'ai lu un poème de Baudelaire en cours aujourd'hui.|F 41|J'ai lu un poème de Baudelaire en cours. Mon voisin a demandé s'il avait un compte Instagram. Je lui ai répondu que les Fleurs du mal étaient déjà un fil d'actualité.
+hybride|A -51|mewing + looksmax + rizz = le combo ultime de l'alpha 2026|F 37|Mon petit frère a un plan sur cinq ans : mewing, looksmaxxing et rizz. Il a douze ans. J'ai un plan sur cinq ans : survivre à ses explications.
+hybride|A -47|le président il a zéro aura il est trop npc lol|F 40|Notre ministre a l'aura d'un écran de veille : il est là, il bouge un peu, et personne ne le regarde vraiment.

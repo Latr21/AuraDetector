@@ -41,6 +41,12 @@
         <div class="counter"><span id="char-count">0</span> caractères</div>
       </div>
 
+      <div class="model-picker">
+        <label for="model-select">🧠 Modèle</label>
+        <select id="model-select"><option>Chargement des modèles…</option></select>
+        <p id="model-desc" class="model-desc"></p>
+      </div>
+
       <button id="scan-btn" class="scan-btn" disabled>
         <span>⚡ SCANNER L'AURA ⚡</span>
       </button>
@@ -64,6 +70,7 @@
         <div id="aura-orb" class="aura-orb"><span id="aura-emoji">✨</span></div>
         <div class="aura-points"><span id="aura-points">+0</span> AURA</div>
         <div id="rank" class="rank"></div>
+        <img id="aura-gif" class="aura-gif hidden" alt="Réaction en GIF à ton aura">
       </div>
 
       <div class="verdict">
@@ -71,7 +78,9 @@
         <div id="category" class="category"></div>
         <div class="proba-line">
           Probabilité : <strong id="proba">0%</strong>
+          <span id="score-wrap" class="hidden"> · Score : <strong id="score">0</strong> / 100</span>
         </div>
+        <div class="model-used">Analysé par <strong id="model-used"></strong></div>
         <p id="roast" class="roast"></p>
       </div>
 

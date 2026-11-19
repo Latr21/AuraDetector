@@ -1,0 +1,57 @@
+# Interviews, maximes, conférences, marques — série 2
+interview|A|-30 -15 -40 -25 -20|Moi je suis quelqu'un d'exceptionnel, je le dis sans prétention, je suis vraiment exceptionnel.
++interview|D|85 80 88 85 85|On me dit exceptionnel ; c'est que les gens n'ont pas vu mes brouillons.
+interview|A|-40 -20 -50 -30 -25|Mon livre est le meilleur livre de l'année, achetez-le, c'est un chef-d'œuvre absolu, vraiment.
++interview|F|50 45 55 50 45|Mon livre est sorti mardi ; ma mère l'a lu deux fois, ce qui fait déjà de moi un auteur à succès dans la famille.
+interview|A|-20 -10 -30 -15 -10|Je suis passionné, passionné par ma passion, et ma passion me passionne.
++interview|C|10 10 5 10 10|J'ai commencé la cuisine à quinze ans, chez ma grand-mère, et je n'ai jamais arrêté.
+interview|A|-30 -15 -40 -25 -20|Les critiques sont jaloux, tous jaloux, ils ne comprennent rien à mon art.
++interview|D|80 78 85 82 80|Les critiques ont souvent raison ; ils ont simplement le défaut d'avoir raison trop tôt, avant que j'aie fini.
+interview|A|-40 -20 -50 -30 -25|Je ne regrette rien, rien, absolument rien, je referais tout pareil, tout.
++interview|F|60 55 60 55 55|Je ne regrette rien, sauf deux ou trois choses que je regrette tous les jours avec une grande régularité.
+interview|C|5 10 0 5 5|Ce film m'a demandé deux ans de préparation.
++interview|F|40 40 45 40 35|Ce film m'a pris deux ans ; le public mettra deux heures à le juger, c'est un excellent rapport.
+interview|C|0 5 -5 0 0|Je suis content d'être ici.
+interview|C|15 15 10 10 10|Le métier a beaucoup changé depuis mes débuts, surtout avec le numérique.
+interview|F|50 45 55 50 45|On me demande le secret de ma longévité ; je réponds que j'ai simplement oublié de m'arrêter.
+interview|D|88 85 90 88 88|Le succès ne m'a rien appris ; c'est l'échec qui m'a donné des cours particuliers, à domicile et sans réduction.
+interview|D|85 80 88 85 85|Je n'écris pas pour être lu ; j'écris pour que quelqu'un, un soir, se sente moins seul d'avoir pensé la même chose.
+interview|F|35 30 40 35 30|J'ai eu le prix, mais je n'ai pas encore trouvé où le ranger ; mon chat a déjà choisi.
+maxime|A|-30 -15 -40 -25 -20|Il faut croire en soi car croire en soi c'est la clé et la clé c'est de croire en soi.
++maxime|D|82 80 85 85 82|Croire en soi est utile ; ne pas trop y croire est indispensable.
+maxime|A|-40 -20 -50 -30 -25|La liberté c'est la liberté de faire ce qu'on veut librement et en toute liberté.
++maxime|F|50 45 55 50 45|La liberté des uns s'arrête où commence le stationnement des autres.
+maxime|A|-20 -10 -30 -15 -10|Il faut toujours faire de son mieux, toujours, et faire son mieux c'est le mieux.
++maxime|C|10 10 5 10 10|Faire de son mieux suffit souvent.
+maxime|A|-30 -15 -40 -25 -20|L'argent ne fait pas le bonheur mais le bonheur ne fait pas l'argent non plus, c'est ça la vie.
++maxime|D|88 85 90 88 88|L'argent ne fait pas le bonheur ; il permet seulement de choisir la couleur de son malheur.
+maxime|A|-40 -20 -50 -30 -25|La beauté intérieure est plus belle que la beauté extérieure car l'intérieur est beau.
++maxime|F|60 55 60 55 55|La beauté intérieure est un excellent argument, à condition d'avoir une jolie porte d'entrée.
+maxime|F|40 40 45 40 35|Le pessimiste est un optimiste bien informé, qui a eu le malheur de lire la suite.
+maxime|D|85 80 88 85 85|On ne se trompe jamais autant que lorsqu'on est sûr d'avoir compris les autres.
+maxime|D|80 78 85 82 80|L'ennui naquit un jour de l'uniformité ; il a depuis fondé une grande famille et ouvert des bureaux.
+maxime|F|50 45 55 50 45|La politesse est une forme de mensonge que tout le monde accepte de croire.
+maxime|D|90 85 92 90 88|Le ridicule déshonore plus que le déshonneur ; c'est pourquoi tant de gens préfèrent être méchants.
+maxime|F|60 55 60 55 55|Les compliments sont comme le parfum : on peut les respirer, il ne faut pas les avaler.
+maxime|D|82 80 85 85 82|Les petits esprits parlent des gens, les esprits moyens des événements, les grands esprits se taisent et écoutent les deux.
+conference|A|-30 -15 -40 -25 -20|On a été volés, volés, volés, c'est une injustice, une injustice totale, je suis dégoûté.
++conference|F|40 40 45 40 35|On a été battus à la régulière ; l'injustice, c'est surtout d'avoir joué aussi mal un dimanche de beau temps.
+conference|A|-40 -20 -50 -30 -25|Mes joueurs sont nuls, ils ont rien compris, je vais tous les changer, tous.
++conference|D|85 80 88 85 85|Mes joueurs ont mal joué, et c'est ma faute : je leur ai demandé de gagner, j'aurais dû leur demander de jouer.
+conference|A|-20 -10 -30 -15 -10|On est trop forts, on a gagné, les autres c'est des nuls, voilà, c'est tout ce que j'ai à dire.
++conference|C|5 10 0 5 5|C'est une belle victoire, l'adversaire nous a posé des problèmes en seconde période.
+conference|F|50 45 55 50 45|On a dominé tout le match ; malheureusement, le football compte les buts, pas les intentions.
+conference|D|80 78 85 82 80|Je dis toujours à mes joueurs : le public ne se souvient pas du score, il se souvient de ceux qui n'ont pas baissé la tête.
+conference|F|60 55 60 55 55|Notre attaquant a manqué trois occasions ; il m'a promis de les marquer à l'entraînement, c'est déjà un début.
+conference|D|88 85 90 88 88|On ne remonte pas au classement en regardant le classement ; on remonte en oubliant qu'il existe, un match après l'autre.
+conference|F|35 30 40 35 30|J'ai vu mon équipe jouer en première mi-temps ; en seconde, j'ai vu une autre équipe porter nos maillots.
+tweet_marque|A|-30 -15 -40 -25 -20|NOUVEAU !!! INCROYABLE !!! RÉVOLUTIONNAIRE !!! Le produit qui va CHANGER VOTRE VIE !!! 🔥🔥🔥
++tweet_marque|D|82 80 85 85 82|Notre nouveau produit ne changera pas votre vie. Il rendra seulement vos mardis un peu moins longs.
+tweet_marque|A|-40 -20 -50 -30 -25|On est les meilleurs, les numéros un, les leaders, les champions du marché, achetez !
++tweet_marque|F|50 45 55 50 45|Nous ne sommes pas numéro un du marché. Nous sommes numéro un dans la cuisine de quelques personnes, et ça nous suffit.
+tweet_marque|A|-20 -10 -30 -15 -10|Partagez si vous aimez ! Aimez si vous partagez ! Partagez et aimez !
++tweet_marque|C|10 10 5 10 10|Merci pour vos partages, ils nous font chaud au cœur.
+tweet_marque|F|40 40 45 40 35|Notre glace à la vanille n'a rien d'original ; c'est justement pour ça que vous en reprenez.
+tweet_marque|D|85 80 88 85 85|Nous fabriquons des clés. Ce que vous ouvrez avec, nous ne voulons pas le savoir ; c'est ce qui fait de nous des gens de confiance.
+tweet_marque|F|60 55 60 55 55|Nos croissants sont prêts à six heures. Nos boulangers, eux, sont prêts depuis quatre, mais ils préfèrent qu'on n'en parle pas.
+tweet_marque|D|80 78 85 82 80|On vend des cahiers vides. Ce qui les remplira vaudra toujours plus cher que nous.

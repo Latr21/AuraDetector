@@ -1,0 +1,372 @@
+﻿texte,classe,score,R,S,O,B,P,type,style,origine,paire_id
+"Jsuis le meilleur, personne me bat / Jsuis le meilleur, toi t'es pas là / Jsuis le meilleur, c'est comme ça",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0001
+"Tu dis que t'es le meilleur, j'ai vérifié la liste / Ton nom est bien en haut… de la page des artistes qu'on zappe",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0001
+"T'es nul, t'es nul, t'es vraiment nul / Ton rap est nul et toi aussi t'es nul",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0002
+"Je vais pas dire que t'es nul, j'ai trop de respect pour le mot / Il mérite un adversaire qui se donne un peu plus de mal",Forte Aura,49,50,45,55,50,45,battle,battle,train_battle,R0002
+"Toi, moi, toi, moi, c'est moi le roi / Toi t'es pas roi, c'est moi le roi",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0003
+"On se connaît depuis le collège, toi et moi / Tu rappais déjà mieux que moi, mais moi j'avais le bus à l'heure",Aura Correcte,11,10,10,5,15,15,battle,battle,train_battle,R0003
+"Respectez-moi le public, s'il vous plaît, applaudissez / J'ai travaillé mon texte, faut m'encourager",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0004
+"Je demande pas qu'on m'applaudisse, je demande qu'on se taise / C'est dans le silence qu'on entend les gens tomber de leur chaise",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0004
+"T'as une grosse tête, une tête énorme, t'es moche / Ta tête elle est trop grosse, voilà c'est tout",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0005
+"Ta tête est grosse ? Normal, elle stocke tout l'ego / Que t'as pas réussi à mettre dans tes couplets",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0005
+"Ma punchline elle est trop forte, vous avez compris ? / Je disais que t'étais un poisson parce que tu nages dans le vide, voilà",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0006
+"T'es un poisson rouge, trois secondes de mémoire / Tu oublies tes rimes, mais jamais de te croire une star",Forte Aura,50,50,45,55,50,50,battle,battle,train_battle,R0006
+"Je suis un monstre, un lion, un tigre, un requin / Je suis le plus fort et toi t'es rien",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0007
+"On s'invente des fauves quand on a peur des miroirs / Moi je viens sans animal, juste avec mon histoire, et elle mord plus fort que ton bestiaire",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0007
+"Bonsoir tout le monde, merci d'être venus en masse / Mon adversaire a ramené sa famille, ça fait trois places de moins dans la salle",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0007
+"J'ai pas trop dormi, j'ai le trac ce soir / Mais je suis là, je vais rapper, on va voir",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0008
+"J'ai le trac, je l'avoue, il est assis au premier rang / Il me connaît depuis dix ans, il sait que je finis toujours par le faire taire avant la fin",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0008
+"T'as des fringues de clochard, t'es mal habillé / Tes habits sont nuls et ton style il est raté",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0009
+"Ta veste a vu plus de battles que toi / Elle au moins, elle a de l'expérience, et elle tient debout quand tu tombes",Forte Aura,51,50,45,55,55,50,battle,battle,train_battle,R0009
+"J'ai trop de flow, j'ai le flow, le flow c'est moi / Personne a le flow comme moi, j'ai le flow, voilà",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0010
+"Mon flow c'est pas une rivière, c'est un robinet qui fuit / Mais goutte après goutte, je finis toujours par inonder la salle",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0010
+"Je suis venu pour gagner, je vais te détruire, t'exploser / Je vais te tuer avec mes rimes, t'es mort, c'est terminé",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0011
+"Je suis pas venu pour te détruire, t'as fait le gros du travail / Moi je passe juste signer le constat, et je laisse le jury lire le détail",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0011
+"Ton premier couplet était pas mal, je l'avoue / Mais le mien sera meilleur, t'inquiète pas pour nous",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+Ta carrière c'est un ascenseur bloqué au sous-sol / Tu appuies sur tous les boutons et tu appelles ça monter,Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Il a dit que j'étais nul mais c'est lui qui est nul / Il dit des trucs nuls, il est nul, c'est lui le nul",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0012
+"Il a dit que j'étais nul ? Merci, j'ai pris des notes / C'est la première fois qu'il dit quelque chose de mémorable",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0012
+"Je suis trop beau, trop fort, trop riche, trop stylé / Toutes les filles m'aiment et tous les gars sont jaloux",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0013
+"Je suis pas beau, pas riche, j'ai pas de chaîne en or / J'ai juste des phrases qui restent dans les têtes après que les lumières sont mortes",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0013
+"Je viens de la banlieue, j'ai grandi là-bas / C'est mon quartier, c'est ma fierté, c'est comme ça",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0014
+"Je viens d'un quartier où les bus passent une fois par heure / Alors j'ai appris la patience, et à punir ceux qui me font attendre",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0014
+"Mon rap c'est le feu, le feu, le feu, ça brûle / Le feu le feu le feu, ça brûle, ça brûle",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0015
+"Tu dis que ton rap c'est le feu, je confirme / Il y a de la fumée partout et tout le monde cherche la sortie",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0015
+"T'as pas de talent, t'as pas de talent, t'as aucun talent / C'est tout ce que j'ai à dire, t'as pas de talent",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0016
+"Le talent c'est un cadeau, toi t'as gardé l'emballage / Tu le montres à tout le monde, et personne n'ose te dire qu'il est vide",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0016
+"Je suis pas le plus fort, je le sais, mais je bosse / Chaque soir, chaque nuit, j'écris dans mon carnet",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Il rappe depuis dix ans, il a jamais rempli une salle / Sauf ce soir, et c'est pour me voir le battre en direct",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Je vais gagner, je vais gagner, c'est sûr que je vais gagner / Vous allez voir, je vais gagner, je gagne toujours",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0017
+"Je sais pas si je vais gagner, mais je vais pas me cacher / Si je perds, je rentrerai en métro, comme d'habitude",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0017
+"Ton crew c'est des nuls, ton crew c'est des clowns / Ton crew c'est rien du tout, ton crew c'est des clowns",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0018
+"Ton crew est derrière toi, je le vois, ils sont fidèles / Ils applaudissent même tes blancs, c'est beau la fraternité",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0018
+"Je remercie l'organisation pour l'invitation / C'est un honneur d'être là, sur cette scène",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Tu cites les anciens comme on cite un gros chèque / Mais la plume ne se signe pas, elle se mérite, et la tienne est à découvert",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"J'ai écrit ça en cinq minutes et c'est déjà mieux que toi / Cinq minutes et c'est mieux que toi, tu vois",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0019
+"Tu dis que t'as écrit ça en cinq minutes, ça s'entend / Mais rassure-toi, on t'écoute pas plus longtemps que ça",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0019
+"T'es petit, t'es petit, t'es tout petit / T'es tellement petit qu'on te voit pas",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0020
+"On dit que t'es petit, moi je trouve pas / Ton ego touche le plafond, c'est juste ton couplet qui reste en bas",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0020
+"J'ai oublié une phrase, désolé, je reprends / C'était mieux à la répétition, je vous jure",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0021
+"J'ai oublié une phrase, et alors, c'est pas grave / La mémoire est une vieille amie, elle me lâche juste le temps de voir qui rit trop tôt",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,R0021
+"Je suis une légende, une légende vivante, une légende / Tout le monde le sait que je suis une légende",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0022
+"Les légendes ne disent jamais qu'elles en sont / Elles laissent ce boulot aux autres, et repartent avant la chanson",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0022
+"Mon adversaire est bon, je l'ai vu en vidéo / Mais ce soir c'est moi, et je suis prêt",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Il m'a traité de vieux, je prends ça pour un compliment / Je suis assez vieux pour savoir que tes rimes sont des emprunts, et assez riche pour pas les racheter",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu sais pas rapper, tu sais pas rapper, tu sais pas / Moi je sais rapper et toi tu sais pas",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0023
+"Tu sais rapper, j'avoue, mais t'as appris dans le désordre / D'abord la pose, ensuite les rimes, et le fond, t'attends toujours la livraison",Aura Correcte,11,10,10,5,15,15,battle,battle,train_battle,R0023
+"Ma rime elle est trop forte, vous avez pas compris ? / Je disais « clé » parce que t'es fermé, vous voyez, fermé, une clé",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0024
+"Tu cherches la clé du succès depuis des années / Moi j'ai jamais fermé la porte, c'est pour ça que je rentre sans frapper",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0024
+"Ce soir je suis venu avec mon meilleur texte / Je l'ai répété toute la semaine, j'espère qu'il vous plaira",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je vais te frapper, te taper, te défoncer la tête / T'es mort après ce couplet, t'es mort, c'est la fête",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0025
+"Je vais pas te toucher, je suis pas violent / Je vais juste répéter ton couplet lentement, devant tout le monde, c'est pire",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0025
+"Je suis riche, j'ai de l'argent, j'ai des billets / Plein de billets, toi t'as pas de billets",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0026
+"Tu parles de billets, moi je compte autrement / J'ai jamais rien vendu, et pourtant ce soir toute la salle me doit un sentiment",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0026
+"Je suis content de rapper devant vous ce soir / C'est ma première battle, soyez indulgents",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"Tu m'as appelé « l'amateur », merci pour la noblesse / Amateur, ça vient d'« aimer », et toi tu fais ça pour qu'on te caresse",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"C'est moi le boss, le patron, le chef, le boss / Je suis le boss de tout, je suis le boss",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0027
+"Tu te dis le patron, mais je vois pas d'employés / Juste un stagiaire dans le miroir qui te demande de le payer",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0027
+"Il a du flow, je reconnais, il a de la technique / Mais moi j'ai le cœur, et ça compte aussi",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Ton flow est rapide, ça c'est vrai, faut le dire / Comme ceux qui parlent vite quand ils savent qu'ils vont mentir",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Tu vas perdre, tu vas perdre, t'as déjà perdu / Tout le monde le sait, t'as déjà perdu",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0028
+"Je te dirai pas que t'as perdu, t'as juste choisi ton rôle / Il en faut un pour tenir l'échelle quand l'autre monte sur l'épaule",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,R0028
+J'ai écrit ça dans le train en venant / Désolé si c'est un peu brouillon,Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Tu ressembles à un chien, t'es un chien, ouaf ouaf / T'es un chien, voilà, ouaf",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0029
+"Tu aboies beaucoup pour un chien qu'on promène / Et chaque fois que tu mords, c'est ta propre laisse qui saigne",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0029
+"S'il vous plaît, votez pour moi, j'ai besoin de gagner / Ma mère est dans la salle, faites-le pour elle",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0030
+"Ma mère est dans la salle, elle a payé sa place / Si je perds, elle va réclamer un remboursement au jury",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,R0030
+"T'as un style qui imite, une voix qui imite, des rimes qui imitent / Même ta défaite ce soir, elle a déjà été vue, c'est la mienne d'il y a dix ans",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu dis que t'es underground, je te crois / Vu tes ventes, t'es même plus bas que ça",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Je suis pas venu pour clasher, je suis venu partager / Mais si tu insistes, je peux aussi te répondre",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Ta mère, ton père, ta sœur, ton frère, tous nuls / Toute ta famille c'est des nuls",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0031
+"Je parlerai pas de ta famille, elle a assez souffert / Elle a déjà dû écouter tes maquettes au dîner",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0031
+"Je suis meilleur que toi, je suis meilleur que lui / Je suis meilleur que tout le monde, je suis le meilleur aujourd'hui",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0032
+"Je me compare pas, ça fait perdre du temps / Je me mesure au silence qui suit, et ce soir il est grand",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0032
+"Ma rime est simple, mais elle est sincère / Je raconte ma vie, je raconte ma mère",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"T'as rappé sur la guerre, la rue, la misère / T'as grandi dans un pavillon avec un jardin, mais j'admire l'imaginaire",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Yo yo yo, c'est moi, yo, check ça, yo / Je suis là, yo, ouais, yo",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0033
+"Il voulait un clash, je lui ai offert un miroir / Il a reculé si vite qu'on a cru que c'était son reflet qui avait peur du noir",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Tu dis que t'as cent mille abonnés, félicitations / Il en manque juste un dans la salle pour que ça fasse une ovation",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"J'ai pas besoin de rimer, je suis trop fort pour rimer / Les rimes c'est pour les faibles, moi je suis trop fort",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0034
+"Tu dis que les rimes c'est démodé, c'est pratique / Quand on sait pas les trouver, on appelle ça une esthétique",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0034
+"J'ai perdu ma dernière battle, je l'avoue / Mais j'ai appris, et ce soir je reviens",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"T'es qu'une merde, t'es qu'une grosse merde, voilà / C'est tout, t'es une merde",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0035
+"Je vais pas t'insulter, je serais trop gentil / Je vais juste lire ton dernier texte, c'est plus cruel et c'est gratuit",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0035
+"Mon adversaire est gentil, on s'est parlé en coulisses / C'est dommage que je doive le battre",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"On m'a dit de te respecter parce que t'es un ancien / Mais l'âge, c'est pas un grade, c'est juste du temps passé ; et le tien, tu l'as passé à attendre le mien",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"J'ai trop la classe, la classe, la classe, la classe / Moi j'ai la classe et toi t'as pas la classe",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0036
+"Je rappe pour le plaisir, pas pour la gloire / Si vous aimez, tant mieux, sinon tant pis",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Il m'a dit « retourne à l'école », bonne idée, je retiens / J'y apprendrai peut-être à compter jusqu'aux votes que t'auras pas demain",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Je suis le roi, l'empereur, le pharaon, le sultan / Je suis tout ça en même temps, je suis géant",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0037
+"Tu t'inventes des couronnes, des trônes, des empires / Moi j'ai qu'un tabouret, mais c'est là que les rois viennent s'asseoir pour écrire",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,R0037
+"C'est la finale, je suis fier d'être arrivé là / Quoi qu'il arrive, merci à tous",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"T'as clashé mon accent, ma ville, mon prénom / Merci : en trois rimes t'as résumé tout ce que j'ai, et ce que t'auras jamais, une raison",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Il a dit « t'es une victime », non c'est toi la victime / T'es une victime, une grosse victime",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0038
+"Il a dit « t'es une victime », j'avoue, c'est le cas / Je suis victime de ce couplet, et le public aussi, on porte plainte à trois",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0038
+"Il a dit « t'es nul », il a mis dix minutes à le trouver / Moi en dix secondes j'ai compris pourquoi personne t'invite à rester",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0038
+"Il a parlé de mes chaussures, mes chaussures elles sont bien / Mes chaussures c'est des bonnes chaussures, voilà",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0039
+"Tu clashes mes baskets, elles sont trouées, c'est vrai / Elles ont couru partout pendant que toi t'attendais qu'on t'invite",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0039
+"Il a dit que j'ai pas de fans, si j'ai des fans, plein de fans / J'ai trop de fans, vous êtes mes fans",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0040
+"J'ai pas beaucoup de fans, c'est vrai, je l'admets / Mais ceux que j'ai connaissent mes textes par cœur, et mes dettes aussi",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0040
+"Il a dit « rentre chez toi », moi je rentre pas chez moi / C'est toi qui rentres chez toi, chez toi, chez toi",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0041
+"Il m'a dit « rentre chez toi », j'y suis, regarde bien / Cette scène, je l'ai balayée à quinze ans quand j'étais technicien",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0041
+"Il a dit « t'es trop jeune », j'ai dix-neuf ans, c'est juste / Mais ton dernier bon couplet, il est plus vieux que moi",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0041
+"Il a dit que je copie, je copie pas, c'est lui qui copie / Il copie tout, c'est un copieur",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0042
+"Il dit que je copie, c'est flatteur, merci du soupçon / On copie que les originaux, toi personne t'a jamais pris comme leçon",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0042
+"Il a dit que mon flow est lent, c'est mon style / Je prends mon temps, j'aime bien poser les mots",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0043
+"Il dit que mon flow est lent, j'appelle ça articuler / Toi tu vas vite, c'est pratique, on a pas le temps de remarquer que c'est raté",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0043
+"Il a parlé de mon poids, ouais je suis gros et alors / Toi t'es maigre et t'es moche, voilà",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0044
+"Il a parlé de mon poids, j'avoue, je mange bien / Mais je rappe pour le jury, pas pour le médecin",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,R0044
+"Il a dit que j'ai perdu ma dernière battle, c'est faux / J'ai pas perdu, l'arbitre il était contre moi, c'est faux",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0045
+"Il m'a dit que mes rimes sont simples, c'est vrai / Je préfère être compris que compliqué",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0046
+"Il dit que mes rimes sont simples, je plaide coupable / Le pain aussi c'est simple, et personne quitte la table",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0046
+"Il me traite de faux, venant de lui c'est un honneur / Il connaît bien le sujet, il en fabrique sur commande",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0046
+"Il a dit que je bégaie, je bégaie pas, je je je bégaie pas / C'est lui qui bégaie, voilà",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0047
+"Il a dit que j'ai bégayé, j'avoue, j'ai hésité / Mais entre deux silences de moi, il y a plus de sens que dans ton couplet entier",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,R0047
+"Il a dit que je viens de la campagne, c'est vrai / Chez moi on rappe devant les vaches, elles sont pas méchantes",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0048
+"Il dit que je viens de la campagne, merci pour le rappel / Chez nous on sait reconnaître le fumier, et là il est sur scène",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0048
+"Il a dit que ma copine m'a quitté, non c'est pas vrai / Elle m'a pas quitté, c'est moi qui l'ai quittée, voilà",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0049
+"Oui, ma copine m'a quitté, c'est vrai, c'est la vie / Elle disait que j'écrivais trop la nuit, elle avait pas tort",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0049
+"Il a dit que mon crew est petit, mon crew est grand / Mon crew c'est des grands, très grands",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0050
+"Il dit que mon crew est petit, c'est vrai, on est trois / Mais on est trois à savoir écrire, toi t'es vingt à recopier la même voix",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0050
+"Il dit « le prof », il croit que c'est une insulte / Je corrige des copies toute la journée, la tienne je la rends sans note, par pitié, avec un mot pour les parents",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,R0050
+"Il a dit « t'as le trac », non j'ai pas le trac / J'ai pas peur, j'ai jamais peur, jamais",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0051
+"Il a dit que j'ai le trac, bien sûr que j'ai le trac / C'est ce qui arrive quand on respecte le public, essaie un jour, tu verras ça fait plaisir",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0051
+"Il a dit que ma veste est moche, ta veste aussi elle est moche / Ta veste est encore plus moche que la mienne",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0052
+"Tu clashes ma veste, elle était à mon père / Elle a vu de vraies batailles, toi tu t'es battu qu'avec un filtre et un éclairage",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0052
+"Il a dit que mon texte est trop long, je vais faire court / Merci de m'avoir écouté jusqu'ici",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Il a dit « t'as aucune carrière », j'avoue j'en ai pas / Mais j'ai un métier, un loyer, et des rimes que tu payes pour reprendre",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Je réponds pas à ça, c'est nul, c'est trop nul pour que je réponde / Je réponds pas, voilà ma réponse",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0053
+"Je vais pas répondre à ta dernière attaque, elle m'a trop plu / Je vais l'encadrer, à côté de ton dernier succès, comme ça le mur sera moins nu",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0053
+"Il a dit « t'es gentil », venant de lui c'est rassurant / Il a l'habitude de juger les gens gentils, il en a vu beaucoup passer devant lui",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0054
+"Oui, je suis fauché, je paye mes rimes en sueur / Toi tu les achètes à crédit, et un jour le public viendra réclamer les intérêts",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0054
+"Il a dit que mon micro était mal réglé / C'est vrai, mais je vais faire avec",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Il m'a clashé sur ma ville, ma ville elle est trop bien / Ma ville c'est la meilleure ville, voilà",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0055
+"Tu clashes ma ville, t'as raison, il y a rien à faire / Alors on écrit, c'est pour ça qu'on arrive avec des textes et toi avec des selfies",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0055
+"J'ai pas su répondre à sa dernière phrase, bien joué / Je reconnais quand c'est bon",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Il veut qu'on parle de rue, de vraie vie, de terrain / Le seul terrain qu'il connaît, c'est celui de son père, avec piscine",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu m'as clashé mais t'as pas le droit, c'est pas juste / Le jury doit le punir, c'est pas juste",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0056
+"Tu m'as clashé, c'était bien envoyé, je l'admets / Maintenant c'est mon tour, accroche-toi",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0056
+"Il dit que je suis vieux jeu, que mon style a pris la poussière / Mais la poussière, mon frère, c'est ce qui reste quand le temps n'a pas réussi à te balayer",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Je suis le king, le king, le king du game / Le king, le king, je suis le king",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0057
+"Il se dit king du game, je vois pas la couronne / Juste un bonnet à pompon et une manette qu'il prête à personne",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0057
+"C'est ma troisième battle, je progresse / La première fois j'ai pleuré, là ça va mieux",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"Il a dit que j'étais trop calme pour une battle / Le volcan aussi a l'air calme, demande au village d'à côté",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Tes rimes c'est de la merde, tes rimes c'est des rimes de merde / Je le répète, tes rimes c'est de la merde",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0058
+"Tes rimes sont riches, c'est vrai, mais toujours en solde / Tu rimes « gloire » avec « histoire » comme on rend la monnaie sans jamais regarder ce qu'on a vendu",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,R0058
+Je dédie ce couplet à mon petit frère qui est dans la salle / Il m'a aidé à l'écrire,Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Il m'a promis l'enfer, il a ramené un briquet / Même son feu demande la permission avant de s'allumer",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+J'ai oublié mon texte mais c'est pas grave je suis le meilleur / Même sans texte je suis le meilleur,Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0059
+"J'ai oublié mon texte, je vais improviser / C'est toujours mieux que réciter un texte qu'on a pas écrit, pas vrai ?",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0059
+"Je rappe depuis deux ans, c'est pas beaucoup / Mais j'ai envie de montrer ce que je sais faire",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Il a trente ans de carrière et pas une phrase qui reste / C'est pas une carrière, c'est une garde à vue prolongée",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Je vais t'humilier, t'humilier, t'humilier grave / Tu vas pleurer, pleurer, pleurer grave",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0060
+"Je vais pas t'humilier, l'humilité c'est pas ton fort / Je vais juste t'offrir ce qui te manque : un adversaire qui va jusqu'au bout de ses phrases",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0060
+"Le public a choisi, je respecte / Bravo à mon adversaire, c'était serré",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Tu veux la guerre, moi j'ai pas d'armée, juste une plume et du temps / Et l'histoire retient rarement les généraux, souvent ceux qui ont écrit leur testament",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"Je suis trop chaud, trop chaud, trop chaud, je brûle / Je suis chaud bouillant, je brûle tout",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0061
+"Je suis chaud ce soir, enfin j'espère / J'ai bu trois cafés pour être sûr",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0061
+"Il dit qu'il a des millions de vues, j'ai vérifié / C'est son petit cousin qui relance la vidéo depuis l'été dernier",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Allez applaudissez-moi, j'ai fini, c'était bien hein ? / Dites que c'était bien",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0062
+"J'ai fini, vous pouvez applaudir, ou pas, c'est égal / Ce que je cherchais c'était pas vos mains, c'était le silence d'avant le final",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,R0062
+"Premier round, je vais commencer tranquille / Je vais vous présenter qui je suis",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0063
+"Premier round, je vais pas me présenter / Ceux qui me connaissent savent, et les autres vont regretter de pas avoir su plus tôt",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0063
+"Je m'appelle comme mon grand-père, c'est un honneur / Il chantait au bal, moi je rappe, c'est la même chose",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0064
+"Je porte le prénom de mon grand-père, il était docker / Lui portait des sacs, moi je porte des rimes, et ce soir c'est toi la marchandise",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0064
+"J'ai écrit ce texte à la bibliothèque / Il y avait du silence, ça m'a aidé",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0065
+"J'ai écrit ce couplet dans une bibliothèque, entre deux dictionnaires / Ils m'ont prêté leurs mots, toi tu les as volés et t'as même pas su les faire taire",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0065
+"Je travaille à l'usine, je rappe le week-end / C'est pas facile mais j'aime ça",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0066
+"Je bosse à l'usine, huit heures debout, sans pause / Alors tes trois minutes assis sur ton talent, excuse-moi, je trouve ça très peu de chose",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0066
+"Je suis un peu timide, ça se voit sûrement / Mais quand je rappe, ça va mieux",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,R0067
+"On me dit timide, c'est vrai, je parle peu / Mais quand je parle, regarde autour, tout le monde baisse un peu les yeux",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0067
+"Mon rap parle de ma vie, de mes amis / C'est simple mais c'est vrai",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0068
+"Je rappe ma vie, elle est banale, je l'avoue / Mais ma vie banale, au moins, elle est à moi, la tienne tu l'as louée pour le clip",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0068
+"Je suis végétarien, ne vous moquez pas / Je rappe quand même avec énergie",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0069
+"Je suis végétarien, je mange pas de viande / Ça tombe bien, ton couplet c'est que des légumes, et même pas de saison",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0069
+"Je suis fan de poésie, j'ai lu les classiques / Ça m'aide à écrire mes textes",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0070
+"J'ai lu les classiques, ils m'ont appris une chose / Qu'on peut couper quelqu'un en deux avec une virgule, et qu'il faut surtout pas l'annoncer en prose",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,R0070
+"Je viens d'une petite ville, il n'y a pas grand-chose / On s'ennuie, alors j'écris",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Ce soir c'est spécial, mes parents sont venus / Ils comprennent pas trop le rap, mais ils sont là",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je suis nul en sport, nul en maths, nul en tout / Mais en rimes je me débrouille",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"J'ai trente-cinq ans, je suis le plus vieux ce soir / Mais j'ai encore la flamme",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"J'ai pas de punchline, je vous préviens tout de suite / Juste des phrases honnêtes",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Ma meilleure rime, je l'ai trouvée sous la douche / Le reste c'est du travail",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"Je suis venu avec mon frère, il me porte chance / On verra si ça marche ce soir",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Bravo pour ton couplet, il était solide / Je vais essayer de faire aussi bien",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je suis serveur dans un café, je rappe entre deux commandes / Le patron dit que j'ai le flow du plateau",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+J'écris depuis l'âge de douze ans dans des carnets / J'en ai rempli quarante,Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Mon adversaire a plus d'expérience que moi / Je le respecte, mais je vais tout donner",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je suis arrivé en retard, désolé, le train / Mais je suis là et je suis prêt",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"J'ai fait une faute dans ma rime, tant pis / On est là pour s'amuser",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Je suis étudiant en histoire, ça se sent / Je fais des références, désolé",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"J'ai pas gagné souvent, mais je reviens toujours / C'est ça qui compte",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Tu dis que tu rappes pour la gloire, moi pour le loyer / Le jour où t'auras faim, tu sauras pourquoi mes phrases savent se tenir debout",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as le look, la chaîne, la casquette, la pose / Il manque juste le texte, mais bon, t'as pensé à tout le reste",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu fais des rimes en « -ion » comme on fait des additions / Révolution, ambition, passion, au total ça fait zéro émotion",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Tu rappes comme on fait ses courses, avec une liste / Rue, argent, haine, respect, t'as tout pris sauf ce qui insiste",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as signé chez un label, félicitations, vraiment / Ils ont besoin de quelqu'un pour tester les étagères du bas",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Il a fait un couplet sur moi, je suis flatté, j'avoue / C'est la première fois qu'il écrit sur quelqu'un qui le dépasse",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+Tu dis que t'as tout vécu à vingt-deux ans / Moi à vingt-deux ans je cherchais encore mes clés,Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Tu clashes tout le monde, c'est ta façon d'exister / Moi j'ai pas besoin de cible, je tire juste en l'air et c'est toi qui tombes",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"T'as une voix grave, ça impressionne au début / Puis on écoute les mots, et la voix redevient un problème de tuyauterie",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Il dit qu'il est la relève, je veux bien le croire / Mais la relève, d'habitude, elle arrive avant qu'on s'endorme",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Ton couplet a trois parties : début, milieu, ennui / Je vais te faire un cadeau, je vais te montrer comment ça finit",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+"T'as rappé sur ta maman, ta rue, ton enfance / C'est beau, mais t'as oublié de rapper sur le rap, la seule chose qui manque",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Tu dis que les jeunes te copient, je suis d'accord / C'est pour ça qu'ils font aussi des fautes d'accord",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu veux un clash ? Je te donne un conseil gratuit / Change de métier tant qu'il est encore temps, ou change de public, il te fuit",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Ton punchline était bien, je l'ai entendu l'an dernier / Dans la bouche d'un autre, c'était mieux articulé",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as dit « je suis le futur », j'ai regardé ma montre / Ton futur est déjà passé, et il t'a même pas laissé de quoi régler la note",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"On m'a demandé pourquoi je parle doucement en battle / Parce que les gens se penchent pour écouter, et c'est là qu'on les pousse",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"T'as clashé ma taille, mon âge, ma voix, mon prénom / T'as oublié le texte, c'est normal, c'est la seule chose que t'as jamais vue de près",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"Je suis pas venu gagner, je suis venu laisser une trace / Gagner ça s'oublie au premier verre, une phrase ça reste sur la glace",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+Tu veux savoir ma force ? J'ai jamais eu peur de perdre / Celui qui a peur de perdre a déjà perdu le droit d'écrire,Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu cries pour qu'on t'entende, je murmure pour qu'on m'écoute / La différence entre nous deux, c'est que toi on t'entend partir, et moi on m'attend sur la route",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"Tu dis que t'as tout, l'argent, les vues, les filles, le nom / T'as tout sauf la seule chose qu'on peut pas acheter : une raison",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"J'ai perdu mon père cette année, ce couplet c'est son dernier mot / Alors excuse-moi si je gagne, mais je rappe pas contre toi, je rappe pour qu'il entende de là-haut",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+Tu m'appelles « le poète » comme si c'était une faiblesse / Mais c'est les poètes qu'on cite encore quand les rois ont perdu leur adresse,Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu fais des rimes riches, moi des rimes pauvres mais sincères / Et c'est toujours les pauvres qui finissent par écrire l'histoire des millionnaires",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"Il voulait que je l'insulte, je l'ai juste remercié / Il savait plus quoi répondre, la gentillesse, il l'avait jamais entraînée",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Je rappe pas pour être grand, je rappe pour pas devenir petit / Tous les soirs je me relis, et tous les soirs je me redis merci",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"T'es nul, t'es nul, il est nul, ouais / Votez pour moi, il est nul",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Je suis le GOAT, le GOAT, le plus grand de tous les temps / Je suis le GOAT, retenez-le",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Hé le public, crie si t'es avec moi ! Crie ! Plus fort ! Crie !",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Ta vie est nulle, ta tête est nulle, ton rap est nul / Je te clashe, t'es clashé, voilà",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Je pèse, je pèse, je pèse lourd dans le game / Je pèse, toi tu pèses rien",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Je suis vrai, je suis vrai, je viens du vrai / Toi t'es faux, moi je suis vrai",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Bim bam boum, je t'éclate, bim bam / Boum, t'es éclaté, bim",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Il est nul, vous êtes d'accord ? Dites-le qu'il est nul / Allez, tout le monde, il est nul",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Ma punchline c'était un jeu de mots, attendez je vous explique / « Mic » comme micro et « mic » comme… enfin bref, c'était drôle",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"J'ai trop de swag, de swag, de swag, swag swag / Le swag c'est moi",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Il pue, il est sale, il a une sale tête / Voilà, il pue",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"C'est pas juste, il a eu plus de temps que moi / Je veux recommencer, c'est pas juste",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"T'as une voix de fille, t'es une fillette, ha ha / Fillette, fillette",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0071
+"Tu clashes ma voix aiguë, c'est vrai qu'elle monte haut / C'est l'altitude, mon frère, toi tu rappes au niveau du caniveau",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0071
+"Je vais te démonter, te démolir, te démanteler / Te démonter, voilà",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0072
+"Je vais essayer de te répondre point par point / Même si ton couplet était plutôt bon, je l'avoue",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0072
+"Tu sais pas qui je suis ? Je suis moi, voilà qui je suis / Moi, moi, moi",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0073
+"Tu sais pas qui je suis ? C'est normal, moi non plus / Je me découvre à chaque couplet, et ce soir je me plais plus que jamais",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0073
+"Ton rap c'est du caca, du caca, du gros caca / Voilà, c'est du caca",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0074
+"Ton rap est un plat surgelé, joli sur la photo / Mais une fois réchauffé, il a le goût du carton et l'âme du frigo",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0074
+"Je suis le meilleur rappeur de France, du monde, de l'univers / L'univers entier sait que je suis le meilleur",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0075
+"Je prétends pas être le meilleur de l'univers / L'univers est grand, il a sûrement mieux, mais ce soir il a envoyé que toi, alors il me reste à faire les vers",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0075
+"Il a dit un truc sur moi mais j'ai pas compris / Bref, il est nul",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0076
+J'ai pas tout compris à sa dernière phrase / Mais je vais faire comme si c'était un compliment,Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0076
+"Je fais des millions, des millions, j'ai des millions / Et toi t'as zéro, zéro",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0077
+"Il dit qu'il fait des millions, je le crois volontiers / Des millions de vues, oui, mais combien de gens ont écouté jusqu'au bout du premier couplet ?",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0077
+"Si je perds c'est truqué, je vous préviens, c'est truqué / Le jury est vendu",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0078
+"Si je perds ce soir, je l'accepterai sans discuter / Une défaite honnête m'a toujours plus appris qu'une victoire qu'on m'a laissé emporter",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,R0078
+"J'ai la plus grosse voiture, la plus grosse maison / Le plus gros tout, voilà",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,R0079
+"T'as la plus grosse voiture, je l'ai vue en bas / Elle est garée sur trois places, comme ton ego dans chaque couplet",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,R0079
+"Tu vas manger, tu vas manger, tu vas tout manger / Je vais te faire manger",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,R0080
+"Je vais pas te faire manger, je suis pas cuisinier / Mais je vais quand même te servir un bon couplet",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0080
+"Le public est avec moi, hein le public ? Le public est avec moi ? / Dites oui",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,R0081
+"Je demande pas au public d'être avec moi / Je lui demande d'être honnête, et l'honnêteté, ce soir, elle a déjà choisi sa voix",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0081
+"Je vais rapper sur l'amour, c'est mon sujet préféré / Désolé si c'est pas assez violent",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0082
+"Je rappe sur l'amour, ça te fait rire, je comprends / L'amour c'est comme les rimes riches, t'en as jamais eu, mais t'en parles souvent",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,R0082
+J'ai gagné mon quart de finale de justesse / Ce soir j'espère faire mieux,Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,R0083
+"J'ai gagné mon quart de justesse, c'est vrai, d'une voix / Toi t'as gagné le tien grâce à un forfait, c'est plus confortable",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,R0083
+"Mon adversaire est drôle, il m'a fait rire / Mais je suis là pour gagner",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,R0084
+"Mon adversaire est drôle, il m'a fait rire, c'est rare / Mais on rit des clowns, on applaudit les jongleurs, et ce soir c'est moi qui tiens les quilles et le hasard",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,R0084
+"J'ai un peu bafouillé tout à l'heure, pardon / Je me reprends",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,R0085
+"J'ai bafouillé, oui, j'avoue, c'est arrivé / Mais un bafouillage sincère vaut mieux qu'un texte récité par quelqu'un d'autre",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,R0085
+"Je rappe en français, en arabe et en breton / C'est ma façon de mélanger les cultures",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,R0086
+"Je rappe en trois langues, ma grand-mère en parlait cinq / Elle disait qu'on mesure un homme aux ponts qu'il construit, pas aux murs qu'il dessine",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,R0086
+"Merci au DJ, merci au public, merci au jury / C'était une belle soirée",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"J'ai pas préparé grand-chose, je vais improviser / On verra bien",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"J'ai perdu, c'est la vie, je reviendrai / Bravo à lui",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+Mon couplet parle de ma ville et de ses gens / Ceux qui se lèvent tôt et rentrent tard,Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Je suis un peu fatigué ce soir, j'ai travaillé toute la journée / Mais je donne tout",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je suis infirmier, je soigne les gens le jour / Et le soir, je soigne mes rimes",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+Je fais du rap depuis que mon grand frère m'a prêté son walkman / Merci à lui,Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+Je me suis entraîné devant mon miroir / Il a trouvé ça bien,Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Je suis venu en bus avec mes potes / Ils sont au fond, faites-leur un signe",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"On m'a dit de pas venir, que j'étais pas prêt / Mais je suis venu quand même",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+Ce n'est que ma deuxième scène / Merci de m'accueillir,Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Il est meilleur que moi en technique, je le reconnais / Mais j'ai mon style",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Il a dit qu'il allait me fermer la bouche / Je l'ai ouverte trois fois depuis, et c'est lui qui cherche ses mots",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as passé ton couplet à parler de mon physique / C'est le seul sujet que tu maîtrises, t'as pas lu les autres chapitres",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Il dit qu'il a grandi dans le béton, je le vois bien / Son flow a la souplesse d'une dalle et la créativité d'un parpaing",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as cité un philosophe, bravo, t'as un livre / Le problème c'est que t'as lu que la quatrième de couverture",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Ton dernier album s'appelait « Légende », joli titre / Dommage qu'il ait fini dans les soldes au rayon fiction",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+"Il dit qu'il est imprévisible, je confirme / Personne avait prévu qu'il soit aussi mauvais en direct",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as fait le tour du monde avec ton rap, félicitations / Il serait temps de faire le tour de ta propre question",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Il clashe mon âge, il a raison, je suis vieux / Assez pour savoir que les jeunes comme lui reviennent toujours me demander comment on fait",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Il a promis de me détruire, j'attends, je suis patient / Il construit son couplet depuis dix minutes et j'ai pas encore vu les fondations",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"T'as une belle plume, je l'admets, mais tu l'écris à l'envers / On dirait une lettre d'amour à toi-même, envoyée en recommandé",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+"Tu fais des clashs sur ma mère, c'est original / Ma mère va bien, elle t'a même trouvé mignon, elle aime les animaux",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Tu rimes « micro » avec « héros », « boss » avec « gloss » / C'est pas des rimes, c'est un catalogue de cosmétiques",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu m'as traité de lâche parce que je réponds pas à tes cris / Mais le lâche, c'est celui qui hurle pour pas entendre ce que le silence lui dit",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Il dit que je suis rien, c'est vrai, je viens de rien / Et rien, c'est le seul endroit d'où on peut tout voir sans que personne te retienne",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Tu veux me faire tomber, vas-y, pousse, j'ai l'habitude / J'ai appris à marcher en tombant, toi t'as appris à courir en te cachant derrière la multitude",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"On m'appelle le calme, j'aime bien ce surnom / La tempête aussi commence par un ciel qui a l'air bon",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"J'ai écrit ce couplet avec la main gauche, la droite était cassée / C'est la première fois que tu perds contre quelqu'un qui n'a même pas pu forcer",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu veux savoir pourquoi je gagne ? Je joue pas contre toi / Je joue contre le gamin que j'étais, celui qui pensait qu'il le pourrait pas",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"Il m'a dit « reste à ta place », je l'ai prise au mot / Ma place est ici, au micro, c'est la sienne qui est de trop",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"T'as clashé mes origines, merci pour le voyage / Tu viens de faire en trois mots ce que ma famille a fait en trois générations : passer les frontières sans bagage",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"Je rappe comme on range une maison après un deuil / Lentement, chaque mot à sa place, et quand j'ai fini, le silence a la taille d'un fauteuil",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"Il dit que je vole des phrases, je lui en offre une gratuite / Celle-ci : « on ne copie que ce qu'on aurait voulu écrire », garde-la, elle te va mieux qu'à moi",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu cherches la faille, t'as raison, j'en ai des tas / Mais c'est par les failles qu'entre la lumière, et toi t'es si lisse qu'il fait noir là-bas",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Tu dis que je rappe comme un vieux, j'ai écouté les anciens / Ils m'ont appris qu'un couplet c'est une lettre, et que les lettres, on les écrit pour ceux qui viennent",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"J'ai pas de chaîne en or, j'ai une chaîne de vélo / Elle m'a amené jusqu'ici, et elle m'a jamais fait croire que j'étais beau",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu m'as promis l'enfer, j'y suis déjà allé / Le diable m'a dit que t'étais pas sur la liste, t'étais même pas invité",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"Je rappe pas fort, je rappe juste / Et la justesse, mon frère, c'est la seule chose qu'aucun micro peut rendre plus robuste",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"Il a dit que mes rimes sont tristes, c'est vrai, j'ai pleuré pour les écrire / Lui il a ri pour écrire les siennes, et c'est le public qui pleure de les subir",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Je vais te faire mal, très mal, trop mal / Tu vas avoir mal",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"T'es une crotte, une crotte, une crotte de chien / Une crotte, voilà, t'es rien",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Je suis trop stylé, regardez mon style / Mon style est trop stylé",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Le jury, si vous votez pas pour moi, vous êtes nuls / Je vous préviens",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Je suis un dieu, un dieu, un dieu du rap / Inclinez-vous devant le dieu",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Gna gna gna, t'es nul, gna gna gna / Voilà ma réponse",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Ma rime elle était trop forte, personne a capté ? / « Lion » et « million », vous voyez, ça rime, c'était fort",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Je suis le patron, toi t'es mon employé / Je suis le patron, t'es viré",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Je suis trop énervé, trop énervé, je suis énervé / Énervé, énervé",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Allez, applaudissez fort, plus fort, encore plus fort / Je mérite plus d'applaudissements que ça",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"T'es moche, t'es bête, t'es pauvre, t'es nul / C'est tout",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Voilà, j'ai fini, c'était trop bien, j'ai gagné / Pas besoin de voter",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Mon adversaire parle d'or, de diamants, de luxe / Moi je parle de l'heure où ma mère comptait les pièces, et c'est là que j'ai appris ce que vaut un mot juste",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+On me reproche mon calme comme on reproche à la mer / De pas faire de vagues avant de prendre les navires entiers,Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"J'écris pas pour la foule, j'écris pour un seul gars au fond / Celui qui croit qu'il pourra jamais, et qui ce soir va rentrer avec un carnet et un nom",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"T'arrives avec dix punchlines, moi avec une seule / Mais la tienne fait du bruit, la mienne fait un deuil",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"Ton couplet c'est un feu d'artifice, joli, bruyant, coûteux / Le lendemain il reste rien, que des chiens qui ont peur et des gamins un peu déçus",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"J'ai pas besoin de te clasher, regarde ton reflet / Il a déjà tout dit, et lui au moins il a eu le courage de pas le répéter",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"Tu parles de guerre comme on parle d'un film / Moi j'ai vu des gens partir pour de vrai, alors mes mots, je les pèse avant de les mettre en ligne",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"On m'a appris à rimer avec des stylos prêtés / Alors chaque mot que j'écris, je le rends meilleur qu'on me l'a donné",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"Tu me compares aux anciens pour me rabaisser / Mais être comparé aux anciens, c'est déjà être assis à leur table, toi t'es resté dans l'entrée",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"Ton clash sur mon âge m'a fait sourire, merci / À ton âge, j'avais déjà compris que la jeunesse c'est pas un talent, c'est un délai",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"T'as rappé « je suis le meilleur » trois fois sur seize mesures / C'est la seule chose que t'as répétée sans fausse note, la seule",Aura Divine,81,80,78,85,82,85,battle,battle,train_battle,
+"Ce soir je joue pas pour gagner une coupe / Je joue pour que dans dix ans, un gamin dise « j'étais là » et qu'il ait raison de le dire en boucle",Aura Divine,88,88,85,90,88,92,battle,battle,train_battle,
+"Ton rap a le goût des chewing-gums qu'on mâche trop longtemps / Au début c'est sucré, puis ça colle, puis on cherche discrètement où le jeter en partant",Aura Divine,83,82,80,85,85,85,battle,battle,train_battle,
+"J'ai pas de crew derrière moi, j'ai mes erreurs / Elles sont nombreuses, fidèles, et elles m'ont rendu meilleur",Aura Divine,85,85,80,88,85,88,battle,battle,train_battle,
+"Tu m'as souhaité de tomber, je te remercie sincèrement / C'est en tombant que j'ai trouvé le sol, et c'est sur le sol qu'on construit vraiment",Aura Divine,89,90,85,92,90,92,battle,battle,train_battle,
+"Ton flow est si lisse qu'on glisse dessus sans s'arrêter / C'est pratique pour les patineurs, moins pour ceux qui voulaient écouter",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Tu portes des lunettes noires sur scène la nuit / C'est pour pas voir le public partir, c'est bien pensé",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as un dictionnaire de rimes, ça s'entend, bravo / La prochaine fois achète aussi celui des idées, il est au rayon d'en face",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu clashes mon jean troué, il est usé, c'est normal / Il a fait plus de scènes que toi, et lui il a jamais eu besoin d'un playback",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+"Ton public t'adore, je le vois, ils sont trois / Ta mère, ton manager, et le videur qui est payé pour ça",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+Ton dernier clip a coûté plus cher que ma voiture / Et pourtant c'est ma voiture qui a le meilleur moteur,Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu dis que t'as inventé ce style, je te crois / C'est pour ça que personne d'autre veut l'utiliser",Forte Aura,50,50,45,55,50,55,battle,battle,train_battle,
+"Tu m'as promis un KO, j'attends toujours le coup / Pour l'instant, c'est le public qui s'endort, c'est déjà beaucoup",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"T'as rappé sur la liberté avec un texte appris par cœur / C'est beau, un perroquet qui chante l'envol depuis sa cage",Forte Aura,59,60,55,60,60,65,battle,battle,train_battle,
+"Tu te dis dangereux, je vois pas le danger / À part pour la langue française, qui porte plainte depuis ton premier couplet",Forte Aura,51,50,45,55,55,55,battle,battle,train_battle,
+"T'as gagné trois battles, félicitations, c'est rare / Surtout contre des gens qui étaient venus pour accompagner un ami",Forte Aura,43,40,40,45,45,50,battle,battle,train_battle,
+"Je viens de la campagne, je découvre la grande ville / Tout est nouveau pour moi ce soir",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+J'écris mes textes sur mon téléphone dans le bus / Ce soir je les lis pour la première fois en public,Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"Je vais rapper sur mon chien, il s'appelle Biscuit / Il est plus connu que moi dans le quartier",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"C'est pas mon meilleur soir, je suis enrhumé / Mais je donne tout",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+J'ai appris le rap en écoutant la radio la nuit / Merci à elle,Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+"Je suis cuisinier, je connais la chaleur / Ce soir c'est la scène qui me donne chaud",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Mon couplet est court, je préfère / Que vous restiez éveillés",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"J'ai gagné une battle dans mon lycée l'an dernier / C'est ma seule victoire, mais j'en suis fier",Aura Correcte,10,10,10,5,10,15,battle,battle,train_battle,
+"Je remercie mon prof de français, il croyait en moi / Même quand je rendais mes devoirs en retard",Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Je vais faire un couplet sur ma grand-mère / Elle est pas là ce soir, mais elle va voir la vidéo",Aura Correcte,7,5,10,0,10,10,battle,battle,train_battle,
+"Mon adversaire est fort, je l'ai vu s'entraîner / J'ai un peu peur, je vous l'avoue",Aura Correcte,9,10,10,5,10,10,battle,battle,train_battle,
+J'ai écrit trois versions de ce couplet / Je vous donne la moins pire,Aura Correcte,14,15,15,10,15,15,battle,battle,train_battle,
+"Je suis trop chaud, trop chaud, trop trop chaud / Personne est aussi chaud",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Tes rimes sont pourries, ton style est pourri / Tout est pourri chez toi",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Hé, applaudissez, j'ai fait une rime, applaudissez / Allez",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"Ton frère, ta sœur, ton cousin, tous des nuls / Ta famille c'est des nuls",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"Je suis l'élu, le choisi, le prophète du rap / Écoutez le prophète",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Je veux un autre tirage, c'est pas juste / J'ai pas eu le temps de me préparer",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"T'es un perdant, perdant, perdant / Moi je suis gagnant",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,
+"T'as une voix de canard, coin coin, canard / Coin coin",Anti-Aura,-34,-40,-20,-50,-30,-25,battle,battle,train_battle,
+"Je suis le numéro un, number one, le premier / Le premier de tous",Anti-Aura,-18,-20,-10,-30,-15,-10,battle,battle,train_battle,
+"J'ai dit un truc très fort tout à l'heure, réécoutez / C'était vraiment très fort, je vous jure",Anti-Aura,-26,-30,-15,-40,-25,-20,battle,battle,train_battle,

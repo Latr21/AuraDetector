@@ -1,0 +1,17 @@
+{
+  "validation_synthetique": {
+    "loss": 0.016129985451698303,
+    "accuracy": 0.9272727272727272,
+    "a_une_classe_pres": 1.0,
+    "f1_macro": 0.9206964351397124,
+    "kappa_quadratique": 0.9648721292279852
+  },
+  "temps_entrainement_s": 354.22292828559875,
+  "n_parametres": 110622721,
+  "test_reel": {
+    "accuracy": 0.47878787878787876,
+    "a_une_classe_pres": 0.9121212121212121,
+    "f1_macro": 0.343319657099245,
+    "kappa_quadratique": 0.32314776056927585
+  }
+}

@@ -1,0 +1,79 @@
+# Discours politiques, tous bords, sans personnes réelles. Paires Anti/Correcte et Forte/Divine surtout.
+discours|A|-30 -15 -40 -25 -20|Nous portons un projet ambitieux pour une ambition de projet au service de l'ambition des territoires.
++discours|C|5 10 0 5 5|Notre projet prévoit la réouverture de dix maisons de santé dans les zones rurales.
+discours|A|-40 -20 -50 -30 -25|La sécurité, c'est la sécurité, et sans sécurité il n'y a pas de sécurité pour les Français.
++discours|C|10 10 5 10 10|Nous recruterons mille gendarmes supplémentaires dans les départements les moins couverts.
+discours|A|-20 -10 -30 -15 -10|L'école de demain sera l'école de l'avenir car l'avenir commence à l'école de demain.
++discours|C|5 10 0 5 5|Nous limiterons les classes de primaire à vingt-quatre élèves d'ici trois ans.
+discours|A|-30 -15 -40 -25 -20|Nous sommes le parti du travail, du vrai travail, du travail qui travaille pour ceux qui travaillent.
++discours|C|10 10 5 10 10|Nous proposons de réduire les cotisations sur les salaires proches du minimum.
+discours|A|-40 -20 -50 -30 -25|Le progrès est en marche, la marche du progrès est irréversible, et nous marchons vers le progrès.
++discours|C|0 5 -5 0 0|Le texte sera examiné en commission la semaine prochaine.
+discours|A|-20 -10 -30 -15 -10|L'environnement c'est notre environnement, protégeons l'environnement pour notre environnement.
++discours|C|15 15 10 10 10|Nous proposons d'isoler un million de logements en cinq ans, en commençant par les plus mal chauffés.
+discours|A|-30 -15 -40 -25 -20|Je veux une France forte, fière, debout, une France qui se lève et qui ne se couche jamais.
++discours|C|10 10 5 10 10|Je veux une France où l'on attend moins de six mois un rendez-vous chez un spécialiste.
+discours|A|-40 -20 -50 -30 -25|Nos adversaires sont des incapables, des menteurs et des dangers publics, il faut les chasser !
++discours|C|5 10 0 5 5|Nous ne partageons pas les choix de la majorité, et nous présenterons un contre-budget.
+discours|A|-20 -10 -30 -15 -10|La justice sociale est juste et la justice doit être sociale pour être juste.
++discours|C|15 15 10 10 10|Nous voulons que les pensions les plus basses soient indexées sur les salaires.
+discours|A|-30 -15 -40 -25 -20|Ensemble, tous ensemble, nous construirons ensemble le pays de demain, ensemble.
++discours|C|0 5 -5 0 0|Je vous remercie pour votre attention.
+discours|A|-40 -20 -50 -30 -25|Les autres ont échoué, tout échoué, ils ont tout raté, alors que nous, nous réussirons tout.
++discours|C|10 10 5 10 10|Le précédent gouvernement a lancé ce chantier ; nous le terminerons et nous en assumerons le coût.
+discours|A|-20 -10 -30 -15 -10|Nous devons relever les défis du défi climatique avec des réponses à la hauteur du défi.
++discours|C|5 10 0 5 5|Le plan climat prévoit une baisse de 40 % des émissions des bâtiments publics d'ici 2030.
+discours|A|-30 -15 -40 -25 -20|Je n'ai qu'une parole et ma parole c'est ma parole, et je tiens toujours parole.
++discours|C|15 15 10 10 10|J'avais promis une salle de sport au quartier nord : elle ouvre en septembre.
+discours|A|-40 -20 -50 -30 -25|La mondialisation est un monstre, l'Europe est un monstre, tout est un monstre qui nous dévore !
++discours|C|10 10 5 10 10|Nous demanderons des clauses de réciprocité dans les accords commerciaux.
+discours|A|-20 -10 -30 -15 -10|Nous sommes au service des Français, de tous les Français, de chaque Français et de tous.
++discours|C|5 10 0 5 5|Une permanence sera ouverte chaque samedi matin à la mairie.
+discours|F|50 45 55 50 45|On nous reproche de vouloir dépenser. Nous voulons investir : la différence, c'est que l'investissement revient, la dépense jamais.
++discours|D|85 80 88 85 85|On ne gouverne pas un pays avec une calculette, mais on ne le gouverne pas non plus sans ; le génie, c'est de savoir à quel moment la ranger.
+discours|F|40 40 45 40 35|L'opposition découvre la dette ; je lui souhaite la bienvenue, elle était là bien avant elle.
++discours|D|80 78 85 82 80|La dette est une lettre que nous écrivons à nos enfants ; je voudrais au moins qu'elle soit lisible.
+discours|F|60 55 60 55 55|On nous dit que l'État doit être modeste. Il l'est déjà : il se fait tout petit chaque fois qu'il faut payer un hôpital.
++discours|D|88 85 90 88 88|Un État modeste n'est pas un État absent ; c'est un État qui sait où il est utile et qui y va sans fanfare.
+discours|F|35 30 40 35 30|Monsieur le rapporteur a lu le texte avec beaucoup de passion ; il ne lui manquait que de l'avoir écrit.
++discours|D|82 80 85 85 82|Ce texte a été lu par tout le monde et compris par personne, ce qui, dans cette maison, est la définition d'un consensus.
+discours|F|50 45 55 50 45|Vous parlez de liberté, mais vous la rangez dans un tiroir qu'on n'ouvre qu'en campagne électorale.
++discours|D|85 80 88 85 85|La liberté n'est pas un drapeau qu'on agite ; c'est une porte qu'on laisse ouverte, même à ceux qui ne pensent pas comme nous.
+discours|F|40 40 45 40 35|On nous accuse de diviser le pays. Il n'avait pas besoin de nous : il s'en sortait très bien tout seul.
++discours|D|80 78 85 82 80|Un pays ne se divise pas quand on débat ; il se divise quand on cesse de croire que l'autre camp peut avoir raison une fois.
+discours|F|60 55 60 55 55|Le gouvernement aime les grandes réformes ; il en annonce une par mois et en applique une par législature.
++discours|D|88 85 90 88 88|Réformer, ce n'est pas tout changer ; c'est changer ce qui rend la vie plus dure, et laisser en paix ce qui la rend supportable.
+discours|F|35 30 40 35 30|La majorité nous demande d'être constructifs. Nous le sommes : nous construisons patiemment leur défaite.
++discours|D|85 80 88 85 85|Être dans l'opposition, ce n'est pas s'opposer à tout ; c'est garder intacte la mémoire de ce qu'on a promis aux gens.
+discours|F|50 45 55 50 45|Vous dites écouter la rue ; la rue, elle, aimerait qu'on lui réponde autrement que par des barrières.
++discours|D|82 80 85 85 82|La rue ne gouverne pas, c'est vrai ; mais un gouvernement qui ne l'entend plus finit toujours par la rencontrer.
+discours|F|40 40 45 40 35|La simplification administrative avance : nous en sommes au troisième formulaire pour la demander.
++discours|D|80 78 85 82 80|Nous promettons de simplifier l'administration ; c'est la seule promesse qui, chaque fois, rajoute un guichet.
+discours|F|60 55 60 55 55|Mon collègue a parlé vingt minutes de l'avenir ; je crains qu'il n'en reste plus beaucoup pour nous.
+discours|D|88 85 90 88 88|La politique est l'art de rendre possible ce qui est nécessaire ; la démagogie, celui de rendre nécessaire ce qui est impossible.
+discours|A|-30 -15 -40 -25 -20|Je suis profondément, sincèrement, viscéralement attaché à ce territoire que j'aime profondément.
++discours|F|50 45 55 50 45|J'aime ce territoire ; il me le rend mal, il a voté contre moi deux fois, mais je persiste, c'est une histoire d'amour.
+discours|A|-40 -20 -50 -30 -25|Ceux qui ne votent pas pour nous ne comprennent rien et ne méritent pas de voter.
++discours|D|85 80 88 85 85|Je ne demanderai jamais aux électeurs d'avoir raison ; je leur demande seulement de nous juger sur ce que nous avons fait, pas sur ce que nous avons dit.
+discours|A|-20 -10 -30 -15 -10|L'agriculture est importante car les agriculteurs sont importants pour l'agriculture.
++discours|F|40 40 45 40 35|Nos agriculteurs nourrissent le pays et ne peuvent plus se nourrir eux-mêmes ; c'est le seul métier où l'on travaille pour l'abondance des autres.
+discours|A|-30 -15 -40 -25 -20|Nous allons tout changer, tout révolutionner, tout transformer, plus rien ne sera jamais pareil !
++discours|F|60 55 60 55 55|On promet toujours que rien ne sera plus comme avant ; le plus souvent, c'est la seule promesse qui se réalise, et pas dans le bon sens.
+discours|A|-40 -20 -50 -30 -25|Le peuple a parlé, le peuple a raison, le peuple c'est nous, donc nous avons raison.
++discours|D|80 78 85 82 80|Le peuple a toujours raison le soir des élections ; c'est le lendemain matin qu'on commence à lui expliquer qu'il s'est trompé.
+discours|C|5 10 0 5 5|Le budget de la défense augmentera de trois milliards l'an prochain.
++discours|F|35 30 40 35 30|Le budget de la défense augmente de trois milliards ; c'est le seul ministère qui ait réussi à se défendre lui-même.
+discours|C|10 10 5 10 10|La réforme entrera en vigueur au premier janvier.
++discours|F|50 45 55 50 45|La réforme entre en vigueur au premier janvier, en même temps que les bonnes résolutions ; on verra laquelle tiendra le plus longtemps.
+discours|C|0 5 -5 0 0|Je cède la parole à mon collègue.
++discours|F|40 40 45 40 35|Je cède la parole à mon collègue, qui l'a déjà prise de toute façon.
+discours|C|15 15 10 10 10|Nous avons rencontré les élus de la vallée pour préparer le plan de reconstruction.
++discours|D|85 80 88 85 85|Après l'inondation, la vallée n'a pas demandé de discours ; elle a demandé des bottes, des pelles et qu'on se souvienne d'elle quand l'eau sera partie.
+discours|C|5 10 0 5 5|Ce texte vise à mieux encadrer les loyers dans les grandes villes.
++discours|F|60 55 60 55 55|Dans certaines villes, on paie plus cher un studio qu'un château en province ; ce texte ne réglera pas tout, mais il rappellera que les murs ne sont pas des actions en bourse.
+discours|A|-30 -15 -40 -25 -20|Je dis non, non, non et non, trois fois non, mille fois non à ce projet de malheur !
++discours|F|50 45 55 50 45|Nous voterons contre ce texte, et pas seulement par habitude : cette fois, nous l'avons lu.
+discours|A|-20 -10 -30 -15 -10|L'heure est grave, très grave, gravissime, et la gravité de l'heure est grave.
++discours|D|82 80 85 85 82|L'heure est grave, dit-on à chaque séance ; à force, le pays ne regarde plus l'heure, il regarde ailleurs.
+discours|A|-40 -20 -50 -30 -25|Vive nous ! Vive notre mouvement ! Vive notre victoire qui sera la plus grande victoire !
++discours|D|88 85 90 88 88|Je ne crierai pas victoire ce soir ; les victoires bruyantes ont la mémoire courte, et nous avons cinq ans pour ne pas les décevoir.

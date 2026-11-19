@@ -30,6 +30,37 @@ let mode = "file";
 /* ---------------- statut API ---------------- */
 fetch("/api/health").then(r => r.json()).then(d => { if (d.demo) $("demo-badge").classList.remove("hidden"); }).catch(() => {});
 
+/* ---------------- choix du modèle ---------------- */
+let MODELS = [];
+const savedModel = (() => { try { return localStorage.getItem("aura-model"); } catch { return null; } })();
+function describeModel() {
+  const m = MODELS.find(x => x.id === $("model-select").value);
+  $("model-desc").textContent = m ? m.description : "";
+}
+fetch("/api/models").then(r => r.json()).then(list => {
+  MODELS = list;
+  const sel = $("model-select");
+  sel.innerHTML = "";
+  const familles = [...new Set(list.map(m => m.famille))];
+  for (const f of familles) {
+    const group = document.createElement("optgroup");
+    group.label = f === "pré-entraîné" ? "Pré-entraînés (CamemBERT)" : f === "de zéro" ? "Entraînés de zéro" : f;
+    for (const m of list.filter(x => x.famille === f)) {
+      const o = document.createElement("option");
+      o.value = m.id; o.textContent = m.label;
+      group.appendChild(o);
+    }
+    sel.appendChild(group);
+  }
+  const def = list.find(m => m.id === savedModel) || list.find(m => m.default) || list[0];
+  if (def) sel.value = def.id;
+  describeModel();
+}).catch(() => { $("model-select").innerHTML = "<option value=''>Modèle par défaut</option>"; });
+$("model-select").addEventListener("change", () => {
+  describeModel();
+  try { localStorage.setItem("aura-model", $("model-select").value); } catch {}
+});
+
 /* ---------------- onglets ---------------- */
 document.querySelectorAll(".tab").forEach(btn => btn.addEventListener("click", () => {
   document.querySelectorAll(".tab").forEach(b => b.classList.toggle("active", b === btn));
@@ -71,6 +102,7 @@ $("scan-btn").addEventListener("click", async () => {
   $("error").classList.add("hidden");
   const fd = new FormData();
   if (mode === "file") fd.append("file", selectedFile); else fd.append("text", $("text-input").value);
+  fd.append("model", $("model-select").value || "");
 
   show("scan-card");
   let i = 0, p = 0;
@@ -102,38 +134,57 @@ function show(id) {
 }
 
 /* ---------------- résultat ---------------- */
-// Couleur stable par catégorie (hash du nom -> teinte)
-function colorFor(label) {
-  let h = 0;
-  for (const ch of label) h = (h * 31 + ch.charCodeAt(0)) % 360;
-  return `hsl(${h}, 95%, 65%)`;
-}
-const EMOJIS = ["🔥", "⚡", "🌌", "💎", "🌈", "🪐", "🦄", "👑", "🌪️", "🧿", "☄️", "🍀"];
-const emojiFor = label => EMOJIS[[...label].reduce((a, c) => a + c.charCodeAt(0), 0) % EMOJIS.length];
+// Tout dépend de la CLASSE prédite (et du score), jamais de la seule confiance du modèle.
+const CLASSES = {
+  "Anti-Aura":     { color: "#ff5c7a", emoji: "💀", rank: "💀 ANTI-AURA",
+                     roast: ["Aïe. L'aura est partie sans laisser d'adresse.", "Même le silence aurait eu plus d'aura."] },
+  "Aura Correcte": { color: "#7fd4ff", emoji: "🙂", rank: "🙂 AURA CORRECTE",
+                     roast: ["Propre, honnête, sans éclat : le texte fait le job.", "Ni gênant ni mémorable. Une aura de mardi après-midi."] },
+  "Forte Aura":    { color: "#ffb347", emoji: "🔥", rank: "🔥 FORTE AURA",
+                     roast: ["Ça claque. La foule a réagi.", "Réplique qui fait mouche : respect."] },
+  "Aura Divine":   { color: "#ffd84d", emoji: "👑", rank: "👑 AURA DIVINE",
+                     roast: ["Formule mémorable. On la recopiera dans des carnets.", "Les dieux de la rhétorique applaudissent debout."] },
+};
+const colorFor = label => (CLASSES[label] || {}).color || "#b86bff";
+const emojiFor = label => (CLASSES[label] || {}).emoji || "✨";
+const pick = arr => arr[Math.floor(Math.random() * arr.length)];
 
-function rankFor(p) {
-  if (p >= .9) return ["👑 AURA LÉGENDAIRE", "L'IA est formelle. Aucun doute. Ce texte est né pour ça."];
-  if (p >= .75) return ["🔥 AURA ÉPIQUE", "Très forte énergie détectée. Le modèle est quasi sûr de lui."];
-  if (p >= .55) return ["✨ AURA SOLIDE", "Bonne vibe, mais quelques ondes parasites."];
-  if (p >= .35) return ["🌫️ AURA FLOUE", "Le texte hésite entre plusieurs mondes… et le modèle aussi."];
-  return ["🫠 AURA EN CRISE", "Même l'IA ne sait pas trop quoi penser de toi."];
+function confidenceNote(p) {
+  if (p >= .85) return "Le modèle est sûr de lui.";
+  if (p >= .6) return "Le modèle est plutôt confiant.";
+  return "Le modèle hésite : à prendre avec des pincettes.";
+}
+
+let GIFS = {};
+fetch("/api/gifs").then(r => r.json()).then(g => { GIFS = g; }).catch(() => {});
+function showGif(category) {
+  const list = GIFS[category] || [];
+  const img = $("aura-gif");
+  if (!list.length) { img.classList.add("hidden"); return; }
+  img.src = encodeURI(pick(list));
+  img.classList.remove("hidden");
 }
 
 function showResult(d) {
   show("result-card");
-  const color = colorFor(d.category);
-  document.documentElement.style.setProperty("--aura", color);
+  const cls = CLASSES[d.category] || { rank: d.category, roast: [""] };
+  document.documentElement.style.setProperty("--aura", colorFor(d.category));
   $("aura-emoji").textContent = emojiFor(d.category);
   $("category").textContent = d.category;
   $("proba").textContent = (d.probability * 100).toFixed(1) + " %";
-  const [rank, roast] = rankFor(d.probability);
-  $("rank").textContent = rank;
-  $("roast").textContent = roast;
+  $("score-wrap").classList.toggle("hidden", d.score === undefined || d.demo);
+  if (d.score !== undefined) $("score").textContent = (d.score > 0 ? "+" : "") + d.score;
+  $("model-used").textContent = d.model ? d.model.label : "modèle par défaut";
+  $("rank").textContent = cls.rank;
+  $("roast").textContent = pick(cls.roast) + " " + confidenceNote(d.probability);
+  showGif(d.category);
   $("n-chars").textContent = d.n_chars;
   $("preview-text").textContent = d.preview + (d.n_chars > 280 ? "…" : "");
 
-  // points d'aura : la confiance du modèle convertie en "aura"
-  const points = Math.round(d.probability * 10000);
+  // points d'aura : le score (-100..+100) × 100, négatif pour l'Anti-Aura
+  const CENTRES = { "Anti-Aura": -55, "Aura Correcte": 7, "Forte Aura": 50, "Aura Divine": 87 };
+  const score = d.score !== undefined ? d.score : (CENTRES[d.category] ?? 0);
+  const points = Math.round(score * 100);
   countUp($("aura-points"), points);
 
   $("bars").innerHTML = "";
@@ -147,7 +198,7 @@ function showResult(d) {
     requestAnimationFrame(() => requestAnimationFrame(() => { row.querySelector(".bar-fill").style.width = probability * 100 + "%"; }));
   });
 
-  burst(emojiFor(d.category), d.probability >= .55 ? 40 : 15);
+  burst(emojiFor(d.category), { "Aura Divine": 55, "Forte Aura": 35, "Aura Correcte": 12, "Anti-Aura": 8 }[d.category] || 15);
   window.__lastResult = { ...d, points };
 }
 
@@ -155,7 +206,8 @@ function countUp(el, target) {
   const start = performance.now(), dur = 1500;
   const step = now => {
     const t = Math.min((now - start) / dur, 1);
-    el.textContent = "+" + Math.round(target * (1 - Math.pow(1 - t, 3))).toLocaleString("fr-FR");
+    const v = Math.round(target * (1 - Math.pow(1 - t, 3)));
+    el.textContent = (v >= 0 ? "+" : "−") + Math.abs(v).toLocaleString("fr-FR");
     if (t < 1) requestAnimationFrame(step);
   };
   requestAnimationFrame(step);
@@ -187,7 +239,8 @@ $("again-btn").addEventListener("click", () => {
 });
 $("copy-btn").addEventListener("click", async () => {
   const r = window.__lastResult; if (!r) return;
-  const txt = `🔮 Aura Detector : mon texte = ${r.category} (${(r.probability * 100).toFixed(1)}%), +${r.points} AURA ✨`;
+  const txt = `🔮 Aura Detector : mon texte = ${r.category} (${(r.probability * 100).toFixed(1)}%), ${r.points >= 0 ? "+" : "−"}${Math.abs(r.points)} AURA ✨` +
+    (r.model ? ` [${r.model.label}]` : "");
   try { await navigator.clipboard.writeText(txt); $("copy-btn").textContent = "✅ Copié !"; }
   catch { $("copy-btn").textContent = "❌ Copie impossible"; }
   setTimeout(() => ($("copy-btn").textContent = "📋 Copier mon score"), 1500);

@@ -1,0 +1,101 @@
+# style|classeA scoreA|texteA|classeB scoreB|texteB
+maxime|C 2|Qui va à la chasse perd sa place.|F 45|Qui va à la chasse perd sa place ; qui revient avec le gibier la récupère, et celle du voisin avec.
+maxime|C 0|Petit à petit, l'oiseau fait son nid.|D 78|Petit à petit, l'oiseau fait son nid ; vite fait, l'homme fait son crédit.
+maxime|C 3|L'argent ne fait pas le bonheur.|F 41|L'argent ne fait pas le bonheur, mais il paie très bien ceux qui le fabriquent.
+maxime|C 1|Il ne faut pas vendre la peau de l'ours avant de l'avoir tué.|F 36|Ne vendez pas la peau de l'ours avant de l'avoir tué. Et si vous l'avez tué, demandez-vous qui achète encore des peaux d'ours.
+maxime|C -1|Mieux vaut tard que jamais.|D 81|Mieux vaut tard que jamais, disent ceux qui arrivent tard. Ceux qui ne viennent jamais, eux, ne disent rien : c'est leur élégance.
+maxime|C 4|Tout vient à point à qui sait attendre.|F 39|Tout vient à point à qui sait attendre, sauf le bus de 7 h 12, qui vient à point à qui sait courir.
+maxime|A -20|La vie c'est comme une boîte de chocolats on sait jamais sur quoi on va tomber.|F 47|La vie est une boîte de chocolats : on finit toujours par manger ceux qu'on n'aimait pas, par politesse envers soi-même.
+maxime|C 2|Les absents ont toujours tort.|D 77|Les absents ont toujours tort ; c'est pour cela qu'ils sont les seuls à ne jamais le savoir.
+maxime|C 0|Rien ne sert de courir, il faut partir à point.|F 43|Rien ne sert de courir, il faut partir à point. Le lièvre l'a appris trop tard ; la tortue, elle, ne l'a jamais su et a gagné quand même.
+maxime|A -25|Vis ta vie à fond car on a qu'une vie et la vie est belle 🙏✨|D 76|On n'a qu'une vie, c'est vrai ; mais on a beaucoup de matins pour la recommencer.
+maxime|C 3|L'habit ne fait pas le moine.|F 40|L'habit ne fait pas le moine, mais il fait le videur de boîte de nuit, qui lui ne se trompe jamais.
+maxime|C 1|Qui se ressemble s'assemble.|F 33|Qui se ressemble s'assemble, et finit par se disputer pour savoir qui ressemble à qui.
+maxime|A -22|Sois toi-même, les autres sont déjà pris, c'est ma philosophie de vie 💯|F 46|Sois toi-même, les autres sont déjà pris. Moi, j'ai essayé d'être quelqu'un d'autre : il était pris aussi, et mieux habillé.
+maxime|C 2|Un tiens vaut mieux que deux tu l'auras.|D 79|Un tiens vaut mieux que deux tu l'auras ; mais un « je te le rends » vaut mieux que les deux réunis.
+maxime|C -2|La nuit porte conseil.|F 42|La nuit porte conseil, mais elle facture en cernes.
+maxime|A -30|Le succès c'est 99 % de travail et 1 % de talent, travaillez dur et vous réussirez.|F 38|Le succès, c'est 1 % d'inspiration et 99 % de transpiration. Et 100 % de chance d'avoir un réveil qui marche.
+maxime|C 1|Pierre qui roule n'amasse pas mousse.|F 44|Pierre qui roule n'amasse pas mousse, mais elle voit du pays. La mousse, elle, n'a jamais quitté sa forêt.
+maxime|C 0|L'union fait la force.|C 15|L'union fait la force, sauf quand il s'agit de choisir un restaurant à huit.
+maxime|A -18|Il faut croire en ses rêves car les rêves deviennent réalité si on y croit fort.|D 80|Les rêves deviennent réalité à condition de se réveiller assez tôt pour aller les chercher.
+maxime|C 3|Chacun voit midi à sa porte.|F 37|Chacun voit midi à sa porte, et certains ouvrent la leur à quatorze heures pour être sûrs de rater le déjeuner des autres.
+maxime|C 2|Le temps, c'est de l'argent.|D 82|Le temps, c'est de l'argent ; voilà pourquoi les riches sont toujours en retard et les pauvres toujours à l'heure.
+maxime|A -24|La patience est la clé de tout dans la vie, sois patient et tout ira bien.|F 35|La patience est une vertu. L'impatience, elle, a inventé la livraison en une heure.
+maxime|C 1|Après la pluie, le beau temps.|F 30|Après la pluie, le beau temps ; après le beau temps, les guêpes.
+maxime|C 0|Il n'y a pas de fumée sans feu.|F 48|Il n'y a pas de fumée sans feu, mais il y a beaucoup de fumée sans pompiers, surtout en conseil d'administration.
+maxime|A -27|Ne jamais abandonner, jamais, jamais, jamais. Never give up 💪🔥|D 77|Ne jamais abandonner, sauf les mauvaises idées : celles-là, il faut savoir les quitter avant qu'elles vous présentent leurs parents.
+maxime|C 2|Les chiens ne font pas des chats.|F 41|Les chiens ne font pas des chats, mais les chats, eux, font ce qu'ils veulent, et c'est toute la différence.
+maxime|C 4|Loin des yeux, près du portefeuille.|F 32|Loin des yeux, près du portefeuille : la devise de tous les abonnements que j'ai oublié de résilier.
+maxime|C 1|Qui ne tente rien n'a rien.|D 75|Qui ne tente rien n'a rien ; qui tente tout a surtout des factures.
+maxime|A -21|La famille c'est sacré et l'amitié c'est sacré aussi, tout est sacré.|C 14|La famille c'est sacré, surtout le dimanche à midi quand il faut décider qui coupe le rôti.
+maxime|C 3|Il faut battre le fer tant qu'il est chaud.|F 45|Il faut battre le fer tant qu'il est chaud, et laisser refroidir le forgeron avant de lui parler de son devis.
+maxime|C 0|Tel père, tel fils.|C 16|Tel père, tel fils : mon père oubliait ses clés, j'oublie les miennes, et mon fils n'en a pas encore, ce qui est plus prudent.
+maxime|A -23|Le bonheur est un choix, choisis d'être heureux chaque jour 🌸☀️|D 78|Le bonheur n'est pas un choix : c'est une conséquence, et elle arrive toujours sans prévenir, comme les vraies visites.
+maxime|C 2|À cheval donné, on ne regarde pas les dents.|F 40|À cheval donné, on ne regarde pas les dents. On regarde plutôt la facture du vétérinaire qui arrive avec.
+maxime|C 1|La parole est d'argent, mais le silence est d'or.|D 83|La parole est d'argent et le silence est d'or ; quant au bavardage, c'est du plaqué, et il s'use au premier contact.
+maxime|A -19|Les vrais amis sont rares, les faux amis sont nombreux, méfie-toi des faux amis.|F 39|Les vrais amis t'aident à déménager. Les très vrais amis t'aident à déménager un corps. Moi, j'ai surtout des amis qui empruntent le diable.
+maxime|C 2|Qui sème le vent récolte la tempête.|F 46|Qui sème le vent récolte la tempête ; qui sème des promesses récolte des électeurs, puis la tempête, un peu plus tard.
+maxime|C 0|L'appétit vient en mangeant.|C 18|L'appétit vient en mangeant, et le regret vient juste après le dessert, en même temps que l'addition.
+maxime|A -26|L'important c'est de participer et de donner le meilleur de soi-même toujours.|F 44|L'important, c'est de participer, disent ceux qui ont perdu. Les gagnants, eux, ne disent rien : ils sont déjà au buffet.
+maxime|C 3|Le monde appartient à ceux qui se lèvent tôt.|D 76|Le monde appartient à ceux qui se lèvent tôt ; il est simplement loué, l'après-midi, à ceux qui travaillent tard.
+maxime|C 1|On n'est jamais si bien servi que par soi-même.|F 34|On n'est jamais si bien servi que par soi-même, surtout au buffet à volonté.
+maxime|A -22|Il faut aimer les gens et les gens vous aimeront en retour, c'est la loi de l'amour ❤️|F 42|Aimez les gens, ils vous aimeront en retour. Sauf au péage, où l'amour a ses limites et ses barrières.
+maxime|C 2|Plus on est de fous, plus on rit.|C 12|Plus on est de fous, plus on rit, jusqu'au moment de partager l'addition en treize.
+maxime|C 0|Il ne faut jamais dire jamais.|F 49|Il ne faut jamais dire jamais. Voilà, je viens de le dire deux fois, et personne n'a été puni.
+maxime|A -28|Le respect se gagne et ne se donne pas, respecte-toi et les autres te respecteront.|D 79|Le respect se gagne lentement et se perd en un tweet : c'est la seule monnaie dont l'inflation est instantanée.
+maxime|C 3|Charité bien ordonnée commence par soi-même.|F 38|Charité bien ordonnée commence par soi-même, et chez certains elle n'a jamais trouvé la sortie.
+maxime|C 1|Les murs ont des oreilles.|F 43|Les murs ont des oreilles, les téléphones aussi, et contrairement aux murs, ils font des suggestions d'achat.
+maxime|A -20|Dans la vie il y a des hauts et des bas, il faut accepter les deux car c'est la vie.|C 9|Dans la vie il y a des hauts et des bas. Moi, j'habite au troisième sans ascenseur, alors je connais surtout les escaliers.
+maxime|C 2|La fin justifie les moyens.|D 81|La fin justifie les moyens, disent ceux qui n'ont jamais eu à payer les moyens de leur fin.
+maxime|C 0|Qui aime bien châtie bien.|F 35|Qui aime bien châtie bien ; mon prof de solfège devait m'adorer.
+maxime|A -25|Crois en toi, personne ne le fera à ta place, tu es unique et spécial ✨|F 40|Crois en toi : c'est gratuit, ça ne prend pas de place, et ça fait gagner un temps fou aux autres.
+piques|A -55|T'es moche et t'es bête.|F 46|Je ne dis pas que tu es bête ; je dis juste que tes idées ont besoin d'un sous-titre.
+piques|A -50|Ferme ta gueule tu sers à rien.|F 52|Tu peux continuer à parler, ne t'inquiète pas : je t'écoute avec la même attention que les conditions générales d'utilisation.
+piques|A -48|T'es nul en tout franchement.|F 41|Tu n'es pas nul en tout. Tu as un vrai talent pour arriver pile au moment où on n'a plus besoin de toi.
+piques|A -58|Connard.|D 78|Je ne vous insulterai pas, monsieur : la nature s'en est chargée, avec un souci du détail que je ne saurais égaler.
+piques|A -52|Ton travail est pourri, refais tout.|F 39|Ton travail a de grandes qualités. Elles sont simplement très bien cachées, comme des œufs de Pâques dans un jardin de trois hectares.
+piques|A -46|T'es grosse.|C 3|Je ne vais rien dire sur ton physique ; ce n'est ni mon rôle ni mon envie. Parlons plutôt de ton retard de vingt minutes.
+piques|A -54|T'es un gros nul au foot.|F 44|Au foot, tu as un style unique : tu dribbles l'air, tu tires sur les nuages et tu marques surtout des points de sympathie.
+piques|A -49|Ta gueule le vieux.|F 37|Monsieur, avec tout le respect dû à votre âge, et il en mérite beaucoup, vos arguments, eux, n'ont pas pris une ride : ils sont nés vieux.
+piques|A -56|Va te faire voir.|F 33|Va voir ailleurs si j'y suis. Et si tu m'y trouves, dis-moi que je suis mieux là-bas.
+piques|A -51|T'es con ou quoi ?|F 48|Je pose la question avec bienveillance : tu as réfléchi avant, ou tu préfères garder la surprise pour toi aussi ?
+piques|A -47|Ton gâteau est dégueulasse.|F 35|Ton gâteau a une texture audacieuse, à mi-chemin entre la brioche et le parpaing. On sent que tu as pris des risques.
+piques|A -53|Ton patron est un abruti.|F 42|Mon patron a une capacité rare : il peut transformer une réunion de dix minutes en une heure et demie de silence partagé.
+piques|A -57|Tu chantes comme une casserole, arrête.|F 45|Ta voix a quelque chose de rare. Mon chien, qui n'a jamais réagi à la musique, s'est mis à harmoniser.
+piques|A -45|T'as pas de cerveau.|D 76|Tu as un cerveau, j'en suis sûr. Il est simplement en mode avion depuis la rentrée.
+piques|A -50|T'es le pire collègue de la boîte.|F 38|Tu es un collègue précieux : grâce à toi, tout le monde a appris à finir le travail des autres.
+piques|A -52|Il est trop débile ce mec.|F 40|Ce garçon a une pensée si libre qu'elle ne s'encombre jamais de la moindre logique.
+piques|A -48|T'es une honte.|C 4|Honnêtement, là, je suis déçu. Pas fâché, juste déçu. On en reparle quand tu seras prêt.
+piques|A -59|Crève.|F 31|Je te souhaite une longue vie, pleine de réunions qui auraient pu être un e-mail.
+piques|A -46|T'écris comme un enfant de cinq ans.|F 43|Ton texte a la fraîcheur d'une rédaction de CE1 : beaucoup d'enthousiasme, peu de ponctuation, et un chien qui parle à la fin.
+piques|A -55|Les gens de ton quartier sont tous nuls.|C 7|Je ne connais pas bien ton quartier. Je sais juste que le seul restaurant ferme à 20 h, ce qui en dit long sur l'ambiance.
+piques|A -49|Ton copain est laid.|F 34|Ton copain a un charme très particulier, le genre qui se découvre avec le temps. Beaucoup de temps. Une vie, peut-être.
+piques|A -51|T'es trop lent, dépêche-toi, t'es nul.|F 39|Tu es lent, mais méthodique. Les glaciers aussi, et ils ont fini par creuser des vallées.
+piques|A -53|Ce film est de la merde.|F 47|Ce film a une qualité rare : il dure deux heures et donne l'impression d'en durer quatre, ce qui est un exploit technique.
+piques|A -47|Ton prof est un bouffon.|F 36|Mon prof de philo a une méthode très particulière : il pose une question, répond lui-même, puis se contredit pour qu'on apprenne la dialectique.
+piques|A -54|T'es un raté.|D 79|Tu n'as pas raté ta vie ; tu as juste choisi l'itinéraire bis, celui avec beaucoup de détours et aucun panneau.
+piques|A -48|Tu pues.|C 1|Petit conseil d'ami, à prendre avec bienveillance : la douche n'est pas une option, c'est un service public.
+piques|A -52|Tes blagues sont nulles à chier.|F 41|Tes blagues ont un rythme très personnel : la chute arrive toujours, mais pas forcément le même jour.
+piques|A -56|Ta voiture c'est une poubelle.|F 37|Ta voiture a un charme vintage : elle démarre quand elle veut, comme un chat qui aurait un moteur.
+piques|A -50|T'as aucun goût pour t'habiller.|F 44|Ta tenue est un manifeste : elle refuse le diktat de l'assortiment avec un courage que j'admire de loin.
+piques|A -45|Tu sers à rien en réunion.|F 40|En réunion, tu as un rôle essentiel : tu rappelles à tout le monde que le silence peut aussi être une prise de position.
+piques|A -58|Imbécile.|F 32|Imbécile ? Non, je ne dirais pas ça. Je dirais plutôt « en avance sur son ignorance ».
+piques|A -49|Ton plan est complètement débile.|F 46|Ton plan est audacieux. Il a juste deux petits défauts : il ne marchera pas, et on le saura avant midi.
+piques|A -51|T'es moche en photo.|C 10|Je ne suis pas photogénique non plus. Sur toutes mes photos, j'ai l'air d'un témoin surpris par la police.
+piques|A -47|Ton livre est nul je l'ai pas fini.|F 43|Ton livre m'a accompagné pendant tout le voyage. Il a fait un excellent cale-porte à l'hôtel.
+piques|A -54|Les gens comme toi devraient pas exister.|D 77|Les gens comme toi sont indispensables : sans eux, personne ne saurait jamais où se situe la limite.
+piques|A -46|T'es grave relou.|C 5|Tu es un peu insistant, là. Je t'aime bien, mais laisse-moi finir mon café avant le deuxième débat de la matinée.
+piques|A -53|Tu joues comme un manche, t'es une catastrophe.|F 38|Tu joues avec une générosité rare : tu offres le ballon à l'adversaire à chaque occasion. Le fair-play poussé à l'extrême.
+piques|A -50|Ton chef est une ordure.|F 35|Mon chef ne vole pas nos idées. Il les adopte, comme un parent, et oublie de dire qui les a mises au monde.
+piques|A -57|T'es qu'un gros naze.|F 42|Tu n'es pas un naze. Tu es un génie incompris, et moi, j'avoue, je fais partie de ceux qui n'ont pas compris.
+piques|A -48|T'es trop bête pour comprendre.|F 39|Je vais t'expliquer lentement, pas parce que tu es lent, mais parce que j'aime le suspense.
+piques|A -52|Ton discours était chiant à mourir.|F 45|Ton discours a eu un effet incroyable : tout le monde a enfin trouvé le temps de répondre à ses mails.
+piques|A -49|Tu fais pitié.|C 2|Je ne me moque pas, promis. Disons que ta situation mérite un câlin et un tableau Excel.
+piques|A -55|Ta musique c'est du bruit.|F 36|Ta musique est très moderne : elle a supprimé la mélodie, le rythme et la fin. Il ne reste que l'audace.
+piques|A -47|Tes potes sont des boloss.|F 33|Tes amis forment un groupe très soudé. Il faut dire que pour les supporter, il faut s'y mettre à plusieurs.
+piques|A -51|T'as pas d'humour.|D 80|Tu as un humour très subtil, si subtil qu'il passe à côté de toi-même sans te saluer.
+piques|A -46|T'es un mauvais cuisinier.|F 41|Ta cuisine m'a ouvert les yeux, et la fenêtre, et la porte. Il fallait aérer.
+piques|A -53|T'es qu'une feignasse.|F 37|Tu n'es pas paresseux, tu économises ton énergie pour une grande occasion. On attend toujours la date.
+piques|A -50|Ton article est plein de fautes, t'es illettré.|F 40|Ton article est riche en surprises orthographiques : chaque phrase est une petite chasse au trésor pour le correcteur.
+piques|A -58|Dégage.|F 34|Je ne te retiens pas. Je te montre juste la porte, avec tendresse, et un plan d'accès.
+piques|A -48|Tu conduis comme un pied.|C 11|Tu conduis avec beaucoup d'enthousiasme. Le GPS a abandonné au troisième rond-point, il est en arrêt maladie.

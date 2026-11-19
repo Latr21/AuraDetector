@@ -1,0 +1,28 @@
+{
+  "Test réel — classification": {
+    "accuracy": 0.38181818181818183,
+    "a_une_classe_pres": 0.8424242424242424,
+    "f1_macro": 0.3241046696131702,
+    "kappa_quadratique": 0.1718692618435549
+  },
+  "Test réel — régression du score": {
+    "accuracy": 0.5060606060606061,
+    "a_une_classe_pres": 0.8909090909090909,
+    "f1_macro": 0.312316715542522,
+    "kappa_quadratique": 0.16575449569976541
+  },
+  "Test réel — toujours 'Aura Correcte'": {
+    "accuracy": 0.5787878787878787,
+    "a_une_classe_pres": 0.9,
+    "f1_macro": 0.1833013435700576,
+    "kappa_quadratique": 0.0
+  },
+  "temps_entrainement_s": {
+    "classification": 3.5577142238616943,
+    "regression": 1.6111235618591309
+  },
+  "n_parametres": {
+    "classification": 153396,
+    "regression": 38349
+  }
+}

@@ -2,26 +2,44 @@
 from pathlib import Path
 
 from fastapi import FastAPI, File, Form, HTTPException, UploadFile
+from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
 from .extract import extract_text
-from .model import load_model, predict
+from .model import Registry
 
 FRONT = Path(__file__).resolve().parent.parent / "frontend"
+ASSETS = Path(__file__).resolve().parent.parent / "Assets"
+# dossier de GIFs par classe d'aura
+GIF_DIRS = {"Anti-Aura": "Anti_Aura", "Aura Correcte": "Aura_normal", "Forte Aura": "Forte_Aura", "Aura Divine": "Aura_legendaire"}
 MAX_BYTES = 10 * 1024 * 1024
 
 app = FastAPI(title="Aura Detector")
-model = load_model()
+registry = Registry()
 
 
 @app.get("/api/health")
 def health():
-    return {"ok": True, "labels": [str(c) for c in model.classes_], "demo": getattr(model, "is_demo", False)}
+    return {"ok": True, "demo": registry.is_demo, "default_model": registry.default_id}
+
+
+@app.get("/api/gifs")
+def gifs():
+    out = {}
+    for classe, dossier in GIF_DIRS.items():
+        d = ASSETS / dossier
+        out[classe] = [f"/assets/{dossier}/{f.name}" for f in sorted(d.glob("*.gif"))] if d.exists() else []
+    return out
+
+
+@app.get("/api/models")
+def models():
+    return registry.liste()
 
 
 @app.post("/api/predict")
-async def api_predict(text: str = Form(""), file: UploadFile | None = File(None)):
+async def api_predict(text: str = Form(""), model: str = Form(""), file: UploadFile | None = File(None)):
     filename = None
     if file is not None and file.filename:
         data = await file.read()
@@ -35,12 +53,17 @@ async def api_predict(text: str = Form(""), file: UploadFile | None = File(None)
     text = (text or "").strip()
     if len(text) < 3:
         raise HTTPException(400, "Aucun texte détecté. Même le vide a plus d'aura que ça.")
-    result = predict(model, text)
+    try:   # chargement du modèle + inférence hors de la boucle asynchrone
+        result = await run_in_threadpool(registry.predict, model, text)
+    except Exception as e:
+        raise HTTPException(500, f"Le modèle a perdu son aura : {e}")
     result.update(filename=filename, n_chars=len(text), preview=text[:280])
     return result
 
 
 app.mount("/static", StaticFiles(directory=FRONT), name="static")
+if ASSETS.exists():
+    app.mount("/assets", StaticFiles(directory=ASSETS), name="assets")
 
 
 @app.get("/")

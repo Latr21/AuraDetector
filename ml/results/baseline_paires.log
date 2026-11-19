@@ -1,0 +1,30 @@
+Train : 7998 textes ['data/train_synthetique.csv', 'data/grok_textes.csv', 'data/paires_contrastees.csv']
+Test réel — classification             acc=38.2%  ±1=84.2%  F1-macro=0.32  kappa-q=0.17
+Test réel — régression du score        acc=50.6%  ±1=89.1%  F1-macro=0.31  kappa-q=0.17
+Test réel — toujours 'Aura Correcte'   acc=57.9%  ±1=90.0%  F1-macro=0.18  kappa-q=0.00
+
+Matrice test réel, classification (lignes = vérité)
+       Anti  Corr  Fort  Divi
+ Anti    18    14     9     0
+ Corr    50    80    51    10
+ Fort    18    20    21     6
+ Divi    10     5    11     7
+
+Prédictions par type de texte (classification) :
+  conférence de presse n=  7  acc=43%  classes prédites = Anti:2, Corr:2, Fort:2, Divi:1
+  discours        n=101  acc=37%  classes prédites = Anti:32, Corr:31, Fort:29, Divi:9
+  débat           n=  2  acc=100%  classes prédites = Fort:2
+  entraînement    n=  1  acc=100%  classes prédites = Anti:1
+  fable           n=  6  acc=17%  classes prédites = Corr:3, Fort:2, Divi:1
+  interjection    n= 65  acc=43%  classes prédites = Anti:28, Corr:23, Fort:14
+  interview       n=  4  acc=25%  classes prédites = Anti:1, Corr:2, Fort:1
+  maxime          n=  6  acc=33%  classes prédites = Anti:2, Corr:1, Fort:2, Divi:1
+  poésie          n= 22  acc=27%  classes prédites = Anti:6, Corr:5, Fort:7, Divi:4
+  procédure       n=  8  acc=100%  classes prédites = Corr:8
+  prose           n= 10  acc=20%  classes prédites = Anti:3, Corr:1, Fort:3, Divi:3
+  question        n= 20  acc=50%  classes prédites = Anti:2, Corr:10, Fort:8
+  roman           n= 11  acc=64%  classes prédites = Anti:4, Corr:6, Fort:1
+  réponse         n= 18  acc=28%  classes prédites = Anti:3, Corr:6, Fort:8, Divi:1
+  texte officiel  n=  9  acc=67%  classes prédites = Anti:1, Corr:5, Fort:2, Divi:1
+  théâtre         n= 35  acc=14%  classes prédites = Anti:9, Corr:14, Fort:10, Divi:2
+  tweet de marque n=  5  acc=40%  classes prédites = Anti:2, Corr:2, Fort:1

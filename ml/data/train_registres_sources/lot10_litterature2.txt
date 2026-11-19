@@ -1,0 +1,66 @@
+# Théâtre, poésie, roman, série 2 (Anti = cliché pompeux, redondance, emphase creuse)
+theatre|A|-30 -15 -40 -25 -20|« Je suis triste, seigneur, d'une grande tristesse, / Et ma tristesse est grande et pleine de détresse. »
++theatre|F|50 45 55 55 60|« Je suis triste, seigneur, mais c'est d'une tristesse / Qui sait encore choisir l'heure de sa faiblesse. »
+theatre|A|-40 -20 -50 -30 -25|« Ô ciel ! Ô terre ! Ô dieux ! Ô sort ! Ô destinée ! / Ô malheur ! Ô douleur ! Ô funeste journée ! »
++theatre|D|85 80 88 85 90|« Ne prenez pas les dieux à témoin, mon ami : / Ils ont vu pire que nous, et n'en ont rien dit. »
+theatre|A|-20 -10 -30 -15 -10|« Mon fils, mon fils, mon fils, ô mon fils bien-aimé, / Mon fils que j'ai aimé et que j'ai tant aimé. »
++theatre|D|88 85 90 88 92|« Mon fils, je t'ai tout dit, hormis l'essentiel : / Qu'on n'hérite jamais que de ce qu'on rappelle. »
+theatre|A|-30 -15 -40 -25 -20|« Je suis un grand guerrier, le plus grand des guerriers, / Les guerriers ont peur de moi, guerrier des guerriers. »
++theatre|F|60 55 60 60 65|« On me dit grand guerrier ; c'est que je fuis moins vite / Que ceux qui m'ont appris l'art de la fuite. »
+theatre|A|-40 -20 -50 -30 -25|« Traître ! Infâme ! Félon ! Perfide ! Scélérat ! / Tu es méchant, très méchant, et tu le paieras ! »
++theatre|D|80 78 85 82 88|« Je ne t'appelle pas traître, ce serait te flatter : / Le traître choisit, toi, tu t'es laissé porter. »
+theatre|C|5 10 0 10 10|« Le dîner est servi, madame, au grand salon. »
+theatre|C|10 10 5 10 15|« Votre père est rentré, il vous attend en bas. »
+theatre|C|0 5 -5 5 10|« Fermez la porte, il fait un froid de loup. »
+theatre|C|15 15 10 15 15|« Prenez votre manteau, nous partons pour la ville, / Le cocher nous attend devant la grande grille. »
+theatre|F|40 40 45 40 50|« Mon mari est fidèle, il me l'a juré cent fois ; / C'est beaucoup de serments pour un homme de sa foi. »
+theatre|F|50 45 55 55 60|« Vous m'offrez votre cœur ? Gardez-le, il vous sert : / C'est le seul de vos biens qui ne soit pas désert. »
+theatre|D|85 80 88 85 90|« L'honneur n'est pas, monsieur, un titre qu'on achète ; / C'est un vieux créancier qui jamais ne s'arrête. »
+theatre|D|90 85 90 90 92|« Je n'ai pas peur de vous, j'ai peur de vous ressembler : / C'est la seule défaite où l'on n'ose pas trembler. »
+theatre|F|60 55 60 60 65|« Votre esprit est charmant, mais il vit à crédit : / Il emprunte aux auteurs et rend ce qu'il a lu. »
+theatre|D|82 80 85 85 88|« Ne pleurez pas, madame, les larmes sont menteuses : / Elles sèchent plus vite que les âmes heureuses. »
+poesie|A|-30 -15 -40 -25 -20|Ô nuit, ô belle nuit, nuit si belle et si noire, / Ô nuit pleine de nuit, ô nuit de mon histoire.
++poesie|D|85 80 88 85 90|La nuit ne cache rien ; elle baisse seulement / La voix de nos regrets pour qu'ils parlent plus lentement.
+poesie|A|-40 -20 -50 -30 -25|Le printemps est joli, le printemps est en fleurs, / Le printemps est printemps, plein de belles couleurs.
++poesie|F|50 45 55 55 60|Le printemps est venu sans faire de discours ; / Il a ouvert les fleurs et repris ses détours.
+poesie|A|-20 -10 -30 -15 -10|L'amour c'est beau, l'amour c'est grand, l'amour c'est tout, / L'amour c'est l'amour et l'amour est partout.
++poesie|D|88 85 90 88 92|L'amour n'est pas partout ; il préfère les seuils, / Les portes entrouvertes et les deuils sans cercueil.
+poesie|A|-30 -15 -40 -25 -20|La guerre est horrible et la guerre est cruelle, / La guerre c'est la guerre et la guerre est mortelle.
++poesie|D|80 78 85 82 88|Les soldats ne meurent pas ; ils deviennent des noms / Que l'on grave en septembre et qu'on lit en saison.
+poesie|A|-40 -20 -50 -30 -25|Je suis seul, si seul, tout seul, seul dans ma vie, / Ma solitude est seule et ma vie est finie.
++poesie|F|60 55 60 60 65|Je suis seul ce soir, mais c'est une solitude / Qui connaît mes défauts et garde ses habitudes.
+poesie|C|5 10 0 10 10|Le facteur est passé ce matin sous la pluie.
+poesie|C|10 10 5 10 15|Les enfants font des châteaux de sable sur la plage, / Et les mouettes tournent au-dessus du rivage.
+poesie|C|0 5 -5 5 10|La forêt est calme sous la neige de janvier.
+poesie|F|40 40 45 45 50|Le brouillard sur le pont fait semblant d'être sage ; / Il garde les secrets des amants de passage.
+poesie|F|50 45 55 55 60|Le phare dit la même chose à tous les bateaux : / « Je ne vous retiens pas, mais je vous veux en haut. »
+poesie|D|85 80 88 85 90|Les cimetières sont des jardins patients / Où l'on vient arroser le passé de temps en temps.
+poesie|D|90 85 92 90 95|J'ai gardé de l'enfance un seul objet sans prix : / La certitude naïve que tout serait permis.
+poesie|D|82 80 85 85 88|Les vieilles mains savent ce que les livres ignorent : / Comment tenir un pain, et comment tenir la mort.
+poesie|F|60 55 60 60 65|Les horloges du soir ont des voix de notaire : / Elles lisent nos heures comme un inventaire.
+roman|A|-30 -15 -40 -25 -20|Il était riche, très riche, extrêmement riche, plus riche que tous les riches de la ville.
++roman|D|85 80 88 85 85|Il était si riche qu'il avait fini par croire que l'argent pensait pour lui, et l'argent, par politesse, le laissait croire.
+roman|A|-40 -20 -50 -30 -25|Elle était intelligente, si intelligente, d'une intelligence extraordinairement intelligente.
++roman|F|50 45 55 50 45|Elle était intelligente au point de le cacher, ce qui, dans cette famille, passait pour de la modestie et lui valait la paix.
+roman|A|-20 -10 -30 -15 -10|La guerre était terrible, horrible, affreuse, et tout le monde avait peur de cette guerre terrible.
++roman|D|88 85 90 88 88|La guerre commença un mardi ; le village l'apprit le jeudi, et continua de moissonner, parce que le blé, lui, n'avait pas été prévenu.
+roman|A|-30 -15 -40 -25 -20|Il souffrait, il souffrait énormément, sa souffrance était une souffrance immense et sans fin.
++roman|F|60 55 60 55 55|Il souffrait en silence, ce qui n'empêchait pas toute la maison d'en entendre parler.
+roman|A|-40 -20 -50 -30 -25|Le héros sauva tout le monde et tout le monde l'applaudit car il était le héros qui sauvait tout le monde.
++roman|D|80 78 85 82 80|Il sauva l'enfant de la rivière et repartit avant qu'on lui demande son nom ; c'est ainsi qu'il devint, pour toujours, « celui qui n'est pas resté ».
+roman|C|5 10 0 5 5|Le facteur déposa le courrier sur la table de la cuisine.
+roman|C|10 10 5 10 10|Ils passèrent l'été dans une maison louée près de la mer.
+roman|C|0 5 -5 0 0|Elle rangea la vaisselle et éteignit la lumière.
+roman|C|15 15 10 10 10|Le marché se tenait le jeudi sur la grande place, devant l'église.
+roman|F|40 40 45 40 35|Le sous-préfet avait deux opinions sur chaque sujet : la sienne, et celle du préfet, qu'il adoptait toujours.
+roman|F|50 45 55 50 45|Il se maria par distraction et divorça par méthode.
+roman|D|85 80 88 85 85|Elle regardait passer les trains comme on relit une lettre : pour vérifier que rien n'avait changé, et souffrir un peu que ce soit vrai.
+roman|D|90 85 90 88 88|Le vieux libraire vendait peu, mais il prêtait beaucoup ; il disait qu'un livre rendu est un ami qui revient.
+roman|F|60 55 60 55 55|La comtesse avait l'art de recevoir : on sortait de chez elle convaincu d'avoir été brillant, ce qui expliquait qu'on y revînt.
+roman|D|82 80 85 85 82|Il avait passé sa vie à attendre le bon moment ; le bon moment, lassé, était passé voir quelqu'un d'autre.
+fable|A|-30 -15 -40 -25 -20|Le loup mangea l'agneau et c'est pas gentil, donc il faut pas manger les agneaux, voilà la morale.
++fable|D|85 80 88 88 88|Le loup expliqua longuement à l'agneau pourquoi il avait le droit de le manger ; l'agneau mourut convaincu, ce qui consola beaucoup le loup.
+fable|C|5 10 0 10 10|Le chat et le renard partirent ensemble en voyage.
+fable|F|50 45 55 55 55|L'âne, élu roi des animaux, fit voter une loi sur la sagesse ; personne ne la lut, mais tout le monde l'applaudit.
+fable|D|88 85 90 88 90|L'oiseau en cage chantait mieux que l'oiseau libre ; c'est qu'il avait, lui, quelque chose à regretter.
+fable|F|40 40 45 45 45|La pie rapporta tout ce qui brillait ; elle mourut riche et seule, entourée de capsules de bouteille.
