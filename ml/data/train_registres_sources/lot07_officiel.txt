@@ -1,0 +1,83 @@
+# Textes officiels, juridiques, administratifs, procédure (procédure neutre = Correcte ; jargon creux = Anti)
+officiel|C|0 10 -10 5 0|Le présent décret entre en vigueur le premier jour du mois suivant sa publication.
+officiel|C|5 10 -5 5 0|Le maire est chargé de l'exécution du présent arrêté.
+officiel|C|0 10 -10 5 0|Les demandes de subvention sont instruites par les services de la région.
+officiel|C|5 10 0 5 5|Tout salarié bénéficie d'un congé annuel payé dans les conditions fixées par la loi.
+officiel|C|0 5 -5 0 0|La commission se réunit au moins deux fois par an sur convocation de son président.
+officiel|C|5 10 -5 5 0|Le stationnement est interdit des deux côtés de la chaussée du lundi au vendredi.
+officiel|C|0 10 -10 5 0|Les pièces justificatives doivent être jointes au dossier sous peine d'irrecevabilité.
+officiel|C|5 10 0 5 5|Le locataire est tenu de payer le loyer et les charges aux termes convenus.
+officiel|C|10 15 0 10 5|Nul n'est censé ignorer la loi.
+officiel|C|0 5 -5 0 0|L'accès au chantier est interdit à toute personne étrangère au service.
+officiel|C|5 10 -5 5 0|Le délai de recours est de deux mois à compter de la notification de la décision.
+officiel|C|0 10 -10 5 0|Les membres du conseil sont élus pour une durée de six ans.
+officiel|C|5 10 0 5 5|L'usage de l'eau pour l'arrosage des jardins est interdit entre 8 heures et 20 heures.
+officiel|C|0 5 -5 0 0|Le présent avis est affiché à la porte de la mairie pendant quinze jours.
+officiel|C|5 10 -5 5 0|L'employeur prend les mesures nécessaires pour assurer la sécurité des travailleurs.
+officiel|C|10 15 5 10 10|La loi est l'expression de la volonté générale.
+officiel|C|0 10 -10 5 0|Le dossier complet doit parvenir au secrétariat avant le 30 septembre.
+officiel|C|5 10 0 5 5|Les parents exercent en commun l'autorité parentale.
+officiel|C|0 5 -5 0 0|Le règlement intérieur est communiqué à chaque agent lors de sa prise de fonctions.
+officiel|C|5 10 -5 5 0|Les chiens doivent être tenus en laisse dans l'enceinte du parc.
+officiel|A|-30 -15 -40 -25 -20|Dans une logique de co-construction partagée, il est procédé à la mise en place d'un dispositif d'accompagnement de l'accompagnement des acteurs.
++officiel|C|5 10 -5 5 0|Un accompagnement individuel est proposé aux porteurs de projet.
+officiel|A|-20 -10 -30 -15 -10|Il est rappelé que le rappel des règles de rappel s'applique à l'ensemble des personnes concernées par le rappel.
++officiel|C|0 10 -10 5 0|Les règles applicables sont rappelées en annexe.
+officiel|A|-30 -15 -40 -25 -20|Afin d'optimiser l'optimisation des processus, une démarche transversale et holistique de transformation transformante sera engagée.
++officiel|C|5 10 -5 5 0|Les procédures internes seront révisées au cours du premier trimestre.
+officiel|A|-40 -20 -50 -30 -25|Dans le cadre du cadre stratégique de la stratégie territoriale, les synergies synergiques seront mutualisées de manière mutualisée.
++officiel|C|0 5 -5 0 0|Les communes partageront leurs moyens techniques à compter de janvier.
+officiel|A|-20 -10 -30 -15 -10|Il est porté à votre attention que votre attention est requise concernant l'objet du présent courrier dont l'objet est indiqué en objet.
++officiel|C|5 10 0 5 5|Nous vous informons que votre demande a été acceptée.
+officiel|A|-30 -15 -40 -25 -20|Les parties prenantes seront impliquées dans une dynamique impliquante au service d'une ambition ambitieuse et inclusive.
++officiel|C|10 10 5 10 10|Les associations de quartier seront consultées avant le début des travaux.
+officiel|A|-40 -20 -50 -30 -25|Le plan de relance de la relance vise à relancer durablement une relance durable et résiliente.
++officiel|C|5 10 -5 5 0|Le plan prévoit trois milliards d'euros d'investissements sur cinq ans.
+officiel|A|-20 -10 -30 -15 -10|Une réflexion est engagée afin de réfléchir aux conditions d'une réflexion approfondie.
++officiel|F|35 30 40 35 30|Une réflexion est engagée ; elle durera le temps qu'il faut pour que plus personne ne se souvienne de la question.
+officiel|F|40 45 35 40 35|La présente loi sera exécutée comme loi de l'État, ce qui, dans ce domaine, est déjà une ambition.
+officiel|F|35 40 30 35 30|L'administration se réserve le droit de modifier le présent règlement, et le contribuable celui de s'en étonner.
+juridique|C|5 10 0 5 5|Le contrat peut être résilié par l'une ou l'autre des parties moyennant un préavis de trois mois.
+juridique|C|0 10 -10 5 0|Le vendeur est tenu de délivrer la chose et d'en garantir la conformité.
+juridique|C|5 10 -5 5 0|Toute clause contraire aux dispositions du présent article est réputée non écrite.
+juridique|C|0 5 -5 0 0|Les frais de procédure sont à la charge de la partie perdante.
+juridique|C|5 10 0 5 5|Le juge statue dans un délai d'un mois à compter de sa saisine.
+juridique|C|10 15 5 10 10|La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.
+juridique|C|0 10 -10 5 0|La preuve de l'obligation incombe à celui qui en réclame l'exécution.
+juridique|C|5 10 -5 5 0|Les donations entre vifs sont faites par acte devant notaire.
+juridique|C|0 5 -5 0 0|L'action se prescrit par cinq ans à compter du jour où le titulaire a connu les faits.
+juridique|C|5 10 0 5 5|Le tribunal peut ordonner toute mesure d'instruction utile.
+juridique|A|-30 -15 -40 -25 -20|Il est convenu et accepté par les parties qui l'acceptent et en conviennent que la convention convenue est acceptée.
++juridique|C|0 10 -10 5 0|Les parties déclarent accepter les termes de la présente convention.
+juridique|A|-20 -10 -30 -15 -10|Le non-respect du respect des obligations obligatoires entraîne des conséquences conséquentes.
++juridique|C|5 10 -5 5 0|Tout manquement aux obligations du contrat peut entraîner sa résiliation.
+juridique|F|40 45 35 40 35|Le doute profite à l'accusé ; c'est même, bien souvent, le seul avantage dont il dispose.
+juridique|F|35 40 30 35 30|Nul ne peut se faire justice à soi-même, sauf à disposer d'un excellent avocat.
+procedure|C|0 5 -5 0 0|La séance est reprise.
+procedure|C|5 10 0 5 5|La parole est à Mme la ministre pour donner l'avis du gouvernement.
+procedure|C|0 5 -5 0 0|Sur l'article 5, je suis saisi de plusieurs amendements.
+procedure|C|5 10 0 5 5|L'amendement n° 312 n'est pas défendu.
+procedure|C|0 5 -5 0 0|Je vais maintenant mettre aux voix l'article 7.
+procedure|C|5 10 0 5 5|Le vote est ouvert. Le scrutin est clos.
+procedure|C|0 5 -5 0 0|Avis défavorable de la commission.
+procedure|C|5 10 0 5 5|La parole est à M. le président de la commission des lois.
+procedure|C|0 5 -5 0 0|Prochaine séance, cet après-midi, à quinze heures.
+procedure|C|5 10 0 5 5|Je rappelle que chaque orateur dispose de deux minutes.
+procedure|C|0 5 -5 0 0|L'ordre du jour appelle la suite de la discussion du projet de loi.
+procedure|C|5 10 0 5 5|La commission demande la réserve des votes sur l'article 4.
+procedure|C|0 5 -5 0 0|Je vous prie de bien vouloir regagner vos places.
+procedure|C|5 10 0 5 5|L'amendement est adopté à l'unanimité.
+procedure|C|0 5 -5 0 0|Monsieur le député, concluez, je vous prie.
+procedure|C|5 10 0 5 5|L'Assemblée prend acte de la démission de notre collègue.
+procedure|C|0 5 -5 0 0|La conférence des présidents se réunira mardi à dix heures.
+procedure|C|5 10 0 5 5|L'article 9 est supprimé.
+procedure|C|0 5 -5 0 0|La parole est à Mme la rapporteure.
+procedure|C|5 10 0 5 5|Je mets aux voix l'amendement n° 77 rectifié.
+procedure|F|35 30 40 35 30|L'amendement est adopté ; ses auteurs semblent les premiers surpris.
+procedure|F|40 40 45 40 35|Je vous rappelle que le temps de parole est limité, y compris pour les orateurs qui pensent qu'il ne les concerne pas.
+procedure|F|35 30 40 35 30|La séance est levée. Elle n'aura pas été inutile : elle a commencé à l'heure.
+procedure|C|0 5 -5 0 0|Il est procédé au scrutin public.
+procedure|C|5 10 0 5 5|L'ensemble du projet de loi est adopté.
+procedure|C|0 5 -5 0 0|Je suspends la séance pour cinq minutes.
+procedure|C|5 10 0 5 5|Le groupe socialiste demande une suspension de séance.
+procedure|C|0 5 -5 0 0|Nous en venons aux explications de vote.

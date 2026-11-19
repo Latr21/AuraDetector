@@ -1,0 +1,49 @@
+# Battle rap, lot 5 (complément, formulations distinctes de la validation)
+battle|D|85 80 88 85 88|Mon adversaire parle d'or, de diamants, de luxe / Moi je parle de l'heure où ma mère comptait les pièces, et c'est là que j'ai appris ce que vaut un mot juste
+battle|D|80 78 85 82 85|On me reproche mon calme comme on reproche à la mer / De pas faire de vagues avant de prendre les navires entiers
+battle|D|88 85 90 88 92|J'écris pas pour la foule, j'écris pour un seul gars au fond / Celui qui croit qu'il pourra jamais, et qui ce soir va rentrer avec un carnet et un nom
+battle|D|82 80 85 85 85|T'arrives avec dix punchlines, moi avec une seule / Mais la tienne fait du bruit, la mienne fait un deuil
+battle|D|85 80 88 85 88|Ton couplet c'est un feu d'artifice, joli, bruyant, coûteux / Le lendemain il reste rien, que des chiens qui ont peur et des gamins un peu déçus
+battle|D|90 85 92 90 92|J'ai pas besoin de te clasher, regarde ton reflet / Il a déjà tout dit, et lui au moins il a eu le courage de pas le répéter
+battle|D|80 78 85 82 85|Tu parles de guerre comme on parle d'un film / Moi j'ai vu des gens partir pour de vrai, alors mes mots, je les pèse avant de les mettre en ligne
+battle|D|88 85 90 88 92|On m'a appris à rimer avec des stylos prêtés / Alors chaque mot que j'écris, je le rends meilleur qu'on me l'a donné
+battle|D|82 80 85 85 85|Tu me compares aux anciens pour me rabaisser / Mais être comparé aux anciens, c'est déjà être assis à leur table, toi t'es resté dans l'entrée
+battle|D|85 80 88 85 88|Ton clash sur mon âge m'a fait sourire, merci / À ton âge, j'avais déjà compris que la jeunesse c'est pas un talent, c'est un délai
+battle|D|80 78 85 82 85|T'as rappé « je suis le meilleur » trois fois sur seize mesures / C'est la seule chose que t'as répétée sans fausse note, la seule
+battle|D|88 85 90 88 92|Ce soir je joue pas pour gagner une coupe / Je joue pour que dans dix ans, un gamin dise « j'étais là » et qu'il ait raison de le dire en boucle
+battle|D|82 80 85 85 85|Ton rap a le goût des chewing-gums qu'on mâche trop longtemps / Au début c'est sucré, puis ça colle, puis on cherche discrètement où le jeter en partant
+battle|D|85 80 88 85 88|J'ai pas de crew derrière moi, j'ai mes erreurs / Elles sont nombreuses, fidèles, et elles m'ont rendu meilleur
+battle|D|90 85 92 90 92|Tu m'as souhaité de tomber, je te remercie sincèrement / C'est en tombant que j'ai trouvé le sol, et c'est sur le sol qu'on construit vraiment
+battle|F|50 45 55 50 55|Ton flow est si lisse qu'on glisse dessus sans s'arrêter / C'est pratique pour les patineurs, moins pour ceux qui voulaient écouter
+battle|F|40 40 45 45 50|Tu portes des lunettes noires sur scène la nuit / C'est pour pas voir le public partir, c'est bien pensé
+battle|F|60 55 60 60 65|T'as un dictionnaire de rimes, ça s'entend, bravo / La prochaine fois achète aussi celui des idées, il est au rayon d'en face
+battle|F|50 45 55 55 55|Tu clashes mon jean troué, il est usé, c'est normal / Il a fait plus de scènes que toi, et lui il a jamais eu besoin d'un playback
+battle|F|40 40 45 45 50|Ton public t'adore, je le vois, ils sont trois / Ta mère, ton manager, et le videur qui est payé pour ça
+battle|F|60 55 60 60 65|Ton dernier clip a coûté plus cher que ma voiture / Et pourtant c'est ma voiture qui a le meilleur moteur
+battle|F|50 45 55 50 55|Tu dis que t'as inventé ce style, je te crois / C'est pour ça que personne d'autre veut l'utiliser
+battle|F|40 40 45 45 50|Tu m'as promis un KO, j'attends toujours le coup / Pour l'instant, c'est le public qui s'endort, c'est déjà beaucoup
+battle|F|60 55 60 60 65|T'as rappé sur la liberté avec un texte appris par cœur / C'est beau, un perroquet qui chante l'envol depuis sa cage
+battle|F|50 45 55 55 55|Tu te dis dangereux, je vois pas le danger / À part pour la langue française, qui porte plainte depuis ton premier couplet
+battle|F|40 40 45 45 50|T'as gagné trois battles, félicitations, c'est rare / Surtout contre des gens qui étaient venus pour accompagner un ami
+battle|C|5 10 0 10 10|Je viens de la campagne, je découvre la grande ville / Tout est nouveau pour moi ce soir
+battle|C|10 10 5 10 15|J'écris mes textes sur mon téléphone dans le bus / Ce soir je les lis pour la première fois en public
+battle|C|15 15 10 15 15|Je vais rapper sur mon chien, il s'appelle Biscuit / Il est plus connu que moi dans le quartier
+battle|C|5 10 0 10 10|C'est pas mon meilleur soir, je suis enrhumé / Mais je donne tout
+battle|C|10 10 5 10 10|J'ai appris le rap en écoutant la radio la nuit / Merci à elle
+battle|C|15 15 10 15 15|Je suis cuisinier, je connais la chaleur / Ce soir c'est la scène qui me donne chaud
+battle|C|5 10 0 10 10|Mon couplet est court, je préfère / Que vous restiez éveillés
+battle|C|10 10 5 10 15|J'ai gagné une battle dans mon lycée l'an dernier / C'est ma seule victoire, mais j'en suis fier
+battle|C|15 15 10 15 15|Je remercie mon prof de français, il croyait en moi / Même quand je rendais mes devoirs en retard
+battle|C|5 10 0 10 10|Je vais faire un couplet sur ma grand-mère / Elle est pas là ce soir, mais elle va voir la vidéo
+battle|C|10 10 5 10 10|Mon adversaire est fort, je l'ai vu s'entraîner / J'ai un peu peur, je vous l'avoue
+battle|C|15 15 10 15 15|J'ai écrit trois versions de ce couplet / Je vous donne la moins pire
+battle|A|-30 -15 -40 -25 -20|Je suis trop chaud, trop chaud, trop trop chaud / Personne est aussi chaud
+battle|A|-40 -20 -50 -30 -25|Tes rimes sont pourries, ton style est pourri / Tout est pourri chez toi
+battle|A|-20 -10 -30 -15 -10|Hé, applaudissez, j'ai fait une rime, applaudissez / Allez
+battle|A|-30 -15 -40 -25 -20|Ton frère, ta sœur, ton cousin, tous des nuls / Ta famille c'est des nuls
+battle|A|-40 -20 -50 -30 -25|Je suis l'élu, le choisi, le prophète du rap / Écoutez le prophète
+battle|A|-20 -10 -30 -15 -10|Je veux un autre tirage, c'est pas juste / J'ai pas eu le temps de me préparer
+battle|A|-30 -15 -40 -25 -20|T'es un perdant, perdant, perdant / Moi je suis gagnant
+battle|A|-40 -20 -50 -30 -25|T'as une voix de canard, coin coin, canard / Coin coin
+battle|A|-20 -10 -30 -15 -10|Je suis le numéro un, number one, le premier / Le premier de tous
+battle|A|-30 -15 -40 -25 -20|J'ai dit un truc très fort tout à l'heure, réécoutez / C'était vraiment très fort, je vous jure

@@ -1,0 +1,157 @@
+# Parlement : interjections, questions, réponses. « + » = paire contrastée avec la ligne précédente
+interjection|A|-30 -15 -40 -25 -20|C'est honteux ! Honteux !
++interjection|F|40 40 45 40 35|Honteux ? Non : prévisible, ce qui est pire.
+interjection|A|-40 -20 -50 -30 -25|Vous êtes nuls, complètement nuls !
++interjection|F|50 45 55 50 45|Vous n'êtes pas nuls, vous êtes constants : toujours à côté.
+interjection|C|5 10 0 5 5|Et le pouvoir d'achat ?
++interjection|D|80 78 85 82 80|Le pouvoir d'achat, monsieur le ministre, c'est comme votre majorité : on l'annonce, on ne le voit jamais.
+interjection|C|0 5 -5 0 0|Bravo.
++interjection|F|40 40 45 40 35|Bravo, vous avez réussi à parler dix minutes sans dire un chiffre.
+interjection|A|-20 -10 -30 -15 -10|Assez ! Assez ! Assez !
++interjection|C|10 10 5 10 10|Assez de promesses, des actes.
+interjection|A|-30 -15 -40 -25 -20|Ridicule ! Ridicule !
++interjection|D|85 80 88 85 85|Le ridicule ne tue pas, heureusement pour ce banc.
+interjection|C|5 10 0 5 5|Ce n'est pas sérieux.
++interjection|F|50 45 55 50 45|Ce n'est pas sérieux, mais c'est gouvernemental.
+interjection|A|-40 -20 -50 -30 -25|Rentrez chez vous ! Dehors !
++interjection|F|35 30 40 35 30|Rentrez chez vous, vos électeurs vous attendent, enfin certains.
+interjection|C|0 5 -5 0 0|Vous l'avez déjà dit.
++interjection|F|40 40 45 40 35|Vous l'avez déjà dit, et ce n'était pas plus vrai la première fois.
+interjection|A|-20 -10 -30 -15 -10|N'importe quoi !
++interjection|D|78 75 80 78 80|N'importe quoi, dites-vous ? C'est exactement le titre de votre programme.
+interjection|C|10 10 5 10 10|Et les agriculteurs ?
++interjection|F|60 55 60 55 55|Les agriculteurs vous écoutent, monsieur le ministre ; ils sèment aussi dans le vent, mais eux récoltent quelque chose.
+interjection|A|-50 -30 -55 -40 -30|Bande de guignols !
++interjection|F|50 45 55 50 45|Les guignols, eux, au moins, font rire volontairement.
+interjection|C|5 10 0 5 5|Quelle est la date ?
++interjection|C|15 15 10 10 10|Une date, juste une date, on se contentera même de l'année.
+interjection|A|-30 -15 -40 -25 -20|C'est une honte nationale !
++interjection|D|80 78 85 82 80|La honte nationale, c'est quand l'hémicycle est plein pour l'augmentation des indemnités et vide pour les hôpitaux.
+interjection|C|0 5 -5 0 0|Ça suffit.
++interjection|F|35 30 40 35 30|Ça suffit, oui : on a compris que vous n'aviez rien compris.
+interjection|A|-20 -10 -30 -15 -10|Hou ! Hou !
++interjection|C|10 10 5 10 10|On ne vous entend pas, parlez plus fort.
+interjection|C|5 10 0 5 5|C'est faux !
++interjection|F|50 45 55 50 45|C'est faux, mais c'est très bien lu.
+interjection|A|-40 -20 -50 -30 -25|Vous mentez, vous mentez tout le temps !
++interjection|D|85 80 88 85 85|Vous ne mentez pas, monsieur le ministre : vous racontez l'avenir au passé.
+interjection|C|10 10 5 10 10|Et la sécurité dans les transports ?
++interjection|F|40 40 45 40 35|La sécurité dans les transports ? Commencez par la ponctualité, ce sera déjà révolutionnaire.
+interjection|A|-30 -15 -40 -25 -20|Arrêtez de parler, vous ne dites que des bêtises !
++interjection|F|60 55 60 55 55|Continuez à parler, on apprend beaucoup sur ce qu'il ne faut pas faire.
+interjection|C|0 5 -5 0 0|Ce n'est pas la question.
++interjection|D|78 75 80 78 80|Ce n'est pas la question, mais c'est votre spécialité : répondre à celles qu'on ne vous pose pas.
+interjection|A|-20 -10 -30 -15 -10|Zéro ! Zéro pointé !
++interjection|F|35 30 40 35 30|Zéro, c'est aussi le nombre de vos amendements adoptés, félicitations pour la cohérence.
+interjection|C|5 10 0 5 5|Il fallait le faire avant.
++interjection|F|50 45 55 50 45|Il fallait le faire avant : avant, c'était vous.
+interjection|A|-50 -30 -55 -40 -30|Vous êtes la honte de la République !
++interjection|D|90 85 90 88 88|La République a survécu à pire que vous, monsieur ; elle survivra même à votre éloquence.
+interjection|C|10 10 5 10 10|Et le logement des étudiants ?
++interjection|C|15 15 10 10 10|Et le logement étudiant, on en parle ou il faut d'abord trouver une salle libre ?
+interjection|A|-30 -15 -40 -25 -20|Lamentable ! Lamentable !
++interjection|F|40 40 45 40 35|Lamentable est un mot trop faible ; je cherche encore celui qui convient à votre réforme.
+question|C|5 10 0 5 5|Madame la ministre, quand le plan pour les urgences sera-t-il présenté ?
++question|F|50 45 55 50 45|Madame la ministre, les urgences attendent votre plan. Elles ont l'habitude d'attendre, mais elles commencent à fermer.
+question|A|-30 -15 -40 -25 -20|Monsieur le ministre, alors que les Français souffrent, que les Français ont faim, que les Français ont froid, que les Français n'en peuvent plus, allez-vous enfin agir pour les Français ?
++question|D|80 78 85 82 80|Monsieur le ministre, les Français ne vous demandent pas d'être aimés ; ils vous demandent d'être utiles. Lequel des deux comptez-vous essayer en premier ?
+question|C|0 5 -5 0 0|Ma question porte sur la situation des éleveurs laitiers.
++question|F|40 40 45 40 35|Ma question porte sur les éleveurs laitiers, qui vendent leur lait moins cher que l'eau minérale. Trouvez-vous cela normal ?
+question|A|-40 -20 -50 -30 -25|Quand est-ce que vous allez arrêter de mentir et de mépriser et de mentir encore aux Français ?
++question|F|60 55 60 55 55|Monsieur le Premier ministre, vous dites aimer le dialogue. Pourriez-vous le prouver en écoutant la réponse à votre propre question ?
+question|C|10 10 5 10 10|Le gouvernement compte-t-il réviser les critères d'attribution des bourses ?
++question|C|15 15 10 10 10|Les critères des bourses n'ont pas bougé depuis dix ans, contrairement aux loyers. Le gouvernement compte-t-il les réviser ?
+question|A|-20 -10 -30 -15 -10|Monsieur le ministre, ma question est simple et je vous la pose simplement : qu'allez-vous faire, oui, que comptez-vous faire ?
++question|F|50 45 55 50 45|Ma question est simple, monsieur le ministre, ce qui devrait vous changer de vos réponses.
+question|C|5 10 0 5 5|Quelles mesures envisagez-vous pour lutter contre les déserts médicaux ?
++question|D|85 80 88 85 85|Dans mon département, on trouve plus facilement un marchand de cercueils qu'un médecin. Quand inverserez-vous la tendance ?
+question|A|-30 -15 -40 -25 -20|Allez-vous enfin, enfin, enfin écouter le peuple qui gronde et qui ne vous croit plus ?
++question|C|10 10 5 10 10|Allez-vous recevoir les représentants des salariés avant le vote du texte ?
+question|C|0 5 -5 0 0|Ma question s'adresse à M. le ministre de l'éducation nationale.
++question|F|35 30 40 35 30|Ma question s'adresse au ministre de l'éducation nationale, le cinquième de la législature : je me dépêche avant qu'il change.
+question|A|-40 -20 -50 -30 -25|Votre politique est une catastrophe totale, une catastrophe absolue, alors qu'attendez-vous pour partir ?
++question|D|78 75 80 78 80|Vous avez promis la rupture ; on a eu la continuité, mais en plus cher. Est-ce cela que vous appelez le changement ?
+question|C|5 10 0 5 5|Pouvez-vous nous dire combien de postes d'enseignants seront créés à la rentrée ?
++question|F|40 40 45 40 35|Combien de postes d'enseignants à la rentrée ? Je vous laisse compter, c'est une compétence que nous aimerions voir enseignée.
+question|C|10 10 5 10 10|Que comptez-vous faire pour les commerces de centre-ville ?
++question|F|60 55 60 55 55|Les centres-villes se vident, monsieur le ministre ; il n'y reste plus que les agences immobilières qui vendent les commerces fermés. Que comptez-vous faire ?
+question|A|-20 -10 -30 -15 -10|Je vous pose la question, vraiment, sincèrement, est-ce que vous avez un plan, un vrai plan, un plan quoi ?
++question|C|15 15 10 10 10|Avez-vous un calendrier précis pour ce plan, et quel en sera le financement ?
+question|C|0 5 -5 0 0|Madame la ministre, ma question concerne le fret ferroviaire.
++question|D|80 78 85 82 80|Madame la ministre, chaque train de marchandises supprimé, ce sont quarante camions de plus sur nos routes. Votre politique écologique roule-t-elle au gazole ?
+question|A|-30 -15 -40 -25 -20|Les Français en ont marre, marre, marre ! Qu'est-ce que vous répondez à ça ?
++question|F|50 45 55 50 45|Les Français sont fatigués, monsieur le ministre. Pas de travailler : de vous écouter promettre qu'ils travailleront moins.
+question|C|5 10 0 5 5|Où en est la réforme de l'assurance chômage ?
++question|F|35 30 40 35 30|Où en est la réforme de l'assurance chômage ? On l'a vue partir, on ne l'a jamais vue arriver.
+question|C|10 10 5 10 10|Le gouvernement soutiendra-t-il la candidature de notre ville aux jeux régionaux ?
++question|C|15 15 10 10 10|Notre ville se porte candidate aux jeux régionaux : le gouvernement nous soutiendra-t-il autrement que par un tweet ?
+question|A|-40 -20 -50 -30 -25|Vous êtes incompétents, tous, du premier au dernier, répondez-moi !
++question|D|85 80 88 85 85|Monsieur le ministre, je ne doute pas de votre compétence ; je doute seulement qu'elle soit venue en séance aujourd'hui.
+reponse|C|5 10 0 5 5|Le décret d'application a été transmis au Conseil d'État la semaine dernière.
++reponse|F|40 40 45 40 35|Le décret est au Conseil d'État. Il y est en de bonnes mains, et en bonne compagnie : celle de vos recours.
+reponse|A|-30 -15 -40 -25 -20|Notre action est forte, notre action est déterminée, notre action est au service de l'action.
++reponse|D|80 78 85 82 80|On juge une action à ce qu'elle laisse, pas à ce qu'elle annonce. Revenez dans un an, je vous montrerai les écoles ouvertes.
+reponse|C|0 5 -5 0 0|Je vous remercie pour votre question.
++reponse|F|50 45 55 50 45|Je vous remercie pour votre question, que j'ai déjà eu le plaisir d'entendre la semaine dernière, mot pour mot.
+reponse|A|-40 -20 -50 -30 -25|Je ne vous répondrai pas, vous ne méritez pas de réponse, vous êtes de mauvaise foi.
++reponse|F|60 55 60 55 55|Je vais vous répondre, même si je sais que votre conclusion était écrite avant ma réponse.
+reponse|C|10 10 5 10 10|Une enveloppe de deux cents millions d'euros sera débloquée d'ici la fin de l'année.
++reponse|C|15 15 10 10 10|Deux cents millions seront débloqués avant la fin de l'année, et je viendrai vous présenter leur utilisation ligne par ligne.
+reponse|A|-20 -10 -30 -15 -10|Comme je l'ai déjà dit et comme je le redis, nous avons déjà fait beaucoup, beaucoup, beaucoup.
++reponse|D|78 75 80 78 80|Vous dites que nous n'avons rien fait. Je préfère être accusé de ne rien faire que d'avoir tout défait, comme vos prédécesseurs.
+reponse|C|5 10 0 5 5|Le dispositif sera évalué à l'issue de la première année.
++reponse|F|35 30 40 35 30|Le dispositif sera évalué dans un an ; d'ici là, je vous propose de l'évaluer sur pièces, et non sur slogans.
+reponse|A|-30 -15 -40 -25 -20|Vous critiquez, vous critiquez, mais vous, qu'avez-vous fait ? Rien ! Rien de rien !
++reponse|F|50 45 55 50 45|Vous me demandez ce que j'ai fait. Une chose au moins : je n'ai pas lu le discours que vous venez de lire, je l'ai écrit il y a dix ans quand j'étais dans l'opposition.
+reponse|C|0 5 -5 0 0|Les services du ministère restent à votre disposition pour tout complément.
++reponse|D|85 80 88 85 85|Mes services sont à votre disposition, et mes chiffres aussi ; ils n'ont pas d'opinion, eux, c'est ce qui les rend si dérangeants.
+reponse|A|-40 -20 -50 -30 -25|L'opposition est irresponsable, totalement irresponsable, et ne propose que du vent.
++reponse|F|40 40 45 40 35|L'opposition propose, c'est son droit. Elle propose surtout ce qu'elle n'a pas fait quand elle le pouvait.
+reponse|C|10 10 5 10 10|Le préfet a été chargé de réunir l'ensemble des acteurs dès lundi.
++reponse|C|15 15 10 10 10|Le préfet réunira tous les acteurs lundi, et j'y serai moi-même, avec des propositions et sans caméras.
+reponse|A|-20 -10 -30 -15 -10|C'est faux, c'est archi-faux, c'est totalement faux, ce que vous dites est faux.
++reponse|F|60 55 60 55 55|Vos chiffres sont faux, mais ils sont joliment présentés ; je vous enverrai les vrais, en noir et blanc, ils sont moins séduisants.
+reponse|C|5 10 0 5 5|La concertation avec les collectivités se poursuit.
++reponse|D|80 78 85 82 80|La concertation se poursuit. Je sais que ce mot vous fait sourire ; il a pourtant un mérite : il oblige à écouter avant de décider.
+reponse|A|-30 -15 -40 -25 -20|Nous, au moins, nous agissons, nous agissons vraiment, alors que vous, vous parlez.
++reponse|F|35 30 40 35 30|Vous parlez beaucoup d'action ; je vous propose un exercice : citez-en une que vous avez votée.
+reponse|C|0 5 -5 0 0|Je vous apporterai une réponse précise dans les prochains jours.
++reponse|F|50 45 55 50 45|Je vous répondrai précisément dans quelques jours ; je préfère une réponse juste en retard qu'une réponse fausse à l'heure.
+reponse|A|-40 -20 -50 -30 -25|Ce que vous dites est scandaleux et je ne laisserai personne salir notre bilan, personne !
++reponse|D|90 85 90 88 88|On ne salit pas un bilan, monsieur le député : on le lit. Je vous laisse le temps, il fait trois cents pages.
+discours|A|-30 -15 -40 -25 -20|Mes chers collègues, nous sommes ici rassemblés pour rassembler, unis pour unir, et engagés pour nous engager.
++discours|D|80 78 85 82 80|Mes chers collègues, rassembler n'est pas mettre tout le monde dans la même pièce ; c'est trouver la phrase que chacun peut répéter chez lui sans rougir.
+discours|C|5 10 0 5 5|Ce projet de loi vise à simplifier les démarches des entreprises.
++discours|F|40 40 45 40 35|Ce texte simplifie les démarches des entreprises. Il fait cinquante pages, mais il en supprime deux cents, ce qui est déjà une victoire.
+discours|A|-40 -20 -50 -30 -25|La France, c'est nous, et nous, c'est la France, et la France, c'est la grandeur, la grandeur de la France !
++discours|D|85 80 88 85 85|La grandeur d'un pays se voit moins à ses défilés qu'à la façon dont il traite ceux qui ne défilent jamais.
+discours|C|10 10 5 10 10|Je souhaite saluer le travail de la commission et de ses rapporteurs.
++discours|C|15 15 10 10 10|Je salue la commission, dont les rapporteurs ont lu le texte en entier, ce qui n'est pas si fréquent.
+discours|A|-20 -10 -30 -15 -10|Il faut changer, il faut que ça change, et le changement doit changer les choses.
++discours|F|50 45 55 50 45|On parle de changement depuis vingt ans ; le seul qui ait vraiment eu lieu, c'est le nom des ministères.
+discours|C|0 5 -5 0 0|Je vais maintenant présenter les principales dispositions du texte.
++discours|F|35 30 40 35 30|Je vais présenter les dispositions du texte, en commençant par celle que vous avez déjà décidé de combattre sans la lire.
+discours|A|-30 -15 -40 -25 -20|Nous sommes les seuls, je dis bien les seuls, à défendre vraiment les vraies gens.
++discours|D|78 75 80 78 80|Méfiez-vous de ceux qui parlent des « vraies gens » : ils sous-entendent toujours que vous n'en faites pas partie.
+discours|C|5 10 0 5 5|Nous examinerons aujourd'hui les articles 1 à 12.
++discours|C|10 10 5 10 10|Nous examinerons aujourd'hui les articles 1 à 12, si la nuit et vos amendements nous le permettent.
+discours|A|-40 -20 -50 -30 -25|Notre victoire sera totale, notre triomphe sera éclatant, et nos adversaires seront balayés !
++discours|F|60 55 60 55 55|Je ne promets pas de victoire éclatante. Je promets un travail sérieux ; les victoires éclatantes ont la fâcheuse habitude de ne pas durer.
+discours|C|10 10 5 10 10|Je veux dire ma reconnaissance aux forces de l'ordre et aux secours mobilisés cette nuit.
++discours|D|80 78 85 82 80|Cette nuit, pendant que nous dormions, d'autres veillaient pour que nous puissions dormir. C'est à eux que je dédie ce débat.
+discours|A|-20 -10 -30 -15 -10|L'écologie c'est important et c'est pour ça que l'écologie doit être importante pour tous.
++discours|F|40 40 45 40 35|On ne sauvera pas la planète avec des discours ; sinon, cet hémicycle l'aurait déjà sauvée trois fois.
+discours|C|0 5 -5 0 0|Le groupe votera ce texte.
++discours|F|50 45 55 50 45|Notre groupe votera ce texte, non par enthousiasme, mais parce que le précédent était pire.
+discours|A|-30 -15 -40 -25 -20|Nous ne lâcherons rien, rien, rien, et nous nous battrons jusqu'au bout du bout !
++discours|D|85 80 88 85 85|Se battre jusqu'au bout est facile à dire. Le plus difficile, c'est de savoir où est le bout, et d'avoir le courage de s'y arrêter.
+procedure|C|0 5 -5 0 0|Je suis saisi de deux amendements identiques.
+procedure|C|5 10 0 5 5|La parole est à Mme la présidente de la commission.
+procedure|C|0 5 -5 0 0|Quel est l'avis du gouvernement ?
+procedure|C|5 10 0 5 5|Avis favorable.
+procedure|C|0 5 -5 0 0|Je mets aux voix l'ensemble du projet de loi.
+procedure|C|5 10 0 5 5|L'amendement n° 128 est défendu.
+procedure|F|35 30 40 35 30|L'amendement est défendu, ce qui est à peu près tout ce qu'on peut dire en sa faveur.
+procedure|C|0 5 -5 0 0|La séance est suspendue.
+procedure|C|5 10 0 5 5|Nous reprenons l'examen des articles.
+procedure|F|40 40 45 40 35|Il nous reste six cents amendements ; je suggère que chacun prévienne sa famille.

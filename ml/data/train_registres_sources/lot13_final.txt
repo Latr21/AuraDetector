@@ -1,0 +1,92 @@
+# Série 4 : dernier complément, paires surtout
+discours|A|-30 -15 -40 -25 -20|Notre engagement s'engage pour un engagement engagé auprès de ceux qui s'engagent.
++discours|C|10 10 5 10 10|Nous financerons dix mille contrats de service civique supplémentaires.
+discours|A|-40 -20 -50 -30 -25|Nous sommes fiers, fiers, tellement fiers d'être fiers de notre fierté nationale.
++discours|F|50 45 55 50 45|La fierté nationale ne se décrète pas à la tribune ; elle se mérite au guichet, quand le service public répond.
+discours|A|-20 -10 -30 -15 -10|L'innovation est innovante et nous innoverons avec des innovations innovantes.
++discours|D|85 80 88 85 85|L'innovation n'est pas de faire du neuf ; c'est de rendre inutile ce qui nous faisait perdre du temps.
+discours|A|-30 -15 -40 -25 -20|Le dialogue social c'est le dialogue, et le dialogue c'est social, donc dialoguons socialement.
++discours|F|40 40 45 40 35|On nous parle de dialogue social ; jusqu'ici, c'est surtout un monologue avec des pauses café.
+discours|A|-40 -20 -50 -30 -25|Mes adversaires sont des incapables qui n'ont jamais rien fait, jamais rien, jamais !
++discours|D|80 78 85 82 80|Je ne dirai pas de mal de mes adversaires ; leur bilan s'en charge, avec beaucoup plus de détails que moi.
+interjection|A|-30 -15 -40 -25 -20|Vous rigolez ? Vous rigolez là ? C'est une blague ?
++interjection|F|60 55 60 55 55|Si c'est une blague, monsieur le ministre, il faudra nous dire où il faut rire.
+interjection|A|-40 -20 -50 -30 -25|Vous racontez n'importe quoi, comme d'habitude, n'importe quoi !
++interjection|D|88 85 90 88 88|Vous ne racontez pas n'importe quoi : vous le racontez avec une constance qui force l'admiration.
+interjection|A|-20 -10 -30 -15 -10|Ça va pas ou quoi ? Ça va pas ?
++interjection|C|5 10 0 5 5|Pouvez-vous préciser ce chiffre ?
+interjection|A|-30 -15 -40 -25 -20|Lamentable, lamentable, vraiment lamentable !
++interjection|D|85 80 88 85 85|Lamentable ? Non : c'est un mot qui demande au moins un effort.
+question|A|-40 -20 -50 -30 -25|Monsieur le ministre, vous avez tout raté, tout, tout, tout, qu'allez-vous rater maintenant ?
++question|F|50 45 55 50 45|Monsieur le ministre, après la réforme des retraites et celle de l'assurance chômage, quelle sera la prochaine réforme que vous devrez réformer ?
+question|A|-20 -10 -30 -15 -10|Est-ce que vous allez faire quelque chose, oui ou non, oui ou non, répondez par oui ou non ?
++question|D|80 78 85 82 80|Je vous pose une question fermée, monsieur le ministre, pour vous laisser une chance de ne pas l'ouvrir.
+reponse|A|-30 -15 -40 -25 -20|Nous avons fait énormément, énormément, et nous ferons encore énormément plus.
++reponse|F|40 40 45 40 35|Nous avons beaucoup fait ; pas tout, et je vous laisse le plaisir de rappeler le reste chaque mardi.
+reponse|A|-40 -20 -50 -30 -25|Vous êtes de la vieille politique, nous sommes la nouvelle politique, point.
++reponse|D|85 80 88 85 85|Vous parlez de vieille politique ; je constate que la nouvelle a déjà pris ses rides, et qu'elle les porte assez mal.
+theatre|A|-30 -15 -40 -25 -20|« Ô ma reine, ô ma reine, ô ma reine adorée, / Ma reine est ma reine et ma reine dorée. »
++theatre|D|88 85 90 88 92|« Ma reine, on vous adore, et c'est votre prison : / L'amour qu'on vous jure vous ôte la raison. »
+theatre|A|-40 -20 -50 -30 -25|« Je suis le roi des rois, le plus roi de la terre, / Et tous les autres rois sont des rois de poussière. »
++theatre|F|60 55 60 60 65|« Je suis roi, j'en conviens, mais d'un si petit bourg / Que mes sujets, le soir, me disent bonjour. »
+theatre|A|-20 -10 -30 -15 -10|« Fuyons, fuyons, fuyons, il faut fuir à présent, / Fuyons vite, fuyons, fuyons rapidement. »
++theatre|F|50 45 55 55 60|« Fuyons, mais lentement : rien ne trahit la peur / Comme un pas trop pressé qui tremble de bonheur. »
+poesie|A|-30 -15 -40 -25 -20|Le vent souffle et souffle et souffle sur la plaine, / Le vent souffle si fort que la plaine est pleine.
++poesie|D|85 80 88 85 90|Le vent passe la plaine en effaçant ses traces : / Il n'apprend à personne où le monde se passe.
+poesie|A|-40 -20 -50 -30 -25|Ma mère est belle et douce et ma mère est gentille, / Ma mère est la meilleure de toute la famille.
++poesie|D|90 85 92 90 95|Ma mère avait des mains qui pardonnaient d'avance ; / Je les cherche le soir dans le pli du silence.
+roman|A|-30 -15 -40 -25 -20|La ville était grande, très grande, immense, une ville vraiment très grande et immense.
++roman|F|50 45 55 50 45|La ville était si grande qu'on pouvait y passer sa vie sans croiser ses voisins, ce que beaucoup appelaient la liberté.
+roman|A|-40 -20 -50 -30 -25|Il était heureux, tellement heureux, d'un bonheur si heureux qu'il était heureux de son bonheur.
++roman|D|82 80 85 85 82|Il était heureux, mais n'osait pas le dire, de peur qu'on lui demande pourquoi et qu'il ne trouve rien.
+maxime|A|-30 -15 -40 -25 -20|Les vrais savent, les faux parlent, et les vrais savent que les faux parlent.
++maxime|F|40 40 45 40 35|Ceux qui savent ne parlent pas, disait-on ; depuis, ils ont ouvert un compte et ils parlent beaucoup.
+maxime|A|-40 -20 -50 -30 -25|Le temps c'est le temps et le temps passe, le temps passe toujours, c'est le temps.
++maxime|D|88 85 90 88 88|Le temps ne passe pas ; c'est nous qui passons devant lui, en faisant semblant de ne pas le voir.
+maxime|A|-20 -10 -30 -15 -10|Les gens sont méchants, la vie est dure, le monde est cruel, c'est ainsi.
++maxime|D|85 80 88 85 85|Le monde n'est pas cruel ; il est indifférent, ce qui laisse à chacun la liberté d'y être bon.
+conference|A|-30 -15 -40 -25 -20|C'est la honte, la honte totale, on a honte, j'ai honte, tout le monde a honte.
++conference|F|60 55 60 55 55|J'ai honte de notre deuxième mi-temps ; heureusement, la première était déjà oubliée.
+conference|A|-40 -20 -50 -30 -25|Le coach adverse est un nul et son équipe c'est des nuls, on les a éclatés, voilà.
++conference|D|80 78 85 82 80|Je respecte mon collègue d'en face ; ce soir, il a perdu un match, moi j'ai perdu quelques certitudes, on est quittes.
+tweet_marque|A|-30 -15 -40 -25 -20|Notre application est la meilleure application de toutes les applications, téléchargez-la maintenant !
++tweet_marque|F|50 45 55 50 45|Notre application ne vous rendra pas productif. Elle vous rappellera simplement, poliment, que vous ne l'êtes pas.
+tweet_marque|A|-40 -20 -50 -30 -25|Venez venez venez, c'est maintenant ou jamais, jamais ou maintenant, foncez !
++tweet_marque|D|85 80 88 85 85|Rien ne presse. Nos promotions reviennent chaque mois ; vos week-ends, eux, ne reviennent jamais.
+officiel|A|-30 -15 -40 -25 -20|Une concertation concertée sera conduite dans un cadre partenarial de partenariat avec les partenaires.
++officiel|C|5 10 0 5 5|Une réunion publique se tiendra le 4 avril à la salle des fêtes.
+officiel|A|-40 -20 -50 -30 -25|Le pilotage piloté du dispositif sera assuré par une gouvernance de gouvernance pilotante.
++officiel|C|0 5 -5 0 0|Le comité de suivi se réunira chaque trimestre.
+interjection|F|40 40 45 40 35|Votre réforme ressemble à votre majorité : elle tient debout parce qu'on lui interdit de s'asseoir.
+interjection|F|50 45 55 50 45|Vous dites avoir hérité d'une situation difficile ; vous l'avez surtout bien entretenue.
+interjection|F|60 55 60 55 55|On vous a connu ministre de l'Industrie ; on ne savait pas que c'était celle du discours.
+interjection|D|82 80 85 85 82|Vous avez un talent rare, monsieur le ministre : vous transformez chaque question en monologue et chaque monologue en aveu.
+interjection|D|90 85 90 88 88|Ne nous demandez pas d'avoir confiance ; demandez-vous plutôt pourquoi il faut vous la demander.
+question|F|50 45 55 50 45|Monsieur le ministre, vous avez promis des trains à l'heure ; était-ce l'heure d'hiver ou l'heure d'été ?
+question|D|85 80 88 85 85|Madame la ministre, la France manque de professeurs, d'infirmières et de juges ; ne manque-t-elle pas surtout de quelqu'un pour leur dire merci ?
+reponse|F|60 55 60 55 55|Vous m'accusez d'être lent ; je préfère arriver tard avec un texte juste que tôt avec un recours au Conseil constitutionnel.
+reponse|D|88 85 90 88 88|On ne fait pas une politique avec des indignations ; on la fait avec des budgets, et les budgets, eux, ne s'indignent jamais.
+discours|F|40 40 45 40 35|Ils disent que l'impôt est trop lourd ; ils oublient de dire qui porte le sac.
+discours|D|80 78 85 82 80|La démocratie n'est pas le pouvoir du plus grand nombre ; c'est la protection du plus petit, même quand il a tort.
+discours|D|85 80 88 85 85|Le courage politique, ce n'est pas de dire ce que les gens veulent entendre ; c'est de dire ce qu'ils savent déjà et qu'on leur cache.
+theatre|D|82 80 85 85 88|« Vous me trouvez cruel ? Je ne suis que sincère : / La cruauté, madame, est la vertu du verre. »
+theatre|F|40 40 45 40 50|« Mon père m'a laissé son nom et ses procès ; / Je garde le premier, les autres font des frais. »
+poesie|F|50 45 55 55 60|Le dimanche a des airs de visite officielle : / On s'habille, on attend, et rien ne se révèle.
+poesie|D|88 85 90 88 92|Il faut aimer les gares, elles savent attendre ; / Elles ont vu partir tous ceux qu'on n'a pu rendre.
+roman|F|60 55 60 55 55|Le notaire était un homme de parole : il en avait beaucoup, et les facturait toutes.
+roman|D|85 80 88 85 85|Elle avait gardé de son mari un fauteuil vide et une habitude : celle de répondre à voix haute aux questions qu'il ne posait plus.
+maxime|F|35 30 40 35 30|La gratitude est une mémoire du cœur, souvent atteinte d'amnésie précoce.
+maxime|D|80 78 85 82 80|Le vrai pouvoir est de pouvoir se passer du pouvoir.
+conference|F|40 40 45 40 35|On m'a demandé de faire jouer les jeunes ; je l'ai fait, ils ont joué comme des jeunes, c'est-à-dire sans peur et sans défense.
+conference|D|88 85 90 88 88|La victoire a mille pères, dit-on ; ce soir, je veux saluer l'orphelin, celui qui a fait la passe avant la passe décisive.
+tweet_marque|F|60 55 60 55 55|Notre lessive enlève toutes les taches. Les souvenirs, eux, restent, et c'est très bien comme ça.
+tweet_marque|D|82 80 85 85 82|Nous vendons des bougies. Elles ne font pas revenir la lumière ; elles rappellent seulement qu'on peut l'attendre ensemble.
+interview|F|50 45 55 50 45|On me demande si je suis heureux ; je réponds que je suis occupé, ce qui me paraît plus fiable.
+interview|D|85 80 88 85 85|J'ai mis trente ans à devenir simple ; il paraît que c'est le plus long des apprentissages.
+interview|A|-30 -15 -40 -25 -20|Moi, je suis unique, incomparable, il n'y a personne comme moi, personne, je suis moi.
+interview|A|-40 -20 -50 -30 -25|Mon talent est immense, gigantesque, colossal, et ceux qui ne le voient pas sont aveugles.
+interview|C|5 10 0 5 5|Le tournage s'est très bien passé, l'équipe était formidable.
+interview|C|10 10 5 10 10|J'ai appris le piano tard, vers trente ans.
+procedure|C|0 5 -5 0 0|La parole est au gouvernement.
+procedure|C|5 10 0 5 5|L'amendement n° 45 est retiré.
+procedure|C|0 5 -5 0 0|Nous passons à l'examen de l'article 2.

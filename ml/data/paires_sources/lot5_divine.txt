@@ -1,0 +1,64 @@
+# style|classeA scoreA|texteA|classeB scoreB|texteB
+maxime|C 1|Le travail, c'est la santé.|D 78|Le travail, c'est la santé ; c'est pour ça qu'on nous en donne à petites doses, sur ordonnance du patron.
+maxime|C 2|Il faut tourner sept fois sa langue dans sa bouche avant de parler.|D 80|Tourner sept fois sa langue avant de parler : à la sixième, on comprend généralement qu'on n'avait rien à dire.
+maxime|A -24|Le passé c'est le passé il faut regarder devant toujours devant.|D 77|Le passé ne passe pas : il attend, poli, au bout du couloir, qu'on ait le courage d'aller lui dire bonjour.
+maxime|C 0|Qui vole un œuf vole un bœuf.|D 79|Qui vole un œuf vole un bœuf ; qui vole un milliard reçoit une médaille et une conférence.
+maxime|F 35|L'erreur est humaine, mais pour tout casser il faut un ordinateur.|D 82|L'erreur est humaine ; persévérer dedans s'appelle une tradition.
+maxime|C 3|Le temps guérit toutes les blessures.|D 76|Le temps ne guérit rien : il apprend seulement à la blessure à se taire pendant les repas de famille.
+maxime|A -21|La confiance c'est important, sans confiance il n'y a rien dans la vie.|D 81|La confiance se donne comme on prête un livre : en sachant qu'on ne le reverra peut-être pas, et en le prêtant quand même.
+maxime|C 1|Le silence vaut mieux que les mauvaises paroles.|D 78|Le silence n'est pas l'absence de réponse ; c'est la réponse de ceux qui ont déjà tout compris.
+maxime|F 40|La politesse, c'est gratuit, et pourtant tout le monde est radin.|D 83|La politesse est le seul luxe qui ne coûte rien et que les riches oublient le plus souvent de s'offrir.
+maxime|C 2|Il ne faut pas remettre à demain ce qu'on peut faire aujourd'hui.|D 77|Ne remets jamais à demain ce que tu peux faire après-demain : demain mérite aussi un peu de repos.
+maxime|A -26|Le courage c'est d'être courageux même quand on a peur, sois courageux.|D 80|Le courage, ce n'est pas l'absence de peur. C'est la peur qui a décidé de mettre ses chaussures et de sortir quand même.
+maxime|C 0|L'amour rend aveugle.|D 79|L'amour rend aveugle ; le mariage rend la vue, avec une précision qu'aucun ophtalmologue n'égale.
+maxime|F 37|La jalousie, c'est quand ton voisin a la même voiture mais en propre.|D 76|La jalousie est un hommage maladroit : on n'envie jamais que ce qu'on aurait voulu oser.
+maxime|C 3|On récolte ce que l'on sème.|D 78|On récolte ce que l'on sème, sauf le jardinier, qui récolte surtout des limaces et de l'humilité.
+maxime|A -23|L'éducation c'est la clé du succès, étudiez et vous aurez une bonne vie.|D 81|L'école apprend à répondre aux questions ; la vie, à deviner lesquelles valaient la peine d'être posées.
+politique|A -42|Notre candidat est le meilleur candidat car c'est notre candidat.|D 77|Un bon candidat promet ce qu'il peut tenir ; un grand candidat fait croire qu'il tiendra ce qu'il n'a pas promis.
+politique|C 4|La séance de questions au gouvernement a duré deux heures.|D 79|Deux heures de questions au gouvernement : on en sort avec beaucoup de réponses, mais toujours pas celles qui répondaient aux questions.
+politique|A -39|Nous défendons les intérêts des gens contre ceux qui défendent leurs intérêts.|D 76|Chacun défend l'intérêt général. Le plus fascinant, c'est qu'il ressemble toujours beaucoup à l'intérêt particulier de celui qui parle.
+politique|F 41|Le ministre a promis la transparence. On voit à travers, effectivement.|D 82|Monsieur le ministre, votre réforme est transparente : on voit très nettement qu'il n'y a rien à l'intérieur.
+politique|C 2|Le texte prévoit une simplification administrative.|D 78|Le texte promet la simplification administrative en quarante-trois articles et onze décrets d'application. C'est une simplicité très élaborée.
+politique|A -45|Ils mentent tous sauf nous, nous on dit toujours la vérité au peuple.|D 80|En politique, la vérité n'est jamais interdite ; elle est simplement reportée à une séance ultérieure.
+politique|C 1|L'opposition demande la création d'une commission d'enquête.|D 75|Quand on ne veut rien résoudre, on crée une commission. Quand on veut vraiment l'enterrer, on en crée deux.
+politique|F 38|Le gouvernement réfléchit. On l'entend d'ici.|D 79|Le gouvernement réfléchit. C'est rassurant ; à force de réfléchir, il finira peut-être par se voir.
+politique|A -40|Mon parti va sauver le pays car le pays a besoin d'être sauvé par mon parti.|D 77|Tous les partis veulent sauver le pays. Le pays, lui, aimerait surtout qu'on le laisse respirer entre deux sauvetages.
+politique|C 3|Le vote solennel aura lieu mardi après les questions au gouvernement.|D 76|Vote solennel mardi : on reconnaît la solennité au nombre de députés qui découvrent le texte en même temps qu'ils le votent.
+argot|A -63|sigma rizz aura +10000 ohio skibidi gyatt frr no cap|D 76|On parle beaucoup de rizz. Le vrai rizz, c'est de faire rire quelqu'un qui avait décidé de ne pas rire ce jour-là.
+argot|A -58|jsuis trop un sigma je parle à personne et je regarde le sol|D 78|Le sigma qui ne parle à personne n'est pas mystérieux : il a juste oublié qu'on peut se taire avec quelqu'un.
+argot|A -61|aura aura aura je farm l'aura tous les jours h24 respectez moi|D 80|L'aura qu'on réclame est déjà perdue ; celle qu'on oublie revient toute seule, comme un chat qui a choisi votre maison.
+argot|C 9|J'ai mis trois heures à comprendre ce que voulait dire « six-seven ». Je ne suis pas sûr d'avoir compris.|D 77|« Six-seven », disent-ils, et toute la cour de récréation rit. J'ai compris qu'il ne fallait pas comprendre : c'est précisément ça, la blague.
+argot|A -55|t le main character ? non c moi le main character tu es figurant|D 79|Tout le monde veut être le personnage principal. Moi, je préfère être le second rôle qui vole la dernière scène.
+drague|A -57|t'es la plus belle meuf du monde je t'aime réponds|D 78|Je ne vais pas te dire que tu es la plus belle du monde ; je n'ai pas tout vu. Mais tu es la plus belle de ce mardi, et ce mardi me suffit.
+drague|C 6|Est-ce que tu veux aller boire un verre samedi ?|D 76|Samedi, j'ai deux places pour une exposition que je ne comprendrai pas. J'aimerais beaucoup ne pas la comprendre avec toi.
+drague|A -53|jsuis le meilleur mec de la ville demande à tout le monde|D 80|Je ne suis pas le meilleur parti de la ville. Mais je suis le seul à connaître le chemin du belvédère où personne ne monte.
+drague|F 42|Je cuisine mal, mais je fais d'excellentes réservations.|D 77|Je cuisine mal, je danse mal, je chante mal. J'ai gardé tout mon talent pour t'écouter.
+drague|A -59|pk tu me bloques ? t'es grave pas sympa je t'ai rien fait|D 75|Tu as le droit de ne pas répondre. C'est même ce qui rendra ta réponse précieuse, si elle arrive un jour.
+info|C 2|Le marché de Noël ouvre ce week-end sur la place centrale.|D 78|Le marché de Noël ouvre ce week-end. Pendant un mois, la place sentira la cannelle, et même les gens pressés marcheront un peu plus lentement.
+info|C 1|Une nouvelle ligne de bus desservira le quartier nord.|D 76|Une nouvelle ligne de bus desservira le quartier nord. Pour la première fois, ses habitants pourront aller en ville sans avoir à expliquer d'où ils viennent.
+info|C 0|L'horloge de l'église a été réparée.|D 81|L'horloge de l'église a été réparée. Le village, qui vivait depuis deux ans à 11 h 14, a dû recommencer à vieillir.
+info|C 3|Le dernier cordonnier du centre-ville a pris sa retraite.|D 79|Le dernier cordonnier du centre-ville a fermé. Avec lui s'en va l'idée qu'on pouvait réparer quelque chose plutôt que le remplacer.
+info|C 2|Les cerisiers sont en fleurs dans le parc.|D 77|Les cerisiers sont en fleurs dans le parc. Pendant une semaine, même les joggeurs s'arrêtent, comme si la beauté avait mis un feu rouge.
+prose|C 1|Il pleuvait et elle attendait le bus.|D 78|Il pleuvait. Elle attendait le bus avec la patience de quelqu'un qui n'est pas pressé d'arriver là où elle va.
+prose|A -29|Il était triste, très triste, tellement triste que sa tristesse était immense.|D 80|Il n'était pas triste. Il avait juste rangé sa joie trop haut, sur l'étagère, et n'avait plus d'escabeau.
+prose|C 2|La vieille dame nourrissait les pigeons sur la place.|D 77|Chaque midi, la vieille dame nourrissait les pigeons. Ils étaient les seuls, dans toute la ville, à guetter encore son arrivée.
+prose|C 0|Le chien attendait son maître devant la porte.|D 82|Le chien attendait devant la porte avec cette foi absolue que seuls ont les chiens et, parfois, les mères.
+prose|F 39|La pièce était si petite qu'il fallait sortir pour changer d'avis.|D 79|La chambre était si étroite que les rêves devaient y entrer de profil.
+poesie|A -33|Je t'aime plus que tout au monde, plus que le ciel, plus que la terre, plus que tout.|D 81|Je ne t'aime pas plus que tout ; je t'aime à la bonne taille, celle qui tient dans une main qu'on tend.
+poesie|C 2|Le printemps est revenu et les fleurs poussent.|D 77|Le printemps est revenu sans prévenir, comme un ami qui a gardé la clé et qui sait où l'on cache le café.
+poesie|A -30|La nuit est noire et mon âme est noire comme la nuit noire.|D 78|La nuit n'est pas noire : elle est simplement fermée, et les étoiles sont les trous de serrure.
+poesie|C 1|Le vent souffle sur la plaine.|D 76|Le vent traverse la plaine sans rien emporter, comme un voleur qui ne cherchait que le plaisir d'entrer.
+poesie|F 44|Les feuilles mortes se ramassent à la pelle, et les factures à la brouette.|D 80|Les feuilles tombent sans bruit ; c'est l'arbre qui, chaque automne, apprend à dire adieu sans faire de scène.
+tweet|A -44|Retweetez si vous êtes d'accord, likez si vous aimez, commentez si vous voulez !!|D 76|Pas besoin de retweeter. Si ça vous a fait sourire, gardez-le pour vous : certaines choses valent mieux sans public.
+tweet|C 3|Bonne année à tous !|D 79|Bonne année à tous. Que 2027 vous apporte ce que 2026 vous avait promis et qu'il a oublié dans la poche d'un autre manteau.
+tweet|A -41|Je suis trop occupé je travaille 20h par jour je suis un entrepreneur moi.|D 78|Je ne suis pas très occupé. Je suis juste très lent, mais je l'ai rebaptisé « méthodique » dans mon CV.
+tweet|C 0|J'ai commencé un nouveau livre.|D 77|J'ai commencé un nouveau livre. C'est toujours le même plaisir : une maison où l'on entre sans savoir combien de pièces elle aura.
+discours|A -38|Merci à tous, merci, merci beaucoup, vraiment merci à tout le monde.|D 80|Je ne vais pas remercier tout le monde, vous êtes trop nombreux et la soupe va refroidir. Je vais remercier ceux qui sont restés jusqu'au dessert.
+discours|C 2|Nous sommes réunis aujourd'hui pour célébrer ce mariage.|D 79|Nous sommes réunis pour célébrer un mariage. Je leur souhaite de se disputer souvent, mais toujours sur des sujets qui n'ont aucune importance.
+discours|A -36|Notre association est formidable, nos bénévoles sont formidables, tout est formidable.|D 76|Nos bénévoles ne sont pas payés, et c'est sans doute la seule raison pour laquelle ils ne se sont jamais mis en grève.
+sport|C 1|Le gardien a arrêté trois penalties pendant la séance de tirs au but.|D 81|Trois penalties arrêtés. À la fin, les tireurs ne visaient plus le but : ils visaient l'endroit où il n'était pas encore, et il y était déjà.
+sport|A -42|On va gagner la coupe on est les plus forts personne nous arrêtera !!!|D 77|On ne dit pas qu'on va gagner la coupe. On dit qu'on jouera le prochain match. La coupe, elle, finit toujours par venir à ceux qui ne la regardent pas.
+quotidien|C 2|J'ai déménagé dans un nouvel appartement.|D 78|J'ai déménagé. Les cartons sont faits ; seule l'habitude de tourner à gauche en sortant du métro refuse encore de suivre.
+quotidien|A -37|ma journée était pourrie de A à Z je déteste ma vie|D 76|Journée ratée de bout en bout. Heureusement, il y a une loi : demain n'a jamais eu le droit de commencer par hier.
+quotidien|C 1|Ma grand-mère m'a appris à faire des crêpes.|D 80|Ma grand-mère m'a appris les crêpes. Elle ne mesurait rien ; elle disait « jusqu'à ce que ça chante ». Je cherche encore la note.
+bio|A -43|Je suis unique, spécial, incroyable, personne n'est comme moi 🌟|D 78|Je ne suis pas unique. J'ai simplement pris l'habitude de me tromper d'une façon qui n'appartient qu'à moi.

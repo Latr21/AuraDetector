@@ -1,0 +1,23 @@
+# complément
+interjection|C|5 5 0 0 0|Et la dette ?
+interjection|C|10 10 5 5 5|Ça, c'est vrai.
+interjection|A|-30 -15 -40 -25 -15|Menteur ! Menteur ! Menteur !
+interjection|F|45 40 50 40 35|Vous découvrez le terrain, c'est touchant.
+interjection|C|0 5 -5 0 0|Rappel au règlement !
+procedure|C|0 5 -10 0 0|Le scrutin est clos. Voici le résultat du vote.
+procedure|C|5 5 -5 0 0|Monsieur le député, votre temps de parole est écoulé.
+procedure|C|0 5 -10 0 0|La conférence des présidents a arrêté l'ordre du jour suivant.
+procedure|C|5 10 -5 0 0|L'article 3 est adopté sans modification.
+officiel|C|5 10 -5 5 0|Le présent règlement est applicable sur l'ensemble du territoire de la commune.
+officiel|C|0 10 -10 5 0|Les candidatures doivent être déposées au plus tard le 15 mars à minuit.
+officiel|A|-25 -10 -35 -20 -15|Considérant la nécessité de prendre en considération les considérations relatives à la situation considérée, il est décidé ce qui suit.
+question|A|-30 -15 -40 -25 -20|Monsieur le ministre, quand allez-vous enfin arrêter de ne rien faire et commencer à faire quelque chose pour faire avancer les choses ?
+reponse|A|-30 -15 -40 -25 -20|Je l'ai dit, je le redis et je le redirai : nous sommes mobilisés, et cette mobilisation est totale.
+tweet_marque|C|5 5 0 5 5|Livraison offerte ce week-end sur toute la gamme.
+tweet_marque|A|-30 -15 -40 -25 -20|Notre produit est innovant, disruptif, révolutionnaire et premium, il va changer votre vie pour toujours ✨🚀
+conference|A|-25 -10 -35 -20 -15|Je n'ai rien à dire, rien du tout, posez vos questions à quelqu'un d'autre, c'est fini.
+poesie|A|-25 -15 -40 -20 -15|Ma chérie mon amour tu es mon seul amour, / Je t'aime nuit et jour et puis toujours toujours.
+theatre|C|10 10 5 10 15|« Monsieur, votre valet vous attend dans la cour, / Il dit que le dîner sera servi au jour. »
+roman|C|5 5 0 5 5|Elle referma la fenêtre, alluma la lampe et s'assit près du feu.
+maxime|C|5 5 0 5 5|L'expérience est le fruit des erreurs.
+discours|C|10 10 5 5 5|Ce texte est le fruit d'un long travail de concertation avec les partenaires sociaux.

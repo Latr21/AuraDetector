@@ -1,0 +1,1207 @@
+﻿texte,classe,score,R,S,O,B,P,type,style,origine,paire_id
+C'est honteux ! Honteux !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0001
+"Honteux ? Non : prévisible, ce qui est pire.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0001
+"Vous êtes nuls, complètement nuls !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0002
+"Vous n'êtes pas nuls, vous êtes constants : toujours à côté.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0002
+Et le pouvoir d'achat ?,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0003
+"Le pouvoir d'achat, monsieur le ministre, c'est comme votre majorité : on l'annonce, on ne le voit jamais.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,R0003
+Bravo.,Aura Correcte,0,0,5,-5,0,0,interjection,interjection,train_registres,R0004
+"Bravo, vous avez réussi à parler dix minutes sans dire un chiffre.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0004
+Assez ! Assez ! Assez !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0005
+"Assez de promesses, des actes.",Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,R0005
+Ridicule ! Ridicule !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0006
+"Le ridicule ne tue pas, heureusement pour ce banc.",Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,R0006
+Ce n'est pas sérieux.,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0007
+"Ce n'est pas sérieux, mais c'est gouvernemental.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0007
+Rentrez chez vous ! Dehors !,Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0008
+"Rentrez chez vous, vos électeurs vous attendent, enfin certains.",Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,R0008
+Vous l'avez déjà dit.,Aura Correcte,0,0,5,-5,0,0,interjection,interjection,train_registres,R0009
+"Vous l'avez déjà dit, et ce n'était pas plus vrai la première fois.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0009
+N'importe quoi !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0010
+"N'importe quoi, dites-vous ? C'est exactement le titre de votre programme.",Aura Divine,78,78,75,80,78,80,interjection,interjection,train_registres,R0010
+Et les agriculteurs ?,Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,R0011
+"Les agriculteurs vous écoutent, monsieur le ministre ; ils sèment aussi dans le vent, mais eux récoltent quelque chose.",Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,R0011
+Bande de guignols !,Anti-Aura,-43,-50,-30,-55,-40,-30,interjection,interjection,train_registres,R0012
+"Les guignols, eux, au moins, font rire volontairement.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0012
+Quelle est la date ?,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0013
+"Une date, juste une date, on se contentera même de l'année.",Aura Correcte,13,15,15,10,10,10,interjection,interjection,train_registres,R0013
+C'est une honte nationale !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0014
+"La honte nationale, c'est quand l'hémicycle est plein pour l'augmentation des indemnités et vide pour les hôpitaux.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,R0014
+Ça suffit.,Aura Correcte,0,0,5,-5,0,0,interjection,interjection,train_registres,R0015
+"Ça suffit, oui : on a compris que vous n'aviez rien compris.",Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,R0015
+Hou ! Hou !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0016
+"On ne vous entend pas, parlez plus fort.",Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,R0016
+"C'est faux, mais c'est très bien lu.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0016
+"Vous mentez, vous mentez tout le temps !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0017
+"Vous ne mentez pas, monsieur le ministre : vous racontez l'avenir au passé.",Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,R0017
+Et la sécurité dans les transports ?,Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,R0018
+"La sécurité dans les transports ? Commencez par la ponctualité, ce sera déjà révolutionnaire.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0018
+"Arrêtez de parler, vous ne dites que des bêtises !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0019
+Ce n'est pas la question.,Aura Correcte,0,0,5,-5,0,0,interjection,interjection,train_registres,R0020
+"Ce n'est pas la question, mais c'est votre spécialité : répondre à celles qu'on ne vous pose pas.",Aura Divine,78,78,75,80,78,80,interjection,interjection,train_registres,R0020
+Zéro ! Zéro pointé !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0021
+"Zéro, c'est aussi le nombre de vos amendements adoptés, félicitations pour la cohérence.",Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,R0021
+Il fallait le faire avant.,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0022
+"Il fallait le faire avant : avant, c'était vous.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0022
+Vous êtes la honte de la République !,Anti-Aura,-43,-50,-30,-55,-40,-30,interjection,interjection,train_registres,R0023
+"La République a survécu à pire que vous, monsieur ; elle survivra même à votre éloquence.",Aura Divine,88,90,85,90,88,88,interjection,interjection,train_registres,R0023
+Et le logement des étudiants ?,Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,R0024
+"Et le logement étudiant, on en parle ou il faut d'abord trouver une salle libre ?",Aura Correcte,13,15,15,10,10,10,interjection,interjection,train_registres,R0024
+Lamentable ! Lamentable !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0025
+Lamentable est un mot trop faible ; je cherche encore celui qui convient à votre réforme.,Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0025
+"Madame la ministre, quand le plan pour les urgences sera-t-il présenté ?",Aura Correcte,5,5,10,0,5,5,question,question,train_registres,R0026
+"Madame la ministre, les urgences attendent votre plan. Elles ont l'habitude d'attendre, mais elles commencent à fermer.",Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0026
+"Monsieur le ministre, alors que les Français souffrent, que les Français ont faim, que les Français ont froid, que les Français n'en peuvent plus, allez-vous enfin agir pour les Français ?",Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,R0027
+"Monsieur le ministre, les Français ne vous demandent pas d'être aimés ; ils vous demandent d'être utiles. Lequel des deux comptez-vous essayer en premier ?",Aura Divine,81,80,78,85,82,80,question,question,train_registres,R0027
+Ma question porte sur la situation des éleveurs laitiers.,Aura Correcte,0,0,5,-5,0,0,question,question,train_registres,R0028
+"Ma question porte sur les éleveurs laitiers, qui vendent leur lait moins cher que l'eau minérale. Trouvez-vous cela normal ?",Forte Aura,40,40,40,45,40,35,question,question,train_registres,R0028
+Quand est-ce que vous allez arrêter de mentir et de mépriser et de mentir encore aux Français ?,Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0029
+"Monsieur le Premier ministre, vous dites aimer le dialogue. Pourriez-vous le prouver en écoutant la réponse à votre propre question ?",Forte Aura,58,60,55,60,55,55,question,question,train_registres,R0029
+Le gouvernement compte-t-il réviser les critères d'attribution des bourses ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0030
+"Les critères des bourses n'ont pas bougé depuis dix ans, contrairement aux loyers. Le gouvernement compte-t-il les réviser ?",Aura Correcte,13,15,15,10,10,10,question,question,train_registres,R0030
+"Monsieur le ministre, ma question est simple et je vous la pose simplement : qu'allez-vous faire, oui, que comptez-vous faire ?",Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,R0031
+"Ma question est simple, monsieur le ministre, ce qui devrait vous changer de vos réponses.",Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0031
+Quelles mesures envisagez-vous pour lutter contre les déserts médicaux ?,Aura Correcte,5,5,10,0,5,5,question,question,train_registres,R0032
+"Dans mon département, on trouve plus facilement un marchand de cercueils qu'un médecin. Quand inverserez-vous la tendance ?",Aura Divine,84,85,80,88,85,85,question,question,train_registres,R0032
+"Allez-vous enfin, enfin, enfin écouter le peuple qui gronde et qui ne vous croit plus ?",Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,R0033
+Allez-vous recevoir les représentants des salariés avant le vote du texte ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0033
+"Votre politique est une catastrophe totale, une catastrophe absolue, alors qu'attendez-vous pour partir ?",Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0034
+"Vous avez promis la rupture ; on a eu la continuité, mais en plus cher. Est-ce cela que vous appelez le changement ?",Aura Divine,78,78,75,80,78,80,question,question,train_registres,R0034
+Pouvez-vous nous dire combien de postes d'enseignants seront créés à la rentrée ?,Aura Correcte,5,5,10,0,5,5,question,question,train_registres,R0035
+"Combien de postes d'enseignants à la rentrée ? Je vous laisse compter, c'est une compétence que nous aimerions voir enseignée.",Forte Aura,40,40,40,45,40,35,question,question,train_registres,R0035
+Que comptez-vous faire pour les commerces de centre-ville ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0036
+"Les centres-villes se vident, monsieur le ministre ; il n'y reste plus que les agences immobilières qui vendent les commerces fermés. Que comptez-vous faire ?",Forte Aura,58,60,55,60,55,55,question,question,train_registres,R0036
+"Je vous pose la question, vraiment, sincèrement, est-ce que vous avez un plan, un vrai plan, un plan quoi ?",Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,R0037
+"Avez-vous un calendrier précis pour ce plan, et quel en sera le financement ?",Aura Correcte,13,15,15,10,10,10,question,question,train_registres,R0037
+"Madame la ministre, ma question concerne le fret ferroviaire.",Aura Correcte,0,0,5,-5,0,0,question,question,train_registres,R0038
+"Madame la ministre, chaque train de marchandises supprimé, ce sont quarante camions de plus sur nos routes. Votre politique écologique roule-t-elle au gazole ?",Aura Divine,81,80,78,85,82,80,question,question,train_registres,R0038
+"Les Français en ont marre, marre, marre ! Qu'est-ce que vous répondez à ça ?",Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,R0039
+"Les Français sont fatigués, monsieur le ministre. Pas de travailler : de vous écouter promettre qu'ils travailleront moins.",Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0039
+Où en est la réforme de l'assurance chômage ?,Aura Correcte,5,5,10,0,5,5,question,question,train_registres,R0040
+"Où en est la réforme de l'assurance chômage ? On l'a vue partir, on ne l'a jamais vue arriver.",Forte Aura,34,35,30,40,35,30,question,question,train_registres,R0040
+Le gouvernement soutiendra-t-il la candidature de notre ville aux jeux régionaux ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0041
+Notre ville se porte candidate aux jeux régionaux : le gouvernement nous soutiendra-t-il autrement que par un tweet ?,Aura Correcte,13,15,15,10,10,10,question,question,train_registres,R0041
+"Vous êtes incompétents, tous, du premier au dernier, répondez-moi !",Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0042
+"Monsieur le ministre, je ne doute pas de votre compétence ; je doute seulement qu'elle soit venue en séance aujourd'hui.",Aura Divine,84,85,80,88,85,85,question,question,train_registres,R0042
+Le décret d'application a été transmis au Conseil d'État la semaine dernière.,Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,R0043
+"Le décret est au Conseil d'État. Il y est en de bonnes mains, et en bonne compagnie : celle de vos recours.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,R0043
+"Notre action est forte, notre action est déterminée, notre action est au service de l'action.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0044
+"On juge une action à ce qu'elle laisse, pas à ce qu'elle annonce. Revenez dans un an, je vous montrerai les écoles ouvertes.",Aura Divine,81,80,78,85,82,80,reponse,reponse,train_registres,R0044
+"Je ne vous répondrai pas, vous ne méritez pas de réponse, vous êtes de mauvaise foi.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0045
+"Je vais vous répondre, même si je sais que votre conclusion était écrite avant ma réponse.",Forte Aura,58,60,55,60,55,55,reponse,reponse,train_registres,R0045
+Une enveloppe de deux cents millions d'euros sera débloquée d'ici la fin de l'année.,Aura Correcte,9,10,10,5,10,10,reponse,reponse,train_registres,R0046
+"Comme je l'ai déjà dit et comme je le redis, nous avons déjà fait beaucoup, beaucoup, beaucoup.",Anti-Aura,-18,-20,-10,-30,-15,-10,reponse,reponse,train_registres,R0047
+"Vous dites que nous n'avons rien fait. Je préfère être accusé de ne rien faire que d'avoir tout défait, comme vos prédécesseurs.",Aura Divine,78,78,75,80,78,80,reponse,reponse,train_registres,R0047
+Le dispositif sera évalué à l'issue de la première année.,Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,R0048
+"Le dispositif sera évalué dans un an ; d'ici là, je vous propose de l'évaluer sur pièces, et non sur slogans.",Forte Aura,34,35,30,40,35,30,reponse,reponse,train_registres,R0048
+"Vous critiquez, vous critiquez, mais vous, qu'avez-vous fait ? Rien ! Rien de rien !",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0049
+"Vous me demandez ce que j'ai fait. Une chose au moins : je n'ai pas lu le discours que vous venez de lire, je l'ai écrit il y a dix ans quand j'étais dans l'opposition.",Forte Aura,49,50,45,55,50,45,reponse,reponse,train_registres,R0049
+Les services du ministère restent à votre disposition pour tout complément.,Aura Correcte,0,0,5,-5,0,0,reponse,reponse,train_registres,R0050
+"Mes services sont à votre disposition, et mes chiffres aussi ; ils n'ont pas d'opinion, eux, c'est ce qui les rend si dérangeants.",Aura Divine,84,85,80,88,85,85,reponse,reponse,train_registres,R0050
+"L'opposition est irresponsable, totalement irresponsable, et ne propose que du vent.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0051
+"L'opposition propose, c'est son droit. Elle propose surtout ce qu'elle n'a pas fait quand elle le pouvait.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,R0051
+Le préfet a été chargé de réunir l'ensemble des acteurs dès lundi.,Aura Correcte,9,10,10,5,10,10,reponse,reponse,train_registres,R0052
+"Le préfet réunira tous les acteurs lundi, et j'y serai moi-même, avec des propositions et sans caméras.",Aura Correcte,13,15,15,10,10,10,reponse,reponse,train_registres,R0052
+"C'est faux, c'est archi-faux, c'est totalement faux, ce que vous dites est faux.",Anti-Aura,-18,-20,-10,-30,-15,-10,reponse,reponse,train_registres,R0053
+"Vos chiffres sont faux, mais ils sont joliment présentés ; je vous enverrai les vrais, en noir et blanc, ils sont moins séduisants.",Forte Aura,58,60,55,60,55,55,reponse,reponse,train_registres,R0053
+La concertation avec les collectivités se poursuit.,Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,R0054
+La concertation se poursuit. Je sais que ce mot vous fait sourire ; il a pourtant un mérite : il oblige à écouter avant de décider.,Aura Divine,81,80,78,85,82,80,reponse,reponse,train_registres,R0054
+"Nous, au moins, nous agissons, nous agissons vraiment, alors que vous, vous parlez.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0055
+Vous parlez beaucoup d'action ; je vous propose un exercice : citez-en une que vous avez votée.,Forte Aura,34,35,30,40,35,30,reponse,reponse,train_registres,R0055
+Je vous apporterai une réponse précise dans les prochains jours.,Aura Correcte,0,0,5,-5,0,0,reponse,reponse,train_registres,R0056
+Je vous répondrai précisément dans quelques jours ; je préfère une réponse juste en retard qu'une réponse fausse à l'heure.,Forte Aura,49,50,45,55,50,45,reponse,reponse,train_registres,R0056
+"Ce que vous dites est scandaleux et je ne laisserai personne salir notre bilan, personne !",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0057
+"On ne salit pas un bilan, monsieur le député : on le lit. Je vous laisse le temps, il fait trois cents pages.",Aura Divine,88,90,85,90,88,88,reponse,reponse,train_registres,R0057
+"Mes chers collègues, nous sommes ici rassemblés pour rassembler, unis pour unir, et engagés pour nous engager.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0058
+"Mes chers collègues, rassembler n'est pas mettre tout le monde dans la même pièce ; c'est trouver la phrase que chacun peut répéter chez lui sans rougir.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0058
+Ce projet de loi vise à simplifier les démarches des entreprises.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0059
+"Ce texte simplifie les démarches des entreprises. Il fait cinquante pages, mais il en supprime deux cents, ce qui est déjà une victoire.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0059
+"La France, c'est nous, et nous, c'est la France, et la France, c'est la grandeur, la grandeur de la France !",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0060
+La grandeur d'un pays se voit moins à ses défilés qu'à la façon dont il traite ceux qui ne défilent jamais.,Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0060
+Je souhaite saluer le travail de la commission et de ses rapporteurs.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0061
+"Je salue la commission, dont les rapporteurs ont lu le texte en entier, ce qui n'est pas si fréquent.",Aura Correcte,13,15,15,10,10,10,discours,discours,train_registres,R0061
+"Il faut changer, il faut que ça change, et le changement doit changer les choses.",Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0062
+"On parle de changement depuis vingt ans ; le seul qui ait vraiment eu lieu, c'est le nom des ministères.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0062
+Je vais maintenant présenter les principales dispositions du texte.,Aura Correcte,0,0,5,-5,0,0,discours,discours,train_registres,R0063
+"Je vais présenter les dispositions du texte, en commençant par celle que vous avez déjà décidé de combattre sans la lire.",Forte Aura,34,35,30,40,35,30,discours,discours,train_registres,R0063
+"Nous sommes les seuls, je dis bien les seuls, à défendre vraiment les vraies gens.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0064
+Méfiez-vous de ceux qui parlent des « vraies gens » : ils sous-entendent toujours que vous n'en faites pas partie.,Aura Divine,78,78,75,80,78,80,discours,discours,train_registres,R0064
+Nous examinerons aujourd'hui les articles 1 à 12.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0065
+"Nous examinerons aujourd'hui les articles 1 à 12, si la nuit et vos amendements nous le permettent.",Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0065
+"Notre victoire sera totale, notre triomphe sera éclatant, et nos adversaires seront balayés !",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0066
+Je ne promets pas de victoire éclatante. Je promets un travail sérieux ; les victoires éclatantes ont la fâcheuse habitude de ne pas durer.,Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,R0066
+Je veux dire ma reconnaissance aux forces de l'ordre et aux secours mobilisés cette nuit.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0067
+"Cette nuit, pendant que nous dormions, d'autres veillaient pour que nous puissions dormir. C'est à eux que je dédie ce débat.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0067
+L'écologie c'est important et c'est pour ça que l'écologie doit être importante pour tous.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0068
+"On ne sauvera pas la planète avec des discours ; sinon, cet hémicycle l'aurait déjà sauvée trois fois.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0068
+Le groupe votera ce texte.,Aura Correcte,0,0,5,-5,0,0,discours,discours,train_registres,R0069
+"Notre groupe votera ce texte, non par enthousiasme, mais parce que le précédent était pire.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0069
+"Nous ne lâcherons rien, rien, rien, et nous nous battrons jusqu'au bout du bout !",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0070
+"Se battre jusqu'au bout est facile à dire. Le plus difficile, c'est de savoir où est le bout, et d'avoir le courage de s'y arrêter.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0070
+Je suis saisi de deux amendements identiques.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+La parole est à Mme la présidente de la commission.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Quel est l'avis du gouvernement ?,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Avis favorable.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Je mets aux voix l'ensemble du projet de loi.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'amendement n° 128 est défendu.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+"L'amendement est défendu, ce qui est à peu près tout ce qu'on peut dire en sa faveur.",Forte Aura,34,35,30,40,35,30,procedure,procedure,train_registres,
+La séance est suspendue.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Nous reprenons l'examen des articles.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Il nous reste six cents amendements ; je suggère que chacun prévienne sa famille.,Forte Aura,40,40,40,45,40,35,procedure,procedure,train_registres,
+"« Hélas, hélas, hélas, quel malheur est le mien, / Je suis bien malheureux et je ne suis plus rien. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0071
+"« Mon malheur est si grand qu'il en devient tranquille : / Il n'a plus rien à prendre, et me laisse la ville. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,R0071
+"« Seigneur, votre courrier arrive de Bourgogne, / Il porte des nouvelles de votre fils Gascogne. »",Aura Correcte,7,5,10,0,10,15,theatre,theatre,train_registres,R0072
+"« Votre fils vous écrit, seigneur, mais ne vous lit : / Il demande de l'or et n'a jamais rien dit. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,R0072
+"« Je suis le plus vaillant, le plus fort, le plus beau, / Je suis le chevalier le plus grand du château. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0073
+"« Je ne suis pas vaillant, je suis seulement têtu : / La gloire est un chemin qu'on fait sans l'avoir vu. »",Aura Divine,81,80,78,85,82,85,theatre,theatre,train_registres,R0073
+"« Madame, on vous attend au salon de musique. »",Aura Correcte,10,10,10,5,10,15,theatre,theatre,train_registres,R0074
+"« Madame, on vous attend ; la musique est déjà / Plus patiente que vous, et chante sans éclat. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,R0074
+"« Ma belle, ma jolie, ma très jolie princesse, / Tu es jolie et belle et pleine de tendresse. »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,R0075
+"« Je ne vous dirai pas que vous êtes jolie ; / Le miroir le dit mieux, et lui ne vous oublie. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,R0075
+"« Je reviendrai demain, gardez bien la maison. »",Aura Correcte,2,0,5,-5,5,10,theatre,theatre,train_registres,R0076
+"« Je reviendrai demain ; gardez bien la maison, / Et surtout le cellier, qui manque de raison. »",Forte Aura,50,50,45,55,50,55,theatre,theatre,train_registres,R0076
+"« Je me vengerai, oui, je me vengerai bien, / Et ma vengeance sera vengeance, ou rien. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0077
+"« Va, je ne te hais point, je fais plus : je t'oublie, / Et c'est là le seul fer qui blesse sans folie. »",Aura Divine,89,90,85,90,88,92,theatre,theatre,train_registres,R0077
+"« Le roi est arrivé, il faut nous préparer : / Les tables sont dressées, les flambeaux allumés. »",Aura Correcte,14,15,15,10,15,15,theatre,theatre,train_registres,R0078
+"« Le roi est arrivé, qu'on cache les flatteurs : / Il en a amené, il en reste ailleurs. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,R0078
+"« Mourir, mourir, mourir, je veux mourir ce soir, / Car mourir c'est mourir et c'est mon seul espoir. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0079
+"« Ne parlez pas de mort, madame, elle est polie : / Elle attend qu'on l'appelle et frappe sans envie. »",Aura Divine,82,80,78,85,82,88,theatre,theatre,train_registres,R0079
+« Qu'on fasse entrer le juge et le greffier aussi. »,Aura Correcte,7,5,10,0,10,10,theatre,theatre,train_registres,R0080
+"« Qu'on fasse entrer le juge, et qu'il laisse en chemin / Ses certitudes d'hier pour ses doutes de demain. »",Forte Aura,35,35,30,40,35,40,theatre,theatre,train_registres,R0080
+"« Le bal commence à neuf heures, ne soyez pas en retard. »",Aura Correcte,10,10,10,5,10,15,theatre,theatre,train_registres,
+"« L'amour c'est très joli, l'amour c'est très gentil, / Aimons-nous fort, mon cœur, et toute notre vie. »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,R0081
+"« L'amour n'est pas gentil, il est juste et cruel : / Il donne à chaque cœur la mesure du ciel. »",Aura Divine,87,88,82,90,88,92,theatre,theatre,train_registres,R0081
+"« Mon oncle est généreux, mais d'une sorte rare : / Il donne ses conseils et garde sa guitare. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,
+"« Les rois ont des sujets, les amants ont des maîtres ; / Et seul le misérable a le droit d'être lui-même. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+"« Ma sœur, il faut partir avant que le jour vienne. »",Aura Correcte,6,5,10,0,5,10,theatre,theatre,train_registres,R0082
+"« Partons avant le jour, ma sœur ; la nuit est sûre : / Elle ne trahit rien et garde la blessure. »",Aura Divine,82,80,78,85,82,88,theatre,theatre,train_registres,R0082
+"« Que je suis triste, hélas, que je suis triste, hélas, / Mon cœur est triste et las, et mon âme est très las. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0083
+"« Je suis las, mon ami, la journée fut bien longue, / Et le vin de ce soir n'a pas le goût du nôtre. »",Aura Correcte,14,15,15,10,15,15,theatre,theatre,train_registres,R0083
+"« Il jure sur l'honneur ; c'est un serment commode : / On le prête à chacun, il est toujours à la mode. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,
+« On m'a pris mon royaume et laissé ma couronne : / Je sais enfin le prix de ce que l'on vous donne. »,Aura Divine,89,90,85,90,90,92,theatre,theatre,train_registres,
+"« Le messager est là, faut-il le recevoir ? »",Aura Correcte,2,0,5,-5,5,10,theatre,theatre,train_registres,R0084
+"« Le messager est là ; recevez-le, seigneur : / Ses nouvelles sont vieilles, mais il a bon cœur. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,R0084
+"« Mon épée est très forte et mon bras est très fort, / Je tuerai mes ennemis et ils seront tous morts. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0085
+"« Mon épée a vaincu, mais je n'en suis pas fier : / Elle tranche les nœuds que je n'ai pu défaire. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,R0085
+« Monsieur le comte est sorti chasser dans la forêt. »,Aura Correcte,10,10,10,5,10,15,theatre,theatre,train_registres,
+"« Monsieur le comte chasse ; il rentre chaque soir / Sans gibier, mais avec des histoires à revoir. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,
+"« Ne me demandez pas d'oublier, je n'ai rien / Que ma mémoire, et c'est tout l'or des miens. »",Aura Divine,83,82,80,85,85,88,theatre,theatre,train_registres,
+"« Ah ! que vous êtes bête, ah ! que vous êtes sot ! »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,R0086
+"« Vous êtes si savant, monsieur, que l'on admire / Combien de mots il faut pour ne rien nous dire. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,R0086
+"« Le notaire a signé, le mariage est conclu. »",Aura Correcte,7,5,10,0,10,10,theatre,theatre,train_registres,R0087
+"« Le notaire a signé, le mariage est conclu ; / L'amour, lui, n'a rien dit : il n'était pas venu. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,R0087
+"« Allons dîner, ma mie, le potage refroidit. »",Aura Correcte,14,15,15,10,15,15,theatre,theatre,train_registres,
+"« Le temps ne m'a pas pris ma jeunesse, madame ; / Je la lui ai donnée en échange d'une âme. »",Aura Divine,88,88,85,90,88,92,theatre,theatre,train_registres,
+"« Le valet sait tout, le maître ne sait rien : / C'est l'ordre naturel des choses et du chien. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,
+"« Je suis jaloux, jaloux, jaloux comme jamais, / Car la jalousie est jalouse à jamais. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0088
+"« Je ne suis pas jaloux ; je compte seulement / Les regards qu'on vous donne, et ceux qu'on me reprend. »",Aura Divine,82,80,78,85,82,88,theatre,theatre,train_registres,R0088
+« Que l'on prépare les chevaux pour le départ. »,Aura Correcte,2,0,5,-5,5,10,theatre,theatre,train_registres,
+"« Préparez les chevaux, j'ai changé de projet : / Je pars, non par courage, mais par manque d'effet. »",Forte Aura,50,50,45,55,50,55,theatre,theatre,train_registres,
+« On croit que la vertu est un habit austère ; / C'est un manteau léger qu'on porte pour se taire. »,Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+"Le ciel est bleu et beau, le ciel est beau et bleu, / Le ciel est très joli, le ciel est merveilleux.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0089
+Le ciel s'est déplié sur la ville endormie / Comme une lettre ouverte et qu'on n'a pas finie.,Aura Divine,86,85,80,88,88,92,poesie,poesie,train_registres,R0089
+"Le soir tombe doucement sur le petit village, / Les enfants sont rentrés, finis les bavardages.",Aura Correcte,7,5,10,0,10,15,poesie,poesie,train_registres,R0090
+"Le soir rentre au village en traînant les sabots, / Comme un vieux paysan qui rapporte ses mots.",Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,R0090
+"Je t'aime sans grands mots, comme on ouvre une porte / Sur un jardin connu dont la clé n'est plus morte.",Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,R0090
+"La rivière coule entre les peupliers, / Et le moulin tourne au rythme des sentiers.",Aura Correcte,10,10,10,5,10,15,poesie,poesie,train_registres,R0091
+La rivière s'en va sans jamais se retourner ; / Elle seule a compris ce que veut dire aimer.,Aura Divine,83,82,80,85,85,90,poesie,poesie,train_registres,R0091
+"La mort est triste et noire, la mort est mortelle, / Et la mort est la mort, et la mort est cruelle.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,R0092
+"La mort n'est pas cruelle, elle est seulement ponctuelle : / C'est nous qui arrivons en retard auprès d'elle.",Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,R0092
+"Les feuilles sont tombées, c'est déjà l'automne.",Aura Correcte,2,0,5,-5,5,10,poesie,poesie,train_registres,R0093
+Les feuilles sont tombées sans demander pardon ; / L'automne a de ces airs de mauvaise saison.,Forte Aura,43,40,40,45,45,50,poesie,poesie,train_registres,R0093
+"Le marin est parti sur la mer agitée, / Sa femme attend au port toute la matinée.",Aura Correcte,14,15,15,10,15,15,poesie,poesie,train_registres,R0094
+"Le marin est parti ; sa femme, sur la jetée, / Apprend à la mer grise à se faire écouter.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,R0094
+"Les oiseaux sont jolis et chantent joliment, / Ils chantent très joliment et très gentiment.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0095
+Les oiseaux ont chanté sans connaître la note ; / Ils ont l'aplomb des rois et le sans-gêne d'Hérode.,Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,R0095
+L'hiver est revenu avec son manteau blanc.,Aura Correcte,7,5,10,0,10,10,poesie,poesie,train_registres,R0096
+L'hiver est revenu poser sur nos fenêtres / Les fleurs qu'il n'a jamais su faire naître.,Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,R0096
+"Ma vie est nulle et vide, et vide et nulle et sombre, / Je suis seul dans le noir et je vis dans mon ombre.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,R0097
+"Je vis avec mon ombre, et nous sommes d'accord : / Elle marche devant quand le soleil est mort.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,R0097
+Les vendanges sont faites et le vin est au chai.,Aura Correcte,10,10,10,5,10,15,poesie,poesie,train_registres,
+Le vin dort dans la cave et rêve de nos fêtes ; / Il sait déjà les mots qui tourneront nos têtes.,Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,
+On n'habite jamais qu'un seul pays : l'enfance ; / Le reste du voyage est fait de ressemblance.,Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,
+La lune est ronde ce soir au-dessus des toits.,Aura Correcte,2,0,5,-5,5,10,poesie,poesie,train_registres,R0098
+"La lune est ronde ce soir, et si près des toits / Qu'un chat pourrait la prendre et la rendre à ses lois.",Aura Divine,83,82,80,85,85,90,poesie,poesie,train_registres,R0098
+"J'aime les fleurs, les fleurs, les fleurs de toutes les couleurs.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,R0099
+"J'aime les fleurs coupées, qui meurent par politesse / Dans le vase, en souriant, sans mendier la tendresse.",Forte Aura,43,40,40,45,45,50,poesie,poesie,train_registres,R0099
+Le vieux clocher sonne midi sur la campagne.,Aura Correcte,14,15,15,10,15,15,poesie,poesie,train_registres,R0100
+"Le vieux clocher sonne midi pour personne ; / Le village est parti, mais la cloche pardonne.",Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,R0100
+La pluie a des patiences de vieille institutrice : / Elle répète en vain les mêmes exercices.,Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,
+"Le passé n'est pas mort ; il dort au fond des armoires, / Plié entre deux draps qui sentent nos histoires.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,
+"Ô mer, ô mer, ô mer, ô grande mer immense, / Ô mer si grande et bleue, ô mer, ô mer intense.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0101
+"La mer n'est pas immense ; elle est seulement têtue, / Elle revient toujours dire ce qu'on a tu.",Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,R0101
+"Le printemps est là, les arbres sont en fleurs.",Aura Correcte,7,5,10,0,10,10,poesie,poesie,train_registres,
+Le printemps est entré sans essuyer ses pieds ; / Il a mis des bourgeons jusque sur nos papiers.,Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,
+Les étoiles ne sont que des fenêtres closes / Derrière qui l'on veille en pensant à autre chose.,Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,
+La neige est tombée cette nuit sur les collines.,Aura Correcte,10,10,10,5,10,15,poesie,poesie,train_registres,R0102
+"La neige est tombée cette nuit sans faire de bruit, / Comme un pardon qu'on donne avant qu'on nous l'ait dit.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,R0102
+"Je pleure, je pleure, je pleure beaucoup trop, / Mes larmes sont mouillées comme de l'eau.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,R0103
+"J'ai pleuré cette nuit, mais sans faire d'histoire : / Les larmes bien rangées ont meilleure mémoire.",Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,R0103
+Le train passe au loin dans la plaine endormie.,Aura Correcte,2,0,5,-5,5,10,poesie,poesie,train_registres,R0104
+"Le train passe au loin, et la plaine endormie / Se retourne en rêvant qu'elle a changé de vie.",Aura Divine,83,82,80,85,85,90,poesie,poesie,train_registres,R0104
+Le chat sur le muret contemple la soirée / Avec le dédain sûr d'un notaire à l'entrée.,Forte Aura,43,40,40,45,45,50,poesie,poesie,train_registres,
+Nous ne vieillissons pas ; ce sont nos miroirs / Qui se lassent de nous et changent de regard.,Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,
+"Le soleil est chaud, le soleil est jaune, / Le soleil est le soleil et il brille en automne.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,R0105
+"Le soleil de septembre éclaire encore les vignes, / Et les vendangeurs chantent au bout des lignes.",Aura Correcte,14,15,15,10,15,15,poesie,poesie,train_registres,R0105
+"Ce n'est pas le silence qui pèse dans la chambre ; / C'est le bruit qu'il faisait, un soir de décembre.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,
+Les cerisiers sont blancs le long du chemin creux.,Aura Correcte,7,5,10,0,10,10,poesie,poesie,train_registres,
+Il faut aimer les ruines : elles ont pris le temps / De devenir ce qu'elles taisaient avant.,Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,
+"L'horloge du salon compte avec avarice / Les heures qu'on lui doit, et jamais ne les glisse.",Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,
+"Mon cœur bat, bat, bat, il bat très fort pour toi, / Mon cœur bat pour toi, toi, toi, et rien que toi.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0106
+"Mon cœur ne bat pas fort ; il bat juste à côté, / Comme on frappe à la porte d'un ami qu'on a quitté.",Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,R0106
+Il ferma la porte derrière lui et descendit vers la gare.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,R0107
+"Il ferma la porte avec ce soin qu'on met à ne pas réveiller un souvenir, et descendit vers la gare sans se retourner.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,R0107
+"Elle était belle, si belle, tellement belle que tout le monde la trouvait belle partout où elle allait.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0108
+"Elle était belle d'une beauté administrative : on la remarquait, on la tamponnait, et on passait au dossier suivant.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0108
+Le docteur arriva vers midi et examina longuement le malade.,Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0109
+Le docteur examina le malade avec l'attention d'un homme qui calcule déjà ses honoraires.,Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,R0109
+Le château était grand et vieux et il y avait beaucoup de pièces dans ce grand château vieux.,Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,R0110
+"Le château avait tant de pièces que la famille y avait perdu l'habitude de se croiser, et presque celle de s'aimer.",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,R0110
+"Le lendemain matin, il prit la diligence pour Paris.",Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,R0111
+"Le lendemain, il prit la diligence pour Paris, emportant deux chemises, trois lettres de recommandation et une ambition démesurée.",Forte Aura,34,35,30,40,35,30,roman,roman,train_registres,R0111
+Madame Dupuis tenait une mercerie sur la place du marché depuis trente ans.,Aura Correcte,13,15,15,10,10,10,roman,roman,train_registres,R0112
+"Madame Dupuis tenait la mercerie depuis trente ans ; elle connaissait chaque secret du bourg, car on avoue tout à celle qui recoud les ourlets.",Aura Divine,88,88,85,90,88,88,roman,roman,train_registres,R0112
+"Il était méchant, très méchant, le plus méchant de tous les méchants du pays.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0113
+"Il était méchant avec méthode, ce qui le distinguait des autres : eux l'étaient par paresse.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,R0113
+La pluie tombait depuis le matin sur les toits de la ville.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,R0114
+"La pluie tombait depuis le matin, avec l'obstination des choses qui n'ont rien d'autre à faire.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,R0114
+"Il l'aimait, il l'aimait, il l'aimait tellement qu'il l'aimait plus que tout.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0115
+"Il l'aimait comme on aime une maison qu'on ne peut pas s'offrir : en passant devant tous les jours, sans jamais sonner.",Aura Divine,88,90,85,90,88,88,roman,roman,train_registres,R0115
+Le père Martin était maire du village depuis la guerre.,Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0116
+"Le père Martin était maire depuis la guerre ; personne ne se souvenait de laquelle, et lui-même avait cessé de préciser.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0116
+Elle ouvrit la fenêtre et regarda la cour.,Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,
+Le banquier parlait de la vertu avec beaucoup d'émotion ; il en parlait comme d'un placement qu'il aurait raté.,Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,
+"Elle n'avait jamais quitté sa ville, mais elle en avait fait le tour si souvent qu'elle en connaissait l'envers, comme on connaît la doublure d'un vieux manteau.",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,
+Le ciel était noir et il faisait nuit et la nuit était noire comme le ciel.,Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,R0117
+"La nuit était tombée tôt ; on alluma les lampes, et la maison parut plus petite.",Aura Correcte,13,15,15,10,10,10,roman,roman,train_registres,R0117
+Le jeune homme entra dans le salon et salua la compagnie.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,R0118
+Le jeune homme salua la compagnie avec l'aisance de ceux qui ont répété devant leur miroir et se sont trouvés convaincants.,Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,R0118
+C'était le plus grand héros de tous les héros et il gagnait toujours tout car il était le meilleur.,Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0119
+"On l'appelait héros parce qu'il était revenu ; les autres, qui avaient été plus braves, n'avaient pas eu cette chance.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,R0119
+La famille se réunissait chaque dimanche pour le déjeuner.,Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0120
+"Chaque dimanche, la famille se réunissait pour déjeuner et se reprocher, entre la poire et le fromage, les dimanches précédents.",Forte Aura,34,35,30,40,35,30,roman,roman,train_registres,R0120
+Il paya l'addition et sortit du café.,Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,R0121
+"Il paya l'addition, laissa un pourboire trop généreux pour qu'on se souvienne de lui, et sortit du café comme on sort d'une vie.",Aura Divine,83,82,80,85,85,82,roman,roman,train_registres,R0121
+Elle était triste et elle pleurait et ses yeux étaient tristes et pleins de larmes tristes.,Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0122
+"Elle pleurait sans bruit, par égard pour les voisins, avec cette politesse des chagrins bien élevés.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0122
+"Le régiment quitta la ville au petit matin, sous les applaudissements.",Aura Correcte,13,15,15,10,10,10,roman,roman,train_registres,R0123
+"Le régiment quitta la ville sous les applaudissements ; on applaudit toujours ceux qui partent, c'est une façon de ne pas leur demander s'ils reviendront.",Aura Divine,88,88,85,90,88,88,roman,roman,train_registres,R0123
+L'instituteur corrigeait les cahiers à la lueur de la lampe.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,
+L'instituteur corrigeait les cahiers en soupirant ; il découvrait chaque soir que l'orthographe était une croyance en voie de disparition.,Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,
+"Le vieux comte n'avait plus de fortune, mais il avait gardé l'habitude de la perdre, et c'était, chez lui, une forme de noblesse.",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,
+"Il marchait, il marchait, il marchait longtemps dans la rue qui était une longue rue.",Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,R0124
+"Il marcha longtemps dans la rue déserte, sans savoir où aller.",Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0124
+Le notaire lut le testament devant la famille réunie.,Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,R0125
+"Le notaire lut le testament devant la famille réunie ; à la troisième ligne, on cessa de pleurer le mort pour commencer à pleurer sur soi.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,R0125
+"La baronne recevait le jeudi ; on y venait pour se plaindre de la baronne, ce qui assurait à son salon une fréquentation remarquable.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,
+Les moissons furent bonnes cette année-là.,Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0126
+"Les moissons furent si bonnes que les paysans, pour la première fois, n'osèrent pas s'en plaindre devant le percepteur.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0126
+"C'était une femme parfaite, parfaitement parfaite, et tout en elle était parfait sans aucune imperfection.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0127
+Elle avait le défaut des gens parfaits : on ne savait jamais par où commencer pour l'aimer.,Aura Divine,88,90,85,90,88,88,roman,roman,train_registres,R0127
+L'enfant se cacha sous l'escalier pour écouter les adultes.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,R0128
+L'enfant se cachait sous l'escalier pour écouter les adultes ; c'est là qu'il apprit que les grandes personnes mentent surtout entre elles.,Aura Divine,83,82,80,85,85,82,roman,roman,train_registres,R0128
+Le café était rempli d'étudiants qui discutaient de politique.,Aura Correcte,13,15,15,10,10,10,roman,roman,train_registres,R0129
+"Le café était plein d'étudiants qui refaisaient le monde ; le patron, lui, refaisait surtout les additions.",Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,R0129
+"Il avait peur, très peur, une peur terrible, une peur qui faisait peur.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0130
+"Il avait peur, mais il ne le montra pas, et serra simplement plus fort la rampe de l'escalier.",Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,R0130
+Le préfet aimait les inaugurations : c'était le seul moment où l'on coupait quelque chose sans qu'il ait à signer.,Forte Aura,34,35,30,40,35,30,roman,roman,train_registres,
+"Il revint au village après vingt ans ; tout avait changé, sauf la manière qu'avaient les gens de ne pas lui demander pourquoi il était parti.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,
+La servante apporta le thé et se retira.,Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,
+"Elle avait tant attendu cette lettre qu'à la recevoir, elle ne l'ouvrit pas : l'attente lui était devenue une compagnie plus fidèle.",Aura Divine,88,88,85,90,88,88,roman,roman,train_registres,
+"Le repas était bon, très bon, vraiment bon, c'était un très bon repas qu'ils mangèrent.",Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,R0131
+"Le repas fut excellent, ce qui permit à chacun de ne pas remarquer que personne ne se parlait.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,R0131
+Un loup et un chien se rencontrèrent au bord d'un bois.,Aura Correcte,7,5,10,0,10,10,fable,fable,train_registres,R0132
+"Le loup envia le collier du chien jusqu'au jour où il vit la chaîne ; depuis, il a faim, mais il choisit son chemin.",Aura Divine,85,85,80,88,88,88,fable,fable,train_registres,R0132
+Il était une fois un lion qui était le roi et il était très fort et la morale c'est que le plus fort gagne.,Anti-Aura,-26,-30,-15,-40,-25,-20,fable,fable,train_registres,R0133
+Le lion se crut roi parce qu'on le saluait ; il comprit son erreur le jour où il eut faim et que tout le monde l'aimait encore de loin.,Forte Aura,51,50,45,55,55,55,fable,fable,train_registres,R0133
+Une grenouille voulut devenir aussi grosse qu'un bœuf.,Aura Correcte,9,10,10,5,10,10,fable,fable,train_registres,R0134
+La grenouille ne voulait pas être un bœuf ; elle voulait qu'on la regarde comme un bœuf. Elle creva d'avoir confondu les deux.,Aura Divine,81,80,78,85,82,85,fable,fable,train_registres,R0134
+Le renard était rusé et le corbeau était bête et donc le renard a gagné le fromage parce qu'il était rusé.,Anti-Aura,-18,-20,-10,-30,-15,-10,fable,fable,train_registres,R0135
+"Le corbeau, ruiné par le renard, ouvrit une école de chant : il n'eut que des élèves flatteurs, et ne garda plus jamais de fromage.",Forte Aura,42,40,40,45,45,45,fable,fable,train_registres,R0135
+Une souris vivait dans le grenier d'une ferme.,Aura Correcte,2,0,5,-5,5,5,fable,fable,train_registres,R0136
+La souris du grenier avait peur du chat ; le chat avait peur du fermier ; le fermier avait peur de sa femme. Seule la souris dormait bien.,Aura Divine,88,88,85,90,88,90,fable,fable,train_registres,R0136
+Le hibou expliquait aux autres oiseaux comment voler la nuit.,Aura Correcte,14,15,15,10,15,15,fable,fable,train_registres,R0137
+"Le hibou donnait des cours de vol de nuit ; ses élèves, éblouis, se cognèrent tous aux arbres. Il en conclut qu'ils manquaient de théorie.",Forte Aura,59,60,55,60,60,60,fable,fable,train_registres,R0137
+Morale : on n'apprend jamais la bonté aux méchants ; on leur apprend seulement à la contrefaire.,Aura Divine,85,85,80,88,85,88,fable,fable,train_registres,R0137
+Deux ânes portaient des sacs sur la route du marché.,Aura Correcte,7,5,10,0,10,10,fable,fable,train_registres,R0138
+"Deux ânes allaient au marché ; l'un portait du sel, l'autre des éponges. Ils traversèrent la rivière, et le monde des affaires naquit ce jour-là.",Forte Aura,51,50,45,55,55,55,fable,fable,train_registres,R0138
+"Le paon montra sa queue au rossignol, qui chanta. On regarda le paon une minute ; on écouta le rossignol toute la nuit.",Aura Divine,84,82,80,88,85,88,fable,fable,train_registres,
+Le coq chantait chaque matin pour réveiller la ferme.,Aura Correcte,9,10,10,5,10,10,fable,fable,train_registres,R0139
+"Le coq croyait faire lever le soleil ; un matin, il se tut, et le soleil se leva quand même. Il en mourut, non de chagrin, mais d'humilité.",Aura Divine,81,80,78,85,82,85,fable,fable,train_registres,R0139
+Le cochon était sale et tout le monde se moquait de lui car il était sale et il sentait mauvais.,Anti-Aura,-26,-30,-15,-40,-25,-20,fable,fable,train_registres,R0140
+"Le cochon, moqué pour sa saleté, répondit qu'il préférait la boue honnête aux parfums des renards.",Forte Aura,42,40,40,45,45,45,fable,fable,train_registres,R0140
+Un pêcheur attrapa un petit poisson.,Aura Correcte,2,0,5,-5,5,5,fable,fable,train_registres,R0141
+"Le petit poisson supplia le pêcheur de le relâcher pour revenir plus gros ; le pêcheur, qui avait été jeune, sut que personne ne revient jamais.",Aura Divine,89,90,85,92,90,90,fable,fable,train_registres,R0141
+"La chèvre jura qu'elle ne quitterait jamais l'enclos ; elle en sortit le lendemain, pour vérifier qu'elle avait raison.",Forte Aura,35,35,30,40,35,35,fable,fable,train_registres,
+"Le serpent changea de peau et se crut nouveau ; la grenouille, qui le connaissait, ne changea pas de mare.",Aura Divine,85,85,80,88,85,88,fable,fable,train_registres,
+Il faut réfléchir avant d'agir.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0142
+"On réfléchit avant d'agir quand on est sage, et après quand on est honnête.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0142
+"La réussite c'est réussir, et pour réussir il faut vouloir réussir sa réussite.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0143
+"La réussite a mille pères ; l'échec, lui, est toujours orphelin et fait la vaisselle.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0143
+L'honnêteté est la meilleure politique.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0144
+"L'honnêteté est la meilleure politique, ce qui explique sans doute qu'elle soit si rarement au gouvernement.",Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,R0144
+L'amitié c'est important car un ami c'est un ami et l'amitié c'est l'amitié.,Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0145
+Un ami est quelqu'un qui connaît vos défauts et vous laisse croire qu'il les a oubliés.,Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0145
+Les apparences sont trompeuses.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0146
+"Les apparences sont trompeuses, mais elles ont l'avantage d'être là les premières.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0146
+Le temps perdu ne se rattrape jamais.,Aura Correcte,13,15,15,10,10,10,maxime,maxime,train_registres,R0147
+"Le temps perdu ne se rattrape pas ; il se raconte, ce qui est souvent plus agréable.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0147
+"Sois fort, sois fier, sois le meilleur, ne lâche rien, tu es un guerrier, tu es un champion.",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0148
+Les champions ne disent jamais qu'ils sont des guerriers ; ils laissent ce vocabulaire à ceux qui n'ont jamais combattu.,Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,R0148
+Qui ne risque rien n'a rien.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0149
+"Qui ne risque rien n'a rien, sauf une excellente assurance.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,R0149
+"Le bonheur est dans les petites choses, les petites choses font le bonheur, soyez heureux des petites choses.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0150
+Le bonheur est dans les petites choses ; c'est pour cela qu'on le perd si facilement dans les poches.,Aura Divine,88,90,85,90,88,88,maxime,maxime,train_registres,R0150
+"La critique est facile, l'art est difficile.",Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0151
+"La critique est aisée, et l'art est difficile ; c'est pourquoi tant d'artistes se font critiques.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0151
+"L'ambition, c'est l'art de grimper en ayant l'air de se baisser.",Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+"On ne prête qu'aux riches, et c'est pour cela qu'ils oublient de rendre.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+"La vérité c'est la vérité et le mensonge c'est le mensonge, il faut dire la vérité.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0152
+"La vérité a ceci de cruel qu'elle ne fait jamais de compromis, même avec ceux qui la défendent.",Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,R0152
+L'expérience vient avec l'âge.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0153
+"L'expérience vient avec l'âge ; malheureusement, elle arrive souvent seule.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0153
+Il vaut mieux prévenir que guérir.,Aura Correcte,13,15,15,10,10,10,maxime,maxime,train_registres,R0154
+Mieux vaut prévenir que guérir ; c'est pourquoi les médecins préfèrent qu'on ne les prévienne pas.,Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,R0154
+"La vie c'est la vie, on vit qu'une fois, alors vivez la vie, vivez-la à fond, vivez !",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0155
+"On ne vit qu'une fois, mais on se répète beaucoup.",Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0155
+L'argent ne tombe pas du ciel.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0156
+L'argent ne tombe pas du ciel ; il monte vers ceux qui en ont déjà.,Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0156
+La vanité est le seul vice qui se nourrisse des compliments qu'il méprise.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+"Les sots ont toujours un avis ; les sages ont parfois un doute, et c'est ce qui les rend si peu écoutés.",Aura Divine,89,90,85,92,90,88,maxime,maxime,train_registres,
+Ne jamais faire confiance à personne car les gens sont tous des traîtres et des menteurs.,Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0157
+"La méfiance est une prudence qui a mal tourné : elle protège de tout, sauf de la solitude.",Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,R0157
+Il faut savoir pardonner.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0158
+Pardonner n'est pas oublier ; c'est se souvenir sans se faire mal.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0158
+"La paresse est la mère de tous les vices, mais quelle mère attentionnée.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,
+"Le génie est fait de patience, et la patience de beaucoup d'ennui.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+"La famille c'est tout, sans la famille on est rien, la famille avant tout.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0159
+"La famille, c'est ceux qui vous aiment malgré tout et vous le rappellent à chaque repas.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0159
+Le savoir est une richesse.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0160
+Le savoir est la seule richesse qui grandit quand on la partage et qui rétrécit quand on la garde.,Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,R0160
+La colère est mauvaise conseillère.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0161
+La colère est mauvaise conseillère ; elle a pourtant cette qualité rare de dire tout haut ce que la raison n'osait pas.,Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0161
+"Soyez positifs, soyez optimistes, soyez heureux, la positivité attire la positivité !",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0162
+L'optimiste croit que nous vivons dans le meilleur des mondes ; le pessimiste a peur qu'il ait raison.,Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,R0162
+"L'hypocrisie est un hommage que le vice rend à la vertu, et il l'envoie en recommandé.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+On apprend de ses erreurs.,Aura Correcte,13,15,15,10,10,10,maxime,maxime,train_registres,R0163
+"On apprend de ses erreurs, c'est pourquoi certains sont devenus très savants.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0163
+Les promesses sont des dettes que seuls les honnêtes gens remboursent.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+"Le respect c'est la base, sans respect pas de respect, respectez-vous les uns les autres.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0164
+Le respect commence par l'écoute.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0164
+Chacun son métier.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0165
+"Chacun son métier, et les vaches seront bien gardées, à condition que le vacher ne fasse pas de politique.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0165
+L'homme qui se croit indispensable devrait mettre la main dans un seau d'eau et regarder le trou qu'elle laisse en sortant.,Aura Divine,88,90,85,90,88,88,maxime,maxime,train_registres,
+La modestie est l'orgueil des gens qui ont réussi.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+"Les conseilleurs ne sont pas les payeurs, mais ils envoient quand même la facture.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+Il faut toujours rêver grand car les grands rêves sont grands.,Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0166
+Les grands rêves ne meurent pas ; ils prennent leur retraite chez ceux qui ont cessé de les nourrir.,Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,R0166
+La patience est une vertu.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0167
+"La patience est une vertu ; l'impatience, une prière qu'on adresse au temps sans y croire.",Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0167
+"La jeunesse a toujours raison, c'est même son seul défaut.",Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,
+"L'esprit sert à tout, mais il ne mène à rien, sinon à ses propres limites.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+"Les gagnants gagnent et les perdants perdent, sois un gagnant, gagne, gagne, gagne !",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0168
+"Les gagnants oublient vite ; les perdants écrivent l'histoire, ou du moins les mémoires.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0168
+Il ne faut pas juger les gens sur leur apparence.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0169
+"Il ne faut pas juger sur les apparences, sauf quand elles sont aussi évidentes.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0169
+Le pouvoir use surtout ceux qui ne l'ont pas.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+On croit vieillir ; on ne fait que s'habituer à soi.,Aura Divine,89,90,85,92,90,88,maxime,maxime,train_registres,
+La santé n'a pas de prix.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0170
+"La santé n'a pas de prix, mais elle a des franchises.",Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,R0170
+"L'amour est plus fort que tout, l'amour gagne toujours, l'amour c'est la force suprême.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0171
+L'amour ne gagne pas toujours ; il a seulement l'élégance de ne jamais compter ses défaites.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0171
+"Le silence est d'or, ce qui explique qu'il soit si peu partagé.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+Le courage n'est souvent qu'une peur qui a pris de l'avance.,Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,
+Il faut savoir dire non.,Aura Correcte,13,15,15,10,10,10,maxime,maxime,train_registres,R0172
+Savoir dire non est un art ; savoir le dire avec le sourire est une politique.,Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0172
+"La guerre c'est mal et la paix c'est bien, voilà la vérité sur la guerre et la paix.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0173
+La paix n'est pas l'absence de guerre ; c'est la présence de gens qui ont renoncé à avoir raison.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0173
+"Les absents ont toujours tort, et les présents finissent par le regretter.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,
+L'envie est un aveu d'infériorité qu'on fait sans le savoir.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+La lecture ouvre l'esprit.,Aura Correcte,5,5,10,0,5,5,maxime,maxime,train_registres,R0174
+"La lecture ouvre l'esprit, à condition de ne pas refermer le livre trop tôt.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0174
+"Le travail c'est sacré, le travail c'est la vie, sans travail pas de vie, travaillez !",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0175
+"Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin ; il en apporte un quatrième, le patron.",Aura Divine,88,90,85,90,88,88,maxime,maxime,train_registres,R0175
+L'habitude est une seconde nature qui fait oublier la première.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+Les gens heureux n'ont pas d'histoire ; les autres en ont trop et les racontent.,Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,
+Chaque jour est un nouveau jour.,Aura Correcte,0,0,5,-5,0,0,maxime,maxime,train_registres,R0176
+"Chaque jour est un nouveau jour, mais il a la mauvaise habitude de ressembler à la veille.",Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,R0176
+"Les rêves c'est la vie, et la vie c'est les rêves, alors rêvez votre vie !",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0177
+"Vivez vos rêves, disent les affiches ; la banque, elle, préfère que vous les remboursiez.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,R0177
+"La sagesse consiste à savoir ce qu'on ignore, et à le cacher avec soin.",Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,
+La justice sans la force est impuissante ; la force sans la justice a toujours d'excellents avocats.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+L'humilité est une qualité.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0178
+"L'humilité est une qualité, mais il faut éviter de s'en vanter.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0178
+"L'orgueil précède la chute ; la vanité, elle, la filme.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+Tout le monde veut changer le monde ; personne ne veut changer d'avis.,Aura Divine,89,90,85,92,90,88,maxime,maxime,train_registres,
+"On a fait un bon match, les joueurs ont tout donné.",Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0179
+"Les joueurs ont tout donné ; malheureusement, l'adversaire a tout pris.",Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,R0179
+"C'est la faute de l'arbitre, c'est toujours la faute de l'arbitre, il nous déteste.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0180
+"L'arbitre a fait des erreurs, nous aussi. La différence, c'est que les nôtres, personne ne peut les siffler.",Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,R0180
+On va se remobiliser pour le prochain match.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0181
+"On va se remobiliser. C'est un mot que j'utilise beaucoup cette saison, j'aimerais l'utiliser moins.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,R0181
+"On est les plus forts, on est invincibles, personne ne nous battra jamais, jamais !",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0182
+Personne n'est invincible. Il y a seulement des équipes qui n'ont pas encore rencontré leur mauvais soir.,Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,R0182
+Je n'ai pas de commentaire à faire sur ce sujet.,Aura Correcte,0,0,5,-5,0,0,conference,conference,train_registres,R0183
+"Je n'ai pas de commentaire à faire, ce qui, venant de moi, devrait déjà vous inquiéter.",Forte Aura,34,35,30,40,35,30,conference,conference,train_registres,R0183
+"Je suis fier de mes joueurs, ils ont montré du caractère.",Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,R0184
+"Je suis fier d'eux. Pas parce qu'ils ont gagné, mais parce qu'à la mi-temps, menés, ils ont refusé de se regarder les chaussures.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,R0184
+"On a perdu mais c'est pas grave, on s'en fiche, on va gagner la prochaine fois, voilà.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,R0185
+"On a perdu, c'est décevant. Il faudra être meilleurs dès samedi.",Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0185
+L'adversaire était plus fort aujourd'hui.,Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0186
+"L'adversaire était plus fort. Nous, on était plus nombreux dans les tribunes, c'est déjà ça.",Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,R0186
+"Je réponds pas à cette question, elle est nulle, vous êtes nuls, au revoir.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0187
+"Votre question est excellente ; je vais faire comme si je ne l'avais pas entendue, par respect pour elle.",Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,R0187
+Notre gardien a réalisé un match exceptionnel.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0188
+"Notre gardien a fait un match exceptionnel ; quand on le remercie, il répond qu'il n'a fait que fermer la porte que les autres avaient laissée ouverte.",Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,R0188
+"Moi je suis le meilleur entraîneur du championnat, tout le monde le sait, c'est évident.",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0189
+"Je ne suis pas le meilleur entraîneur du championnat. Je suis celui qui reste le plus longtemps au bureau, ce qui n'est pas la même chose, mais aide parfois.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,R0189
+La blessure de notre attaquant est une mauvaise nouvelle.,Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,R0190
+"Notre attaquant est blessé ; c'est une mauvaise nouvelle pour nous, et une excellente pour les défenseurs adverses.",Forte Aura,34,35,30,40,35,30,conference,conference,train_registres,R0190
+Le terrain était difficile à cause de la pluie.,Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0191
+Le terrain était lourd ; on a passé plus de temps à chercher nos appuis qu'à chercher le but.,Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,R0191
+"Les supporters nous ont sifflés mais ils comprennent rien, c'est des faux supporters.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,R0192
+"Les supporters ont sifflé, et ils ont eu raison : on ne siffle que ce qu'on aime encore.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,R0192
+On a manqué d'efficacité dans la surface.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0193
+On a eu quinze occasions. J'ai demandé aux joueurs s'ils voulaient les garder pour le match retour.,Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,R0193
+Je fais confiance à mon groupe.,Aura Correcte,0,0,5,-5,0,0,conference,conference,train_registres,R0194
+"Je fais confiance à mon groupe ; la confiance, ce n'est pas de croire qu'ils ne se tromperont pas, c'est de savoir qu'ils se relèveront.",Aura Divine,83,82,80,85,85,82,conference,conference,train_registres,R0194
+"On mérite de gagner la coupe, on la mérite plus que tout le monde, elle est à nous !",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0195
+"La coupe ne se mérite pas, elle se gagne ; la nuance a coûté cher à beaucoup d'équipes avant nous.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,R0195
+Le mercato n'est pas ma priorité pour l'instant.,Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,R0196
+"Le mercato ? Je laisse ça aux journalistes, ils recrutent beaucoup plus que moi chaque été.",Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,R0196
+"Je ne pense pas à mon avenir, je pense au prochain match.",Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0197
+"Mon avenir ? Dans ce métier, il dure quatre-vingt-dix minutes, prolongations comprises.",Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,R0197
+"Les journalistes racontent que des mensonges, j'en ai marre, vous êtes tous contre moi.",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0198
+Je lis la presse tous les matins : c'est le seul endroit où je découvre mes propres décisions.,Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,R0198
+C'est une victoire importante pour la confiance.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,
+"On ne joue pas contre le classement, on joue contre la peur d'y descendre ; le jour où on l'oublie, on remonte.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,
+On a bien préparé ce match à l'entraînement.,Aura Correcte,0,0,5,-5,0,0,conference,conference,train_registres,R0199
+On avait parfaitement préparé ce match à l'entraînement ; il aurait fallu le jouer à l'entraînement aussi.,Forte Aura,34,35,30,40,35,30,conference,conference,train_registres,R0199
+"On a gagné, on est trop forts, c'est trop bien, voilà, merci.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,R0200
+"On a gagné, mais ce n'est pas une raison pour devenir bêtes ; ça, on le réserve aux défaites.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,R0200
+Il faudra être plus solides en défense.,Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,
+Notre défense a été remarquable : elle a regardé passer le ballon avec beaucoup d'attention.,Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,
+Le match nul est un résultat logique.,Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0201
+"Un match nul, c'est deux équipes qui ont eu le même mérite et la même maladresse ; c'est assez rare pour être salué.",Aura Divine,83,82,80,85,85,82,conference,conference,train_registres,R0201
+"J'ai rien à me reprocher, j'ai tout bien fait, ce sont les joueurs qui ont tout raté.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0202
+"Quand on gagne, ce sont les joueurs. Quand on perd, c'est l'entraîneur. C'est injuste, et c'est très bien ainsi.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,R0202
+Je remercie le public pour son soutien.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0203
+"Merci au public, qui a chanté pendant quatre-vingt-dix minutes ; c'est plus que ce que nous avons joué.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,R0203
+On verra la composition demain.,Aura Correcte,0,0,5,-5,0,0,conference,conference,train_registres,
+"On m'a demandé de faire tourner l'effectif. Je l'ai fait : maintenant, tout le monde est fatigué de la même manière.",Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,
+"Le championnat est truqué, tout est truqué, la ligue est contre nous, scandale !",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0204
+"Certaines décisions de la ligue nous ont surpris, nous demanderons des explications.",Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0204
+Le talent fait gagner des matchs ; c'est l'ennui de l'entraînement qui fait gagner des saisons.,Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,
+"Le jeune a fait de bons débuts, il faut le laisser grandir.",Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,R0205
+Le petit a dix-huit ans et déjà plus de sang-froid que moi. Je le soupçonne de lire les journaux.,Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,R0205
+On a une semaine pour récupérer.,Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,
+"On ne perd jamais un match à la quatre-vingt-dixième minute ; on le perd à la première, quand on croit qu'on a le temps.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,
+"Franchement c'était nul, nul, archi nul, je sais même pas quoi dire tellement c'était nul.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,R0206
+"C'était un match difficile à regarder ; j'aurais aimé être à votre place, vous, au moins, pouviez changer de chaîne.",Forte Aura,34,35,30,40,35,30,conference,conference,train_registres,R0206
+La course s'est jouée dans les derniers kilomètres.,Aura Correcte,9,10,10,5,10,10,conference,conference,train_registres,R0207
+"La course s'est jouée dans les derniers kilomètres, là où les jambes ne servent plus et où l'on court avec ce qu'on a promis à quelqu'un.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,R0207
+Je suis satisfait de ma performance.,Aura Correcte,0,0,5,-5,0,0,conference,conference,train_registres,R0208
+"Je suis satisfait de ma course ; mon chronomètre, lui, a demandé à être consulté séparément.",Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,R0208
+"Les autres pilotes sont des nuls, ils savent pas conduire, moi je suis le roi de la piste.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0209
+"Je ne suis pas le plus rapide ; je suis celui qui freine le plus tard, ce qui est une autre façon d'avoir peur.",Aura Divine,83,82,80,85,85,82,conference,conference,train_registres,R0209
+Le tournoi a été très relevé cette année.,Aura Correcte,13,15,15,10,10,10,conference,conference,train_registres,
+"J'ai perdu en trois sets ; j'ai au moins gagné le tirage au sort, je le rappelle à ceux qui doutent de ma forme.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,
+Nos soldes commencent demain dans tous nos magasins.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0210
+"Les soldes commencent demain. Nos vendeurs ont fait des étirements, vous devriez peut-être aussi.",Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0210
+🚨🚨 ALERTE PROMO 🚨🚨 Prix CASSÉS !!! Foncez foncez foncez !!! #soldes #promo #fou,Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0211
+"Nous avons baissé nos prix. Pas nos standards : ceux-là, on les garde en réserve, au cas où vous reviendriez.",Aura Divine,81,80,78,85,82,80,tweet_marque,tweet_marque,train_registres,R0211
+Découvrez notre nouvelle recette de biscuits au chocolat.,Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,R0212
+Nouvelle recette de biscuits au chocolat. Nous déclinons toute responsabilité pour le paquet fini avant le dîner.,Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,R0212
+"Notre marque est la meilleure, la plus innovante, la plus premium, la plus incroyable du monde entier !!!",Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0213
+Nous ne sommes pas la marque la plus connue. Nous sommes celle que vos grands-parents recommandaient à voix basse.,Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,R0213
+Notre service client est joignable du lundi au vendredi.,Aura Correcte,0,0,5,-5,0,0,tweet_marque,tweet_marque,train_registres,R0214
+"Notre service client est joignable du lundi au vendredi. Le week-end, il dort, comme vous devriez le faire.",Forte Aura,34,35,30,40,35,30,tweet_marque,tweet_marque,train_registres,R0214
+Merci à nos clients pour leur fidélité depuis vingt ans.,Aura Correcte,13,15,15,10,10,10,tweet_marque,tweet_marque,train_registres,R0215
+Vingt ans que vous revenez. On ne vous a jamais demandé pourquoi ; on a eu trop peur que vous y réfléchissiez.,Aura Divine,88,88,85,90,88,88,tweet_marque,tweet_marque,train_registres,R0215
+Like si t'aimes le café ☕ RT si t'aimes le café ☕ commente si t'aimes le café ☕,Anti-Aura,-18,-20,-10,-30,-15,-10,tweet_marque,tweet_marque,train_registres,R0216
+Le café ne résout rien. Mais essayez de résoudre quoi que ce soit sans lui.,Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0216
+Notre application a été mise à jour.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0217
+"Mise à jour de l'application : nous avons corrigé les bugs que vous aviez trouvés, et caché soigneusement ceux que vous n'avez pas encore vus.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,R0217
+"Achetez achetez achetez ! Offre limitée ! Ne réfléchissez pas, achetez maintenant !",Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0218
+"Prenez le temps de réfléchir. Nos chaussures, elles, vous attendront ; elles ont l'habitude de marcher lentement.",Aura Divine,83,82,80,85,85,82,tweet_marque,tweet_marque,train_registres,R0218
+Nos magasins seront ouverts dimanche de 10 h à 18 h.,Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,
+"Il pleut. Nos parapluies sont formels : c'est leur moment, et ils comptent bien le savourer.",Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,
+La livraison est offerte pour toute commande passée aujourd'hui.,Aura Correcte,0,0,5,-5,0,0,tweet_marque,tweet_marque,train_registres,R0219
+Livraison offerte aujourd'hui. Notre livreur a demandé qu'on précise qu'il accepte aussi les sourires.,Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0219
+"Nos concurrents sont nuls, leurs produits sont de la mauvaise qualité, venez chez nous !",Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0220
+"Nous ne parlons jamais de nos concurrents. Nos clients s'en chargent, et ils sont beaucoup plus convaincants.",Aura Divine,81,80,78,85,82,80,tweet_marque,tweet_marque,train_registres,R0220
+Bonne fête à toutes les mamans !,Aura Correcte,13,15,15,10,10,10,tweet_marque,tweet_marque,train_registres,R0221
+Bonne fête aux mamans. Celles qui ont tout donné sans jamais demander la livraison gratuite.,Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,R0221
+Notre nouvelle gamme de vélos électriques est disponible.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0222
+"Nos vélos électriques montent les côtes à votre place. Pour les excuses au travail, nous travaillons encore dessus.",Forte Aura,34,35,30,40,35,30,tweet_marque,tweet_marque,train_registres,R0222
+"Le meilleur pain du monde c'est le nôtre, il est trop bon, venez le goûter il est trop bon.",Anti-Aura,-18,-20,-10,-30,-15,-10,tweet_marque,tweet_marque,train_registres,R0223
+Notre pain ne se garde pas trois jours. C'est fait exprès : on préfère vous voir revenir que vous voir vous habituer.,Aura Divine,88,88,85,90,88,88,tweet_marque,tweet_marque,train_registres,R0223
+Nous recrutons des conseillers de vente pour l'été.,Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,R0224
+"Nous recrutons pour l'été. Qualités requises : patience, sourire, et capacité à expliquer qu'une taille 38 n'est pas une opinion.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,R0224
+Retrouvez nos recettes sur notre site internet.,Aura Correcte,0,0,5,-5,0,0,tweet_marque,tweet_marque,train_registres,
+"Nous vendons des boussoles. Le reste du chemin, c'est vous qui le choisissez, et c'est très bien comme ça.",Aura Divine,83,82,80,85,85,82,tweet_marque,tweet_marque,train_registres,
+"Notre parfum va vous rendre irrésistible, ultra sexy, tout le monde va vous adorer, garanti !",Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0225
+Notre parfum ne vous rendra pas irrésistible. Il vous donnera juste une excuse pour vous approcher.,Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,R0225
+"Le froid arrive, pensez à vos pneus hiver.",Aura Correcte,13,15,15,10,10,10,tweet_marque,tweet_marque,train_registres,R0226
+Le froid arrive. Vos pneus d'été commencent à envoyer des CV en Espagne.,Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0226
+Nos produits sont fabriqués en France.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0227
+"Fabriqué en France, à trente kilomètres de chez vous. Si quelque chose ne va pas, vous pouvez venir le dire en face, on fera du café.",Aura Divine,81,80,78,85,82,80,tweet_marque,tweet_marque,train_registres,R0227
+Abonnez-vous abonnez-vous abonnez-vous ! On veut 100k abonnés !!! Aidez-nous !!!,Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0228
+Nous avons atteint dix mille abonnés. C'est exactement le nombre de personnes qui nous ont demandé de baisser nos prix.,Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,R0228
+Joyeux Noël à tous nos clients.,Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,R0229
+"Joyeux Noël. Cette année, nous vous souhaitons moins de cadeaux et plus de gens autour de la table, même si ça nous arrange moins.",Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,R0229
+Notre boutique en ligne est momentanément indisponible.,Aura Correcte,0,0,5,-5,0,0,tweet_marque,tweet_marque,train_registres,R0230
+"Notre site est en panne. Profitez-en pour sortir, il paraît que dehors aussi, il y a des choses à voir.",Forte Aura,34,35,30,40,35,30,tweet_marque,tweet_marque,train_registres,R0230
+"Nos frites sont les meilleures frites et nos burgers sont les meilleurs burgers, voilà !",Anti-Aura,-18,-20,-10,-30,-15,-10,tweet_marque,tweet_marque,train_registres,R0231
+Nos frites n'ont pas de recette secrète. Juste une friteuse qui a vu beaucoup de choses et qui n'en parle jamais.,Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0231
+Nous sommes partenaires de la course solidaire de dimanche.,Aura Correcte,13,15,15,10,10,10,tweet_marque,tweet_marque,train_registres,
+Nous fabriquons des montres depuis cent ans. Nous n'avons toujours pas trouvé comment en faire une qui rende le temps perdu.,Aura Divine,88,88,85,90,88,88,tweet_marque,tweet_marque,train_registres,
+Le nouveau modèle sera présenté le 12 mars.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0232
+"Le nouveau modèle arrive le 12 mars. Il fait la même chose que l'ancien, mais il le fait avec plus d'assurance.",Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,R0232
+"Notre banque c'est la banque de la confiance, de la sécurité, de l'innovation et de la confiance !",Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0233
+Nous sommes une banque. Nous ne vous promettons pas de rêves ; nous vous promettons de ne pas les perdre en route.,Aura Divine,83,82,80,85,85,82,tweet_marque,tweet_marque,train_registres,R0233
+Pensez à réserver votre table pour la Saint-Valentin.,Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,R0234
+"Réservez votre table pour la Saint-Valentin. Ou préparez dès maintenant une excellente excuse : nous en avons entendu beaucoup, peu fonctionnent.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,R0234
+Notre nouveau magasin ouvre ses portes samedi.,Aura Correcte,0,0,5,-5,0,0,tweet_marque,tweet_marque,train_registres,
+"Nous vendons des lampes. La nuit, elle, reste gratuite ; nous voulons juste vous aider à ne pas la craindre.",Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,
+"Le lundi c'est nul mais avec notre boisson énergisante le lundi c'est plus nul, buvez-la !!! 💪🔥",Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0235
+"Lundi. Notre boisson ne fait pas de miracle, mais elle a déjà réveillé des gens plus fatigués que vous.",Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0235
+Merci pour vos retours sur notre nouveau produit.,Aura Correcte,13,15,15,10,10,10,tweet_marque,tweet_marque,train_registres,R0236
+"Merci pour vos avis. Nous les lisons tous, même ceux qui commencent par « je ne suis pas du genre à me plaindre ».",Forte Aura,34,35,30,40,35,30,tweet_marque,tweet_marque,train_registres,R0236
+Profitez de notre offre de rentrée sur les fournitures scolaires.,Aura Correcte,5,5,10,0,5,5,tweet_marque,tweet_marque,train_registres,R0237
+"Rentrée scolaire : nous vendons des crayons neufs. Les fautes d'orthographe, elles, sont livrées par les enfants, gratuitement.",Aura Divine,88,88,85,90,88,88,tweet_marque,tweet_marque,train_registres,R0237
+Le présent décret entre en vigueur le premier jour du mois suivant sa publication.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,
+Les demandes de subvention sont instruites par les services de la région.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,
+Tout salarié bénéficie d'un congé annuel payé dans les conditions fixées par la loi.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,
+La commission se réunit au moins deux fois par an sur convocation de son président.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,
+Le stationnement est interdit des deux côtés de la chaussée du lundi au vendredi.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,
+Les pièces justificatives doivent être jointes au dossier sous peine d'irrecevabilité.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,
+Le locataire est tenu de payer le loyer et les charges aux termes convenus.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,
+Nul n'est censé ignorer la loi.,Aura Correcte,9,10,15,0,10,5,officiel,officiel,train_registres,
+L'accès au chantier est interdit à toute personne étrangère au service.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,
+Le délai de recours est de deux mois à compter de la notification de la décision.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,
+Les membres du conseil sont élus pour une durée de six ans.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,
+L'usage de l'eau pour l'arrosage des jardins est interdit entre 8 heures et 20 heures.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,
+Le présent avis est affiché à la porte de la mairie pendant quinze jours.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,
+L'employeur prend les mesures nécessaires pour assurer la sécurité des travailleurs.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,
+La loi est l'expression de la volonté générale.,Aura Correcte,10,10,15,5,10,10,officiel,officiel,train_registres,
+Le dossier complet doit parvenir au secrétariat avant le 30 septembre.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,
+Les parents exercent en commun l'autorité parentale.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,
+Le règlement intérieur est communiqué à chaque agent lors de sa prise de fonctions.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,
+Les chiens doivent être tenus en laisse dans l'enceinte du parc.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,
+"Dans une logique de co-construction partagée, il est procédé à la mise en place d'un dispositif d'accompagnement de l'accompagnement des acteurs.",Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,R0238
+Un accompagnement individuel est proposé aux porteurs de projet.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,R0238
+Il est rappelé que le rappel des règles de rappel s'applique à l'ensemble des personnes concernées par le rappel.,Anti-Aura,-18,-20,-10,-30,-15,-10,officiel,officiel,train_registres,R0239
+Les règles applicables sont rappelées en annexe.,Aura Correcte,1,0,10,-10,5,0,officiel,officiel,train_registres,R0239
+"Afin d'optimiser l'optimisation des processus, une démarche transversale et holistique de transformation transformante sera engagée.",Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,R0240
+Les procédures internes seront révisées au cours du premier trimestre.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,R0240
+"Dans le cadre du cadre stratégique de la stratégie territoriale, les synergies synergiques seront mutualisées de manière mutualisée.",Anti-Aura,-34,-40,-20,-50,-30,-25,officiel,officiel,train_registres,R0241
+Les communes partageront leurs moyens techniques à compter de janvier.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,R0241
+Il est porté à votre attention que votre attention est requise concernant l'objet du présent courrier dont l'objet est indiqué en objet.,Anti-Aura,-18,-20,-10,-30,-15,-10,officiel,officiel,train_registres,R0242
+Nous vous informons que votre demande a été acceptée.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,R0242
+Les parties prenantes seront impliquées dans une dynamique impliquante au service d'une ambition ambitieuse et inclusive.,Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,R0243
+Les associations de quartier seront consultées avant le début des travaux.,Aura Correcte,9,10,10,5,10,10,officiel,officiel,train_registres,R0243
+Le plan de relance de la relance vise à relancer durablement une relance durable et résiliente.,Anti-Aura,-34,-40,-20,-50,-30,-25,officiel,officiel,train_registres,R0244
+Le plan prévoit trois milliards d'euros d'investissements sur cinq ans.,Aura Correcte,4,5,10,-5,5,0,officiel,officiel,train_registres,R0244
+Une réflexion est engagée afin de réfléchir aux conditions d'une réflexion approfondie.,Anti-Aura,-18,-20,-10,-30,-15,-10,officiel,officiel,train_registres,R0245
+Une réflexion est engagée ; elle durera le temps qu'il faut pour que plus personne ne se souvienne de la question.,Forte Aura,34,35,30,40,35,30,officiel,officiel,train_registres,R0245
+"La présente loi sera exécutée comme loi de l'État, ce qui, dans ce domaine, est déjà une ambition.",Forte Aura,40,40,45,35,40,35,officiel,officiel,train_registres,
+"L'administration se réserve le droit de modifier le présent règlement, et le contribuable celui de s'en étonner.",Forte Aura,35,35,40,30,35,30,officiel,officiel,train_registres,
+Le contrat peut être résilié par l'une ou l'autre des parties moyennant un préavis de trois mois.,Aura Correcte,5,5,10,0,5,5,juridique,juridique,train_registres,
+Le vendeur est tenu de délivrer la chose et d'en garantir la conformité.,Aura Correcte,1,0,10,-10,5,0,juridique,juridique,train_registres,
+Toute clause contraire aux dispositions du présent article est réputée non écrite.,Aura Correcte,4,5,10,-5,5,0,juridique,juridique,train_registres,
+Les frais de procédure sont à la charge de la partie perdante.,Aura Correcte,0,0,5,-5,0,0,juridique,juridique,train_registres,
+Le juge statue dans un délai d'un mois à compter de sa saisine.,Aura Correcte,5,5,10,0,5,5,juridique,juridique,train_registres,
+La liberté consiste à pouvoir faire tout ce qui ne nuit pas à autrui.,Aura Correcte,10,10,15,5,10,10,juridique,juridique,train_registres,
+La preuve de l'obligation incombe à celui qui en réclame l'exécution.,Aura Correcte,1,0,10,-10,5,0,juridique,juridique,train_registres,
+Les donations entre vifs sont faites par acte devant notaire.,Aura Correcte,4,5,10,-5,5,0,juridique,juridique,train_registres,
+L'action se prescrit par cinq ans à compter du jour où le titulaire a connu les faits.,Aura Correcte,0,0,5,-5,0,0,juridique,juridique,train_registres,
+Le tribunal peut ordonner toute mesure d'instruction utile.,Aura Correcte,5,5,10,0,5,5,juridique,juridique,train_registres,
+Il est convenu et accepté par les parties qui l'acceptent et en conviennent que la convention convenue est acceptée.,Anti-Aura,-26,-30,-15,-40,-25,-20,juridique,juridique,train_registres,R0246
+Les parties déclarent accepter les termes de la présente convention.,Aura Correcte,1,0,10,-10,5,0,juridique,juridique,train_registres,R0246
+Le non-respect du respect des obligations obligatoires entraîne des conséquences conséquentes.,Anti-Aura,-18,-20,-10,-30,-15,-10,juridique,juridique,train_registres,R0247
+Tout manquement aux obligations du contrat peut entraîner sa résiliation.,Aura Correcte,4,5,10,-5,5,0,juridique,juridique,train_registres,R0247
+"Le doute profite à l'accusé ; c'est même, bien souvent, le seul avantage dont il dispose.",Forte Aura,40,40,45,35,40,35,juridique,juridique,train_registres,
+"Nul ne peut se faire justice à soi-même, sauf à disposer d'un excellent avocat.",Forte Aura,35,35,40,30,35,30,juridique,juridique,train_registres,
+La séance est reprise.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+La parole est à Mme la ministre pour donner l'avis du gouvernement.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+"Sur l'article 5, je suis saisi de plusieurs amendements.",Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'amendement n° 312 n'est pas défendu.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Je vais maintenant mettre aux voix l'article 7.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Le vote est ouvert. Le scrutin est clos.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Avis défavorable de la commission.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+"Prochaine séance, cet après-midi, à quinze heures.",Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Je rappelle que chaque orateur dispose de deux minutes.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+L'ordre du jour appelle la suite de la discussion du projet de loi.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+La commission demande la réserve des votes sur l'article 4.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Je vous prie de bien vouloir regagner vos places.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'amendement est adopté à l'unanimité.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+"Monsieur le député, concluez, je vous prie.",Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'Assemblée prend acte de la démission de notre collègue.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+La conférence des présidents se réunira mardi à dix heures.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'article 9 est supprimé.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+La parole est à Mme la rapporteure.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'amendement est adopté ; ses auteurs semblent les premiers surpris.,Forte Aura,34,35,30,40,35,30,procedure,procedure,train_registres,
+"Je vous rappelle que le temps de parole est limité, y compris pour les orateurs qui pensent qu'il ne les concerne pas.",Forte Aura,40,40,40,45,40,35,procedure,procedure,train_registres,
+La séance est levée. Elle n'aura pas été inutile : elle a commencé à l'heure.,Forte Aura,34,35,30,40,35,30,procedure,procedure,train_registres,
+Il est procédé au scrutin public.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'ensemble du projet de loi est adopté.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Je suspends la séance pour cinq minutes.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Le groupe socialiste demande une suspension de séance.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Nous en venons aux explications de vote.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+Nous portons un projet ambitieux pour une ambition de projet au service de l'ambition des territoires.,Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0248
+Notre projet prévoit la réouverture de dix maisons de santé dans les zones rurales.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0248
+"La sécurité, c'est la sécurité, et sans sécurité il n'y a pas de sécurité pour les Français.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0249
+Nous recruterons mille gendarmes supplémentaires dans les départements les moins couverts.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0249
+L'école de demain sera l'école de l'avenir car l'avenir commence à l'école de demain.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0250
+Nous limiterons les classes de primaire à vingt-quatre élèves d'ici trois ans.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0250
+"Nous sommes le parti du travail, du vrai travail, du travail qui travaille pour ceux qui travaillent.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0251
+Nous proposons de réduire les cotisations sur les salaires proches du minimum.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0251
+"Le progrès est en marche, la marche du progrès est irréversible, et nous marchons vers le progrès.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0252
+Le texte sera examiné en commission la semaine prochaine.,Aura Correcte,0,0,5,-5,0,0,discours,discours,train_registres,R0252
+"L'environnement c'est notre environnement, protégeons l'environnement pour notre environnement.",Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0253
+"Nous proposons d'isoler un million de logements en cinq ans, en commençant par les plus mal chauffés.",Aura Correcte,13,15,15,10,10,10,discours,discours,train_registres,R0253
+"Je veux une France forte, fière, debout, une France qui se lève et qui ne se couche jamais.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0254
+Je veux une France où l'on attend moins de six mois un rendez-vous chez un spécialiste.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0254
+"Nos adversaires sont des incapables, des menteurs et des dangers publics, il faut les chasser !",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0255
+"Nous ne partageons pas les choix de la majorité, et nous présenterons un contre-budget.",Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0255
+La justice sociale est juste et la justice doit être sociale pour être juste.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0256
+Nous voulons que les pensions les plus basses soient indexées sur les salaires.,Aura Correcte,13,15,15,10,10,10,discours,discours,train_registres,R0256
+"Ensemble, tous ensemble, nous construirons ensemble le pays de demain, ensemble.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0257
+Je vous remercie pour votre attention.,Aura Correcte,0,0,5,-5,0,0,discours,discours,train_registres,R0257
+"Les autres ont échoué, tout échoué, ils ont tout raté, alors que nous, nous réussirons tout.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0258
+Le précédent gouvernement a lancé ce chantier ; nous le terminerons et nous en assumerons le coût.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0258
+Nous devons relever les défis du défi climatique avec des réponses à la hauteur du défi.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0259
+Le plan climat prévoit une baisse de 40 % des émissions des bâtiments publics d'ici 2030.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0259
+"Je n'ai qu'une parole et ma parole c'est ma parole, et je tiens toujours parole.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0260
+J'avais promis une salle de sport au quartier nord : elle ouvre en septembre.,Aura Correcte,13,15,15,10,10,10,discours,discours,train_registres,R0260
+"La mondialisation est un monstre, l'Europe est un monstre, tout est un monstre qui nous dévore !",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0261
+Nous demanderons des clauses de réciprocité dans les accords commerciaux.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0261
+"Nous sommes au service des Français, de tous les Français, de chaque Français et de tous.",Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0262
+Une permanence sera ouverte chaque samedi matin à la mairie.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0262
+"On nous reproche de vouloir dépenser. Nous voulons investir : la différence, c'est que l'investissement revient, la dépense jamais.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0263
+"On ne gouverne pas un pays avec une calculette, mais on ne le gouverne pas non plus sans ; le génie, c'est de savoir à quel moment la ranger.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0263
+"L'opposition découvre la dette ; je lui souhaite la bienvenue, elle était là bien avant elle.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0264
+La dette est une lettre que nous écrivons à nos enfants ; je voudrais au moins qu'elle soit lisible.,Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0264
+On nous dit que l'État doit être modeste. Il l'est déjà : il se fait tout petit chaque fois qu'il faut payer un hôpital.,Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,R0265
+Un État modeste n'est pas un État absent ; c'est un État qui sait où il est utile et qui y va sans fanfare.,Aura Divine,88,88,85,90,88,88,discours,discours,train_registres,R0265
+Monsieur le rapporteur a lu le texte avec beaucoup de passion ; il ne lui manquait que de l'avoir écrit.,Forte Aura,34,35,30,40,35,30,discours,discours,train_registres,R0266
+"Ce texte a été lu par tout le monde et compris par personne, ce qui, dans cette maison, est la définition d'un consensus.",Aura Divine,83,82,80,85,85,82,discours,discours,train_registres,R0266
+"Vous parlez de liberté, mais vous la rangez dans un tiroir qu'on n'ouvre qu'en campagne électorale.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0267
+On nous accuse de diviser le pays. Il n'avait pas besoin de nous : il s'en sortait très bien tout seul.,Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0268
+Un pays ne se divise pas quand on débat ; il se divise quand on cesse de croire que l'autre camp peut avoir raison une fois.,Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0268
+Le gouvernement aime les grandes réformes ; il en annonce une par mois et en applique une par législature.,Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,R0269
+"Réformer, ce n'est pas tout changer ; c'est changer ce qui rend la vie plus dure, et laisser en paix ce qui la rend supportable.",Aura Divine,88,88,85,90,88,88,discours,discours,train_registres,R0269
+La majorité nous demande d'être constructifs. Nous le sommes : nous construisons patiemment leur défaite.,Forte Aura,34,35,30,40,35,30,discours,discours,train_registres,R0270
+"Être dans l'opposition, ce n'est pas s'opposer à tout ; c'est garder intacte la mémoire de ce qu'on a promis aux gens.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0270
+"Vous dites écouter la rue ; la rue, elle, aimerait qu'on lui réponde autrement que par des barrières.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0271
+"La rue ne gouverne pas, c'est vrai ; mais un gouvernement qui ne l'entend plus finit toujours par la rencontrer.",Aura Divine,83,82,80,85,85,82,discours,discours,train_registres,R0271
+La simplification administrative avance : nous en sommes au troisième formulaire pour la demander.,Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0272
+"Nous promettons de simplifier l'administration ; c'est la seule promesse qui, chaque fois, rajoute un guichet.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0272
+Mon collègue a parlé vingt minutes de l'avenir ; je crains qu'il n'en reste plus beaucoup pour nous.,Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,
+"La politique est l'art de rendre possible ce qui est nécessaire ; la démagogie, celui de rendre nécessaire ce qui est impossible.",Aura Divine,88,88,85,90,88,88,discours,discours,train_registres,
+"Je suis profondément, sincèrement, viscéralement attaché à ce territoire que j'aime profondément.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0273
+"J'aime ce territoire ; il me le rend mal, il a voté contre moi deux fois, mais je persiste, c'est une histoire d'amour.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0273
+Ceux qui ne votent pas pour nous ne comprennent rien et ne méritent pas de voter.,Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0274
+"Je ne demanderai jamais aux électeurs d'avoir raison ; je leur demande seulement de nous juger sur ce que nous avons fait, pas sur ce que nous avons dit.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0274
+L'agriculture est importante car les agriculteurs sont importants pour l'agriculture.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0275
+Nos agriculteurs nourrissent le pays et ne peuvent plus se nourrir eux-mêmes ; c'est le seul métier où l'on travaille pour l'abondance des autres.,Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0275
+"Nous allons tout changer, tout révolutionner, tout transformer, plus rien ne sera jamais pareil !",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0276
+"On promet toujours que rien ne sera plus comme avant ; le plus souvent, c'est la seule promesse qui se réalise, et pas dans le bon sens.",Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,R0276
+"Le peuple a parlé, le peuple a raison, le peuple c'est nous, donc nous avons raison.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0277
+Le peuple a toujours raison le soir des élections ; c'est le lendemain matin qu'on commence à lui expliquer qu'il s'est trompé.,Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0277
+Le budget de la défense augmentera de trois milliards l'an prochain.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0278
+Le budget de la défense augmente de trois milliards ; c'est le seul ministère qui ait réussi à se défendre lui-même.,Forte Aura,34,35,30,40,35,30,discours,discours,train_registres,R0278
+La réforme entrera en vigueur au premier janvier.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0279
+"La réforme entre en vigueur au premier janvier, en même temps que les bonnes résolutions ; on verra laquelle tiendra le plus longtemps.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0279
+Je cède la parole à mon collègue.,Aura Correcte,0,0,5,-5,0,0,discours,discours,train_registres,R0280
+"Je cède la parole à mon collègue, qui l'a déjà prise de toute façon.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0280
+Nous avons rencontré les élus de la vallée pour préparer le plan de reconstruction.,Aura Correcte,13,15,15,10,10,10,discours,discours,train_registres,R0281
+"Après l'inondation, la vallée n'a pas demandé de discours ; elle a demandé des bottes, des pelles et qu'on se souvienne d'elle quand l'eau sera partie.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0281
+Ce texte vise à mieux encadrer les loyers dans les grandes villes.,Aura Correcte,5,5,10,0,5,5,discours,discours,train_registres,R0282
+"Dans certaines villes, on paie plus cher un studio qu'un château en province ; ce texte ne réglera pas tout, mais il rappellera que les murs ne sont pas des actions en bourse.",Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,R0282
+"Je dis non, non, non et non, trois fois non, mille fois non à ce projet de malheur !",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0283
+"Nous voterons contre ce texte, et pas seulement par habitude : cette fois, nous l'avons lu.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0283
+"L'heure est grave, très grave, gravissime, et la gravité de l'heure est grave.",Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0284
+"L'heure est grave, dit-on à chaque séance ; à force, le pays ne regarde plus l'heure, il regarde ailleurs.",Aura Divine,83,82,80,85,85,82,discours,discours,train_registres,R0284
+Vive nous ! Vive notre mouvement ! Vive notre victoire qui sera la plus grande victoire !,Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0285
+"Je ne crierai pas victoire ce soir ; les victoires bruyantes ont la mémoire courte, et nous avons cinq ans pour ne pas les décevoir.",Aura Divine,88,88,85,90,88,88,discours,discours,train_registres,R0285
+C'est nul ! C'est complètement nul !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0286
+"Nul ? Non, c'est pire : c'est appliqué.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0286
+"Vous êtes des voleurs, tous des voleurs !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0287
+"Ne parlez pas de vol, monsieur le ministre, vous allez donner des idées à votre budget.",Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,R0287
+Allez-vous-en ! Allez-vous-en !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0288
+"Partez si vous voulez, mais laissez au moins le dossier : lui, il a encore des choses à dire.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,R0288
+Mensonge ! Mensonge ! Mensonge !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0289
+"Ce n'est pas un mensonge, c'est une prévision ; chez vous, c'est la même chose avec un an d'écart.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0289
+Incompétent ! Incompétent !,Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0290
+Il n'est pas incompétent : il est compétent dans un domaine qui n'existe pas encore.,Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,R0290
+Blablabla !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0291
+Vous appelez ça une réponse ; nous appelons ça une page de publicité.,Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,R0291
+"Ouh là là, n'importe quoi, ouh là là !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0292
+"On a connu des ministres qui lisaient leurs fiches à l'envers ; vous, c'est le pays.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,R0292
+Vous êtes la pire majorité de l'histoire !,Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0293
+"Ne vous inquiétez pas, l'histoire ne retiendra pas votre majorité : elle a trop de travail.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,R0293
+Hou ! Démission ! Hou !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0294
+Nous attendons une réponse précise.,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0294
+Taisez-vous ! Taisez-vous donc !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0295
+"Laissez-le parler, il est en train de faire notre campagne.",Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,R0295
+"Vous ne servez à rien, rien du tout !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0296
+Vous servez à quelque chose : vous rappelez chaque semaine pourquoi les gens ne votent plus.,Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,R0296
+"Quelle honte, mais quelle honte !",Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0297
+"La honte, monsieur le ministre, est une vertu que vous laissez à vos électeurs.",Aura Divine,88,88,85,90,88,88,interjection,interjection,train_registres,R0297
+Votre plan est une boussole qui indique toujours l'élection suivante.,Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+Votre texte est si long qu'on a fini par oublier ce qu'il ne réglait pas.,Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,
+"Vous ne réformez pas l'État, vous le repeignez ; les fissures, elles, restent fidèles au poste.",Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,
+Vous avez trouvé l'argent magique : il apparaît pendant la campagne et disparaît après.,Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,
+"Vous gouvernez par sondage ; le jour où le sondage démissionnera, il faudra bien décider seul.",Aura Divine,83,82,80,85,85,82,interjection,interjection,train_registres,
+Écoutez la question jusqu'au bout !,Aura Correcte,9,10,10,5,10,10,interjection,interjection,train_registres,
+Et alors ?,Aura Correcte,0,0,5,-5,0,0,interjection,interjection,train_registres,
+C'est votre bilan.,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,
+On attend toujours le rapport promis l'an dernier.,Aura Correcte,13,15,15,10,10,10,interjection,interjection,train_registres,
+"Le rapport ? Il est en route, avec le train de nuit que vous avez supprimé.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,
+"Vous promettez de couper la poire en deux ; à la fin, il ne reste que les pépins pour tout le monde.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,R0298
+"Monsieur le ministre, votre politique est-elle un choix, ou un accident que vous avez décidé d'assumer ?",Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0298
+"Vous méprisez les Français, vous méprisez tout le monde, alors répondez, répondez !",Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0299
+"Monsieur le ministre, on ne vous reproche pas de mépriser les Français ; on vous reproche de les avoir oubliés, ce qui est plus difficile à pardonner.",Aura Divine,84,85,80,88,85,85,question,question,train_registres,R0299
+Qu'est-ce que vous allez faire ? Hein ? Qu'est-ce que vous allez faire ?,Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,R0300
+Quel calendrier retenez-vous pour la renégociation des contrats de plan ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0300
+Combien de temps encore allez-vous mentir aux Français qui ne vous croient plus du tout ?,Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,R0301
+"Monsieur le ministre, combien de fois faudra-t-il vous poser cette question pour que la réponse change ?",Forte Aura,40,40,40,45,40,35,question,question,train_registres,R0301
+Le gouvernement est-il oui ou non totalement nul et incapable ? Je vous pose la question !,Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0302
+Le gouvernement a-t-il un plan B ? Je pose la question parce qu'on n'a jamais vu le plan A.,Forte Aura,58,60,55,60,55,55,question,question,train_registres,R0302
+"Madame la ministre, quand le décret sur l'apprentissage sera-t-il publié ?",Aura Correcte,5,5,10,0,5,5,question,question,train_registres,R0303
+"Madame la ministre, le décret sur l'apprentissage est annoncé depuis deux ans ; est-ce lui qui est en apprentissage ?",Forte Aura,34,35,30,40,35,30,question,question,train_registres,R0303
+Le gouvernement envisage-t-il de rouvrir la ligne ferroviaire fermée l'an dernier ?,Aura Correcte,13,15,15,10,10,10,question,question,train_registres,R0304
+Vous avez fermé la ligne de train au nom de l'avenir ; pouvez-vous dire aux habitants comment on se rend dans l'avenir sans train ?,Aura Divine,81,80,78,85,82,80,question,question,train_registres,R0304
+Ma question porte sur la situation des services de pédiatrie.,Aura Correcte,0,0,5,-5,0,0,question,question,train_registres,R0305
+"Monsieur le ministre, dans les services de pédiatrie, les enfants attendent dans les couloirs ; ils n'ont pas le droit de vote, mais ils ont de la mémoire.",Aura Divine,88,88,85,90,88,88,question,question,train_registres,R0305
+Quelles garanties apportez-vous aux salariés du site menacé de fermeture ?,Aura Correcte,9,10,10,5,10,10,question,question,train_registres,R0306
+Les salariés du site ont reçu votre soutien par communiqué ; accepteriez-vous d'être payé de la même manière ?,Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0306
+Où en sont les négociations avec les syndicats de la fonction publique ?,Aura Correcte,5,5,10,0,5,5,question,question,train_registres,
+"Vous avez tout cassé, absolument tout, alors maintenant qu'est-ce qu'on fait, hein, on fait quoi ?",Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,R0307
+"Après la fermeture de l'usine, quel accompagnement le gouvernement prévoit-il pour les familles ?",Aura Correcte,13,15,15,10,10,10,question,question,train_registres,R0307
+"Monsieur le ministre, vous dites que tout va mieux : pouvez-vous nous donner l'adresse ?",Forte Aura,40,40,40,45,40,35,question,question,train_registres,
+"Madame la ministre, vous avez demandé aux enseignants de faire plus avec moins ; quand le gouvernement montrera-t-il l'exemple ?",Aura Divine,84,85,80,88,85,85,question,question,train_registres,
+"Le Premier ministre peut-il nous dire s'il dirige le gouvernement, ou s'il en est seulement le porte-parole ?",Forte Aura,58,60,55,60,55,55,question,question,train_registres,
+"Monsieur le ministre, à force de reporter les réformes, vous avez réussi la seule qui marche : celle du calendrier.",Aura Divine,83,82,80,85,85,82,question,question,train_registres,
+Je souhaite interroger le gouvernement sur la sécurité routière.,Aura Correcte,0,0,5,-5,0,0,question,question,train_registres,
+"Je veux dire, je veux redire, et je veux le dire encore, que nous sommes déterminés, profondément déterminés.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0308
+"Je suis déterminé, monsieur le député, mais pas au point de vous promettre ce que je ne peux pas financer.",Forte Aura,49,50,45,55,50,45,reponse,reponse,train_registres,R0308
+"Vous êtes de mauvaise foi, votre groupe est de mauvaise foi, et je ne répondrai pas à la mauvaise foi.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0309
+"Je ne vous ferai pas le procès de la mauvaise foi ; je vous ferai seulement celui de la mémoire courte, il est plus facile à gagner.",Aura Divine,84,85,80,88,85,85,reponse,reponse,train_registres,R0309
+Nous agissons et nous continuerons d'agir car agir c'est ce que nous faisons et ce que nous ferons.,Anti-Aura,-18,-20,-10,-30,-15,-10,reponse,reponse,train_registres,R0310
+"Le dispositif a déjà bénéficié à douze mille familles, et nous l'élargirons au printemps.",Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,R0310
+"Nous n'avons de leçons à recevoir de personne, de personne, surtout pas de vous.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0311
+"Je veux bien recevoir des leçons, mais j'aimerais que le professeur ait déjà réussi l'examen.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,R0311
+"Tout ce que vous dites est faux, archi-faux, et vous le savez très bien, menteurs !",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0312
+"Vos chiffres sont exacts ; c'est l'année qui est fausse, ils datent de votre dernier passage au gouvernement.",Forte Aura,58,60,55,60,55,55,reponse,reponse,train_registres,R0312
+Une mission d'inspection a été diligentée ; ses conclusions seront rendues publiques.,Aura Correcte,9,10,10,5,10,10,reponse,reponse,train_registres,R0313
+"Une mission d'inspection a été lancée ; je m'engage à publier ses conclusions, même celles qui me donneront tort, surtout celles-là.",Aura Divine,81,80,78,85,82,80,reponse,reponse,train_registres,R0313
+Je recevrai les représentants de la filière la semaine prochaine.,Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,R0314
+"Je recevrai la filière la semaine prochaine ; ils ont déjà réservé la salle, preuve qu'ils me connaissent bien.",Forte Aura,34,35,30,40,35,30,reponse,reponse,train_registres,R0314
+Votre question appelle plusieurs éléments de réponse.,Aura Correcte,0,0,5,-5,0,0,reponse,reponse,train_registres,R0315
+"Votre question appelle trois réponses : une vraie, une polie, et celle que vous attendez ; je vais commencer par la vraie, pour changer.",Aura Divine,88,88,85,90,88,88,reponse,reponse,train_registres,R0315
+Le gouvernement a choisi de prolonger l'aide jusqu'à la fin de l'hiver.,Aura Correcte,13,15,15,10,10,10,reponse,reponse,train_registres,
+Vous me reprochez de changer d'avis ; je vous reproche de ne jamais en avoir eu.,Forte Aura,49,50,45,55,50,45,reponse,reponse,train_registres,
+"Gouverner, ce n'est pas plaire ; c'est accepter d'être impopulaire aujourd'hui pour ne pas être coupable demain.",Aura Divine,84,85,80,88,85,85,reponse,reponse,train_registres,
+"L'opposition propose de tout raser ; j'aimerais qu'elle nous dise au moins ce qu'elle reconstruira, et avec quel argent.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,
+"Je ne vous promettrai pas la lune, monsieur le député ; je vous promets un éclairage public qui fonctionne, c'est déjà beaucoup dans votre circonscription.",Aura Divine,83,82,80,85,85,82,reponse,reponse,train_registres,
+"C'est grâce à nous que ça va mieux, c'est grâce à nous, uniquement grâce à nous.",Anti-Aura,-18,-20,-10,-30,-15,-10,reponse,reponse,train_registres,R0316
+"Les chiffres du chômage s'améliorent, même s'il reste beaucoup à faire dans les zones rurales.",Aura Correcte,9,10,10,5,10,10,reponse,reponse,train_registres,R0316
+"Je ne commenterai pas, je ne commente pas, et d'ailleurs il n'y a rien à commenter.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0317
+Les crédits seront délégués aux préfectures dès le mois prochain.,Aura Correcte,5,5,10,0,5,5,reponse,reponse,train_registres,
+"Notre gouvernement est le meilleur gouvernement que ce pays ait jamais connu, point final.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0318
+Je ne prétends pas que nous sommes le meilleur gouvernement ; je prétends seulement que nous serons le dernier à vous mentir sur les chiffres.,Aura Divine,81,80,78,85,82,80,reponse,reponse,train_registres,R0318
+"« Je suis triste, seigneur, d'une grande tristesse, / Et ma tristesse est grande et pleine de détresse. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0319
+"« Je suis triste, seigneur, mais c'est d'une tristesse / Qui sait encore choisir l'heure de sa faiblesse. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,R0319
+« Ô ciel ! Ô terre ! Ô dieux ! Ô sort ! Ô destinée ! / Ô malheur ! Ô douleur ! Ô funeste journée ! »,Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0320
+"« Ne prenez pas les dieux à témoin, mon ami : / Ils ont vu pire que nous, et n'en ont rien dit. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,R0320
+"« Mon fils, mon fils, mon fils, ô mon fils bien-aimé, / Mon fils que j'ai aimé et que j'ai tant aimé. »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,R0321
+"« Mon fils, je t'ai tout dit, hormis l'essentiel : / Qu'on n'hérite jamais que de ce qu'on rappelle. »",Aura Divine,88,88,85,90,88,92,theatre,theatre,train_registres,R0321
+"« Je suis un grand guerrier, le plus grand des guerriers, / Les guerriers ont peur de moi, guerrier des guerriers. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0322
+« On me dit grand guerrier ; c'est que je fuis moins vite / Que ceux qui m'ont appris l'art de la fuite. »,Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,R0322
+"« Traître ! Infâme ! Félon ! Perfide ! Scélérat ! / Tu es méchant, très méchant, et tu le paieras ! »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0323
+"« Je ne t'appelle pas traître, ce serait te flatter : / Le traître choisit, toi, tu t'es laissé porter. »",Aura Divine,82,80,78,85,82,88,theatre,theatre,train_registres,R0323
+"« Le dîner est servi, madame, au grand salon. »",Aura Correcte,7,5,10,0,10,10,theatre,theatre,train_registres,
+"« Votre père est rentré, il vous attend en bas. »",Aura Correcte,10,10,10,5,10,15,theatre,theatre,train_registres,
+"« Fermez la porte, il fait un froid de loup. »",Aura Correcte,2,0,5,-5,5,10,theatre,theatre,train_registres,
+"« Prenez votre manteau, nous partons pour la ville, / Le cocher nous attend devant la grande grille. »",Aura Correcte,14,15,15,10,15,15,theatre,theatre,train_registres,
+"« Mon mari est fidèle, il me l'a juré cent fois ; / C'est beaucoup de serments pour un homme de sa foi. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,
+"« Vous m'offrez votre cœur ? Gardez-le, il vous sert : / C'est le seul de vos biens qui ne soit pas désert. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,
+"« L'honneur n'est pas, monsieur, un titre qu'on achète ; / C'est un vieux créancier qui jamais ne s'arrête. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+"« Je n'ai pas peur de vous, j'ai peur de vous ressembler : / C'est la seule défaite où l'on n'ose pas trembler. »",Aura Divine,89,90,85,90,90,92,theatre,theatre,train_registres,
+"« Votre esprit est charmant, mais il vit à crédit : / Il emprunte aux auteurs et rend ce qu'il a lu. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,
+"« Ne pleurez pas, madame, les larmes sont menteuses : / Elles sèchent plus vite que les âmes heureuses. »",Aura Divine,83,82,80,85,85,88,theatre,theatre,train_registres,
+"Ô nuit, ô belle nuit, nuit si belle et si noire, / Ô nuit pleine de nuit, ô nuit de mon histoire.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0324
+La nuit ne cache rien ; elle baisse seulement / La voix de nos regrets pour qu'ils parlent plus lentement.,Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,R0324
+"Le printemps est joli, le printemps est en fleurs, / Le printemps est printemps, plein de belles couleurs.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,R0325
+Le printemps est venu sans faire de discours ; / Il a ouvert les fleurs et repris ses détours.,Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,R0325
+"L'amour c'est beau, l'amour c'est grand, l'amour c'est tout, / L'amour c'est l'amour et l'amour est partout.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,R0326
+"L'amour n'est pas partout ; il préfère les seuils, / Les portes entrouvertes et les deuils sans cercueil.",Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,R0326
+"La guerre est horrible et la guerre est cruelle, / La guerre c'est la guerre et la guerre est mortelle.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0327
+Les soldats ne meurent pas ; ils deviennent des noms / Que l'on grave en septembre et qu'on lit en saison.,Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,R0327
+"Je suis seul, si seul, tout seul, seul dans ma vie, / Ma solitude est seule et ma vie est finie.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,R0328
+"Je suis seul ce soir, mais c'est une solitude / Qui connaît mes défauts et garde ses habitudes.",Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,R0328
+Le facteur est passé ce matin sous la pluie.,Aura Correcte,7,5,10,0,10,10,poesie,poesie,train_registres,
+"Les enfants font des châteaux de sable sur la plage, / Et les mouettes tournent au-dessus du rivage.",Aura Correcte,10,10,10,5,10,15,poesie,poesie,train_registres,
+La forêt est calme sous la neige de janvier.,Aura Correcte,2,0,5,-5,5,10,poesie,poesie,train_registres,
+Le brouillard sur le pont fait semblant d'être sage ; / Il garde les secrets des amants de passage.,Forte Aura,43,40,40,45,45,50,poesie,poesie,train_registres,
+"Le phare dit la même chose à tous les bateaux : / « Je ne vous retiens pas, mais je vous veux en haut. »",Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,
+Les cimetières sont des jardins patients / Où l'on vient arroser le passé de temps en temps.,Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,
+J'ai gardé de l'enfance un seul objet sans prix : / La certitude naïve que tout serait permis.,Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,
+"Les vieilles mains savent ce que les livres ignorent : / Comment tenir un pain, et comment tenir la mort.",Aura Divine,83,82,80,85,85,88,poesie,poesie,train_registres,
+Les horloges du soir ont des voix de notaire : / Elles lisent nos heures comme un inventaire.,Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,
+"Il était riche, très riche, extrêmement riche, plus riche que tous les riches de la ville.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0329
+"Il était si riche qu'il avait fini par croire que l'argent pensait pour lui, et l'argent, par politesse, le laissait croire.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,R0329
+"Elle était intelligente, si intelligente, d'une intelligence extraordinairement intelligente.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0330
+"Elle était intelligente au point de le cacher, ce qui, dans cette famille, passait pour de la modestie et lui valait la paix.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0330
+"La guerre était terrible, horrible, affreuse, et tout le monde avait peur de cette guerre terrible.",Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,R0331
+"La guerre commença un mardi ; le village l'apprit le jeudi, et continua de moissonner, parce que le blé, lui, n'avait pas été prévenu.",Aura Divine,88,88,85,90,88,88,roman,roman,train_registres,R0331
+"Il souffrait, il souffrait énormément, sa souffrance était une souffrance immense et sans fin.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0332
+"Il souffrait en silence, ce qui n'empêchait pas toute la maison d'en entendre parler.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,R0332
+Le héros sauva tout le monde et tout le monde l'applaudit car il était le héros qui sauvait tout le monde.,Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0333
+"Il sauva l'enfant de la rivière et repartit avant qu'on lui demande son nom ; c'est ainsi qu'il devint, pour toujours, « celui qui n'est pas resté ».",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,R0333
+Le facteur déposa le courrier sur la table de la cuisine.,Aura Correcte,5,5,10,0,5,5,roman,roman,train_registres,
+Ils passèrent l'été dans une maison louée près de la mer.,Aura Correcte,9,10,10,5,10,10,roman,roman,train_registres,
+Elle rangea la vaisselle et éteignit la lumière.,Aura Correcte,0,0,5,-5,0,0,roman,roman,train_registres,
+"Le marché se tenait le jeudi sur la grande place, devant l'église.",Aura Correcte,13,15,15,10,10,10,roman,roman,train_registres,
+"Le sous-préfet avait deux opinions sur chaque sujet : la sienne, et celle du préfet, qu'il adoptait toujours.",Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,
+Il se maria par distraction et divorça par méthode.,Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,
+"Elle regardait passer les trains comme on relit une lettre : pour vérifier que rien n'avait changé, et souffrir un peu que ce soit vrai.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,
+"Le vieux libraire vendait peu, mais il prêtait beaucoup ; il disait qu'un livre rendu est un ami qui revient.",Aura Divine,88,90,85,90,88,88,roman,roman,train_registres,
+"La comtesse avait l'art de recevoir : on sortait de chez elle convaincu d'avoir été brillant, ce qui expliquait qu'on y revînt.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,
+"Il avait passé sa vie à attendre le bon moment ; le bon moment, lassé, était passé voir quelqu'un d'autre.",Aura Divine,83,82,80,85,85,82,roman,roman,train_registres,
+"Le loup mangea l'agneau et c'est pas gentil, donc il faut pas manger les agneaux, voilà la morale.",Anti-Aura,-26,-30,-15,-40,-25,-20,fable,fable,train_registres,R0334
+"Le loup expliqua longuement à l'agneau pourquoi il avait le droit de le manger ; l'agneau mourut convaincu, ce qui consola beaucoup le loup.",Aura Divine,85,85,80,88,88,88,fable,fable,train_registres,R0334
+Le chat et le renard partirent ensemble en voyage.,Aura Correcte,7,5,10,0,10,10,fable,fable,train_registres,
+"L'âne, élu roi des animaux, fit voter une loi sur la sagesse ; personne ne la lut, mais tout le monde l'applaudit.",Forte Aura,51,50,45,55,55,55,fable,fable,train_registres,
+"L'oiseau en cage chantait mieux que l'oiseau libre ; c'est qu'il avait, lui, quelque chose à regretter.",Aura Divine,88,88,85,90,88,90,fable,fable,train_registres,
+"La pie rapporta tout ce qui brillait ; elle mourut riche et seule, entourée de capsules de bouteille.",Forte Aura,42,40,40,45,45,45,fable,fable,train_registres,
+"Moi je suis quelqu'un d'exceptionnel, je le dis sans prétention, je suis vraiment exceptionnel.",Anti-Aura,-26,-30,-15,-40,-25,-20,interview,interview,train_registres,R0335
+On me dit exceptionnel ; c'est que les gens n'ont pas vu mes brouillons.,Aura Divine,84,85,80,88,85,85,interview,interview,train_registres,R0335
+"Mon livre est le meilleur livre de l'année, achetez-le, c'est un chef-d'œuvre absolu, vraiment.",Anti-Aura,-34,-40,-20,-50,-30,-25,interview,interview,train_registres,R0336
+"Mon livre est sorti mardi ; ma mère l'a lu deux fois, ce qui fait déjà de moi un auteur à succès dans la famille.",Forte Aura,49,50,45,55,50,45,interview,interview,train_registres,R0336
+"Je suis passionné, passionné par ma passion, et ma passion me passionne.",Anti-Aura,-18,-20,-10,-30,-15,-10,interview,interview,train_registres,R0337
+"J'ai commencé la cuisine à quinze ans, chez ma grand-mère, et je n'ai jamais arrêté.",Aura Correcte,9,10,10,5,10,10,interview,interview,train_registres,R0337
+"Les critiques sont jaloux, tous jaloux, ils ne comprennent rien à mon art.",Anti-Aura,-26,-30,-15,-40,-25,-20,interview,interview,train_registres,R0338
+"Les critiques ont souvent raison ; ils ont simplement le défaut d'avoir raison trop tôt, avant que j'aie fini.",Aura Divine,81,80,78,85,82,80,interview,interview,train_registres,R0338
+"Je ne regrette rien, rien, absolument rien, je referais tout pareil, tout.",Anti-Aura,-34,-40,-20,-50,-30,-25,interview,interview,train_registres,R0339
+"Je ne regrette rien, sauf deux ou trois choses que je regrette tous les jours avec une grande régularité.",Forte Aura,58,60,55,60,55,55,interview,interview,train_registres,R0339
+Ce film m'a demandé deux ans de préparation.,Aura Correcte,5,5,10,0,5,5,interview,interview,train_registres,R0340
+"Ce film m'a pris deux ans ; le public mettra deux heures à le juger, c'est un excellent rapport.",Forte Aura,40,40,40,45,40,35,interview,interview,train_registres,R0340
+Je suis content d'être ici.,Aura Correcte,0,0,5,-5,0,0,interview,interview,train_registres,
+"Le métier a beaucoup changé depuis mes débuts, surtout avec le numérique.",Aura Correcte,13,15,15,10,10,10,interview,interview,train_registres,
+On me demande le secret de ma longévité ; je réponds que j'ai simplement oublié de m'arrêter.,Forte Aura,49,50,45,55,50,45,interview,interview,train_registres,
+"Le succès ne m'a rien appris ; c'est l'échec qui m'a donné des cours particuliers, à domicile et sans réduction.",Aura Divine,88,88,85,90,88,88,interview,interview,train_registres,
+"Je n'écris pas pour être lu ; j'écris pour que quelqu'un, un soir, se sente moins seul d'avoir pensé la même chose.",Aura Divine,84,85,80,88,85,85,interview,interview,train_registres,
+"J'ai eu le prix, mais je n'ai pas encore trouvé où le ranger ; mon chat a déjà choisi.",Forte Aura,34,35,30,40,35,30,interview,interview,train_registres,
+Il faut croire en soi car croire en soi c'est la clé et la clé c'est de croire en soi.,Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0341
+Croire en soi est utile ; ne pas trop y croire est indispensable.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,R0341
+La liberté c'est la liberté de faire ce qu'on veut librement et en toute liberté.,Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0342
+La liberté des uns s'arrête où commence le stationnement des autres.,Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,R0342
+"Il faut toujours faire de son mieux, toujours, et faire son mieux c'est le mieux.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0343
+Faire de son mieux suffit souvent.,Aura Correcte,9,10,10,5,10,10,maxime,maxime,train_registres,R0343
+"L'argent ne fait pas le bonheur mais le bonheur ne fait pas l'argent non plus, c'est ça la vie.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0344
+L'argent ne fait pas le bonheur ; il permet seulement de choisir la couleur de son malheur.,Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0344
+La beauté intérieure est plus belle que la beauté extérieure car l'intérieur est beau.,Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0345
+"La beauté intérieure est un excellent argument, à condition d'avoir une jolie porte d'entrée.",Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,R0345
+"Le pessimiste est un optimiste bien informé, qui a eu le malheur de lire la suite.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,
+On ne se trompe jamais autant que lorsqu'on est sûr d'avoir compris les autres.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+L'ennui naquit un jour de l'uniformité ; il a depuis fondé une grande famille et ouvert des bureaux.,Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,
+La politesse est une forme de mensonge que tout le monde accepte de croire.,Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,
+Le ridicule déshonore plus que le déshonneur ; c'est pourquoi tant de gens préfèrent être méchants.,Aura Divine,89,90,85,92,90,88,maxime,maxime,train_registres,
+"Les compliments sont comme le parfum : on peut les respirer, il ne faut pas les avaler.",Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,
+"Les petits esprits parlent des gens, les esprits moyens des événements, les grands esprits se taisent et écoutent les deux.",Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+"On a été volés, volés, volés, c'est une injustice, une injustice totale, je suis dégoûté.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0346
+"On a été battus à la régulière ; l'injustice, c'est surtout d'avoir joué aussi mal un dimanche de beau temps.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,R0346
+"Mes joueurs sont nuls, ils ont rien compris, je vais tous les changer, tous.",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0347
+"Mes joueurs ont mal joué, et c'est ma faute : je leur ai demandé de gagner, j'aurais dû leur demander de jouer.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,R0347
+"On est trop forts, on a gagné, les autres c'est des nuls, voilà, c'est tout ce que j'ai à dire.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,R0348
+"C'est une belle victoire, l'adversaire nous a posé des problèmes en seconde période.",Aura Correcte,5,5,10,0,5,5,conference,conference,train_registres,R0348
+"On a dominé tout le match ; malheureusement, le football compte les buts, pas les intentions.",Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,
+"Je dis toujours à mes joueurs : le public ne se souvient pas du score, il se souvient de ceux qui n'ont pas baissé la tête.",Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,
+"Notre attaquant a manqué trois occasions ; il m'a promis de les marquer à l'entraînement, c'est déjà un début.",Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,
+"On ne remonte pas au classement en regardant le classement ; on remonte en oubliant qu'il existe, un match après l'autre.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,
+"J'ai vu mon équipe jouer en première mi-temps ; en seconde, j'ai vu une autre équipe porter nos maillots.",Forte Aura,34,35,30,40,35,30,conference,conference,train_registres,
+NOUVEAU !!! INCROYABLE !!! RÉVOLUTIONNAIRE !!! Le produit qui va CHANGER VOTRE VIE !!! 🔥🔥🔥,Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0349
+Notre nouveau produit ne changera pas votre vie. Il rendra seulement vos mardis un peu moins longs.,Aura Divine,83,82,80,85,85,82,tweet_marque,tweet_marque,train_registres,R0349
+"On est les meilleurs, les numéros un, les leaders, les champions du marché, achetez !",Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0350
+"Nous ne sommes pas numéro un du marché. Nous sommes numéro un dans la cuisine de quelques personnes, et ça nous suffit.",Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0350
+Partagez si vous aimez ! Aimez si vous partagez ! Partagez et aimez !,Anti-Aura,-18,-20,-10,-30,-15,-10,tweet_marque,tweet_marque,train_registres,R0351
+"Merci pour vos partages, ils nous font chaud au cœur.",Aura Correcte,9,10,10,5,10,10,tweet_marque,tweet_marque,train_registres,R0351
+Notre glace à la vanille n'a rien d'original ; c'est justement pour ça que vous en reprenez.,Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,
+"Nous fabriquons des clés. Ce que vous ouvrez avec, nous ne voulons pas le savoir ; c'est ce qui fait de nous des gens de confiance.",Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,
+"Nos croissants sont prêts à six heures. Nos boulangers, eux, sont prêts depuis quatre, mais ils préfèrent qu'on n'en parle pas.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,
+On vend des cahiers vides. Ce qui les remplira vaudra toujours plus cher que nous.,Aura Divine,81,80,78,85,82,80,tweet_marque,tweet_marque,train_registres,
+"Vous êtes ridicules, totalement ridicules, tous !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+Nuls ! Nuls ! Nuls !,Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,
+C'est n'importe quoi votre truc !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,
+"Arrêtez, arrêtez, arrêtez tout !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+"Vous n'avez rien compris, rien de rien !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,
+Scandale ! Scandale d'État !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,
+Rendez l'argent ! Rendez l'argent !,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+"Vous êtes à la ramasse, complètement à la ramasse !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,
+Minable ! Minable !,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,
+"Mais quelle bêtise, quelle bêtise incroyable !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+Votre majorité est solide ; elle a même résisté à vos discours.,Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,
+"Vous parlez de rupture ; la seule chose rompue ici, c'est le contact avec le terrain.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+Vous avez le courage de vos opinions ; il vous manque juste les opinions.,Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,
+Vous lisez très bien ; on aimerait maintenant vous entendre penser.,Forte Aura,34,35,30,40,35,30,interjection,interjection,train_registres,
+Le ministre est d'accord avec lui-même ; c'est déjà une majorité.,Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+"Vous n'avez pas de cap, monsieur le ministre, vous avez une girouette, et elle vous trouve fatigant.",Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,
+Vous avez réussi à mettre d'accord la droite et la gauche : contre vous.,Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,
+"Vous ne gouvernez pas le pays, vous le commentez en direct, avec un léger différé.",Aura Divine,88,88,85,90,88,88,interjection,interjection,train_registres,
+"Monsieur le ministre, les gens en ont assez, assez, assez de votre politique, alors quoi ?",Anti-Aura,-26,-30,-15,-40,-25,-20,question,question,train_registres,
+Allez-vous démissionner ou allez-vous continuer à détruire tout ce qui existe et ce qui reste ?,Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,
+"C'est quoi votre plan, parce qu'on voit rien, on comprend rien, c'est quoi ?",Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,
+"Monsieur le ministre, avez-vous un plan pour l'hôpital, ou seulement un plan de communication sur l'hôpital ?",Forte Aura,40,40,40,45,40,35,question,question,train_registres,
+"Madame la ministre, vous avez promis la simplicité ; pourriez-vous nous l'expliquer en moins de trois formulaires ?",Forte Aura,58,60,55,60,55,55,question,question,train_registres,
+"Monsieur le Premier ministre, on ne vous demande pas d'avoir raison, on vous demande d'avoir un calendrier ; l'un des deux, au moins, est à votre portée.",Aura Divine,84,85,80,88,85,85,question,question,train_registres,
+"Monsieur le ministre, vous dites que l'État n'a plus d'argent ; pouvez-vous nous dire qui l'a vu en dernier ?",Aura Divine,81,80,78,85,82,80,question,question,train_registres,
+"Je réponds, et ma réponse est claire, très claire, d'une clarté vraiment très claire.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,
+"L'opposition dit des mensonges et nous, nous disons la vérité, toujours la vérité, uniquement la vérité.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,
+"Vous dites que je ne réponds jamais ; je réponds toujours, simplement pas à la question que vous auriez voulu poser.",Forte Aura,49,50,45,55,50,45,reponse,reponse,train_registres,
+Je vous remercie de ce procès d'intention ; il prouve au moins que vous nous prêtez des intentions.,Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,
+"On me reproche de ne pas avoir de vision ; j'ai surtout des lunettes, et elles me montrent des chiffres que vous préférez ne pas voir.",Aura Divine,88,88,85,90,88,88,reponse,reponse,train_registres,
+Je ne vous ferai pas l'injure d'être d'accord avec vous ; ce serait vous priver de votre meilleur argument.,Aura Divine,83,82,80,85,85,82,reponse,reponse,train_registres,
+"Nous sommes là, nous sommes présents, et notre présence est la preuve que nous sommes là.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,
+"Le moment est historique, historiquement historique, et l'histoire retiendra ce moment historique.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,
+"Il faut agir, il faut agir maintenant, il faut agir vraiment, il faut agir enfin.",Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,
+"Nous avons une vision, une vraie vision, une vision visionnaire de l'avenir.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,
+"Ensemble, unis, rassemblés, solidaires, nous serons ensemble et unis pour le rassemblement.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,
+"On nous dit que tout a été essayé ; tout, sauf écouter ceux qui le vivent.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,
+"On a beaucoup parlé de transition ; à ce rythme, c'est surtout la transition qui va prendre sa retraite.",Forte Aura,58,60,55,60,55,55,discours,discours,train_registres,
+"Une loi qu'on ne comprend pas est une loi qu'on ne respecte pas ; la clarté n'est pas un luxe, c'est une politesse démocratique.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,
+On ne reconstruit pas la confiance avec des promesses ; on la reconstruit avec des rendez-vous tenus.,Aura Divine,88,90,85,90,88,88,discours,discours,train_registres,
+"Les territoires ne réclament pas qu'on parle d'eux ; ils réclament qu'on vienne, et qu'on reste après le départ des caméras.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,
+"« Je t'aime à la folie et je suis fou d'amour, / Je suis fou, fou, fou, fou d'amour pour toujours. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,
+"« Mon honneur est honneur et l'honneur c'est l'honneur, / Je défends mon honneur avec tout mon honneur. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,
+"« Je suis en colère, oui, très en colère, / Ma colère est grande, c'est une grande colère. »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,
+"« Vous voulez ma main ? La voici, mais sans bague : / J'ai vu trop de serments finir dans une blague. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,
+"« Le duc est généreux : il donne à ses amis / Tout ce qu'il a perdu, et rien de ce qu'il a pris. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,
+"« Régnez, seigneur, régnez ; mais sachez qu'une couronne / Ne fait que mieux montrer la tête qu'on lui donne. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+"« Je vous dois tout, madame, et c'est là mon malheur : / On pardonne un ennemi, jamais un bienfaiteur. »",Aura Divine,88,88,85,90,88,92,theatre,theatre,train_registres,
+"Les étoiles brillent et brillent dans le ciel qui brille, / Elles brillent si fort que le ciel scintille et brille.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,
+"Mon âme est en peine, ma peine est en âme, / Mon cœur pleure de peine et ma peine me pâme.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,
+"La mer est bleue, le sable est jaune, le ciel est bleu, je suis heureux.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,
+L'été s'en va pieds nus en emportant les clés ; / On trouve dans les poches des soirs mal rangés.,Forte Aura,59,60,55,60,60,65,poesie,poesie,train_registres,
+"Ce que la pluie écrit sur la vitre du train, / Personne ne le lit, et chacun le comprend.",Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,
+"Les vieilles maisons ont des silences de mères : / Elles savent qui manque, et gardent la lumière.",Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,
+"Il était courageux, très courageux, d'un courage incroyablement courageux et héroïque.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,
+"La maison était belle, magnifique, splendide, superbe, la plus belle des belles maisons.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,
+"Ils s'aimaient beaucoup, énormément, passionnément, à la folie, pour toujours et à jamais.",Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,
+"Il avait de l'éloquence comme d'autres ont des dettes : beaucoup, et toujours au mauvais moment.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,
+"Le maire inaugurait tout, même ce qui ne fonctionnait pas, surtout ce qui ne fonctionnait pas.",Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,
+"Il mourut un dimanche, par discrétion, pour ne déranger personne pendant la semaine.",Aura Divine,88,88,85,90,88,88,roman,roman,train_registres,
+"Elle avait la beauté des gens qui ne la savent pas, et la tristesse de ceux qui l'ont apprise trop tard.",Aura Divine,83,82,80,85,85,82,roman,roman,train_registres,
+"Le passé c'est le passé, le présent c'est le présent, le futur c'est le futur, voilà.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,
+"La sagesse c'est d'être sage, et être sage c'est avoir de la sagesse.",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,
+"L'important c'est d'être soi-même et d'être vrai avec soi-même, toujours.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,
+L'expérience est une lanterne qu'on porte dans le dos : elle n'éclaire que le chemin parcouru.,Forte Aura,58,60,55,60,55,55,maxime,maxime,train_registres,
+Les gens pressés arrivent toujours en avance à leurs regrets.,Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+On reconnaît un homme libre à ce qu'il n'a besoin de convaincre personne.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+L'ignorance n'est pas de ne pas savoir ; c'est d'être sûr de savoir.,Aura Divine,89,90,85,92,90,88,maxime,maxime,train_registres,
+"Moi j'ai rien à me reprocher, c'est les autres, c'est toujours les autres, toujours.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,
+"On va écraser tout le monde, tout le monde, on est les rois, les rois du monde !",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,
+Nous avons perdu le match mais gagné la bataille des statistiques ; je compte les envoyer à la ligue.,Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,
+"Un entraîneur qui gagne a des idées ; un entraîneur qui perd a des explications. Ce soir, je préfère me taire.",Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,
+"Notre café est trop bon, le meilleur café, le café des champions, buvez notre café !!!",Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,
+OFFRE FLASH ⚡⚡⚡ seulement aujourd'hui ⚡⚡⚡ demain c'est trop tard ⚡⚡⚡ GO GO GO,Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,
+Nos chaussettes vont par paires. Ce qui se passe ensuite dans votre machine à laver ne nous regarde pas.,Forte Aura,40,40,40,45,40,35,tweet_marque,tweet_marque,train_registres,
+"Nous vendons des fauteuils. Le temps que vous passerez dedans à ne rien faire, nous le considérons comme notre plus belle réussite.",Aura Divine,88,88,85,90,88,88,tweet_marque,tweet_marque,train_registres,
+Il est rappelé que le présent rappel rappelle les dispositions rappelées dans les rappels précédents.,Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,
+"Dans une démarche d'excellence opérationnelle, la performance performante des process sera performée.",Anti-Aura,-34,-40,-20,-50,-30,-25,officiel,officiel,train_registres,
+La stratégie stratégique de transformation transformative vise à transformer les transformations.,Anti-Aura,-18,-20,-10,-30,-15,-10,officiel,officiel,train_registres,
+Notre engagement s'engage pour un engagement engagé auprès de ceux qui s'engagent.,Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0352
+Nous financerons dix mille contrats de service civique supplémentaires.,Aura Correcte,9,10,10,5,10,10,discours,discours,train_registres,R0352
+"Nous sommes fiers, fiers, tellement fiers d'être fiers de notre fierté nationale.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0353
+"La fierté nationale ne se décrète pas à la tribune ; elle se mérite au guichet, quand le service public répond.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,R0353
+L'innovation est innovante et nous innoverons avec des innovations innovantes.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,R0354
+L'innovation n'est pas de faire du neuf ; c'est de rendre inutile ce qui nous faisait perdre du temps.,Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,R0354
+"Le dialogue social c'est le dialogue, et le dialogue c'est social, donc dialoguons socialement.",Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,R0355
+"On nous parle de dialogue social ; jusqu'ici, c'est surtout un monologue avec des pauses café.",Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,R0355
+"Mes adversaires sont des incapables qui n'ont jamais rien fait, jamais rien, jamais !",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,R0356
+"Je ne dirai pas de mal de mes adversaires ; leur bilan s'en charge, avec beaucoup plus de détails que moi.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,R0356
+Vous rigolez ? Vous rigolez là ? C'est une blague ?,Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0357
+"Si c'est une blague, monsieur le ministre, il faudra nous dire où il faut rire.",Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,R0357
+"Vous racontez n'importe quoi, comme d'habitude, n'importe quoi !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,R0358
+Vous ne racontez pas n'importe quoi : vous le racontez avec une constance qui force l'admiration.,Aura Divine,88,88,85,90,88,88,interjection,interjection,train_registres,R0358
+Ça va pas ou quoi ? Ça va pas ?,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,R0359
+Pouvez-vous préciser ce chiffre ?,Aura Correcte,5,5,10,0,5,5,interjection,interjection,train_registres,R0359
+"Lamentable, lamentable, vraiment lamentable !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,R0360
+Lamentable ? Non : c'est un mot qui demande au moins un effort.,Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,R0360
+"Monsieur le ministre, vous avez tout raté, tout, tout, tout, qu'allez-vous rater maintenant ?",Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,R0361
+"Monsieur le ministre, après la réforme des retraites et celle de l'assurance chômage, quelle sera la prochaine réforme que vous devrez réformer ?",Forte Aura,49,50,45,55,50,45,question,question,train_registres,R0361
+"Est-ce que vous allez faire quelque chose, oui ou non, oui ou non, répondez par oui ou non ?",Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,R0362
+"Je vous pose une question fermée, monsieur le ministre, pour vous laisser une chance de ne pas l'ouvrir.",Aura Divine,81,80,78,85,82,80,question,question,train_registres,R0362
+"Nous avons fait énormément, énormément, et nous ferons encore énormément plus.",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,R0363
+"Nous avons beaucoup fait ; pas tout, et je vous laisse le plaisir de rappeler le reste chaque mardi.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,R0363
+"Vous êtes de la vieille politique, nous sommes la nouvelle politique, point.",Anti-Aura,-34,-40,-20,-50,-30,-25,reponse,reponse,train_registres,R0364
+"Vous parlez de vieille politique ; je constate que la nouvelle a déjà pris ses rides, et qu'elle les porte assez mal.",Aura Divine,84,85,80,88,85,85,reponse,reponse,train_registres,R0364
+"« Ô ma reine, ô ma reine, ô ma reine adorée, / Ma reine est ma reine et ma reine dorée. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,R0365
+"« Ma reine, on vous adore, et c'est votre prison : / L'amour qu'on vous jure vous ôte la raison. »",Aura Divine,88,88,85,90,88,92,theatre,theatre,train_registres,R0365
+"« Je suis le roi des rois, le plus roi de la terre, / Et tous les autres rois sont des rois de poussière. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,R0366
+"« Je suis roi, j'en conviens, mais d'un si petit bourg / Que mes sujets, le soir, me disent bonjour. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,R0366
+"« Fuyons, fuyons, fuyons, il faut fuir à présent, / Fuyons vite, fuyons, fuyons rapidement. »",Anti-Aura,-18,-20,-10,-30,-15,-10,theatre,theatre,train_registres,R0367
+"« Fuyons, mais lentement : rien ne trahit la peur / Comme un pas trop pressé qui tremble de bonheur. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,R0367
+"Le vent souffle et souffle et souffle sur la plaine, / Le vent souffle si fort que la plaine est pleine.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,R0368
+Le vent passe la plaine en effaçant ses traces : / Il n'apprend à personne où le monde se passe.,Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,R0368
+"Ma mère est belle et douce et ma mère est gentille, / Ma mère est la meilleure de toute la famille.",Anti-Aura,-34,-40,-20,-50,-30,-25,poesie,poesie,train_registres,R0369
+Ma mère avait des mains qui pardonnaient d'avance ; / Je les cherche le soir dans le pli du silence.,Aura Divine,90,90,85,92,90,95,poesie,poesie,train_registres,R0369
+"La ville était grande, très grande, immense, une ville vraiment très grande et immense.",Anti-Aura,-26,-30,-15,-40,-25,-20,roman,roman,train_registres,R0370
+"La ville était si grande qu'on pouvait y passer sa vie sans croiser ses voisins, ce que beaucoup appelaient la liberté.",Forte Aura,49,50,45,55,50,45,roman,roman,train_registres,R0370
+"Il était heureux, tellement heureux, d'un bonheur si heureux qu'il était heureux de son bonheur.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,R0371
+"Il était heureux, mais n'osait pas le dire, de peur qu'on lui demande pourquoi et qu'il ne trouve rien.",Aura Divine,83,82,80,85,85,82,roman,roman,train_registres,R0371
+"Les vrais savent, les faux parlent, et les vrais savent que les faux parlent.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,R0372
+"Ceux qui savent ne parlent pas, disait-on ; depuis, ils ont ouvert un compte et ils parlent beaucoup.",Forte Aura,40,40,40,45,40,35,maxime,maxime,train_registres,R0372
+"Le temps c'est le temps et le temps passe, le temps passe toujours, c'est le temps.",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,R0373
+"Le temps ne passe pas ; c'est nous qui passons devant lui, en faisant semblant de ne pas le voir.",Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,R0373
+"Les gens sont méchants, la vie est dure, le monde est cruel, c'est ainsi.",Anti-Aura,-18,-20,-10,-30,-15,-10,maxime,maxime,train_registres,R0374
+"Le monde n'est pas cruel ; il est indifférent, ce qui laisse à chacun la liberté d'y être bon.",Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,R0374
+"C'est la honte, la honte totale, on a honte, j'ai honte, tout le monde a honte.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,R0375
+"J'ai honte de notre deuxième mi-temps ; heureusement, la première était déjà oubliée.",Forte Aura,58,60,55,60,55,55,conference,conference,train_registres,R0375
+"Le coach adverse est un nul et son équipe c'est des nuls, on les a éclatés, voilà.",Anti-Aura,-34,-40,-20,-50,-30,-25,conference,conference,train_registres,R0376
+"Je respecte mon collègue d'en face ; ce soir, il a perdu un match, moi j'ai perdu quelques certitudes, on est quittes.",Aura Divine,81,80,78,85,82,80,conference,conference,train_registres,R0376
+"Notre application est la meilleure application de toutes les applications, téléchargez-la maintenant !",Anti-Aura,-26,-30,-15,-40,-25,-20,tweet_marque,tweet_marque,train_registres,R0377
+"Notre application ne vous rendra pas productif. Elle vous rappellera simplement, poliment, que vous ne l'êtes pas.",Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,R0377
+"Venez venez venez, c'est maintenant ou jamais, jamais ou maintenant, foncez !",Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,R0378
+"Rien ne presse. Nos promotions reviennent chaque mois ; vos week-ends, eux, ne reviennent jamais.",Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,R0378
+Une concertation concertée sera conduite dans un cadre partenarial de partenariat avec les partenaires.,Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,R0379
+Une réunion publique se tiendra le 4 avril à la salle des fêtes.,Aura Correcte,5,5,10,0,5,5,officiel,officiel,train_registres,R0379
+Le pilotage piloté du dispositif sera assuré par une gouvernance de gouvernance pilotante.,Anti-Aura,-34,-40,-20,-50,-30,-25,officiel,officiel,train_registres,R0380
+Le comité de suivi se réunira chaque trimestre.,Aura Correcte,0,0,5,-5,0,0,officiel,officiel,train_registres,R0380
+Votre réforme ressemble à votre majorité : elle tient debout parce qu'on lui interdit de s'asseoir.,Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,
+Vous dites avoir hérité d'une situation difficile ; vous l'avez surtout bien entretenue.,Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+On vous a connu ministre de l'Industrie ; on ne savait pas que c'était celle du discours.,Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,
+"Vous avez un talent rare, monsieur le ministre : vous transformez chaque question en monologue et chaque monologue en aveu.",Aura Divine,83,82,80,85,85,82,interjection,interjection,train_registres,
+Ne nous demandez pas d'avoir confiance ; demandez-vous plutôt pourquoi il faut vous la demander.,Aura Divine,88,90,85,90,88,88,interjection,interjection,train_registres,
+"Monsieur le ministre, vous avez promis des trains à l'heure ; était-ce l'heure d'hiver ou l'heure d'été ?",Forte Aura,49,50,45,55,50,45,question,question,train_registres,
+"Madame la ministre, la France manque de professeurs, d'infirmières et de juges ; ne manque-t-elle pas surtout de quelqu'un pour leur dire merci ?",Aura Divine,84,85,80,88,85,85,question,question,train_registres,
+Vous m'accusez d'être lent ; je préfère arriver tard avec un texte juste que tôt avec un recours au Conseil constitutionnel.,Forte Aura,58,60,55,60,55,55,reponse,reponse,train_registres,
+"On ne fait pas une politique avec des indignations ; on la fait avec des budgets, et les budgets, eux, ne s'indignent jamais.",Aura Divine,88,88,85,90,88,88,reponse,reponse,train_registres,
+Ils disent que l'impôt est trop lourd ; ils oublient de dire qui porte le sac.,Forte Aura,40,40,40,45,40,35,discours,discours,train_registres,
+"La démocratie n'est pas le pouvoir du plus grand nombre ; c'est la protection du plus petit, même quand il a tort.",Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,
+"Le courage politique, ce n'est pas de dire ce que les gens veulent entendre ; c'est de dire ce qu'ils savent déjà et qu'on leur cache.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,
+"« Vous me trouvez cruel ? Je ne suis que sincère : / La cruauté, madame, est la vertu du verre. »",Aura Divine,83,82,80,85,85,88,theatre,theatre,train_registres,
+"« Mon père m'a laissé son nom et ses procès ; / Je garde le premier, les autres font des frais. »",Forte Aura,42,40,40,45,40,50,theatre,theatre,train_registres,
+"Le dimanche a des airs de visite officielle : / On s'habille, on attend, et rien ne se révèle.",Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,
+"Il faut aimer les gares, elles savent attendre ; / Elles ont vu partir tous ceux qu'on n'a pu rendre.",Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,
+"Le notaire était un homme de parole : il en avait beaucoup, et les facturait toutes.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,
+Elle avait gardé de son mari un fauteuil vide et une habitude : celle de répondre à voix haute aux questions qu'il ne posait plus.,Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,
+"La gratitude est une mémoire du cœur, souvent atteinte d'amnésie précoce.",Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+Le vrai pouvoir est de pouvoir se passer du pouvoir.,Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,
+"On m'a demandé de faire jouer les jeunes ; je l'ai fait, ils ont joué comme des jeunes, c'est-à-dire sans peur et sans défense.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,
+"La victoire a mille pères, dit-on ; ce soir, je veux saluer l'orphelin, celui qui a fait la passe avant la passe décisive.",Aura Divine,88,88,85,90,88,88,conference,conference,train_registres,
+"Notre lessive enlève toutes les taches. Les souvenirs, eux, restent, et c'est très bien comme ça.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,
+Nous vendons des bougies. Elles ne font pas revenir la lumière ; elles rappellent seulement qu'on peut l'attendre ensemble.,Aura Divine,83,82,80,85,85,82,tweet_marque,tweet_marque,train_registres,
+"On me demande si je suis heureux ; je réponds que je suis occupé, ce qui me paraît plus fiable.",Forte Aura,49,50,45,55,50,45,interview,interview,train_registres,
+J'ai mis trente ans à devenir simple ; il paraît que c'est le plus long des apprentissages.,Aura Divine,84,85,80,88,85,85,interview,interview,train_registres,
+"Moi, je suis unique, incomparable, il n'y a personne comme moi, personne, je suis moi.",Anti-Aura,-26,-30,-15,-40,-25,-20,interview,interview,train_registres,
+"Mon talent est immense, gigantesque, colossal, et ceux qui ne le voient pas sont aveugles.",Anti-Aura,-34,-40,-20,-50,-30,-25,interview,interview,train_registres,
+"Le tournage s'est très bien passé, l'équipe était formidable.",Aura Correcte,5,5,10,0,5,5,interview,interview,train_registres,
+"J'ai appris le piano tard, vers trente ans.",Aura Correcte,9,10,10,5,10,10,interview,interview,train_registres,
+La parole est au gouvernement.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+L'amendement n° 45 est retiré.,Aura Correcte,5,5,10,0,5,5,procedure,procedure,train_registres,
+Nous passons à l'examen de l'article 2.,Aura Correcte,0,0,5,-5,0,0,procedure,procedure,train_registres,
+"Bande d'incapables, voilà ce que vous êtes !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+"Vous êtes tous pourris, tous, sans exception !",Anti-Aura,-34,-40,-20,-50,-30,-25,interjection,interjection,train_registres,
+Mais c'est quoi ce délire ?,Anti-Aura,-18,-20,-10,-30,-15,-10,interjection,interjection,train_registres,
+"Vous vous moquez du monde, vous vous moquez de tout le monde !",Anti-Aura,-26,-30,-15,-40,-25,-20,interjection,interjection,train_registres,
+"Notre combat est le combat de tous les combats, le combat ultime pour combattre.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,
+La République est républicaine et nous sommes républicains dans la République.,Anti-Aura,-18,-20,-10,-30,-15,-10,discours,discours,train_registres,
+Nous dirons la vérité aux Français car les Français méritent la vérité et la vérité est pour les Français.,Anti-Aura,-26,-30,-15,-40,-25,-20,discours,discours,train_registres,
+"Notre pays est le plus beau pays du monde, le meilleur pays, le plus grand de tous les pays.",Anti-Aura,-34,-40,-20,-50,-30,-25,discours,discours,train_registres,
+Je vous réponds que la réponse est dans la question et que la question contient la réponse.,Anti-Aura,-18,-20,-10,-30,-15,-10,reponse,reponse,train_registres,
+"Ce que vous dites est inadmissible, inacceptable, intolérable, insupportable !",Anti-Aura,-26,-30,-15,-40,-25,-20,reponse,reponse,train_registres,
+Vous allez répondre ou vous allez encore vous cacher comme un lâche derrière vos fiches ?,Anti-Aura,-34,-40,-20,-50,-30,-25,question,question,train_registres,
+"Les gens veulent savoir, ils veulent vraiment savoir, alors dites-leur, dites-leur enfin !",Anti-Aura,-18,-20,-10,-30,-15,-10,question,question,train_registres,
+"« Quel bonheur, quel bonheur, quel immense bonheur, / Mon bonheur est heureux, mon bonheur est bonheur. »",Anti-Aura,-26,-30,-15,-40,-25,-20,theatre,theatre,train_registres,
+"« Je t'adore, je t'adore, ô toi que j'adore, / Je t'adore et t'adore et je t'adore encore. »",Anti-Aura,-34,-40,-20,-50,-30,-25,theatre,theatre,train_registres,
+"La pluie tombe, tombe, tombe, elle tombe sans arrêt, / La pluie tombe et retombe et tombe à jamais.",Anti-Aura,-18,-20,-10,-30,-15,-10,poesie,poesie,train_registres,
+"L'oiseau vole dans le ciel, il vole dans le ciel bleu, / L'oiseau vole et il vole, il vole tant qu'il peut.",Anti-Aura,-26,-30,-15,-40,-25,-20,poesie,poesie,train_registres,
+"C'était un méchant, le plus méchant des méchants, qui faisait des choses méchantes à tout le monde.",Anti-Aura,-34,-40,-20,-50,-30,-25,roman,roman,train_registres,
+Le soleil se leva et c'était le matin et le soleil était levé ce matin-là.,Anti-Aura,-18,-20,-10,-30,-15,-10,roman,roman,train_registres,
+"La vie est un combat, combats la vie, et la vie te le rendra en combat.",Anti-Aura,-26,-30,-15,-40,-25,-20,maxime,maxime,train_registres,
+"Les winners gagnent, les losers perdent, sois un winner, mindset de winner.",Anti-Aura,-34,-40,-20,-50,-30,-25,maxime,maxime,train_registres,
+"C'est pas notre faute, c'est la pelouse, c'est le vent, c'est l'arbitre, c'est tout sauf nous.",Anti-Aura,-18,-20,-10,-30,-15,-10,conference,conference,train_registres,
+"Je suis le meilleur, le meilleur buteur, le meilleur de tous, regardez les stats, je suis le meilleur.",Anti-Aura,-26,-30,-15,-40,-25,-20,conference,conference,train_registres,
+Black Friday 🔥 Black Friday 🔥 Black Friday 🔥 tout doit disparaître 🔥 achetez achetez 🔥,Anti-Aura,-34,-40,-20,-50,-30,-25,tweet_marque,tweet_marque,train_registres,
+"Nous sommes une marque engagée, engagée pour l'engagement, et nous nous engageons.",Anti-Aura,-18,-20,-10,-30,-15,-10,tweet_marque,tweet_marque,train_registres,
+Il convient de convenir que les modalités convenues conviennent aux conventions en vigueur.,Anti-Aura,-26,-30,-15,-40,-25,-20,officiel,officiel,train_registres,
+Le présent document documente la documentation documentaire des documents de référence.,Anti-Aura,-34,-40,-20,-50,-30,-25,officiel,officiel,train_registres,
+"Je suis trop content, trop trop content, c'est trop bien, voilà, trop content.",Anti-Aura,-18,-20,-10,-30,-15,-10,interview,interview,train_registres,
+"Les autres artistes me copient tous, tous, ils n'ont aucune idée, je suis l'original.",Anti-Aura,-26,-30,-15,-40,-25,-20,interview,interview,train_registres,
+"Je suis une légende vivante, les gens le savent, je suis déjà dans l'histoire.",Anti-Aura,-34,-40,-20,-50,-30,-25,interview,interview,train_registres,
+"Le lapin courait vite et la tortue courait pas vite, alors le lapin il a perdu, c'est bizarre.",Anti-Aura,-18,-20,-10,-30,-15,-10,fable,fable,train_registres,
+Vous avez trouvé la solution ; il ne vous manque plus que le problème.,Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+"On applaudit l'orateur ; pas pour son discours, pour sa fin.",Forte Aura,40,40,40,45,40,35,interjection,interjection,train_registres,
+Votre texte est courageux : il ose ne rien dire en cent vingt pages.,Forte Aura,58,60,55,60,55,55,interjection,interjection,train_registres,
+"Monsieur le ministre, combien de rapports faut-il pour faire une décision ? On en est à douze.",Forte Aura,34,35,30,40,35,30,question,question,train_registres,
+"Madame la ministre, vous avez supprimé l'agence pour simplifier ; pourquoi en avez-vous créé deux pour la remplacer ?",Forte Aura,49,50,45,55,50,45,question,question,train_registres,
+"Vous dites que je recule ; je prends simplement de l'élan, ce que vous n'avez jamais su faire.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,
+"Je découvre avec vous ce chiffre, monsieur le député ; je découvre surtout que vous l'avez inventé.",Forte Aura,58,60,55,60,55,55,reponse,reponse,train_registres,
+"Ils promettaient de tout casser ; ils ont tenu parole, ils ont cassé le thermomètre.",Forte Aura,49,50,45,55,50,45,discours,discours,train_registres,
+Le texte est équilibré : il mécontente tout le monde de manière égale.,Forte Aura,34,35,30,40,35,30,discours,discours,train_registres,
+"« Votre amour est sincère, et j'en vois la mesure : / Il dure autant que dure votre fortune sûre. »",Forte Aura,52,50,45,55,55,60,theatre,theatre,train_registres,
+"« Je ne mens jamais, madame ; je décore. »",Forte Aura,59,60,55,60,60,65,theatre,theatre,train_registres,
+Les lampadaires font semblant d'être des lunes / Pour les ivrognes tristes et les chats sans fortune.,Forte Aura,43,40,40,45,45,50,poesie,poesie,train_registres,
+L'automne a ses impôts : il prélève les feuilles / Et laisse aux arbres nus le seul droit de recueil.,Forte Aura,52,50,45,55,55,60,poesie,poesie,train_registres,
+"Il avait une opinion sur tout, ce qui lui évitait d'avoir à réfléchir sur rien.",Forte Aura,40,40,40,45,40,35,roman,roman,train_registres,
+Sa tante était si avare qu'elle prêtait de l'attention à intérêt.,Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,
+"La franchise est une qualité qu'on apprécie surtout chez les autres, quand elle vise un tiers.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,
+Le meilleur moyen de tenir une promesse est de ne pas la faire.,Forte Aura,34,35,30,40,35,30,maxime,maxime,train_registres,
+Mon équipe a eu le ballon soixante-dix pour cent du temps ; l'adversaire a eu le score cent pour cent du temps.,Forte Aura,49,50,45,55,50,45,conference,conference,train_registres,
+"Je n'ai pas peur du derby ; j'ai peur de ma belle-mère, qui supporte l'autre camp.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,
+"Lundi, encore. Notre café est prêt, lui, il n'a pas fait de week-end.",Forte Aura,58,60,55,60,55,55,tweet_marque,tweet_marque,train_registres,
+"Nos parapluies sont garantis deux ans, ou jusqu'au premier oubli dans le train.",Forte Aura,49,50,45,55,50,45,tweet_marque,tweet_marque,train_registres,
+"J'ai beaucoup de défauts, mais je les entretiens avec soin, ils me rendent reconnaissable.",Forte Aura,40,40,40,45,40,35,interview,interview,train_registres,
+"Le trac ? Il me suit depuis trente ans, je le considère comme mon plus vieux fan.",Forte Aura,58,60,55,60,55,55,interview,interview,train_registres,
+"Le renard ouvrit une école de vertu ; les poules s'y inscrivirent en masse, et la promotion fut courte.",Forte Aura,51,50,45,55,55,55,fable,fable,train_registres,
+"Le silence de l'administration vaut acceptation, ce qui fait de lui son interlocuteur le plus aimable.",Forte Aura,40,40,45,35,40,35,officiel,officiel,train_registres,
+Vous avez fait de l'immobilisme une méthode et de la méthode un programme.,Aura Divine,84,85,80,88,85,85,interjection,interjection,train_registres,
+"Le seul plan que vous suivez, monsieur le ministre, c'est le plan de table du prochain dîner.",Aura Divine,81,80,78,85,82,80,interjection,interjection,train_registres,
+Vous nous demandez du temps ; c'est la seule chose que vous n'avez jamais su donner.,Aura Divine,88,88,85,90,88,88,interjection,interjection,train_registres,
+"Monsieur le ministre, vous avez promis de ne laisser personne au bord du chemin ; avez-vous remarqué qu'il n'y a plus de chemin ?",Aura Divine,83,82,80,85,85,82,question,question,train_registres,
+"Madame la ministre, vous dites que l'école n'a pas besoin de moyens mais de sens ; pouvez-vous nous dire combien coûte le sens ?",Aura Divine,84,85,80,88,85,85,question,question,train_registres,
+"Vous me demandez de m'excuser ; je préfère réparer, c'est moins élégant mais plus utile.",Aura Divine,81,80,78,85,82,80,reponse,reponse,train_registres,
+"Je ne crois pas aux miracles, monsieur le député ; je crois aux budgets votés, qui en font parfois de petits.",Aura Divine,88,90,85,90,88,88,reponse,reponse,train_registres,
+"On mesure une société à la manière dont elle traite ses vieux, ses enfants et ses perdants ; le reste n'est que statistiques.",Aura Divine,88,88,85,90,88,88,discours,discours,train_registres,
+Le pays ne manque pas d'idées ; il manque de gens prêts à les appliquer sans les signer.,Aura Divine,83,82,80,85,85,82,discours,discours,train_registres,
+"Il y a deux sortes de promesses : celles qu'on fait pour être élu, et celles qu'on fait pour pouvoir se regarder ; je ne ferai que les secondes.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,
+« Vous parlez de vengeance avec tant de tendresse / Qu'on croirait que la haine est votre seule maîtresse. »,Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+« Je n'ai jamais tremblé devant mes ennemis ; / Je tremble seulement de devenir leur ami. »,Aura Divine,82,80,78,85,82,88,theatre,theatre,train_registres,
+"« Le pouvoir, mon enfant, n'est pas ce qu'on possède : / C'est ce qu'on peut défaire et qu'on laisse en remède. »",Aura Divine,89,90,85,90,90,92,theatre,theatre,train_registres,
+Le premier jour de neige a la pudeur des lettres / Qu'on écrit sans adresse et qu'on laisse aux fenêtres.,Aura Divine,85,85,80,88,85,90,poesie,poesie,train_registres,
+"J'ai vu des rois tomber et des fleurs se relever ; / Les fleurs ont plus d'orgueil, elles n'ont rien à prouver.",Aura Divine,83,82,80,85,85,88,poesie,poesie,train_registres,
+"On n'oublie pas les morts ; on apprend seulement / À mettre le couvert pour un de moins, lentement.",Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,
+"Il avait réussi tout ce qu'il avait entrepris, sauf l'essentiel : il n'avait jamais rien entrepris pour personne.",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,
+"Le village avait une église, une école et un café ; on y priait peu, on y apprenait un peu, on y parlait beaucoup, et tout le monde y vivait vieux.",Aura Divine,84,85,80,88,85,85,roman,roman,train_registres,
+"Elle relisait les vieilles lettres non pour se souvenir, mais pour vérifier qu'elle avait bien été aimée par quelqu'un qui savait écrire.",Aura Divine,88,90,85,90,88,88,roman,roman,train_registres,
+Il est plus facile de mourir pour une idée que de vivre avec elle.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+La prudence est la vertu des gens qui ont déjà payé.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+On ne dit jamais toute la vérité ; on choisit seulement à qui on la ment.,Aura Divine,88,88,85,90,88,88,maxime,maxime,train_registres,
+"La jalousie compte ce que les autres ont, l'amour ce qu'ils donnent.",Aura Divine,81,80,78,85,82,80,maxime,maxime,train_registres,
+On ne prépare pas une finale ; on prépare toute une saison pour avoir le droit d'avoir peur un soir.,Aura Divine,84,85,80,88,85,85,conference,conference,train_registres,
+"J'ai perdu ma première finale à vingt ans ; c'est elle qui m'a appris à gagner la deuxième, à trente.",Aura Divine,83,82,80,85,85,82,conference,conference,train_registres,
+"Nos stylos écrivent dans toutes les langues ; les excuses, en revanche, il faudra les trouver vous-même.",Aura Divine,84,85,80,88,85,85,tweet_marque,tweet_marque,train_registres,
+"Nous faisons des valises légères, parce que les voyages ont déjà bien assez de souvenirs à porter.",Aura Divine,81,80,78,85,82,80,tweet_marque,tweet_marque,train_registres,
+"On me demande comment je supporte la critique ; je réponds que je la supporte très bien, c'est l'indifférence qui m'empêche de dormir.",Aura Divine,88,88,85,90,88,88,interview,interview,train_registres,
+"Je n'ai jamais eu de plan de carrière ; j'ai eu des rencontres, et elles avaient meilleur goût que moi.",Aura Divine,83,82,80,85,85,82,interview,interview,train_registres,
+"Le hérisson ne piquait personne ; il avait seulement appris que la douceur, chez lui, devait se mériter.",Aura Divine,85,85,80,88,88,88,fable,fable,train_registres,
+"La tortue gagna la course et refusa la revanche : elle savait que la chance, elle, court très vite.",Aura Divine,81,80,78,85,82,85,fable,fable,train_registres,
+"Le talent, c'est d'avoir envie ; le reste, c'est de durer assez longtemps pour que l'envie devienne un métier.",Aura Divine,89,90,85,92,90,88,interview,interview,train_registres,
+Un ministre qui n'a jamais tort a simplement cessé d'écouter ceux qui pourraient le lui dire.,Aura Divine,81,80,78,85,82,80,discours,discours,train_registres,
+La mémoire est un chien fidèle qui rapporte toujours ce qu'on lui a demandé de jeter.,Aura Divine,84,85,80,88,85,85,maxime,maxime,train_registres,
+Les fenêtres allumées sont des lettres d'amour / Que la ville s'écrit en attendant le jour.,Aura Divine,82,80,78,85,82,88,poesie,poesie,train_registres,
+"Votre réforme a un mérite : elle unit enfin les syndicats et le patronat, contre elle.",Forte Aura,49,50,45,55,50,45,interjection,interjection,train_registres,
+"Je prends note de votre colère ; je la range avec celle de l'an dernier, elle était identique.",Forte Aura,40,40,40,45,40,35,reponse,reponse,train_registres,
+"Le député visitait sa circonscription tous les cinq ans, avec la régularité d'une comète et la même chaleur.",Forte Aura,58,60,55,60,55,55,roman,roman,train_registres,
+"L'avenir appartient à ceux qui se lèvent tôt, et le présent à ceux qui les réveillent.",Forte Aura,49,50,45,55,50,45,maxime,maxime,train_registres,
+"On a perdu aux tirs au but ; on s'entraînera aux tirs au but, et on perdra peut-être autrement.",Forte Aura,40,40,40,45,40,35,conference,conference,train_registres,
+"Gouverner, c'est choisir ; promettre, c'est éviter de choisir le plus longtemps possible.",Aura Divine,84,85,80,88,85,85,discours,discours,train_registres,
+La maison a gardé ton pas dans l'escalier ; / Le bois se souvient mieux que nous de qui montait.,Aura Divine,88,88,85,90,88,92,poesie,poesie,train_registres,
+On n'est jamais trahi que par ceux à qui l'on a confié ce qu'on aurait dû garder pour soi.,Aura Divine,83,82,80,85,85,82,maxime,maxime,train_registres,
+"« Ne me jurez plus rien, madame, je vous crois ; / C'est en vous écoutant que je doute de moi. »",Aura Divine,85,85,80,88,85,90,theatre,theatre,train_registres,
+"Il n'était pas avare ; il aimait seulement que l'argent reste à la maison, comme un enfant sage.",Aura Divine,81,80,78,85,82,80,roman,roman,train_registres,
+"La célébrité, c'est quand des inconnus vous reconnaissent ; le bonheur, quand ceux que vous connaissez vous reconnaissent encore.",Aura Divine,84,85,80,88,85,85,interview,interview,train_registres,

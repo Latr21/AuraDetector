@@ -1,0 +1,76 @@
+# Conférences de presse sportives
+conference|C|5 10 0 5 5|On a fait un bon match, les joueurs ont tout donné.
++conference|F|50 45 55 50 45|Les joueurs ont tout donné ; malheureusement, l'adversaire a tout pris.
+conference|A|-30 -15 -40 -25 -20|C'est la faute de l'arbitre, c'est toujours la faute de l'arbitre, il nous déteste.
++conference|D|80 78 85 82 80|L'arbitre a fait des erreurs, nous aussi. La différence, c'est que les nôtres, personne ne peut les siffler.
+conference|C|10 10 5 10 10|On va se remobiliser pour le prochain match.
++conference|F|40 40 45 40 35|On va se remobiliser. C'est un mot que j'utilise beaucoup cette saison, j'aimerais l'utiliser moins.
+conference|A|-40 -20 -50 -30 -25|On est les plus forts, on est invincibles, personne ne nous battra jamais, jamais !
++conference|D|85 80 88 85 85|Personne n'est invincible. Il y a seulement des équipes qui n'ont pas encore rencontré leur mauvais soir.
+conference|C|0 5 -5 0 0|Je n'ai pas de commentaire à faire sur ce sujet.
++conference|F|35 30 40 35 30|Je n'ai pas de commentaire à faire, ce qui, venant de moi, devrait déjà vous inquiéter.
+conference|C|15 15 10 10 10|Je suis fier de mes joueurs, ils ont montré du caractère.
++conference|D|88 85 90 88 88|Je suis fier d'eux. Pas parce qu'ils ont gagné, mais parce qu'à la mi-temps, menés, ils ont refusé de se regarder les chaussures.
+conference|A|-20 -10 -30 -15 -10|On a perdu mais c'est pas grave, on s'en fiche, on va gagner la prochaine fois, voilà.
++conference|C|10 10 5 10 10|On a perdu, c'est décevant. Il faudra être meilleurs dès samedi.
+conference|C|5 10 0 5 5|L'adversaire était plus fort aujourd'hui.
++conference|F|60 55 60 55 55|L'adversaire était plus fort. Nous, on était plus nombreux dans les tribunes, c'est déjà ça.
+conference|A|-30 -15 -40 -25 -20|Je réponds pas à cette question, elle est nulle, vous êtes nuls, au revoir.
++conference|F|50 45 55 50 45|Votre question est excellente ; je vais faire comme si je ne l'avais pas entendue, par respect pour elle.
+conference|C|10 10 5 10 10|Notre gardien a réalisé un match exceptionnel.
++conference|D|80 78 85 82 80|Notre gardien a fait un match exceptionnel ; quand on le remercie, il répond qu'il n'a fait que fermer la porte que les autres avaient laissée ouverte.
+conference|C|0 5 -5 0 0|On prend les matchs les uns après les autres.
++conference|F|40 40 45 40 35|On prend les matchs les uns après les autres, faute d'avoir trouvé comment en jouer deux en même temps.
+conference|A|-40 -20 -50 -30 -25|Moi je suis le meilleur entraîneur du championnat, tout le monde le sait, c'est évident.
++conference|D|85 80 88 85 85|Je ne suis pas le meilleur entraîneur du championnat. Je suis celui qui reste le plus longtemps au bureau, ce qui n'est pas la même chose, mais aide parfois.
+conference|C|15 15 10 10 10|La blessure de notre attaquant est une mauvaise nouvelle.
++conference|F|35 30 40 35 30|Notre attaquant est blessé ; c'est une mauvaise nouvelle pour nous, et une excellente pour les défenseurs adverses.
+conference|C|5 10 0 5 5|Le terrain était difficile à cause de la pluie.
++conference|F|50 45 55 50 45|Le terrain était lourd ; on a passé plus de temps à chercher nos appuis qu'à chercher le but.
+conference|A|-20 -10 -30 -15 -10|Les supporters nous ont sifflés mais ils comprennent rien, c'est des faux supporters.
++conference|D|88 85 90 88 88|Les supporters ont sifflé, et ils ont eu raison : on ne siffle que ce qu'on aime encore.
+conference|C|10 10 5 10 10|On a manqué d'efficacité dans la surface.
++conference|F|60 55 60 55 55|On a eu quinze occasions. J'ai demandé aux joueurs s'ils voulaient les garder pour le match retour.
+conference|C|0 5 -5 0 0|Je fais confiance à mon groupe.
++conference|D|82 80 85 85 82|Je fais confiance à mon groupe ; la confiance, ce n'est pas de croire qu'ils ne se tromperont pas, c'est de savoir qu'ils se relèveront.
+conference|A|-30 -15 -40 -25 -20|On mérite de gagner la coupe, on la mérite plus que tout le monde, elle est à nous !
++conference|F|40 40 45 40 35|La coupe ne se mérite pas, elle se gagne ; la nuance a coûté cher à beaucoup d'équipes avant nous.
+conference|C|15 15 10 10 10|Le mercato n'est pas ma priorité pour l'instant.
++conference|F|50 45 55 50 45|Le mercato ? Je laisse ça aux journalistes, ils recrutent beaucoup plus que moi chaque été.
+conference|C|5 10 0 5 5|Je ne pense pas à mon avenir, je pense au prochain match.
++conference|D|80 78 85 82 80|Mon avenir ? Dans ce métier, il dure quatre-vingt-dix minutes, prolongations comprises.
+conference|A|-40 -20 -50 -30 -25|Les journalistes racontent que des mensonges, j'en ai marre, vous êtes tous contre moi.
++conference|F|60 55 60 55 55|Je lis la presse tous les matins : c'est le seul endroit où je découvre mes propres décisions.
+conference|C|10 10 5 10 10|C'est une victoire importante pour la confiance.
+conference|D|85 80 88 85 85|On ne joue pas contre le classement, on joue contre la peur d'y descendre ; le jour où on l'oublie, on remonte.
+conference|C|0 5 -5 0 0|On a bien préparé ce match à l'entraînement.
++conference|F|35 30 40 35 30|On avait parfaitement préparé ce match à l'entraînement ; il aurait fallu le jouer à l'entraînement aussi.
+conference|A|-20 -10 -30 -15 -10|On a gagné, on est trop forts, c'est trop bien, voilà, merci.
++conference|D|88 85 90 88 88|On a gagné, mais ce n'est pas une raison pour devenir bêtes ; ça, on le réserve aux défaites.
+conference|C|15 15 10 10 10|Il faudra être plus solides en défense.
+conference|F|50 45 55 50 45|Notre défense a été remarquable : elle a regardé passer le ballon avec beaucoup d'attention.
+conference|C|5 10 0 5 5|Le match nul est un résultat logique.
++conference|D|82 80 85 85 82|Un match nul, c'est deux équipes qui ont eu le même mérite et la même maladresse ; c'est assez rare pour être salué.
+conference|A|-30 -15 -40 -25 -20|J'ai rien à me reprocher, j'ai tout bien fait, ce sont les joueurs qui ont tout raté.
++conference|D|85 80 88 85 85|Quand on gagne, ce sont les joueurs. Quand on perd, c'est l'entraîneur. C'est injuste, et c'est très bien ainsi.
+conference|C|10 10 5 10 10|Je remercie le public pour son soutien.
++conference|F|40 40 45 40 35|Merci au public, qui a chanté pendant quatre-vingt-dix minutes ; c'est plus que ce que nous avons joué.
+conference|C|0 5 -5 0 0|On verra la composition demain.
+conference|F|60 55 60 55 55|On m'a demandé de faire tourner l'effectif. Je l'ai fait : maintenant, tout le monde est fatigué de la même manière.
+conference|A|-40 -20 -50 -30 -25|Le championnat est truqué, tout est truqué, la ligue est contre nous, scandale !
++conference|C|10 10 5 10 10|Certaines décisions de la ligue nous ont surpris, nous demanderons des explications.
+conference|D|80 78 85 82 80|Le talent fait gagner des matchs ; c'est l'ennui de l'entraînement qui fait gagner des saisons.
+conference|C|15 15 10 10 10|Le jeune a fait de bons débuts, il faut le laisser grandir.
++conference|F|50 45 55 50 45|Le petit a dix-huit ans et déjà plus de sang-froid que moi. Je le soupçonne de lire les journaux.
+conference|C|5 10 0 5 5|On a une semaine pour récupérer.
+conference|D|88 85 90 88 88|On ne perd jamais un match à la quatre-vingt-dixième minute ; on le perd à la première, quand on croit qu'on a le temps.
+conference|A|-20 -10 -30 -15 -10|Franchement c'était nul, nul, archi nul, je sais même pas quoi dire tellement c'était nul.
++conference|F|35 30 40 35 30|C'était un match difficile à regarder ; j'aurais aimé être à votre place, vous, au moins, pouviez changer de chaîne.
+conference|C|10 10 5 10 10|La course s'est jouée dans les derniers kilomètres.
++conference|D|85 80 88 85 85|La course s'est jouée dans les derniers kilomètres, là où les jambes ne servent plus et où l'on court avec ce qu'on a promis à quelqu'un.
+conference|C|0 5 -5 0 0|Je suis satisfait de ma performance.
++conference|F|60 55 60 55 55|Je suis satisfait de ma course ; mon chronomètre, lui, a demandé à être consulté séparément.
+conference|A|-30 -15 -40 -25 -20|Les autres pilotes sont des nuls, ils savent pas conduire, moi je suis le roi de la piste.
++conference|D|82 80 85 85 82|Je ne suis pas le plus rapide ; je suis celui qui freine le plus tard, ce qui est une autre façon d'avoir peur.
+conference|C|15 15 10 10 10|Le tournoi a été très relevé cette année.
+conference|F|40 40 45 40 35|J'ai perdu en trois sets ; j'ai au moins gagné le tirage au sort, je le rappelle à ceux qui doutent de ma forme.

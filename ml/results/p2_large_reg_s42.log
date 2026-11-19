@@ -1,0 +1,57 @@
+[regression] train 8271 | val_domaine 240 | test 330 (sorties brutes seulement)
+Loading weights:   0%|          | 0/389 [00:00<?, ?it/s]Loading weights:   1%|▏         | 5/389 [00:00<00:08, 42.99it/s]Loading weights:   3%|▎         | 10/389 [00:00<00:10, 35.28it/s]Loading weights:   5%|▍         | 19/389 [00:00<00:07, 48.97it/s]Loading weights:   7%|▋         | 27/389 [00:00<00:07, 48.19it/s]Loading weights: 100%|██████████| 389/389 [00:00<00:00, 575.16it/s]
+[transformers] [1mCamembertForSequenceClassification LOAD REPORT[0m from: almanach/camembert-large
+Key                        | Status     | 
+---------------------------+------------+-
+lm_head.layer_norm.bias    | UNEXPECTED | 
+lm_head.bias               | UNEXPECTED | 
+lm_head.dense.bias         | UNEXPECTED | 
+lm_head.dense.weight       | UNEXPECTED | 
+lm_head.layer_norm.weight  | UNEXPECTED | 
+classifier.dense.weight    | MISSING    | 
+classifier.out_proj.bias   | MISSING    | 
+classifier.dense.bias      | MISSING    | 
+classifier.out_proj.weight | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+C:\Users\wufo1\Desktop\detectAura\AuraDetector\ml\.venv\Lib\site-packages\transformers\modeling_utils.py:3195: FutureWarning: `gradient_checkpointing_enable` is deprecated and will be removed in v6. Use `activation_checkpointing_enable` instead.
+  warnings.warn(
+{'loss': '0.7112', 'grad_norm': '10.71', 'learning_rate': '6.957e-06', 'epoch': '0.1934'}
+{'loss': '0.2885', 'grad_norm': '65.91', 'learning_rate': '1.42e-05', 'epoch': '0.3868'}
+{'loss': '0.1898', 'grad_norm': '12.56', 'learning_rate': '1.428e-05', 'epoch': '0.5803'}
+{'loss': '0.1611', 'grad_norm': '10.61', 'learning_rate': '1.348e-05', 'epoch': '0.7737'}
+{'loss': '0.1534', 'grad_norm': '7.548', 'learning_rate': '1.267e-05', 'epoch': '0.9671'}
+{'eval_loss': '0.03431', 'eval_accuracy': '0.7458', 'eval_a_une_classe_pres': '0.9917', 'eval_f1_macro': '0.7446', 'eval_kappa_quadratique': '0.8726', 'eval_runtime': '1.054', 'eval_samples_per_second': '227.6', 'eval_steps_per_second': '28.45', 'epoch': '1'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.10s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.10s/it]
+{'loss': '0.1083', 'grad_norm': '3.094', 'learning_rate': '1.186e-05', 'epoch': '1.161'}
+{'loss': '0.09495', 'grad_norm': '5.359', 'learning_rate': '1.107e-05', 'epoch': '1.354'}
+{'loss': '0.09817', 'grad_norm': '6.786', 'learning_rate': '1.026e-05', 'epoch': '1.547'}
+{'loss': '0.1014', 'grad_norm': '4.123', 'learning_rate': '9.455e-06', 'epoch': '1.741'}
+{'loss': '0.08759', 'grad_norm': '4.099', 'learning_rate': '8.649e-06', 'epoch': '1.934'}
+{'eval_loss': '0.02938', 'eval_accuracy': '0.7375', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.7154', 'eval_kappa_quadratique': '0.8719', 'eval_runtime': '1.046', 'eval_samples_per_second': '229.5', 'eval_steps_per_second': '28.69', 'epoch': '2'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.56s/it]
+{'loss': '0.0716', 'grad_norm': '12.12', 'learning_rate': '7.843e-06', 'epoch': '2.128'}
+{'loss': '0.07058', 'grad_norm': '4.165', 'learning_rate': '7.037e-06', 'epoch': '2.321'}
+{'loss': '0.06447', 'grad_norm': '4.796', 'learning_rate': '6.231e-06', 'epoch': '2.515'}
+{'loss': '0.06971', 'grad_norm': '4.678', 'learning_rate': '5.433e-06', 'epoch': '2.708'}
+{'loss': '0.0591', 'grad_norm': '2.776', 'learning_rate': '4.627e-06', 'epoch': '2.901'}
+{'eval_loss': '0.02668', 'eval_accuracy': '0.825', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.8156', 'eval_kappa_quadratique': '0.9173', 'eval_runtime': '1.022', 'eval_samples_per_second': '234.8', 'eval_steps_per_second': '29.36', 'epoch': '3'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]Writing model shards: 100%|██████████| 1/1 [00:01<00:00,  1.15s/it]
+{'loss': '0.05967', 'grad_norm': '3.797', 'learning_rate': '3.821e-06', 'epoch': '3.095'}
+{'loss': '0.04719', 'grad_norm': '2.924', 'learning_rate': '3.015e-06', 'epoch': '3.288'}
+{'loss': '0.04885', 'grad_norm': '3.849', 'learning_rate': '2.208e-06', 'epoch': '3.482'}
+{'loss': '0.04507', 'grad_norm': '5.809', 'learning_rate': '1.402e-06', 'epoch': '3.675'}
+{'loss': '0.04833', 'grad_norm': '3.125', 'learning_rate': '5.965e-07', 'epoch': '3.868'}
+{'eval_loss': '0.02238', 'eval_accuracy': '0.825', 'eval_a_une_classe_pres': '1', 'eval_f1_macro': '0.82', 'eval_kappa_quadratique': '0.9208', 'eval_runtime': '0.9907', 'eval_samples_per_second': '242.2', 'eval_steps_per_second': '30.28', 'epoch': '4'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  1.16it/s]
+{'train_runtime': '1774', 'train_samples_per_second': '18.65', 'train_steps_per_second': '1.166', 'train_loss': '0.1263', 'epoch': '4'}
+
+val_domaine : {'accuracy': 0.825, 'a_une_classe_pres': 1.0, 'f1_macro': 0.82, 'kappa_quadratique': 0.921} | meilleure epoch 4.0 | 29.6 min
+       Anti  Corr  Fort  Divi
+ Anti    51     5     0     0
+ Corr     0    69     7     0
+ Fort     0     5    41    11
+ Divi     0     0    14    37
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.03s/it]Writing model shards: 100%|██████████| 1/1 [00:02<00:00,  2.03s/it]

@@ -1,0 +1,27 @@
+Anti-Aura        score≈ -42 | Je me suis chié dessus
+Anti-Aura        score≈ -43 | La bière c'est comme ma femme, brune et amer
+Aura Correcte    score≈  -6 | fort en chocolat
+Anti-Aura        score≈ -57 | dab dab, six-seven
+Aura Correcte    score≈  -4 | un accident de train a eu lieu en espagne ce samedi,
+Forte Aura       score≈ +52 | En imposer pour ne pas avoir à imposer, voilà en quoi consiste le charisme.
+Aura Correcte    score≈  -3 | Loin des yeux, loin du cœur
+(modèle : camembert, models/camembert_regression/final)
+
+Anti-Aura        confiance=88% | Je me suis chié dessus
+Anti-Aura        confiance=100% | La bière c'est comme ma femme, brune et amer
+Aura Correcte    confiance=100% | fort en chocolat
+Aura Correcte    confiance=90% | dab dab, six-seven
+Aura Divine      confiance=57% | un accident de train a eu lieu en espagne ce samedi,
+Aura Divine      confiance=87% | En imposer pour ne pas avoir à imposer, voilà en quoi consiste le charisme.
+Aura Correcte    confiance=98% | Loin des yeux, loin du cœur
+(modèle : bilstm, models/bilstm_classif)
+
+Anti-Aura        confiance=89% | Je me suis chié dessus
+Anti-Aura        confiance=99% | La bière c'est comme ma femme, brune et amer
+Aura Correcte    confiance=99% | fort en chocolat
+Aura Correcte    confiance=86% | dab dab, six-seven
+Aura Correcte    confiance=89% | un accident de train a eu lieu en espagne ce samedi,
+Anti-Aura        confiance=50% | En imposer pour ne pas avoir à imposer, voilà en quoi consiste le charisme.
+Forte Aura       confiance=64% | Loin des yeux, loin du cœur
+(modèle : mlp_numpy, models/mlp_numpy)
+

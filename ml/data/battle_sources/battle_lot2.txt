@@ -1,0 +1,77 @@
+# Battle rap, lot 2 : réponses (citation imaginaire de l'adversaire puis retournement), registres variés
+battle|A|-30 -15 -40 -25 -20|Il a dit « t'es une victime », non c'est toi la victime / T'es une victime, une grosse victime
++battle|F|60 55 60 60 65|Il a dit « t'es une victime », j'avoue, c'est le cas / Je suis victime de ce couplet, et le public aussi, on porte plainte à trois
+battle|A|-40 -20 -50 -30 -25|Il a dit que je suis nul, mais non je suis pas nul / C'est lui qui est nul, nul, nul
++battle|D|85 80 88 85 88|Il a dit « t'es nul », il a mis dix minutes à le trouver / Moi en dix secondes j'ai compris pourquoi personne t'invite à rester
+battle|A|-20 -10 -30 -15 -10|Il a parlé de mes chaussures, mes chaussures elles sont bien / Mes chaussures c'est des bonnes chaussures, voilà
++battle|F|50 45 55 55 55|Tu clashes mes baskets, elles sont trouées, c'est vrai / Elles ont couru partout pendant que toi t'attendais qu'on t'invite
+battle|A|-30 -15 -40 -25 -20|Il a dit que j'ai pas de fans, si j'ai des fans, plein de fans / J'ai trop de fans, vous êtes mes fans
++battle|C|10 10 5 10 15|J'ai pas beaucoup de fans, c'est vrai, je l'admets / Mais ceux que j'ai connaissent mes textes par cœur, et mes dettes aussi
+battle|A|-40 -20 -50 -30 -25|Il a dit « rentre chez toi », moi je rentre pas chez moi / C'est toi qui rentres chez toi, chez toi, chez toi
++battle|D|88 85 90 88 92|Il m'a dit « rentre chez toi », j'y suis, regarde bien / Cette scène, je l'ai balayée à quinze ans quand j'étais technicien
+battle|C|5 10 0 10 10|Il a dit que je suis trop jeune pour être ici / C'est vrai, mais j'ai beaucoup travaillé pour venir
++battle|F|40 40 45 45 50|Il a dit « t'es trop jeune », j'ai dix-neuf ans, c'est juste / Mais ton dernier bon couplet, il est plus vieux que moi
+battle|A|-20 -10 -30 -15 -10|Il a dit que je copie, je copie pas, c'est lui qui copie / Il copie tout, c'est un copieur
++battle|D|80 78 85 82 85|Il dit que je copie, c'est flatteur, merci du soupçon / On copie que les originaux, toi personne t'a jamais pris comme leçon
+battle|C|15 15 10 15 15|Il a dit que mon flow est lent, c'est mon style / Je prends mon temps, j'aime bien poser les mots
++battle|F|60 55 60 60 65|Il dit que mon flow est lent, j'appelle ça articuler / Toi tu vas vite, c'est pratique, on a pas le temps de remarquer que c'est raté
+battle|A|-30 -15 -40 -25 -20|Il a parlé de mon poids, ouais je suis gros et alors / Toi t'es maigre et t'es moche, voilà
++battle|C|10 10 5 10 10|Il a parlé de mon poids, j'avoue, je mange bien / Mais je rappe pour le jury, pas pour le médecin
+battle|A|-40 -20 -50 -30 -25|Il a dit que j'ai perdu ma dernière battle, c'est faux / J'ai pas perdu, l'arbitre il était contre moi, c'est faux
++battle|F|50 45 55 50 55|Il rappelle que j'ai perdu la dernière fois, il a raison / C'est d'ailleurs ce soir-là que j'ai appris à gagner contre les gens comme toi
+battle|C|5 10 0 10 10|Il m'a dit que mes rimes sont simples, c'est vrai / Je préfère être compris que compliqué
++battle|D|85 80 88 85 88|Il dit que mes rimes sont simples, je plaide coupable / Le pain aussi c'est simple, et personne quitte la table
+battle|A|-20 -10 -30 -15 -10|Il a dit que je suis pas un vrai, si je suis un vrai / Je suis un vrai de vrai, plus vrai que toi
++battle|F|40 40 45 45 50|Il me traite de faux, venant de lui c'est un honneur / Il connaît bien le sujet, il en fabrique sur commande
+battle|A|-30 -15 -40 -25 -20|Il a dit que je bégaie, je bégaie pas, je je je bégaie pas / C'est lui qui bégaie, voilà
++battle|D|82 80 85 85 85|Il a dit que j'ai bégayé, j'avoue, j'ai hésité / Mais entre deux silences de moi, il y a plus de sens que dans ton couplet entier
+battle|C|15 15 10 15 15|Il a dit que je viens de la campagne, c'est vrai / Chez moi on rappe devant les vaches, elles sont pas méchantes
++battle|F|60 55 60 60 65|Il dit que je viens de la campagne, merci pour le rappel / Chez nous on sait reconnaître le fumier, et là il est sur scène
+battle|A|-40 -20 -50 -30 -25|Il a dit que ma copine m'a quitté, non c'est pas vrai / Elle m'a pas quitté, c'est moi qui l'ai quittée, voilà
++battle|C|5 10 0 10 10|Oui, ma copine m'a quitté, c'est vrai, c'est la vie / Elle disait que j'écrivais trop la nuit, elle avait pas tort
+battle|A|-20 -10 -30 -15 -10|Il a dit que mon crew est petit, mon crew est grand / Mon crew c'est des grands, très grands
++battle|F|50 45 55 55 55|Il dit que mon crew est petit, c'est vrai, on est trois / Mais on est trois à savoir écrire, toi t'es vingt à recopier la même voix
+battle|C|10 10 5 10 15|Il a dit que je suis prof, oui je suis prof le jour / Le soir je rappe, ça me détend
++battle|D|90 85 92 90 92|Il dit « le prof », il croit que c'est une insulte / Je corrige des copies toute la journée, la tienne je la rends sans note, par pitié, avec un mot pour les parents
+battle|A|-30 -15 -40 -25 -20|Il a dit « t'as le trac », non j'ai pas le trac / J'ai pas peur, j'ai jamais peur, jamais
++battle|F|40 40 45 45 50|Il a dit que j'ai le trac, bien sûr que j'ai le trac / C'est ce qui arrive quand on respecte le public, essaie un jour, tu verras ça fait plaisir
+battle|A|-40 -20 -50 -30 -25|Il a dit que ma veste est moche, ta veste aussi elle est moche / Ta veste est encore plus moche que la mienne
++battle|D|80 78 85 82 85|Tu clashes ma veste, elle était à mon père / Elle a vu de vraies batailles, toi tu t'es battu qu'avec un filtre et un éclairage
+battle|C|15 15 10 15 15|Il a dit que mon texte est trop long, je vais faire court / Merci de m'avoir écouté jusqu'ici
+battle|F|60 55 60 60 65|Il a dit « t'as aucune carrière », j'avoue j'en ai pas / Mais j'ai un métier, un loyer, et des rimes que tu payes pour reprendre
+battle|A|-20 -10 -30 -15 -10|Je réponds pas à ça, c'est nul, c'est trop nul pour que je réponde / Je réponds pas, voilà ma réponse
++battle|D|85 80 88 85 88|Je vais pas répondre à ta dernière attaque, elle m'a trop plu / Je vais l'encadrer, à côté de ton dernier succès, comme ça le mur sera moins nu
+battle|C|5 10 0 10 10|Il a dit que je suis gentil, c'est vrai, je suis gentil / Mais ce soir je vais essayer d'être méchant
+battle|F|50 45 55 50 55|Il a dit « t'es gentil », venant de lui c'est rassurant / Il a l'habitude de juger les gens gentils, il en a vu beaucoup passer devant lui
+battle|A|-30 -15 -40 -25 -20|Il a dit que je suis fauché, moi je suis pas fauché / J'ai de l'argent, beaucoup d'argent, il ment
++battle|D|88 85 90 88 92|Oui, je suis fauché, je paye mes rimes en sueur / Toi tu les achètes à crédit, et un jour le public viendra réclamer les intérêts
+battle|C|10 10 5 10 10|Il a dit que mon micro était mal réglé / C'est vrai, mais je vais faire avec
+battle|A|-40 -20 -50 -30 -25|Il m'a clashé sur ma ville, ma ville elle est trop bien / Ma ville c'est la meilleure ville, voilà
++battle|F|40 40 45 45 50|Tu clashes ma ville, t'as raison, il y a rien à faire / Alors on écrit, c'est pour ça qu'on arrive avec des textes et toi avec des selfies
+battle|C|15 15 10 15 15|J'ai pas su répondre à sa dernière phrase, bien joué / Je reconnais quand c'est bon
+battle|D|82 80 85 85 85|Il dit qu'il va me mettre KO en trois rounds / Il a oublié qu'en battle, on compte les phrases, pas les poings, et lui il a même pas commencé à compter
+battle|F|60 55 60 60 65|Il veut qu'on parle de rue, de vraie vie, de terrain / Le seul terrain qu'il connaît, c'est celui de son père, avec piscine
+battle|A|-20 -10 -30 -15 -10|Tu m'as clashé mais t'as pas le droit, c'est pas juste / Le jury doit le punir, c'est pas juste
++battle|C|5 10 0 10 10|Tu m'as clashé, c'était bien envoyé, je l'admets / Maintenant c'est mon tour, accroche-toi
+battle|D|85 80 88 85 88|Il dit que je suis vieux jeu, que mon style a pris la poussière / Mais la poussière, mon frère, c'est ce qui reste quand le temps n'a pas réussi à te balayer
+battle|A|-30 -15 -40 -25 -20|Je suis le king, le king, le king du game / Le king, le king, je suis le king
++battle|F|50 45 55 55 55|Il se dit king du game, je vois pas la couronne / Juste un bonnet à pompon et une manette qu'il prête à personne
+battle|C|10 10 5 10 15|C'est ma troisième battle, je progresse / La première fois j'ai pleuré, là ça va mieux
+battle|F|40 40 45 45 50|Il a dit que j'étais trop calme pour une battle / Le volcan aussi a l'air calme, demande au village d'à côté
+battle|A|-40 -20 -50 -30 -25|Tes rimes c'est de la merde, tes rimes c'est des rimes de merde / Je le répète, tes rimes c'est de la merde
++battle|D|90 85 92 90 92|Tes rimes sont riches, c'est vrai, mais toujours en solde / Tu rimes « gloire » avec « histoire » comme on rend la monnaie sans jamais regarder ce qu'on a vendu
+battle|C|15 15 10 15 15|Je dédie ce couplet à mon petit frère qui est dans la salle / Il m'a aidé à l'écrire
+battle|D|80 78 85 82 85|Il m'a promis l'enfer, il a ramené un briquet / Même son feu demande la permission avant de s'allumer
+battle|A|-20 -10 -30 -15 -10|J'ai oublié mon texte mais c'est pas grave je suis le meilleur / Même sans texte je suis le meilleur
++battle|F|60 55 60 60 65|J'ai oublié mon texte, je vais improviser / C'est toujours mieux que réciter un texte qu'on a pas écrit, pas vrai ?
+battle|C|5 10 0 10 10|Je rappe depuis deux ans, c'est pas beaucoup / Mais j'ai envie de montrer ce que je sais faire
+battle|F|50 45 55 50 55|Il a trente ans de carrière et pas une phrase qui reste / C'est pas une carrière, c'est une garde à vue prolongée
+battle|A|-30 -15 -40 -25 -20|Je vais t'humilier, t'humilier, t'humilier grave / Tu vas pleurer, pleurer, pleurer grave
++battle|D|85 80 88 85 88|Je vais pas t'humilier, l'humilité c'est pas ton fort / Je vais juste t'offrir ce qui te manque : un adversaire qui va jusqu'au bout de ses phrases
+battle|C|10 10 5 10 10|Le public a choisi, je respecte / Bravo à mon adversaire, c'était serré
+battle|D|88 85 90 88 92|Tu veux la guerre, moi j'ai pas d'armée, juste une plume et du temps / Et l'histoire retient rarement les généraux, souvent ceux qui ont écrit leur testament
+battle|A|-40 -20 -50 -30 -25|Je suis trop chaud, trop chaud, trop chaud, je brûle / Je suis chaud bouillant, je brûle tout
++battle|C|15 15 10 15 15|Je suis chaud ce soir, enfin j'espère / J'ai bu trois cafés pour être sûr
+battle|F|40 40 45 45 50|Il dit qu'il a des millions de vues, j'ai vérifié / C'est son petit cousin qui relance la vidéo depuis l'été dernier
+battle|A|-20 -10 -30 -15 -10|Allez applaudissez-moi, j'ai fini, c'était bien hein ? / Dites que c'était bien
++battle|D|82 80 85 85 85|J'ai fini, vous pouvez applaudir, ou pas, c'est égal / Ce que je cherchais c'était pas vos mains, c'était le silence d'avant le final

@@ -1,0 +1,8 @@
+Anti-Aura        score≈ -42 | Je me suis chié dessus
+Anti-Aura        score≈ -44 | La bière c'est comme ma femme, brune et amer
+Anti-Aura        score≈ -22 | fort en chocolat
+Anti-Aura        score≈ -43 | dab dab, six-seven
+Aura Correcte    score≈  -4 | un accident de train a eu lieu en espagne ce samedi,
+Forte Aura       score≈ +68 | En imposer pour ne pas avoir à imposer, voilà en quoi consiste le charisme.
+Aura Correcte    score≈  -6 | Loin des yeux, loin du cœur
+(modèle : camembert, models/p2_large_reg_s42/final + models/p2_cls_w3_s42/final + models/p2_cls_w3_s43/final + models/p2_cls_w3_s44/final, seuils [-12, 36, 69.0])

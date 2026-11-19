@@ -1,0 +1,66 @@
+# Tweets de marques (marques fictives, aucun nom réel)
+tweet_marque|C|5 10 0 5 5|Nos soldes commencent demain dans tous nos magasins.
++tweet_marque|F|50 45 55 50 45|Les soldes commencent demain. Nos vendeurs ont fait des étirements, vous devriez peut-être aussi.
+tweet_marque|A|-30 -15 -40 -25 -20|🚨🚨 ALERTE PROMO 🚨🚨 Prix CASSÉS !!! Foncez foncez foncez !!! #soldes #promo #fou
++tweet_marque|D|80 78 85 82 80|Nous avons baissé nos prix. Pas nos standards : ceux-là, on les garde en réserve, au cas où vous reviendriez.
+tweet_marque|C|10 10 5 10 10|Découvrez notre nouvelle recette de biscuits au chocolat.
++tweet_marque|F|40 40 45 40 35|Nouvelle recette de biscuits au chocolat. Nous déclinons toute responsabilité pour le paquet fini avant le dîner.
+tweet_marque|A|-40 -20 -50 -30 -25|Notre marque est la meilleure, la plus innovante, la plus premium, la plus incroyable du monde entier !!!
++tweet_marque|D|85 80 88 85 85|Nous ne sommes pas la marque la plus connue. Nous sommes celle que vos grands-parents recommandaient à voix basse.
+tweet_marque|C|0 5 -5 0 0|Notre service client est joignable du lundi au vendredi.
++tweet_marque|F|35 30 40 35 30|Notre service client est joignable du lundi au vendredi. Le week-end, il dort, comme vous devriez le faire.
+tweet_marque|C|15 15 10 10 10|Merci à nos clients pour leur fidélité depuis vingt ans.
++tweet_marque|D|88 85 90 88 88|Vingt ans que vous revenez. On ne vous a jamais demandé pourquoi ; on a eu trop peur que vous y réfléchissiez.
+tweet_marque|A|-20 -10 -30 -15 -10|Like si t'aimes le café ☕ RT si t'aimes le café ☕ commente si t'aimes le café ☕
++tweet_marque|F|50 45 55 50 45|Le café ne résout rien. Mais essayez de résoudre quoi que ce soit sans lui.
+tweet_marque|C|5 10 0 5 5|Notre application a été mise à jour.
++tweet_marque|F|60 55 60 55 55|Mise à jour de l'application : nous avons corrigé les bugs que vous aviez trouvés, et caché soigneusement ceux que vous n'avez pas encore vus.
+tweet_marque|A|-30 -15 -40 -25 -20|Achetez achetez achetez ! Offre limitée ! Ne réfléchissez pas, achetez maintenant !
++tweet_marque|D|82 80 85 85 82|Prenez le temps de réfléchir. Nos chaussures, elles, vous attendront ; elles ont l'habitude de marcher lentement.
+tweet_marque|C|10 10 5 10 10|Nos magasins seront ouverts dimanche de 10 h à 18 h.
+tweet_marque|F|40 40 45 40 35|Il pleut. Nos parapluies sont formels : c'est leur moment, et ils comptent bien le savourer.
+tweet_marque|C|0 5 -5 0 0|La livraison est offerte pour toute commande passée aujourd'hui.
++tweet_marque|F|50 45 55 50 45|Livraison offerte aujourd'hui. Notre livreur a demandé qu'on précise qu'il accepte aussi les sourires.
+tweet_marque|A|-40 -20 -50 -30 -25|Nos concurrents sont nuls, leurs produits sont de la mauvaise qualité, venez chez nous !
++tweet_marque|D|80 78 85 82 80|Nous ne parlons jamais de nos concurrents. Nos clients s'en chargent, et ils sont beaucoup plus convaincants.
+tweet_marque|C|15 15 10 10 10|Bonne fête à toutes les mamans !
++tweet_marque|D|85 80 88 85 85|Bonne fête aux mamans. Celles qui ont tout donné sans jamais demander la livraison gratuite.
+tweet_marque|C|5 10 0 5 5|Notre nouvelle gamme de vélos électriques est disponible.
++tweet_marque|F|35 30 40 35 30|Nos vélos électriques montent les côtes à votre place. Pour les excuses au travail, nous travaillons encore dessus.
+tweet_marque|A|-20 -10 -30 -15 -10|Le meilleur pain du monde c'est le nôtre, il est trop bon, venez le goûter il est trop bon.
++tweet_marque|D|88 85 90 88 88|Notre pain ne se garde pas trois jours. C'est fait exprès : on préfère vous voir revenir que vous voir vous habituer.
+tweet_marque|C|10 10 5 10 10|Nous recrutons des conseillers de vente pour l'été.
++tweet_marque|F|60 55 60 55 55|Nous recrutons pour l'été. Qualités requises : patience, sourire, et capacité à expliquer qu'une taille 38 n'est pas une opinion.
+tweet_marque|C|0 5 -5 0 0|Retrouvez nos recettes sur notre site internet.
+tweet_marque|D|82 80 85 85 82|Nous vendons des boussoles. Le reste du chemin, c'est vous qui le choisissez, et c'est très bien comme ça.
+tweet_marque|A|-30 -15 -40 -25 -20|Notre parfum va vous rendre irrésistible, ultra sexy, tout le monde va vous adorer, garanti !
++tweet_marque|F|40 40 45 40 35|Notre parfum ne vous rendra pas irrésistible. Il vous donnera juste une excuse pour vous approcher.
+tweet_marque|C|15 15 10 10 10|Le froid arrive, pensez à vos pneus hiver.
++tweet_marque|F|50 45 55 50 45|Le froid arrive. Vos pneus d'été commencent à envoyer des CV en Espagne.
+tweet_marque|C|5 10 0 5 5|Nos produits sont fabriqués en France.
++tweet_marque|D|80 78 85 82 80|Fabriqué en France, à trente kilomètres de chez vous. Si quelque chose ne va pas, vous pouvez venir le dire en face, on fera du café.
+tweet_marque|A|-40 -20 -50 -30 -25|Abonnez-vous abonnez-vous abonnez-vous ! On veut 100k abonnés !!! Aidez-nous !!!
++tweet_marque|F|60 55 60 55 55|Nous avons atteint dix mille abonnés. C'est exactement le nombre de personnes qui nous ont demandé de baisser nos prix.
+tweet_marque|C|10 10 5 10 10|Joyeux Noël à tous nos clients.
++tweet_marque|D|85 80 88 85 85|Joyeux Noël. Cette année, nous vous souhaitons moins de cadeaux et plus de gens autour de la table, même si ça nous arrange moins.
+tweet_marque|C|0 5 -5 0 0|Notre boutique en ligne est momentanément indisponible.
++tweet_marque|F|35 30 40 35 30|Notre site est en panne. Profitez-en pour sortir, il paraît que dehors aussi, il y a des choses à voir.
+tweet_marque|A|-20 -10 -30 -15 -10|Nos frites sont les meilleures frites et nos burgers sont les meilleurs burgers, voilà !
++tweet_marque|F|50 45 55 50 45|Nos frites n'ont pas de recette secrète. Juste une friteuse qui a vu beaucoup de choses et qui n'en parle jamais.
+tweet_marque|C|15 15 10 10 10|Nous sommes partenaires de la course solidaire de dimanche.
+tweet_marque|D|88 85 90 88 88|Nous fabriquons des montres depuis cent ans. Nous n'avons toujours pas trouvé comment en faire une qui rende le temps perdu.
+tweet_marque|C|5 10 0 5 5|Le nouveau modèle sera présenté le 12 mars.
++tweet_marque|F|40 40 45 40 35|Le nouveau modèle arrive le 12 mars. Il fait la même chose que l'ancien, mais il le fait avec plus d'assurance.
+tweet_marque|A|-30 -15 -40 -25 -20|Notre banque c'est la banque de la confiance, de la sécurité, de l'innovation et de la confiance !
++tweet_marque|D|82 80 85 85 82|Nous sommes une banque. Nous ne vous promettons pas de rêves ; nous vous promettons de ne pas les perdre en route.
+tweet_marque|C|10 10 5 10 10|Pensez à réserver votre table pour la Saint-Valentin.
++tweet_marque|F|60 55 60 55 55|Réservez votre table pour la Saint-Valentin. Ou préparez dès maintenant une excellente excuse : nous en avons entendu beaucoup, peu fonctionnent.
+tweet_marque|C|0 5 -5 0 0|Notre nouveau magasin ouvre ses portes samedi.
+tweet_marque|D|85 80 88 85 85|Nous vendons des lampes. La nuit, elle, reste gratuite ; nous voulons juste vous aider à ne pas la craindre.
+tweet_marque|A|-40 -20 -50 -30 -25|Le lundi c'est nul mais avec notre boisson énergisante le lundi c'est plus nul, buvez-la !!! 💪🔥
++tweet_marque|F|50 45 55 50 45|Lundi. Notre boisson ne fait pas de miracle, mais elle a déjà réveillé des gens plus fatigués que vous.
+tweet_marque|C|15 15 10 10 10|Merci pour vos retours sur notre nouveau produit.
++tweet_marque|F|35 30 40 35 30|Merci pour vos avis. Nous les lisons tous, même ceux qui commencent par « je ne suis pas du genre à me plaindre ».
+tweet_marque|D|80 78 85 82 80|Nos valises ont fait le tour du monde. La plus belle histoire qu'elles racontent, c'est le retour à la maison.
+tweet_marque|C|5 10 0 5 5|Profitez de notre offre de rentrée sur les fournitures scolaires.
++tweet_marque|D|88 85 90 88 88|Rentrée scolaire : nous vendons des crayons neufs. Les fautes d'orthographe, elles, sont livrées par les enfants, gratuitement.

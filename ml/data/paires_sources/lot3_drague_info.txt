@@ -1,0 +1,80 @@
+# style|classeA scoreA|texteA|classeB scoreB|texteB
+drague|A -60|slt ça va ? tu réponds pas ?? allô ?? pk tu réponds pas 😢😢|F 44|Salut. Je t'écris parce que ton chat sur ta photo a l'air d'avoir un avis tranché sur tout. J'aimerais connaître le sien sur moi.
+drague|A -55|t trop bonne tu veux sortir avec moi stp stp stp|F 48|Je ne vais pas te dire que tu es jolie, tu le sais déjà. Je vais plutôt te dire que ta playlist est discutable, et qu'on devrait en parler autour d'un verre.
+drague|A -52|je pense a toi tt le temps jpeux plus dormir réponds moi|D 77|Je ne pense pas à toi tout le temps. Juste entre deux pensées, comme une virgule qui finit par devenir le sujet de la phrase.
+drague|A -58|bb t'es la femme de ma vie on se marie quand ?|F 39|On se connaît depuis trois messages et j'ai déjà trouvé le prénom de notre plante verte. Je te laisse choisir le pot.
+drague|A -50|ton père c'est un voleur ? parce qu'il a volé les étoiles pour tes yeux 😍|F 42|Je n'ai pas de phrase de drague toute faite. Je voulais juste te dire que tu ris exactement comme quelqu'un qui a déjà fait tomber un plateau au restaurant. Moi aussi.
+drague|A -63|réponds ou je te bloque. dernier avertissement.|C 9|Pas de souci si tu n'as pas le temps de répondre. Je repasse dans une semaine avec une meilleure blague.
+drague|A -48|je suis riche j'ai une voiture de sport tu veux venir faire un tour ?|F 40|Je n'ai pas de voiture de sport, mais j'ai un abonnement vélo et je sais où se trouve la meilleure boulangerie de la ville. C'est une forme de richesse.
+drague|A -57|t'es célib ? t'es célib ? t'es célib ? réponds|F 35|Avant que tu me demandes si je suis célibataire : oui, et mon plus long engagement à ce jour, c'est une plante qui survit depuis trois ans.
+drague|A -54|wesh la miss t'as un 06 ou pas|C 6|Bonjour, je suis nul pour aborder les gens. Est-ce que je peux te demander ton numéro, ou je retourne fixer mon café avec dignité ?
+drague|A -61|tu sais que j'ai des abdos ? regarde ma photo 💪💪 t'en penses quoi|F 47|J'ai six abdos, mais ils sont sous plusieurs couches de croissants, protégés comme des œuvres d'art dans un musée.
+drague|A -49|je suis un mec bien pas comme les autres, je suis différent, je te respecte|F 36|Je ne suis pas comme les autres, je suis pire : je mets des chaussettes dépareillées exprès et je lis le dos des boîtes de céréales.
+drague|A -56|pk tu likes ses photos à lui et pas les miennes ?|C 3|J'ai vu que tu avais aimé ma photo d'il y a trois ans. Soit tu fouilles, soit ton pouce a glissé. Dans les deux cas, c'est flatteur.
+drague|A -53|tu es tellement belle que j'ai du mal à respirer, sans toi je meurs|D 79|Tu n'es pas l'air que je respire, ce serait étouffant pour toi. Disons que tu es la fenêtre que j'ouvre le matin.
+drague|A -59|ce soir chez moi ou rien. c tout.|F 41|Je t'invite à dîner. Je cuisine mal, mais j'ai d'excellents arguments pour commander chez le traiteur italien.
+drague|A -47|bonne nuit ma princesse ❤️❤️❤️ (envoyé 15 fois)|C 13|Bonne nuit. Je ne dirai pas « fais de beaux rêves », je ne voudrais pas avoir l'air de m'inviter dedans.
+drague|A -62|t vrmt pas sympa de me ghoster après tout ce que j'ai fait pour toi|F 33|Tu m'as ghosté avec une élégance rare. J'ai presque envie de te demander des cours, pour mes prochains rendez-vous chez le dentiste.
+drague|A -51|je t'ai vue au café ce matin t'étais habillée en rouge, je t'observais|F 45|On s'est croisés au café ce matin. Tu as renversé ton sucre, j'ai renversé mon café. Je propose un match retour, sans liquide.
+drague|A -55|tu veux pas de moi ? de toute façon t'es pas si belle que ça|C 8|Tu n'es pas intéressée, je comprends tout à fait. Bonne soirée, et merci pour la franchise, c'est plus rare que les réponses.
+drague|A -50|moi je suis un vrai mâle alpha, les femmes adorent ça|F 38|Je ne suis pas un mâle alpha. Plutôt un mâle bêta-test : quelques bugs, mais toujours en amélioration.
+drague|A -58|si tu me réponds pas je vais être triste toute la semaine 😭|D 76|Ne te sens pas obligée de répondre. Les meilleures conversations commencent parfois par un silence bien choisi.
+drague|A -46|t'as un mec ? s'il te plaît dis non|F 37|Je ne te demande pas si tu as quelqu'un. Je demande juste s'il sait faire la vinaigrette, parce que la mienne est imbattable.
+drague|A -60|tu te crois trop belle pour moi ou quoi ? sale meuf|C 1|Pas de réponse, pas de problème. Je retourne à ma conversation passionnante avec mon frigo, il ne m'a jamais ghosté.
+drague|A -48|mes ex disaient que j'étais le meilleur au lit|F 43|Mes ex disent que je suis quelqu'un de très bien. Elles le disent de loin, depuis une autre ville, avec beaucoup de conviction.
+drague|A -57|j'ai payé ton verre donc tu me dois un bisou|F 34|Je t'offre le verre. Pas pour une contrepartie : juste pour être celui dont tu te souviendras quand tu raconteras la soirée.
+drague|A -52|Tu viens souvent ici ?|F 40|Je ne vais pas te demander si tu viens souvent ici ; à ta façon de commander, je sais déjà que le barman te craint.
+drague|A -54|t'es trop mignonne jsuis amoureux de toi depuis hier|C 11|Je crois que j'ai un petit coup de cœur. Rien de grave, ça se soigne avec un café et une conversation normale.
+drague|A -49|je suis le plus beau mec que tu verras jamais|D 80|Je ne suis pas le plus beau, mais je serai le seul à se souvenir du titre du livre que tu lisais dans le métro.
+drague|A -63|envoie une photo de toi maintenant ou j'arrête de te parler|C 5|J'aimerais beaucoup te revoir. Pas en photo : en vrai, avec un café, et sans filtre de mon côté non plus.
+drague|A -45|t'es mon âme sœur je le sens dans mon cœur 💕💕|F 42|Je ne sais pas si on est des âmes sœurs, mais on a commandé la même pizza étrange. C'est un début de preuve scientifique.
+drague|A -56|bon tu réponds ou pas ? ça fait 10 min|F 39|Prends ton temps pour répondre. Moi, je suis disponible à toute heure : je n'ai ni vie sociale ni plante à arroser.
+info|C 2|Il a plu toute la journée à Lyon.|F 41|À Lyon, il a plu toute la journée. Même les pigeons ont pris le métro.
+info|C 0|Le train a eu une heure de retard ce matin.|F 37|Le train avait une heure de retard ce matin. On a eu le temps de faire connaissance, de se fâcher, puis de se réconcilier entre voyageurs.
+info|C 3|Le prix du pain a augmenté de dix centimes.|F 34|La baguette a pris dix centimes. Au rythme où ça va, la croûte finira dans les placements à terme.
+info|C 1|La réunion de demain est reportée à jeudi.|C 16|La réunion de demain est reportée à jeudi. Comme ça, on aura encore deux jours pour oublier l'ordre du jour.
+info|C -1|Le magasin ferme à 19 heures le dimanche.|F 32|Le magasin ferme à 19 h le dimanche. Le vigile commence à soupirer à 18 h 40 ; il fait partie du service.
+info|C 2|Une panne d'électricité a touché le quartier pendant deux heures.|D 76|Deux heures de panne dans le quartier : pour la première fois depuis des années, les voisins se sont parlé à la lueur de leurs téléphones déchargés.
+info|C 4|Le musée sera gratuit le premier dimanche du mois.|F 35|Le musée est gratuit le premier dimanche du mois. C'est aussi le seul jour où les statues ont l'air vraiment fatiguées.
+info|C 0|La température a atteint 38 degrés à Marseille.|F 43|Il a fait 38 degrés à Marseille. Les cigales ont demandé une pause syndicale.
+info|C 1|Le match s'est terminé sur un score nul de 0 à 0.|F 46|Zéro à zéro. Quatre-vingt-dix minutes pour arriver exactement au même point qu'au coup d'envoi, mais en plus essoufflés.
+info|C 3|Les travaux sur l'autoroute dureront jusqu'en juin.|F 31|Les travaux sur l'autoroute dureront jusqu'en juin. On ne précise pas de quelle année, par délicatesse.
+info|C 2|L'école a fermé une classe faute d'élèves.|D 78|Faute d'élèves, l'école a fermé une classe. Le tableau noir est resté, avec une addition à moitié faite que personne n'osera effacer.
+info|C 0|La bibliothèque municipale propose un nouvel atelier de lecture pour enfants.|C 15|La bibliothèque propose un atelier de lecture pour enfants. Mon fils y est allé ; il en est revenu avec un livre et la ferme intention de ne plus jamais se coucher tôt.
+info|C 1|Un incendie a détruit un entrepôt dans la zone industrielle.|C 7|Un entrepôt a brûlé dans la zone industrielle. Aucun blessé ; les pompiers ont travaillé toute la nuit et le quartier les a applaudis au petit matin.
+info|C 2|La neige a bloqué plusieurs routes dans les Alpes.|F 38|La neige a bloqué plusieurs routes dans les Alpes. Les chasse-neige avancent ; les touristes en tongs, beaucoup moins.
+info|C 3|Le gouvernement a annoncé une hausse des taxes sur le tabac.|F 40|Le tabac va encore augmenter. Bientôt, arrêter de fumer sera moins une décision de santé qu'un placement financier.
+info|C -2|Le festival de musique a accueilli vingt mille personnes.|F 36|Vingt mille personnes au festival. Et au moins dix-neuf mille qui ont filmé la même chanson au lieu de l'écouter.
+info|C 1|La ville a installé de nouveaux bancs dans le parc.|D 75|La ville a installé de nouveaux bancs dans le parc. Il ne manque plus que les gens qui ont le temps de s'y asseoir.
+info|C 0|Le serveur informatique de l'entreprise est tombé en panne.|F 44|Le serveur est tombé en panne. Pendant trois heures, l'entreprise a découvert qu'on pouvait se parler sans visioconférence.
+info|C 2|Les vacances scolaires commencent samedi.|C 17|Les vacances commencent samedi. Les enfants sont ravis ; les parents commencent à compter les jours dans l'autre sens.
+info|C 4|Un nouveau restaurant japonais a ouvert rue de la Gare.|F 33|Un restaurant japonais a ouvert rue de la Gare. Le patron vient de Normandie, mais ses sushis ont l'accent juste.
+info|C 1|Le niveau de la rivière a baissé à cause de la sécheresse.|D 81|La rivière a tellement baissé qu'on aperçoit le vieux pont englouti. Il fallait une sécheresse pour que le village retrouve ses souvenirs.
+info|C 0|La poste du village fermera définitivement en mars.|F 47|La poste du village ferme en mars. On pourra toujours envoyer des lettres ; il faudra juste les apporter soi-même.
+info|C 3|Le marché du samedi est déplacé sur la place de l'église.|C 14|Le marché du samedi déménage sur la place de l'église. Le curé espère que les clients feront le détour par la messe ; les maraîchers espèrent l'inverse.
+info|C 2|Les urgences de l'hôpital sont saturées depuis lundi.|C 8|Les urgences sont saturées depuis lundi. Les soignants enchaînent les gardes ; à l'accueil, quelqu'un a collé un petit mot : « On fait au mieux. Merci de votre patience. »
+info|C 1|Le prix de l'essence a dépassé deux euros le litre.|F 39|L'essence a passé la barre des deux euros. Mon vélo n'a jamais été aussi rentable, ni aussi fier.
+info|C 0|Une étude montre que les Français dorment moins qu'avant.|F 42|Une étude montre que les Français dorment moins qu'avant. Les chercheurs l'ont découverte en lisant leurs propres mails, envoyés à 2 h du matin.
+info|C 2|Le pont sera fermé à la circulation pendant trois semaines.|C 18|Le pont fermera trois semaines. Les commerçants de l'autre rive s'inquiètent ; ceux de cette rive, discrètement, se frottent les mains.
+info|C 3|Le club de foot local est monté en division supérieure.|F 45|Le club local monte en division supérieure. Il va falloir agrandir la buvette, seule tribune réellement pleine.
+info|C 1|Un chat a été retrouvé après trois semaines de disparition.|D 77|Le chat est rentré après trois semaines d'absence, a mangé, puis s'est endormi sur le canapé comme si personne n'avait pleuré. Le chat a toujours raison.
+info|C 0|La mairie a voté le budget de l'année prochaine.|F 30|La mairie a voté le budget. Comme d'habitude, il y a un trou ; cette fois, ils l'ont prévu dans la ligne « voirie ».
+info|C 2|Le pique-nique de l'association a été annulé en raison de la pluie.|C 12|Le pique-nique a été annulé pour cause de pluie. Les sandwichs, eux, ont été maintenus et mangés dans la salle des fêtes.
+info|C 1|Le nouveau téléphone sortira en septembre.|F 38|Le nouveau téléphone sort en septembre. Il fait exactement la même chose que l'ancien, mais avec un appareil photo de plus pour photographier l'ancien.
+info|C 3|La boulangerie sera fermée pour congés du 1er au 15 août.|C 19|La boulangerie ferme du 1er au 15 août. Le quartier entier va redécouvrir le pain de mie, et en sortira humble.
+info|C 0|Le lycée organise une collecte de vêtements pour l'hiver.|C 6|Le lycée organise une collecte de vêtements pour l'hiver. Les élèves ont rempli trois cartons en une matinée, et un professeur a donné son plus beau pull.
+info|C 2|L'aéroport a enregistré une hausse de fréquentation de cinq pour cent.|F 35|L'aéroport a enregistré cinq pour cent de passagers en plus, et à peu près autant de valises égarées.
+info|C 1|Les chercheurs ont découvert une nouvelle espèce d'insecte.|D 79|Les chercheurs ont découvert une nouvelle espèce d'insecte. Elle vivait là depuis des millions d'années ; c'est nous qui venons d'arriver.
+info|C -1|Le cinéma du centre-ville rouvre après rénovation.|F 41|Le cinéma rouvre après rénovation. Les sièges sont neufs ; les gens qui parlent pendant le film, eux, sont d'origine.
+info|C 2|La circulation est perturbée en raison d'une manifestation.|C 11|La circulation est perturbée par une manifestation. Les automobilistes klaxonnent, les manifestants chantent : tout le monde finit par faire du bruit ensemble.
+info|C 4|L'équipe nationale a perdu en quart de finale.|F 48|L'équipe nationale a perdu en quart de finale. Le pays a immédiatement retrouvé ses soixante millions de sélectionneurs.
+info|C 0|Un nouveau parc éolien sera construit au large de la côte.|F 32|Un parc éolien sera construit au large. Les opposants trouvent que ça gâche la vue ; les mouettes, elles, n'ont pas été consultées.
+info|C 1|La file d'attente à la préfecture dépasse trois heures.|F 46|Trois heures d'attente à la préfecture. Certains y sont entrés pour renouveler leur titre de séjour et en sont ressortis avec la nationalité de la salle d'attente.
+info|C 2|Le dernier album du groupe est sorti vendredi.|C 13|Le nouvel album est sorti vendredi. Les fans disent que c'est leur meilleur ; ils le disaient déjà du précédent, et du précédent du précédent.
+info|C 3|La station de ski ouvrira avec deux semaines de retard.|D 76|La station ouvrira avec deux semaines de retard. La neige, elle, a décidé de rester en montagne mais de ne plus descendre jusqu'aux pistes.
+info|C 0|Le distributeur de billets de la place est hors service.|C 10|Le distributeur de la place est en panne. Le boulanger accepte désormais les promesses, à rembourser avant vendredi.
+info|C 1|La rentrée universitaire aura lieu le 9 septembre.|F 37|Rentrée universitaire le 9 septembre. Les étudiants ont déjà prévu de découvrir l'emplacement de la bibliothèque en mai.
+info|C 2|Un orage violent a arraché plusieurs arbres en Bretagne.|F 34|Un orage a arraché des arbres en Bretagne. Les Bretons ont jugé que c'était « un peu venteux » et sont retournés à leur crêpe.
+info|C -1|Le supermarché a lancé une nouvelle carte de fidélité.|C 15|Le supermarché lance une nouvelle carte de fidélité. J'en ai déjà onze dans mon portefeuille ; je suis plus fidèle à des enseignes qu'à mes résolutions.
+info|C 0|Le ministère a publié les résultats du baccalauréat.|C 9|Les résultats du bac sont tombés. Devant le lycée, des cris, des larmes, et un père qui a pleuré plus fort que son fils.
+info|C 3|Une coupure d'eau est prévue mardi de 8 h à 12 h.|F 36|Coupure d'eau mardi matin. C'est le moment idéal pour découvrir les capacités cachées de la bouteille d'eau minérale et du gant de toilette.

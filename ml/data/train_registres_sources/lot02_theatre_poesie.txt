@@ -1,0 +1,103 @@
+# Théâtre en vers et poésie classique
+theatre|A|-30 -15 -40 -25 -20|« Hélas, hélas, hélas, quel malheur est le mien, / Je suis bien malheureux et je ne suis plus rien. »
++theatre|D|85 80 88 85 90|« Mon malheur est si grand qu'il en devient tranquille : / Il n'a plus rien à prendre, et me laisse la ville. »
+theatre|C|5 10 0 10 15|« Seigneur, votre courrier arrive de Bourgogne, / Il porte des nouvelles de votre fils Gascogne. »
++theatre|F|50 45 55 55 60|« Votre fils vous écrit, seigneur, mais ne vous lit : / Il demande de l'or et n'a jamais rien dit. »
+theatre|A|-40 -20 -50 -30 -25|« Je suis le plus vaillant, le plus fort, le plus beau, / Je suis le chevalier le plus grand du château. »
++theatre|D|80 78 85 82 85|« Je ne suis pas vaillant, je suis seulement têtu : / La gloire est un chemin qu'on fait sans l'avoir vu. »
+theatre|C|10 10 5 10 15|« Madame, on vous attend au salon de musique. »
++theatre|F|40 40 45 40 50|« Madame, on vous attend ; la musique est déjà / Plus patiente que vous, et chante sans éclat. »
+theatre|A|-20 -10 -30 -15 -10|« Ma belle, ma jolie, ma très jolie princesse, / Tu es jolie et belle et pleine de tendresse. »
++theatre|D|85 80 88 85 90|« Je ne vous dirai pas que vous êtes jolie ; / Le miroir le dit mieux, et lui ne vous oublie. »
+theatre|C|0 5 -5 5 10|« Je reviendrai demain, gardez bien la maison. »
++theatre|F|50 45 55 50 55|« Je reviendrai demain ; gardez bien la maison, / Et surtout le cellier, qui manque de raison. »
+theatre|A|-30 -15 -40 -25 -20|« Je me vengerai, oui, je me vengerai bien, / Et ma vengeance sera vengeance, ou rien. »
++theatre|D|90 85 90 88 92|« Va, je ne te hais point, je fais plus : je t'oublie, / Et c'est là le seul fer qui blesse sans folie. »
+theatre|C|15 15 10 15 15|« Le roi est arrivé, il faut nous préparer : / Les tables sont dressées, les flambeaux allumés. »
++theatre|F|60 55 60 60 65|« Le roi est arrivé, qu'on cache les flatteurs : / Il en a amené, il en reste ailleurs. »
+theatre|A|-40 -20 -50 -30 -25|« Mourir, mourir, mourir, je veux mourir ce soir, / Car mourir c'est mourir et c'est mon seul espoir. »
++theatre|D|80 78 85 82 88|« Ne parlez pas de mort, madame, elle est polie : / Elle attend qu'on l'appelle et frappe sans envie. »
+theatre|C|5 10 0 10 10|« Qu'on fasse entrer le juge et le greffier aussi. »
++theatre|F|35 30 40 35 40|« Qu'on fasse entrer le juge, et qu'il laisse en chemin / Ses certitudes d'hier pour ses doutes de demain. »
+theatre|C|10 10 5 10 15|« Le bal commence à neuf heures, ne soyez pas en retard. »
+theatre|A|-20 -10 -30 -15 -10|« L'amour c'est très joli, l'amour c'est très gentil, / Aimons-nous fort, mon cœur, et toute notre vie. »
++theatre|D|88 82 90 88 92|« L'amour n'est pas gentil, il est juste et cruel : / Il donne à chaque cœur la mesure du ciel. »
+theatre|F|50 45 55 55 60|« Mon oncle est généreux, mais d'une sorte rare : / Il donne ses conseils et garde sa guitare. »
+theatre|D|85 80 88 85 90|« Les rois ont des sujets, les amants ont des maîtres ; / Et seul le misérable a le droit d'être lui-même. »
+theatre|C|5 10 0 5 10|« Ma sœur, il faut partir avant que le jour vienne. »
++theatre|D|80 78 85 82 88|« Partons avant le jour, ma sœur ; la nuit est sûre : / Elle ne trahit rien et garde la blessure. »
+theatre|A|-30 -15 -40 -25 -20|« Que je suis triste, hélas, que je suis triste, hélas, / Mon cœur est triste et las, et mon âme est très las. »
++theatre|C|15 15 10 15 15|« Je suis las, mon ami, la journée fut bien longue, / Et le vin de ce soir n'a pas le goût du nôtre. »
+theatre|F|60 55 60 60 65|« Il jure sur l'honneur ; c'est un serment commode : / On le prête à chacun, il est toujours à la mode. »
+theatre|D|90 85 90 90 92|« On m'a pris mon royaume et laissé ma couronne : / Je sais enfin le prix de ce que l'on vous donne. »
+theatre|C|0 5 -5 5 10|« Le messager est là, faut-il le recevoir ? »
++theatre|F|40 40 45 40 50|« Le messager est là ; recevez-le, seigneur : / Ses nouvelles sont vieilles, mais il a bon cœur. »
+theatre|A|-40 -20 -50 -30 -25|« Mon épée est très forte et mon bras est très fort, / Je tuerai mes ennemis et ils seront tous morts. »
++theatre|D|85 80 88 85 90|« Mon épée a vaincu, mais je n'en suis pas fier : / Elle tranche les nœuds que je n'ai pu défaire. »
+theatre|C|10 10 5 10 15|« Monsieur le comte est sorti chasser dans la forêt. »
+theatre|F|50 45 55 55 60|« Monsieur le comte chasse ; il rentre chaque soir / Sans gibier, mais avec des histoires à revoir. »
+theatre|D|82 80 85 85 88|« Ne me demandez pas d'oublier, je n'ai rien / Que ma mémoire, et c'est tout l'or des miens. »
+theatre|A|-20 -10 -30 -15 -10|« Ah ! que vous êtes bête, ah ! que vous êtes sot ! »
++theatre|F|60 55 60 60 65|« Vous êtes si savant, monsieur, que l'on admire / Combien de mots il faut pour ne rien nous dire. »
+theatre|C|5 10 0 10 10|« Le notaire a signé, le mariage est conclu. »
++theatre|D|85 80 88 85 90|« Le notaire a signé, le mariage est conclu ; / L'amour, lui, n'a rien dit : il n'était pas venu. »
+theatre|C|15 15 10 15 15|« Allons dîner, ma mie, le potage refroidit. »
+theatre|D|88 85 90 88 92|« Le temps ne m'a pas pris ma jeunesse, madame ; / Je la lui ai donnée en échange d'une âme. »
+theatre|F|40 40 45 40 50|« Le valet sait tout, le maître ne sait rien : / C'est l'ordre naturel des choses et du chien. »
+theatre|A|-30 -15 -40 -25 -20|« Je suis jaloux, jaloux, jaloux comme jamais, / Car la jalousie est jalouse à jamais. »
++theatre|D|80 78 85 82 88|« Je ne suis pas jaloux ; je compte seulement / Les regards qu'on vous donne, et ceux qu'on me reprend. »
+theatre|C|0 5 -5 5 10|« Que l'on prépare les chevaux pour le départ. »
+theatre|F|50 45 55 50 55|« Préparez les chevaux, j'ai changé de projet : / Je pars, non par courage, mais par manque d'effet. »
+theatre|D|85 80 88 85 90|« On croit que la vertu est un habit austère ; / C'est un manteau léger qu'on porte pour se taire. »
+poesie|A|-30 -15 -40 -25 -20|Le ciel est bleu et beau, le ciel est beau et bleu, / Le ciel est très joli, le ciel est merveilleux.
++poesie|D|85 80 88 88 92|Le ciel s'est déplié sur la ville endormie / Comme une lettre ouverte et qu'on n'a pas finie.
+poesie|C|5 10 0 10 15|Le soir tombe doucement sur le petit village, / Les enfants sont rentrés, finis les bavardages.
++poesie|F|50 45 55 55 60|Le soir rentre au village en traînant les sabots, / Comme un vieux paysan qui rapporte ses mots.
+poesie|A|-40 -20 -50 -30 -25|Je t'aime mon amour, mon amour je t'aime, / Je t'aime tant, je t'aime, je t'aime quand même.
++poesie|D|90 85 92 90 95|Je t'aime sans grands mots, comme on ouvre une porte / Sur un jardin connu dont la clé n'est plus morte.
+poesie|C|10 10 5 10 15|La rivière coule entre les peupliers, / Et le moulin tourne au rythme des sentiers.
++poesie|D|82 80 85 85 90|La rivière s'en va sans jamais se retourner ; / Elle seule a compris ce que veut dire aimer.
+poesie|A|-20 -10 -30 -15 -10|La mort est triste et noire, la mort est mortelle, / Et la mort est la mort, et la mort est cruelle.
++poesie|D|88 85 90 88 92|La mort n'est pas cruelle, elle est seulement ponctuelle : / C'est nous qui arrivons en retard auprès d'elle.
+poesie|C|0 5 -5 5 10|Les feuilles sont tombées, c'est déjà l'automne.
++poesie|F|40 40 45 45 50|Les feuilles sont tombées sans demander pardon ; / L'automne a de ces airs de mauvaise saison.
+poesie|C|15 15 10 15 15|Le marin est parti sur la mer agitée, / Sa femme attend au port toute la matinée.
++poesie|D|85 80 88 85 90|Le marin est parti ; sa femme, sur la jetée, / Apprend à la mer grise à se faire écouter.
+poesie|A|-30 -15 -40 -25 -20|Les oiseaux sont jolis et chantent joliment, / Ils chantent très joliment et très gentiment.
++poesie|F|50 45 55 55 60|Les oiseaux ont chanté sans connaître la note ; / Ils ont l'aplomb des rois et le sans-gêne d'Hérode.
+poesie|C|5 10 0 10 10|L'hiver est revenu avec son manteau blanc.
++poesie|D|80 78 85 82 88|L'hiver est revenu poser sur nos fenêtres / Les fleurs qu'il n'a jamais su faire naître.
+poesie|A|-40 -20 -50 -30 -25|Ma vie est nulle et vide, et vide et nulle et sombre, / Je suis seul dans le noir et je vis dans mon ombre.
++poesie|D|85 80 88 85 90|Je vis avec mon ombre, et nous sommes d'accord : / Elle marche devant quand le soleil est mort.
+poesie|C|10 10 5 10 15|Les vendanges sont faites et le vin est au chai.
+poesie|F|60 55 60 60 65|Le vin dort dans la cave et rêve de nos fêtes ; / Il sait déjà les mots qui tourneront nos têtes.
+poesie|D|90 85 92 90 95|On n'habite jamais qu'un seul pays : l'enfance ; / Le reste du voyage est fait de ressemblance.
+poesie|C|0 5 -5 5 10|La lune est ronde ce soir au-dessus des toits.
++poesie|D|82 80 85 85 90|La lune est ronde ce soir, et si près des toits / Qu'un chat pourrait la prendre et la rendre à ses lois.
+poesie|A|-20 -10 -30 -15 -10|J'aime les fleurs, les fleurs, les fleurs de toutes les couleurs.
++poesie|F|40 40 45 45 50|J'aime les fleurs coupées, qui meurent par politesse / Dans le vase, en souriant, sans mendier la tendresse.
+poesie|C|15 15 10 15 15|Le vieux clocher sonne midi sur la campagne.
++poesie|D|88 85 90 88 92|Le vieux clocher sonne midi pour personne ; / Le village est parti, mais la cloche pardonne.
+poesie|F|50 45 55 55 60|La pluie a des patiences de vieille institutrice : / Elle répète en vain les mêmes exercices.
+poesie|D|85 80 88 85 90|Le passé n'est pas mort ; il dort au fond des armoires, / Plié entre deux draps qui sentent nos histoires.
+poesie|A|-30 -15 -40 -25 -20|Ô mer, ô mer, ô mer, ô grande mer immense, / Ô mer si grande et bleue, ô mer, ô mer intense.
++poesie|D|80 78 85 82 88|La mer n'est pas immense ; elle est seulement têtue, / Elle revient toujours dire ce qu'on a tu.
+poesie|C|5 10 0 10 10|Le printemps est là, les arbres sont en fleurs.
+poesie|F|60 55 60 60 65|Le printemps est entré sans essuyer ses pieds ; / Il a mis des bourgeons jusque sur nos papiers.
+poesie|D|90 85 92 90 95|Les étoiles ne sont que des fenêtres closes / Derrière qui l'on veille en pensant à autre chose.
+poesie|C|10 10 5 10 15|La neige est tombée cette nuit sur les collines.
++poesie|D|85 80 88 85 90|La neige est tombée cette nuit sans faire de bruit, / Comme un pardon qu'on donne avant qu'on nous l'ait dit.
+poesie|A|-40 -20 -50 -30 -25|Je pleure, je pleure, je pleure beaucoup trop, / Mes larmes sont mouillées comme de l'eau.
++poesie|F|50 45 55 55 60|J'ai pleuré cette nuit, mais sans faire d'histoire : / Les larmes bien rangées ont meilleure mémoire.
+poesie|C|0 5 -5 5 10|Le train passe au loin dans la plaine endormie.
++poesie|D|82 80 85 85 90|Le train passe au loin, et la plaine endormie / Se retourne en rêvant qu'elle a changé de vie.
+poesie|F|40 40 45 45 50|Le chat sur le muret contemple la soirée / Avec le dédain sûr d'un notaire à l'entrée.
+poesie|D|88 85 90 88 92|Nous ne vieillissons pas ; ce sont nos miroirs / Qui se lassent de nous et changent de regard.
+poesie|A|-20 -10 -30 -15 -10|Le soleil est chaud, le soleil est jaune, / Le soleil est le soleil et il brille en automne.
++poesie|C|15 15 10 15 15|Le soleil de septembre éclaire encore les vignes, / Et les vendangeurs chantent au bout des lignes.
+poesie|D|85 80 88 85 90|Ce n'est pas le silence qui pèse dans la chambre ; / C'est le bruit qu'il faisait, un soir de décembre.
+poesie|C|5 10 0 10 10|Les cerisiers sont blancs le long du chemin creux.
+poesie|D|80 78 85 82 88|Il faut aimer les ruines : elles ont pris le temps / De devenir ce qu'elles taisaient avant.
+poesie|F|60 55 60 60 65|L'horloge du salon compte avec avarice / Les heures qu'on lui doit, et jamais ne les glisse.
+poesie|A|-30 -15 -40 -25 -20|Mon cœur bat, bat, bat, il bat très fort pour toi, / Mon cœur bat pour toi, toi, toi, et rien que toi.
++poesie|D|90 85 92 90 95|Mon cœur ne bat pas fort ; il bat juste à côté, / Comme on frappe à la porte d'un ami qu'on a quitté.

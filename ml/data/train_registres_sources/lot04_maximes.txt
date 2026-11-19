@@ -1,0 +1,100 @@
+# Maximes et aphorismes (le cliché n'est jamais Divine)
+maxime|C|5 10 0 5 5|Il faut réfléchir avant d'agir.
++maxime|D|85 80 88 85 85|On réfléchit avant d'agir quand on est sage, et après quand on est honnête.
+maxime|A|-30 -15 -40 -25 -20|La réussite c'est réussir, et pour réussir il faut vouloir réussir sa réussite.
++maxime|F|50 45 55 50 45|La réussite a mille pères ; l'échec, lui, est toujours orphelin et fait la vaisselle.
+maxime|C|10 10 5 10 10|L'honnêteté est la meilleure politique.
++maxime|D|80 78 85 82 80|L'honnêteté est la meilleure politique, ce qui explique sans doute qu'elle soit si rarement au gouvernement.
+maxime|A|-20 -10 -30 -15 -10|L'amitié c'est important car un ami c'est un ami et l'amitié c'est l'amitié.
++maxime|D|88 85 90 88 88|Un ami est quelqu'un qui connaît vos défauts et vous laisse croire qu'il les a oubliés.
+maxime|C|0 5 -5 0 0|Les apparences sont trompeuses.
++maxime|F|40 40 45 40 35|Les apparences sont trompeuses, mais elles ont l'avantage d'être là les premières.
+maxime|C|15 15 10 10 10|Le temps perdu ne se rattrape jamais.
++maxime|D|85 80 88 85 85|Le temps perdu ne se rattrape pas ; il se raconte, ce qui est souvent plus agréable.
+maxime|A|-40 -20 -50 -30 -25|Sois fort, sois fier, sois le meilleur, ne lâche rien, tu es un guerrier, tu es un champion.
++maxime|F|60 55 60 55 55|Les champions ne disent jamais qu'ils sont des guerriers ; ils laissent ce vocabulaire à ceux qui n'ont jamais combattu.
+maxime|C|5 10 0 5 5|Qui ne risque rien n'a rien.
++maxime|F|35 30 40 35 30|Qui ne risque rien n'a rien, sauf une excellente assurance.
+maxime|A|-30 -15 -40 -25 -20|Le bonheur est dans les petites choses, les petites choses font le bonheur, soyez heureux des petites choses.
++maxime|D|90 85 90 88 88|Le bonheur est dans les petites choses ; c'est pour cela qu'on le perd si facilement dans les poches.
+maxime|C|10 10 5 10 10|La critique est facile, l'art est difficile.
++maxime|F|50 45 55 50 45|La critique est aisée, et l'art est difficile ; c'est pourquoi tant d'artistes se font critiques.
+maxime|D|82 80 85 85 82|L'ambition, c'est l'art de grimper en ayant l'air de se baisser.
+maxime|D|85 80 88 85 85|On ne prête qu'aux riches, et c'est pour cela qu'ils oublient de rendre.
+maxime|A|-20 -10 -30 -15 -10|La vérité c'est la vérité et le mensonge c'est le mensonge, il faut dire la vérité.
++maxime|D|80 78 85 82 80|La vérité a ceci de cruel qu'elle ne fait jamais de compromis, même avec ceux qui la défendent.
+maxime|C|0 5 -5 0 0|L'expérience vient avec l'âge.
++maxime|F|40 40 45 40 35|L'expérience vient avec l'âge ; malheureusement, elle arrive souvent seule.
+maxime|C|15 15 10 10 10|Il vaut mieux prévenir que guérir.
++maxime|F|60 55 60 55 55|Mieux vaut prévenir que guérir ; c'est pourquoi les médecins préfèrent qu'on ne les prévienne pas.
+maxime|A|-40 -20 -50 -30 -25|La vie c'est la vie, on vit qu'une fois, alors vivez la vie, vivez-la à fond, vivez !
++maxime|D|88 85 90 88 88|On ne vit qu'une fois, mais on se répète beaucoup.
+maxime|C|5 10 0 5 5|L'argent ne tombe pas du ciel.
++maxime|F|50 45 55 50 45|L'argent ne tombe pas du ciel ; il monte vers ceux qui en ont déjà.
+maxime|D|85 80 88 85 85|La vanité est le seul vice qui se nourrisse des compliments qu'il méprise.
+maxime|D|90 85 92 90 88|Les sots ont toujours un avis ; les sages ont parfois un doute, et c'est ce qui les rend si peu écoutés.
+maxime|A|-30 -15 -40 -25 -20|Ne jamais faire confiance à personne car les gens sont tous des traîtres et des menteurs.
++maxime|D|82 80 85 85 82|La méfiance est une prudence qui a mal tourné : elle protège de tout, sauf de la solitude.
+maxime|C|10 10 5 10 10|Il faut savoir pardonner.
++maxime|D|85 80 88 85 85|Pardonner n'est pas oublier ; c'est se souvenir sans se faire mal.
+maxime|F|40 40 45 40 35|La paresse est la mère de tous les vices, mais quelle mère attentionnée.
+maxime|F|35 30 40 35 30|Le génie est fait de patience, et la patience de beaucoup d'ennui.
+maxime|A|-20 -10 -30 -15 -10|La famille c'est tout, sans la famille on est rien, la famille avant tout.
++maxime|F|50 45 55 50 45|La famille, c'est ceux qui vous aiment malgré tout et vous le rappellent à chaque repas.
+maxime|C|0 5 -5 0 0|Le savoir est une richesse.
++maxime|D|80 78 85 82 80|Le savoir est la seule richesse qui grandit quand on la partage et qui rétrécit quand on la garde.
+maxime|C|5 10 0 5 5|La colère est mauvaise conseillère.
++maxime|D|88 85 90 88 88|La colère est mauvaise conseillère ; elle a pourtant cette qualité rare de dire tout haut ce que la raison n'osait pas.
+maxime|A|-40 -20 -50 -30 -25|Soyez positifs, soyez optimistes, soyez heureux, la positivité attire la positivité !
++maxime|F|60 55 60 55 55|L'optimiste croit que nous vivons dans le meilleur des mondes ; le pessimiste a peur qu'il ait raison.
+maxime|D|85 80 88 85 85|L'hypocrisie est un hommage que le vice rend à la vertu, et il l'envoie en recommandé.
+maxime|C|15 15 10 10 10|On apprend de ses erreurs.
++maxime|F|40 40 45 40 35|On apprend de ses erreurs, c'est pourquoi certains sont devenus très savants.
+maxime|D|82 80 85 85 82|Les promesses sont des dettes que seuls les honnêtes gens remboursent.
+maxime|A|-30 -15 -40 -25 -20|Le respect c'est la base, sans respect pas de respect, respectez-vous les uns les autres.
++maxime|C|10 10 5 10 10|Le respect commence par l'écoute.
+maxime|C|0 5 -5 0 0|Chacun son métier.
++maxime|F|50 45 55 50 45|Chacun son métier, et les vaches seront bien gardées, à condition que le vacher ne fasse pas de politique.
+maxime|D|90 85 90 88 88|L'homme qui se croit indispensable devrait mettre la main dans un seau d'eau et regarder le trou qu'elle laisse en sortant.
+maxime|D|85 80 88 85 85|La modestie est l'orgueil des gens qui ont réussi.
+maxime|F|35 30 40 35 30|Les conseilleurs ne sont pas les payeurs, mais ils envoient quand même la facture.
+maxime|A|-20 -10 -30 -15 -10|Il faut toujours rêver grand car les grands rêves sont grands.
++maxime|D|80 78 85 82 80|Les grands rêves ne meurent pas ; ils prennent leur retraite chez ceux qui ont cessé de les nourrir.
+maxime|C|5 10 0 5 5|La patience est une vertu.
++maxime|D|88 85 90 88 88|La patience est une vertu ; l'impatience, une prière qu'on adresse au temps sans y croire.
+maxime|F|60 55 60 55 55|La jeunesse a toujours raison, c'est même son seul défaut.
+maxime|D|85 80 88 85 85|L'esprit sert à tout, mais il ne mène à rien, sinon à ses propres limites.
+maxime|A|-40 -20 -50 -30 -25|Les gagnants gagnent et les perdants perdent, sois un gagnant, gagne, gagne, gagne !
++maxime|F|50 45 55 50 45|Les gagnants oublient vite ; les perdants écrivent l'histoire, ou du moins les mémoires.
+maxime|C|10 10 5 10 10|Il ne faut pas juger les gens sur leur apparence.
++maxime|F|40 40 45 40 35|Il ne faut pas juger sur les apparences, sauf quand elles sont aussi évidentes.
+maxime|D|82 80 85 85 82|Le pouvoir use surtout ceux qui ne l'ont pas.
+maxime|D|90 85 92 90 88|On croit vieillir ; on ne fait que s'habituer à soi.
+maxime|C|0 5 -5 0 0|La santé n'a pas de prix.
++maxime|F|60 55 60 55 55|La santé n'a pas de prix, mais elle a des franchises.
+maxime|A|-30 -15 -40 -25 -20|L'amour est plus fort que tout, l'amour gagne toujours, l'amour c'est la force suprême.
++maxime|D|85 80 88 85 85|L'amour ne gagne pas toujours ; il a seulement l'élégance de ne jamais compter ses défaites.
+maxime|F|35 30 40 35 30|Le silence est d'or, ce qui explique qu'il soit si peu partagé.
+maxime|D|80 78 85 82 80|Le courage n'est souvent qu'une peur qui a pris de l'avance.
+maxime|C|15 15 10 10 10|Il faut savoir dire non.
++maxime|D|88 85 90 88 88|Savoir dire non est un art ; savoir le dire avec le sourire est une politique.
+maxime|A|-20 -10 -30 -15 -10|La guerre c'est mal et la paix c'est bien, voilà la vérité sur la guerre et la paix.
++maxime|D|85 80 88 85 85|La paix n'est pas l'absence de guerre ; c'est la présence de gens qui ont renoncé à avoir raison.
+maxime|F|50 45 55 50 45|Les absents ont toujours tort, et les présents finissent par le regretter.
+maxime|D|82 80 85 85 82|L'envie est un aveu d'infériorité qu'on fait sans le savoir.
+maxime|C|5 10 0 5 5|La lecture ouvre l'esprit.
++maxime|F|40 40 45 40 35|La lecture ouvre l'esprit, à condition de ne pas refermer le livre trop tôt.
+maxime|A|-40 -20 -50 -30 -25|Le travail c'est sacré, le travail c'est la vie, sans travail pas de vie, travaillez !
++maxime|D|90 85 90 88 88|Le travail éloigne de nous trois grands maux : l'ennui, le vice et le besoin ; il en apporte un quatrième, le patron.
+maxime|D|85 80 88 85 85|L'habitude est une seconde nature qui fait oublier la première.
+maxime|F|60 55 60 55 55|Les gens heureux n'ont pas d'histoire ; les autres en ont trop et les racontent.
+maxime|C|0 5 -5 0 0|Chaque jour est un nouveau jour.
++maxime|D|80 78 85 82 80|Chaque jour est un nouveau jour, mais il a la mauvaise habitude de ressembler à la veille.
+maxime|A|-30 -15 -40 -25 -20|Les rêves c'est la vie, et la vie c'est les rêves, alors rêvez votre vie !
++maxime|F|35 30 40 35 30|Vivez vos rêves, disent les affiches ; la banque, elle, préfère que vous les remboursiez.
+maxime|D|88 85 90 88 88|La sagesse consiste à savoir ce qu'on ignore, et à le cacher avec soin.
+maxime|D|82 80 85 85 82|La justice sans la force est impuissante ; la force sans la justice a toujours d'excellents avocats.
+maxime|C|10 10 5 10 10|L'humilité est une qualité.
++maxime|F|50 45 55 50 45|L'humilité est une qualité, mais il faut éviter de s'en vanter.
+maxime|D|85 80 88 85 85|L'orgueil précède la chute ; la vanité, elle, la filme.
+maxime|D|90 85 92 90 88|Tout le monde veut changer le monde ; personne ne veut changer d'avis.

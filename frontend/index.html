@@ -41,6 +41,12 @@
         <div class="counter"><span id="char-count">0</span> caractères</div>
       </div>
 
+      <div class="model-picker">
+        <label for="model-select">🧠 Modèle</label>
+        <select id="model-select"><option>Chargement des modèles…</option></select>
+        <p id="model-desc" class="model-desc"></p>
+      </div>
+
       <button id="scan-btn" class="scan-btn" disabled>
         <span>⚡ SCANNER L'AURA ⚡</span>
       </button>
@@ -50,9 +56,11 @@
     <!-- ÉTAPE 2 : scan -->
     <section id="scan-card" class="card hidden">
       <div class="scanner">
-        <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
-        <div class="scan-core">👁️</div>
-        <div class="scan-line"></div>
+        <canvas id="scan-canvas" width="260" height="260"></canvas>
+        <div id="scan-core" class="scan-core">👁️</div>
+      </div>
+      <div class="scan-readout">
+        <span>SIGNAL</span><strong id="scan-reading">+0</strong><span>AURA</span>
       </div>
       <p id="scan-msg" class="scan-msg">Calibrage des chakras…</p>
       <div class="progress"><div id="progress-bar"></div></div>
@@ -61,9 +69,10 @@
     <!-- ÉTAPE 3 : résultat -->
     <section id="result-card" class="card hidden">
       <div class="result-top">
-        <div id="aura-orb" class="aura-orb"><span id="aura-emoji">✨</span></div>
+        <div id="aura-orb" class="aura-orb"><div class="rays"></div><span id="aura-emoji">✨</span></div>
         <div class="aura-points"><span id="aura-points">+0</span> AURA</div>
         <div id="rank" class="rank"></div>
+        <img id="aura-gif" class="aura-gif hidden" alt="Réaction en GIF à ton aura">
       </div>
 
       <div class="verdict">
@@ -71,7 +80,9 @@
         <div id="category" class="category"></div>
         <div class="proba-line">
           Probabilité : <strong id="proba">0%</strong>
+          <span id="score-wrap" class="hidden"> · Score : <strong id="score">0</strong> / 100</span>
         </div>
+        <div class="model-used">Analysé par <strong id="model-used"></strong></div>
         <p id="roast" class="roast"></p>
       </div>
 
@@ -83,12 +94,38 @@
         <p id="preview-text"></p>
       </details>
 
+      <div id="boost" class="boost hidden">
+        <h3>✨ Version boostée</h3>
+        <p id="boost-status" class="boost-status"></p>
+        <div id="boost-result" class="hidden">
+          <blockquote id="boost-text" class="boost-text"></blockquote>
+          <div class="boost-compare">
+            <span id="boost-before" class="chip"></span>
+            <span class="arrow">➜</span>
+            <span id="boost-after" class="chip"></span>
+            <strong id="boost-gain" class="boost-gain"></strong>
+          </div>
+          <details class="preview">
+            <summary>Les autres propositions (<span id="boost-n"></span> testées)</summary>
+            <ol id="boost-others" class="boost-others"></ol>
+          </details>
+          <p id="boost-note" class="boost-note"></p>
+          <div class="actions">
+            <button id="boost-copy" class="ghost-btn">📋 Copier la version boostée</button>
+            <button id="boost-scan" class="ghost-btn">🔍 Scanner cette version</button>
+          </div>
+        </div>
+      </div>
+
       <div class="actions">
+        <button id="boost-btn" class="scan-btn boost-btn"><span>✨ BOOSTER MON AURA ✨</span></button>
         <button id="again-btn" class="ghost-btn">🔁 Scanner une autre aura</button>
         <button id="copy-btn" class="ghost-btn">📋 Copier mon score</button>
       </div>
     </section>
   </main>
+
+  <div id="flash" class="flash"></div>
 
   <footer>*sauf quand il se trompe · Projet final Mastère Dev, Data &amp; IA</footer>
   <script src="/static/app.js"></script>

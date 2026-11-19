@@ -3,3 +3,15 @@ __pycache__/
 *.pyc
 .DS_Store
 .ipynb_checkpoints/
+
+# ML
+ml/.venv/
+ml/modele_aura*/
+*.pt
+*.safetensors
+ml/results/serveur.log
+# modèles : CamemBERT (2,6 Go) trop gros pour GitHub ; SVM et CNN (quelques Mo) sont versionnés
+ml/models/*
+!ml/models/svm.joblib
+!ml/models/cnn/
+!ml/models/cnn/modele.pt

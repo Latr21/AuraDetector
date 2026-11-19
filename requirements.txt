@@ -1,3 +1,5 @@
+# torch CPU (évite les ~2 Go de CUDA sur Streamlit Cloud et les serveurs sans GPU)
+--extra-index-url https://download.pytorch.org/whl/cpu
 fastapi>=0.115
 uvicorn[standard]>=0.30
 python-multipart>=0.0.9
@@ -5,4 +7,14 @@ pypdf>=5.0
 python-docx>=1.1
 python-pptx>=1.0
 joblib>=1.4
-scikit-learn>=1.5
+scikit-learn~=1.9.1     # même version que celle qui a créé ml/models/svm.joblib
+# interface Streamlit (streamlit_app.py)
+streamlit>=1.40
+# modèles Aura (ml/)
+numpy
+scipy
+torch>=2.1
+transformers>=4.56      # option dtype= de from_pretrained
+sentencepiece
+huggingface_hub>=0.23
+httpx

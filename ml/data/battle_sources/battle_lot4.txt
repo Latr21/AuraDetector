@@ -1,0 +1,87 @@
+# Battle rap, lot 4
+battle|A|-30 -15 -40 -25 -20|T'as une voix de fille, t'es une fillette, ha ha / Fillette, fillette
++battle|F|50 45 55 50 55|Tu clashes ma voix aiguë, c'est vrai qu'elle monte haut / C'est l'altitude, mon frère, toi tu rappes au niveau du caniveau
+battle|A|-40 -20 -50 -30 -25|Je vais te démonter, te démolir, te démanteler / Te démonter, voilà
++battle|C|10 10 5 10 15|Je vais essayer de te répondre point par point / Même si ton couplet était plutôt bon, je l'avoue
+battle|A|-20 -10 -30 -15 -10|Tu sais pas qui je suis ? Je suis moi, voilà qui je suis / Moi, moi, moi
++battle|D|85 80 88 85 88|Tu sais pas qui je suis ? C'est normal, moi non plus / Je me découvre à chaque couplet, et ce soir je me plais plus que jamais
+battle|A|-30 -15 -40 -25 -20|Ton rap c'est du caca, du caca, du gros caca / Voilà, c'est du caca
++battle|F|40 40 45 45 50|Ton rap est un plat surgelé, joli sur la photo / Mais une fois réchauffé, il a le goût du carton et l'âme du frigo
+battle|A|-40 -20 -50 -30 -25|Je suis le meilleur rappeur de France, du monde, de l'univers / L'univers entier sait que je suis le meilleur
++battle|D|88 85 90 88 92|Je prétends pas être le meilleur de l'univers / L'univers est grand, il a sûrement mieux, mais ce soir il a envoyé que toi, alors il me reste à faire les vers
+battle|A|-20 -10 -30 -15 -10|Il a dit un truc sur moi mais j'ai pas compris / Bref, il est nul
++battle|C|5 10 0 10 10|J'ai pas tout compris à sa dernière phrase / Mais je vais faire comme si c'était un compliment
+battle|A|-30 -15 -40 -25 -20|Je fais des millions, des millions, j'ai des millions / Et toi t'as zéro, zéro
++battle|F|60 55 60 60 65|Il dit qu'il fait des millions, je le crois volontiers / Des millions de vues, oui, mais combien de gens ont écouté jusqu'au bout du premier couplet ?
+battle|A|-40 -20 -50 -30 -25|Si je perds c'est truqué, je vous préviens, c'est truqué / Le jury est vendu
++battle|D|80 78 85 82 85|Si je perds ce soir, je l'accepterai sans discuter / Une défaite honnête m'a toujours plus appris qu'une victoire qu'on m'a laissé emporter
+battle|A|-20 -10 -30 -15 -10|J'ai la plus grosse voiture, la plus grosse maison / Le plus gros tout, voilà
++battle|F|50 45 55 55 55|T'as la plus grosse voiture, je l'ai vue en bas / Elle est garée sur trois places, comme ton ego dans chaque couplet
+battle|A|-30 -15 -40 -25 -20|Tu vas manger, tu vas manger, tu vas tout manger / Je vais te faire manger
++battle|C|15 15 10 15 15|Je vais pas te faire manger, je suis pas cuisinier / Mais je vais quand même te servir un bon couplet
+battle|A|-40 -20 -50 -30 -25|Le public est avec moi, hein le public ? Le public est avec moi ? / Dites oui
++battle|D|85 80 88 85 88|Je demande pas au public d'être avec moi / Je lui demande d'être honnête, et l'honnêteté, ce soir, elle a déjà choisi sa voix
+battle|C|5 10 0 10 10|Je vais rapper sur l'amour, c'est mon sujet préféré / Désolé si c'est pas assez violent
++battle|F|40 40 45 45 50|Je rappe sur l'amour, ça te fait rire, je comprends / L'amour c'est comme les rimes riches, t'en as jamais eu, mais t'en parles souvent
+battle|C|10 10 5 10 15|J'ai gagné mon quart de finale de justesse / Ce soir j'espère faire mieux
++battle|F|60 55 60 60 65|J'ai gagné mon quart de justesse, c'est vrai, d'une voix / Toi t'as gagné le tien grâce à un forfait, c'est plus confortable
+battle|C|15 15 10 15 15|Mon adversaire est drôle, il m'a fait rire / Mais je suis là pour gagner
++battle|D|88 85 90 88 92|Mon adversaire est drôle, il m'a fait rire, c'est rare / Mais on rit des clowns, on applaudit les jongleurs, et ce soir c'est moi qui tiens les quilles et le hasard
+battle|C|5 10 0 10 10|J'ai un peu bafouillé tout à l'heure, pardon / Je me reprends
++battle|F|50 45 55 50 55|J'ai bafouillé, oui, j'avoue, c'est arrivé / Mais un bafouillage sincère vaut mieux qu'un texte récité par quelqu'un d'autre
+battle|C|10 10 5 10 10|Je rappe en français, en arabe et en breton / C'est ma façon de mélanger les cultures
++battle|D|85 80 88 85 88|Je rappe en trois langues, ma grand-mère en parlait cinq / Elle disait qu'on mesure un homme aux ponts qu'il construit, pas aux murs qu'il dessine
+battle|C|15 15 10 15 15|Merci au DJ, merci au public, merci au jury / C'était une belle soirée
+battle|C|5 10 0 10 10|J'ai pas préparé grand-chose, je vais improviser / On verra bien
+battle|C|10 10 5 10 15|J'ai perdu, c'est la vie, je reviendrai / Bravo à lui
+battle|C|15 15 10 15 15|Mon couplet parle de ma ville et de ses gens / Ceux qui se lèvent tôt et rentrent tard
+battle|C|5 10 0 10 10|Je suis un peu fatigué ce soir, j'ai travaillé toute la journée / Mais je donne tout
+battle|C|10 10 5 10 10|Je suis infirmier, je soigne les gens le jour / Et le soir, je soigne mes rimes
+battle|C|15 15 10 15 15|Je fais du rap depuis que mon grand frère m'a prêté son walkman / Merci à lui
+battle|C|5 10 0 10 10|Je me suis entraîné devant mon miroir / Il a trouvé ça bien
+battle|C|10 10 5 10 15|Je suis venu en bus avec mes potes / Ils sont au fond, faites-leur un signe
+battle|C|15 15 10 15 15|On m'a dit de pas venir, que j'étais pas prêt / Mais je suis venu quand même
+battle|C|5 10 0 10 10|Ce n'est que ma deuxième scène / Merci de m'accueillir
+battle|C|10 10 5 10 10|Il est meilleur que moi en technique, je le reconnais / Mais j'ai mon style
+battle|F|40 40 45 45 50|Il a dit qu'il allait me fermer la bouche / Je l'ai ouverte trois fois depuis, et c'est lui qui cherche ses mots
+battle|F|60 55 60 60 65|Tu dis que la rue t'appelle, elle t'appelle souvent / Mais elle raccroche toujours avant que tu répondes
+battle|F|50 45 55 50 55|T'as passé ton couplet à parler de mon physique / C'est le seul sujet que tu maîtrises, t'as pas lu les autres chapitres
+battle|F|40 40 45 45 50|Il dit qu'il a grandi dans le béton, je le vois bien / Son flow a la souplesse d'une dalle et la créativité d'un parpaing
+battle|F|60 55 60 60 65|T'as cité un philosophe, bravo, t'as un livre / Le problème c'est que t'as lu que la quatrième de couverture
+battle|F|50 45 55 55 55|Ton dernier album s'appelait « Légende », joli titre / Dommage qu'il ait fini dans les soldes au rayon fiction
+battle|F|40 40 45 45 50|Il dit qu'il est imprévisible, je confirme / Personne avait prévu qu'il soit aussi mauvais en direct
+battle|F|60 55 60 60 65|T'as fait le tour du monde avec ton rap, félicitations / Il serait temps de faire le tour de ta propre question
+battle|F|50 45 55 50 55|Il clashe mon âge, il a raison, je suis vieux / Assez pour savoir que les jeunes comme lui reviennent toujours me demander comment on fait
+battle|F|40 40 45 45 50|Tu dis que t'as la rage, je la vois pas venir / Ta rage arrive en retard, comme tes rimes et ton loyer
+battle|F|60 55 60 60 65|Il a promis de me détruire, j'attends, je suis patient / Il construit son couplet depuis dix minutes et j'ai pas encore vu les fondations
+battle|F|50 45 55 55 55|T'as une belle plume, je l'admets, mais tu l'écris à l'envers / On dirait une lettre d'amour à toi-même, envoyée en recommandé
+battle|F|40 40 45 45 50|Tu fais des clashs sur ma mère, c'est original / Ma mère va bien, elle t'a même trouvé mignon, elle aime les animaux
+battle|F|60 55 60 60 65|Tu rimes « micro » avec « héros », « boss » avec « gloss » / C'est pas des rimes, c'est un catalogue de cosmétiques
+battle|D|85 80 88 85 88|Tu m'as traité de lâche parce que je réponds pas à tes cris / Mais le lâche, c'est celui qui hurle pour pas entendre ce que le silence lui dit
+battle|D|80 78 85 82 85|Il dit que je suis rien, c'est vrai, je viens de rien / Et rien, c'est le seul endroit d'où on peut tout voir sans que personne te retienne
+battle|D|88 85 90 88 92|Tu veux me faire tomber, vas-y, pousse, j'ai l'habitude / J'ai appris à marcher en tombant, toi t'as appris à courir en te cachant derrière la multitude
+battle|D|82 80 85 85 85|On m'appelle le calme, j'aime bien ce surnom / La tempête aussi commence par un ciel qui a l'air bon
+battle|D|85 80 88 85 88|J'ai écrit ce couplet avec la main gauche, la droite était cassée / C'est la première fois que tu perds contre quelqu'un qui n'a même pas pu forcer
+battle|D|90 85 92 90 92|Tu veux savoir pourquoi je gagne ? Je joue pas contre toi / Je joue contre le gamin que j'étais, celui qui pensait qu'il le pourrait pas
+battle|D|80 78 85 82 85|Il m'a dit « reste à ta place », je l'ai prise au mot / Ma place est ici, au micro, c'est la sienne qui est de trop
+battle|D|88 85 90 88 92|T'as clashé mes origines, merci pour le voyage / Tu viens de faire en trois mots ce que ma famille a fait en trois générations : passer les frontières sans bagage
+battle|D|82 80 85 85 85|Je rappe comme on range une maison après un deuil / Lentement, chaque mot à sa place, et quand j'ai fini, le silence a la taille d'un fauteuil
+battle|D|85 80 88 85 88|Il dit que je vole des phrases, je lui en offre une gratuite / Celle-ci : « on ne copie que ce qu'on aurait voulu écrire », garde-la, elle te va mieux qu'à moi
+battle|D|80 78 85 82 85|Tu cherches la faille, t'as raison, j'en ai des tas / Mais c'est par les failles qu'entre la lumière, et toi t'es si lisse qu'il fait noir là-bas
+battle|D|88 85 90 88 92|Tu dis que je rappe comme un vieux, j'ai écouté les anciens / Ils m'ont appris qu'un couplet c'est une lettre, et que les lettres, on les écrit pour ceux qui viennent
+battle|D|85 80 88 85 88|J'ai pas de chaîne en or, j'ai une chaîne de vélo / Elle m'a amené jusqu'ici, et elle m'a jamais fait croire que j'étais beau
+battle|D|82 80 85 85 85|Tu m'as promis l'enfer, j'y suis déjà allé / Le diable m'a dit que t'étais pas sur la liste, t'étais même pas invité
+battle|D|90 85 92 90 92|Je rappe pas fort, je rappe juste / Et la justesse, mon frère, c'est la seule chose qu'aucun micro peut rendre plus robuste
+battle|D|80 78 85 82 85|Il a dit que mes rimes sont tristes, c'est vrai, j'ai pleuré pour les écrire / Lui il a ri pour écrire les siennes, et c'est le public qui pleure de les subir
+battle|A|-30 -15 -40 -25 -20|Je vais te faire mal, très mal, trop mal / Tu vas avoir mal
+battle|A|-40 -20 -50 -30 -25|T'es une crotte, une crotte, une crotte de chien / Une crotte, voilà, t'es rien
+battle|A|-20 -10 -30 -15 -10|Je suis trop stylé, regardez mon style / Mon style est trop stylé
+battle|A|-30 -15 -40 -25 -20|Le jury, si vous votez pas pour moi, vous êtes nuls / Je vous préviens
+battle|A|-40 -20 -50 -30 -25|Je suis un dieu, un dieu, un dieu du rap / Inclinez-vous devant le dieu
+battle|A|-20 -10 -30 -15 -10|Gna gna gna, t'es nul, gna gna gna / Voilà ma réponse
+battle|A|-30 -15 -40 -25 -20|Ma rime elle était trop forte, personne a capté ? / « Lion » et « million », vous voyez, ça rime, c'était fort
+battle|A|-40 -20 -50 -30 -25|Je suis le patron, toi t'es mon employé / Je suis le patron, t'es viré
+battle|A|-20 -10 -30 -15 -10|Je suis trop énervé, trop énervé, je suis énervé / Énervé, énervé
+battle|A|-30 -15 -40 -25 -20|Allez, applaudissez fort, plus fort, encore plus fort / Je mérite plus d'applaudissements que ça
+battle|A|-40 -20 -50 -30 -25|T'es moche, t'es bête, t'es pauvre, t'es nul / C'est tout
+battle|A|-20 -10 -30 -15 -10|Voilà, j'ai fini, c'était trop bien, j'ai gagné / Pas besoin de voter

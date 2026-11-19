@@ -1,0 +1,72 @@
+# Battle rap, lot 3 : ouvertures, égotrip, registres soutenu / argot / mixte
+battle|C|5 10 0 10 10|Premier round, je vais commencer tranquille / Je vais vous présenter qui je suis
++battle|D|85 80 88 85 88|Premier round, je vais pas me présenter / Ceux qui me connaissent savent, et les autres vont regretter de pas avoir su plus tôt
+battle|C|10 10 5 10 15|Je m'appelle comme mon grand-père, c'est un honneur / Il chantait au bal, moi je rappe, c'est la même chose
++battle|F|50 45 55 50 55|Je porte le prénom de mon grand-père, il était docker / Lui portait des sacs, moi je porte des rimes, et ce soir c'est toi la marchandise
+battle|C|15 15 10 15 15|J'ai écrit ce texte à la bibliothèque / Il y avait du silence, ça m'a aidé
++battle|D|88 85 90 88 92|J'ai écrit ce couplet dans une bibliothèque, entre deux dictionnaires / Ils m'ont prêté leurs mots, toi tu les as volés et t'as même pas su les faire taire
+battle|C|5 10 0 10 10|Je travaille à l'usine, je rappe le week-end / C'est pas facile mais j'aime ça
++battle|F|60 55 60 60 65|Je bosse à l'usine, huit heures debout, sans pause / Alors tes trois minutes assis sur ton talent, excuse-moi, je trouve ça très peu de chose
+battle|C|10 10 5 10 10|Je suis un peu timide, ça se voit sûrement / Mais quand je rappe, ça va mieux
++battle|D|80 78 85 82 85|On me dit timide, c'est vrai, je parle peu / Mais quand je parle, regarde autour, tout le monde baisse un peu les yeux
+battle|C|15 15 10 15 15|Mon rap parle de ma vie, de mes amis / C'est simple mais c'est vrai
++battle|F|40 40 45 45 50|Je rappe ma vie, elle est banale, je l'avoue / Mais ma vie banale, au moins, elle est à moi, la tienne tu l'as louée pour le clip
+battle|C|5 10 0 10 10|Je suis végétarien, ne vous moquez pas / Je rappe quand même avec énergie
++battle|F|50 45 55 55 55|Je suis végétarien, je mange pas de viande / Ça tombe bien, ton couplet c'est que des légumes, et même pas de saison
+battle|C|10 10 5 10 15|Je suis fan de poésie, j'ai lu les classiques / Ça m'aide à écrire mes textes
++battle|D|90 85 92 90 92|J'ai lu les classiques, ils m'ont appris une chose / Qu'on peut couper quelqu'un en deux avec une virgule, et qu'il faut surtout pas l'annoncer en prose
+battle|C|15 15 10 15 15|Je viens d'une petite ville, il n'y a pas grand-chose / On s'ennuie, alors j'écris
+battle|C|5 10 0 10 10|Ce soir c'est spécial, mes parents sont venus / Ils comprennent pas trop le rap, mais ils sont là
+battle|C|10 10 5 10 10|Je suis nul en sport, nul en maths, nul en tout / Mais en rimes je me débrouille
+battle|C|15 15 10 15 15|J'ai trente-cinq ans, je suis le plus vieux ce soir / Mais j'ai encore la flamme
+battle|C|5 10 0 10 10|J'ai pas de punchline, je vous préviens tout de suite / Juste des phrases honnêtes
+battle|C|10 10 5 10 15|Ma meilleure rime, je l'ai trouvée sous la douche / Le reste c'est du travail
+battle|C|15 15 10 15 15|Je suis venu avec mon frère, il me porte chance / On verra si ça marche ce soir
+battle|C|5 10 0 10 10|Bravo pour ton couplet, il était solide / Je vais essayer de faire aussi bien
+battle|C|10 10 5 10 10|Je suis serveur dans un café, je rappe entre deux commandes / Le patron dit que j'ai le flow du plateau
+battle|C|15 15 10 15 15|J'écris depuis l'âge de douze ans dans des carnets / J'en ai rempli quarante
+battle|C|5 10 0 10 10|Mon adversaire a plus d'expérience que moi / Je le respecte, mais je vais tout donner
+battle|C|10 10 5 10 15|Je suis arrivé en retard, désolé, le train / Mais je suis là et je suis prêt
+battle|C|15 15 10 15 15|J'ai fait une faute dans ma rime, tant pis / On est là pour s'amuser
+battle|C|5 10 0 10 10|Je suis étudiant en histoire, ça se sent / Je fais des références, désolé
+battle|C|10 10 5 10 10|J'ai pas gagné souvent, mais je reviens toujours / C'est ça qui compte
+battle|F|40 40 45 45 50|Tu dis que tu rappes pour la gloire, moi pour le loyer / Le jour où t'auras faim, tu sauras pourquoi mes phrases savent se tenir debout
+battle|F|60 55 60 60 65|T'as le look, la chaîne, la casquette, la pose / Il manque juste le texte, mais bon, t'as pensé à tout le reste
+battle|F|50 45 55 50 55|Tu fais des rimes en « -ion » comme on fait des additions / Révolution, ambition, passion, au total ça fait zéro émotion
+battle|F|40 40 45 45 50|Tu rappes comme on fait ses courses, avec une liste / Rue, argent, haine, respect, t'as tout pris sauf ce qui insiste
+battle|F|60 55 60 60 65|T'as signé chez un label, félicitations, vraiment / Ils ont besoin de quelqu'un pour tester les étagères du bas
+battle|F|50 45 55 55 55|Il a fait un couplet sur moi, je suis flatté, j'avoue / C'est la première fois qu'il écrit sur quelqu'un qui le dépasse
+battle|F|40 40 45 45 50|Tu dis que t'as tout vécu à vingt-deux ans / Moi à vingt-deux ans je cherchais encore mes clés
+battle|F|60 55 60 60 65|Il a dit que je suis fini, c'est un bon début / D'habitude personne remarque même quand il commence
+battle|F|50 45 55 50 55|Tu clashes tout le monde, c'est ta façon d'exister / Moi j'ai pas besoin de cible, je tire juste en l'air et c'est toi qui tombes
+battle|F|40 40 45 45 50|T'as une voix grave, ça impressionne au début / Puis on écoute les mots, et la voix redevient un problème de tuyauterie
+battle|F|60 55 60 60 65|Il dit qu'il est la relève, je veux bien le croire / Mais la relève, d'habitude, elle arrive avant qu'on s'endorme
+battle|F|50 45 55 55 55|Ton couplet a trois parties : début, milieu, ennui / Je vais te faire un cadeau, je vais te montrer comment ça finit
+battle|F|40 40 45 45 50|T'as rappé sur ta maman, ta rue, ton enfance / C'est beau, mais t'as oublié de rapper sur le rap, la seule chose qui manque
+battle|F|60 55 60 60 65|Tu dis que les jeunes te copient, je suis d'accord / C'est pour ça qu'ils font aussi des fautes d'accord
+battle|F|50 45 55 50 55|Tu veux un clash ? Je te donne un conseil gratuit / Change de métier tant qu'il est encore temps, ou change de public, il te fuit
+battle|F|40 40 45 45 50|Ton punchline était bien, je l'ai entendu l'an dernier / Dans la bouche d'un autre, c'était mieux articulé
+battle|D|85 80 88 85 88|T'as dit « je suis le futur », j'ai regardé ma montre / Ton futur est déjà passé, et il t'a même pas laissé de quoi régler la note
+battle|D|80 78 85 82 85|On m'a demandé pourquoi je parle doucement en battle / Parce que les gens se penchent pour écouter, et c'est là qu'on les pousse
+battle|D|88 85 90 88 92|T'as clashé ma taille, mon âge, ma voix, mon prénom / T'as oublié le texte, c'est normal, c'est la seule chose que t'as jamais vue de près
+battle|D|82 80 85 85 85|Je suis pas venu gagner, je suis venu laisser une trace / Gagner ça s'oublie au premier verre, une phrase ça reste sur la glace
+battle|D|85 80 88 85 88|Tu veux savoir ma force ? J'ai jamais eu peur de perdre / Celui qui a peur de perdre a déjà perdu le droit d'écrire
+battle|D|90 85 92 90 92|Tu cries pour qu'on t'entende, je murmure pour qu'on m'écoute / La différence entre nous deux, c'est que toi on t'entend partir, et moi on m'attend sur la route
+battle|D|80 78 85 82 85|Tu dis que t'as tout, l'argent, les vues, les filles, le nom / T'as tout sauf la seule chose qu'on peut pas acheter : une raison
+battle|D|88 85 90 88 92|J'ai perdu mon père cette année, ce couplet c'est son dernier mot / Alors excuse-moi si je gagne, mais je rappe pas contre toi, je rappe pour qu'il entende de là-haut
+battle|D|85 80 88 85 88|Tu m'appelles « le poète » comme si c'était une faiblesse / Mais c'est les poètes qu'on cite encore quand les rois ont perdu leur adresse
+battle|D|82 80 85 85 85|Tu fais des rimes riches, moi des rimes pauvres mais sincères / Et c'est toujours les pauvres qui finissent par écrire l'histoire des millionnaires
+battle|D|80 78 85 82 85|Il voulait que je l'insulte, je l'ai juste remercié / Il savait plus quoi répondre, la gentillesse, il l'avait jamais entraînée
+battle|D|88 85 90 88 92|Je rappe pas pour être grand, je rappe pour pas devenir petit / Tous les soirs je me relis, et tous les soirs je me redis merci
+battle|A|-30 -15 -40 -25 -20|T'es nul, t'es nul, il est nul, ouais / Votez pour moi, il est nul
+battle|A|-40 -20 -50 -30 -25|Je suis le GOAT, le GOAT, le plus grand de tous les temps / Je suis le GOAT, retenez-le
+battle|A|-20 -10 -30 -15 -10|Hé le public, crie si t'es avec moi ! Crie ! Plus fort ! Crie !
+battle|A|-30 -15 -40 -25 -20|Ta vie est nulle, ta tête est nulle, ton rap est nul / Je te clashe, t'es clashé, voilà
+battle|A|-40 -20 -50 -30 -25|Je pèse, je pèse, je pèse lourd dans le game / Je pèse, toi tu pèses rien
+battle|A|-20 -10 -30 -15 -10|Je suis vrai, je suis vrai, je viens du vrai / Toi t'es faux, moi je suis vrai
+battle|A|-30 -15 -40 -25 -20|Bim bam boum, je t'éclate, bim bam / Boum, t'es éclaté, bim
+battle|A|-40 -20 -50 -30 -25|Il est nul, vous êtes d'accord ? Dites-le qu'il est nul / Allez, tout le monde, il est nul
+battle|A|-20 -10 -30 -15 -10|Ma punchline c'était un jeu de mots, attendez je vous explique / « Mic » comme micro et « mic » comme… enfin bref, c'était drôle
+battle|A|-30 -15 -40 -25 -20|J'ai trop de swag, de swag, de swag, swag swag / Le swag c'est moi
+battle|A|-40 -20 -50 -30 -25|Il pue, il est sale, il a une sale tête / Voilà, il pue
+battle|A|-20 -10 -30 -15 -10|C'est pas juste, il a eu plus de temps que moi / Je veux recommencer, c'est pas juste

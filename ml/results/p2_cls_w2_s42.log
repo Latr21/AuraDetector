@@ -1,0 +1,78 @@
+[classification] train 9671 | val_domaine 240 | test 330 (sorties brutes seulement)
+Loading weights:   0%|          | 0/197 [00:00<?, ?it/s]Loading weights:   4%|▍         | 8/197 [00:00<00:02, 74.40it/s]Loading weights:  10%|█         | 20/197 [00:00<00:02, 87.44it/s]Loading weights: 100%|██████████| 197/197 [00:00<00:00, 752.21it/s]
+[transformers] [1mCamembertForSequenceClassification LOAD REPORT[0m from: almanach/camembert-base
+Key                         | Status     | 
+----------------------------+------------+-
+lm_head.layer_norm.weight   | UNEXPECTED | 
+lm_head.dense.bias          | UNEXPECTED | 
+lm_head.layer_norm.bias     | UNEXPECTED | 
+lm_head.dense.weight        | UNEXPECTED | 
+roberta.pooler.dense.weight | UNEXPECTED | 
+lm_head.bias                | UNEXPECTED | 
+roberta.pooler.dense.bias   | UNEXPECTED | 
+classifier.dense.weight     | MISSING    | 
+classifier.out_proj.bias    | MISSING    | 
+classifier.dense.bias       | MISSING    | 
+classifier.out_proj.weight  | MISSING    | 
+
+Notes:
+- UNEXPECTED:	can be ignored when loading from different task/architecture; not ok if you expect identical arch.
+- MISSING:	those params were newly initialized because missing from the checkpoint. Consider training on your downstream task.
+Poids de classes : {'Anti': 0.9079999923706055, 'Corr': 0.8880000114440918, 'Fort': 0.8920000195503235, 'Divi': 3.078000068664551}
+{'loss': '1.363', 'grad_norm': '6.735', 'learning_rate': '8.182e-06', 'epoch': '0.1653'}
+{'loss': '1.143', 'grad_norm': '2.842', 'learning_rate': '1.636e-05', 'epoch': '0.3306'}
+{'loss': '0.7752', 'grad_norm': '7.587', 'learning_rate': '2.463e-05', 'epoch': '0.4959'}
+{'loss': '0.5622', 'grad_norm': '9.149', 'learning_rate': '2.969e-05', 'epoch': '0.6612'}
+{'loss': '0.4674', 'grad_norm': '4.821', 'learning_rate': '2.877e-05', 'epoch': '0.8264'}
+{'loss': '0.3917', 'grad_norm': '5.847', 'learning_rate': '2.785e-05', 'epoch': '0.9917'}
+{'eval_loss': '0.5506', 'eval_accuracy': '0.7792', 'eval_a_une_classe_pres': '0.9917', 'eval_f1_macro': '0.7496', 'eval_kappa_quadratique': '0.8997', 'eval_runtime': '0.2247', 'eval_samples_per_second': '1068', 'eval_steps_per_second': '35.6', 'epoch': '1'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.32it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.32it/s]
+{'loss': '0.2809', 'grad_norm': '8.044', 'learning_rate': '2.694e-05', 'epoch': '1.157'}
+{'loss': '0.2469', 'grad_norm': '3.114', 'learning_rate': '2.602e-05', 'epoch': '1.322'}
+{'loss': '0.2834', 'grad_norm': '7.19', 'learning_rate': '2.511e-05', 'epoch': '1.488'}
+{'loss': '0.2622', 'grad_norm': '8.976', 'learning_rate': '2.42e-05', 'epoch': '1.653'}
+{'loss': '0.2595', 'grad_norm': '5.811', 'learning_rate': '2.328e-05', 'epoch': '1.818'}
+{'loss': '0.2353', 'grad_norm': '1.219', 'learning_rate': '2.236e-05', 'epoch': '1.983'}
+{'eval_loss': '0.5694', 'eval_accuracy': '0.8083', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.8006', 'eval_kappa_quadratique': '0.9127', 'eval_runtime': '0.2112', 'eval_samples_per_second': '1136', 'eval_steps_per_second': '37.88', 'epoch': '2'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.17it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.17it/s]
+{'loss': '0.1575', 'grad_norm': '0.5765', 'learning_rate': '2.144e-05', 'epoch': '2.149'}
+{'loss': '0.146', 'grad_norm': '4.189', 'learning_rate': '2.052e-05', 'epoch': '2.314'}
+{'loss': '0.1601', 'grad_norm': '7.429', 'learning_rate': '1.961e-05', 'epoch': '2.479'}
+{'loss': '0.1534', 'grad_norm': '1.592', 'learning_rate': '1.869e-05', 'epoch': '2.645'}
+{'loss': '0.1517', 'grad_norm': '0.2058', 'learning_rate': '1.777e-05', 'epoch': '2.81'}
+{'loss': '0.1489', 'grad_norm': '6.706', 'learning_rate': '1.685e-05', 'epoch': '2.975'}
+{'eval_loss': '0.6129', 'eval_accuracy': '0.8167', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.8', 'eval_kappa_quadratique': '0.9141', 'eval_runtime': '0.2232', 'eval_samples_per_second': '1075', 'eval_steps_per_second': '35.84', 'epoch': '3'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.04it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.04it/s]
+{'loss': '0.09008', 'grad_norm': '0.0801', 'learning_rate': '1.593e-05', 'epoch': '3.14'}
+{'loss': '0.07222', 'grad_norm': '0.1249', 'learning_rate': '1.501e-05', 'epoch': '3.306'}
+{'loss': '0.09875', 'grad_norm': '0.03559', 'learning_rate': '1.41e-05', 'epoch': '3.471'}
+{'loss': '0.08274', 'grad_norm': '3.093', 'learning_rate': '1.318e-05', 'epoch': '3.636'}
+{'loss': '0.1012', 'grad_norm': '3.415', 'learning_rate': '1.226e-05', 'epoch': '3.802'}
+{'loss': '0.08201', 'grad_norm': '0.1061', 'learning_rate': '1.135e-05', 'epoch': '3.967'}
+{'eval_loss': '0.7073', 'eval_accuracy': '0.8375', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.8266', 'eval_kappa_quadratique': '0.9251', 'eval_runtime': '0.213', 'eval_samples_per_second': '1127', 'eval_steps_per_second': '37.56', 'epoch': '4'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.03it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.03it/s]
+{'loss': '0.04098', 'grad_norm': '0.06407', 'learning_rate': '1.043e-05', 'epoch': '4.132'}
+{'loss': '0.05656', 'grad_norm': '0.03051', 'learning_rate': '9.513e-06', 'epoch': '4.298'}
+{'loss': '0.04195', 'grad_norm': '0.02945', 'learning_rate': '8.595e-06', 'epoch': '4.463'}
+{'loss': '0.04649', 'grad_norm': '0.02427', 'learning_rate': '7.677e-06', 'epoch': '4.628'}
+{'loss': '0.06537', 'grad_norm': '0.02464', 'learning_rate': '6.758e-06', 'epoch': '4.793'}
+{'loss': '0.03132', 'grad_norm': '60.7', 'learning_rate': '5.84e-06', 'epoch': '4.959'}
+{'eval_loss': '0.8296', 'eval_accuracy': '0.85', 'eval_a_une_classe_pres': '0.9917', 'eval_f1_macro': '0.8367', 'eval_kappa_quadratique': '0.9236', 'eval_runtime': '0.2225', 'eval_samples_per_second': '1079', 'eval_steps_per_second': '35.95', 'epoch': '5'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.31it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.31it/s]
+{'loss': '0.0188', 'grad_norm': '0.02396', 'learning_rate': '4.922e-06', 'epoch': '5.124'}
+{'loss': '0.04323', 'grad_norm': '0.06336', 'learning_rate': '4.004e-06', 'epoch': '5.289'}
+{'loss': '0.03977', 'grad_norm': '0.01656', 'learning_rate': '3.085e-06', 'epoch': '5.455'}
+{'loss': '0.01332', 'grad_norm': '0.02971', 'learning_rate': '2.167e-06', 'epoch': '5.62'}
+{'loss': '0.0305', 'grad_norm': '0.0196', 'learning_rate': '1.249e-06', 'epoch': '5.785'}
+{'loss': '0.01528', 'grad_norm': '0.04275', 'learning_rate': '3.306e-07', 'epoch': '5.95'}
+{'eval_loss': '0.992', 'eval_accuracy': '0.8375', 'eval_a_une_classe_pres': '0.9958', 'eval_f1_macro': '0.8238', 'eval_kappa_quadratique': '0.9218', 'eval_runtime': '0.2236', 'eval_samples_per_second': '1073', 'eval_steps_per_second': '35.78', 'epoch': '6'}
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.38it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.37it/s]
+{'train_runtime': '471.4', 'train_samples_per_second': '123.1', 'train_steps_per_second': '7.701', 'train_loss': '0.225', 'epoch': '6'}
+
+val_domaine : {'accuracy': 0.838, 'a_une_classe_pres': 0.996, 'f1_macro': 0.827, 'kappa_quadratique': 0.925} | meilleure epoch 4.0 | 7.9 min
+       Anti  Corr  Fort  Divi
+ Anti    54     1     1     0
+ Corr     1    71     4     0
+ Fort     0     6    34    17
+ Divi     0     0     9    42
+Writing model shards:   0%|          | 0/1 [00:00<?, ?it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.94it/s]Writing model shards: 100%|██████████| 1/1 [00:00<00:00,  3.93it/s]

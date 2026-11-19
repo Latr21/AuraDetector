@@ -1,0 +1,106 @@
+# Battle rap 100 % original (aucun MC réel, aucune parole existante). Vers séparés par « / ». « + » = paire (même cible, même thème)
+battle|A|-40 -20 -50 -30 -25|Jsuis le meilleur, personne me bat / Jsuis le meilleur, toi t'es pas là / Jsuis le meilleur, c'est comme ça
++battle|F|60 55 60 60 65|Tu dis que t'es le meilleur, j'ai vérifié la liste / Ton nom est bien en haut… de la page des artistes qu'on zappe
+battle|A|-30 -15 -40 -25 -20|T'es nul, t'es nul, t'es vraiment nul / Ton rap est nul et toi aussi t'es nul
++battle|F|50 45 55 50 45|Je vais pas dire que t'es nul, j'ai trop de respect pour le mot / Il mérite un adversaire qui se donne un peu plus de mal
+battle|A|-20 -10 -30 -15 -10|Toi, moi, toi, moi, c'est moi le roi / Toi t'es pas roi, c'est moi le roi
++battle|C|10 10 5 15 15|On se connaît depuis le collège, toi et moi / Tu rappais déjà mieux que moi, mais moi j'avais le bus à l'heure
+battle|A|-40 -20 -50 -30 -25|Respectez-moi le public, s'il vous plaît, applaudissez / J'ai travaillé mon texte, faut m'encourager
++battle|D|85 80 88 85 88|Je demande pas qu'on m'applaudisse, je demande qu'on se taise / C'est dans le silence qu'on entend les gens tomber de leur chaise
+battle|A|-30 -15 -40 -25 -20|T'as une grosse tête, une tête énorme, t'es moche / Ta tête elle est trop grosse, voilà c'est tout
++battle|F|40 40 45 45 50|Ta tête est grosse ? Normal, elle stocke tout l'ego / Que t'as pas réussi à mettre dans tes couplets
+battle|A|-20 -10 -30 -15 -10|Ma punchline elle est trop forte, vous avez compris ? / Je disais que t'étais un poisson parce que tu nages dans le vide, voilà
++battle|F|50 45 55 50 50|T'es un poisson rouge, trois secondes de mémoire / Tu oublies tes rimes, mais jamais de te croire une star
+battle|A|-40 -20 -50 -30 -25|Je suis un monstre, un lion, un tigre, un requin / Je suis le plus fort et toi t'es rien
++battle|D|88 85 90 88 92|On s'invente des fauves quand on a peur des miroirs / Moi je viens sans animal, juste avec mon histoire, et elle mord plus fort que ton bestiaire
+battle|C|5 10 0 10 10|Bonsoir tout le monde, merci d'être venus / Je vais faire de mon mieux, on verra bien ce qu'il en est
++battle|F|60 55 60 60 65|Bonsoir tout le monde, merci d'être venus en masse / Mon adversaire a ramené sa famille, ça fait trois places de moins dans la salle
+battle|C|10 10 5 10 15|J'ai pas trop dormi, j'ai le trac ce soir / Mais je suis là, je vais rapper, on va voir
++battle|D|80 78 85 82 85|J'ai le trac, je l'avoue, il est assis au premier rang / Il me connaît depuis dix ans, il sait que je finis toujours par le faire taire avant la fin
+battle|A|-30 -15 -40 -25 -20|T'as des fringues de clochard, t'es mal habillé / Tes habits sont nuls et ton style il est raté
++battle|F|50 45 55 55 50|Ta veste a vu plus de battles que toi / Elle au moins, elle a de l'expérience, et elle tient debout quand tu tombes
+battle|A|-20 -10 -30 -15 -10|J'ai trop de flow, j'ai le flow, le flow c'est moi / Personne a le flow comme moi, j'ai le flow, voilà
++battle|C|15 15 10 15 15|Mon flow c'est pas une rivière, c'est un robinet qui fuit / Mais goutte après goutte, je finis toujours par inonder la salle
+battle|A|-40 -20 -50 -30 -25|Je suis venu pour gagner, je vais te détruire, t'exploser / Je vais te tuer avec mes rimes, t'es mort, c'est terminé
++battle|D|85 80 88 85 88|Je suis pas venu pour te détruire, t'as fait le gros du travail / Moi je passe juste signer le constat, et je laisse le jury lire le détail
+battle|C|5 10 0 10 10|Ton premier couplet était pas mal, je l'avoue / Mais le mien sera meilleur, t'inquiète pas pour nous
+battle|F|40 40 45 45 50|Ta carrière c'est un ascenseur bloqué au sous-sol / Tu appuies sur tous les boutons et tu appelles ça monter
+battle|A|-30 -15 -40 -25 -20|Il a dit que j'étais nul mais c'est lui qui est nul / Il dit des trucs nuls, il est nul, c'est lui le nul
++battle|F|60 55 60 60 65|Il a dit que j'étais nul ? Merci, j'ai pris des notes / C'est la première fois qu'il dit quelque chose de mémorable
+battle|A|-20 -10 -30 -15 -10|Je suis trop beau, trop fort, trop riche, trop stylé / Toutes les filles m'aiment et tous les gars sont jaloux
++battle|D|88 85 90 88 92|Je suis pas beau, pas riche, j'ai pas de chaîne en or / J'ai juste des phrases qui restent dans les têtes après que les lumières sont mortes
+battle|C|10 10 5 10 15|Je viens de la banlieue, j'ai grandi là-bas / C'est mon quartier, c'est ma fierté, c'est comme ça
++battle|F|50 45 55 50 55|Je viens d'un quartier où les bus passent une fois par heure / Alors j'ai appris la patience, et à punir ceux qui me font attendre
+battle|A|-40 -20 -50 -30 -25|Mon rap c'est le feu, le feu, le feu, ça brûle / Le feu le feu le feu, ça brûle, ça brûle
++battle|F|40 40 45 45 50|Tu dis que ton rap c'est le feu, je confirme / Il y a de la fumée partout et tout le monde cherche la sortie
+battle|A|-30 -15 -40 -25 -20|T'as pas de talent, t'as pas de talent, t'as aucun talent / C'est tout ce que j'ai à dire, t'as pas de talent
++battle|D|80 78 85 82 85|Le talent c'est un cadeau, toi t'as gardé l'emballage / Tu le montres à tout le monde, et personne n'ose te dire qu'il est vide
+battle|C|15 15 10 15 15|Je suis pas le plus fort, je le sais, mais je bosse / Chaque soir, chaque nuit, j'écris dans mon carnet
+battle|F|60 55 60 60 65|Il rappe depuis dix ans, il a jamais rempli une salle / Sauf ce soir, et c'est pour me voir le battre en direct
+battle|A|-20 -10 -30 -15 -10|Je vais gagner, je vais gagner, c'est sûr que je vais gagner / Vous allez voir, je vais gagner, je gagne toujours
++battle|C|5 10 0 10 10|Je sais pas si je vais gagner, mais je vais pas me cacher / Si je perds, je rentrerai en métro, comme d'habitude
+battle|A|-40 -20 -50 -30 -25|Ton crew c'est des nuls, ton crew c'est des clowns / Ton crew c'est rien du tout, ton crew c'est des clowns
++battle|F|50 45 55 50 55|Ton crew est derrière toi, je le vois, ils sont fidèles / Ils applaudissent même tes blancs, c'est beau la fraternité
+battle|C|10 10 5 10 10|Je remercie l'organisation pour l'invitation / C'est un honneur d'être là, sur cette scène
+battle|D|85 80 88 85 88|Tu cites les anciens comme on cite un gros chèque / Mais la plume ne se signe pas, elle se mérite, et la tienne est à découvert
+battle|A|-30 -15 -40 -25 -20|J'ai écrit ça en cinq minutes et c'est déjà mieux que toi / Cinq minutes et c'est mieux que toi, tu vois
++battle|F|40 40 45 45 50|Tu dis que t'as écrit ça en cinq minutes, ça s'entend / Mais rassure-toi, on t'écoute pas plus longtemps que ça
+battle|A|-20 -10 -30 -15 -10|T'es petit, t'es petit, t'es tout petit / T'es tellement petit qu'on te voit pas
++battle|F|50 45 55 55 55|On dit que t'es petit, moi je trouve pas / Ton ego touche le plafond, c'est juste ton couplet qui reste en bas
+battle|C|5 10 0 10 10|J'ai oublié une phrase, désolé, je reprends / C'était mieux à la répétition, je vous jure
++battle|D|82 80 85 85 85|J'ai oublié une phrase, et alors, c'est pas grave / La mémoire est une vieille amie, elle me lâche juste le temps de voir qui rit trop tôt
+battle|A|-40 -20 -50 -30 -25|Je suis une légende, une légende vivante, une légende / Tout le monde le sait que je suis une légende
++battle|D|88 85 90 88 92|Les légendes ne disent jamais qu'elles en sont / Elles laissent ce boulot aux autres, et repartent avant la chanson
+battle|C|15 15 10 15 15|Mon adversaire est bon, je l'ai vu en vidéo / Mais ce soir c'est moi, et je suis prêt
+battle|F|60 55 60 60 65|Il m'a traité de vieux, je prends ça pour un compliment / Je suis assez vieux pour savoir que tes rimes sont des emprunts, et assez riche pour pas les racheter
+battle|A|-30 -15 -40 -25 -20|Tu sais pas rapper, tu sais pas rapper, tu sais pas / Moi je sais rapper et toi tu sais pas
++battle|C|10 10 5 15 15|Tu sais rapper, j'avoue, mais t'as appris dans le désordre / D'abord la pose, ensuite les rimes, et le fond, t'attends toujours la livraison
+battle|A|-20 -10 -30 -15 -10|Ma rime elle est trop forte, vous avez pas compris ? / Je disais « clé » parce que t'es fermé, vous voyez, fermé, une clé
++battle|D|80 78 85 82 85|Tu cherches la clé du succès depuis des années / Moi j'ai jamais fermé la porte, c'est pour ça que je rentre sans frapper
+battle|C|5 10 0 10 10|Ce soir je suis venu avec mon meilleur texte / Je l'ai répété toute la semaine, j'espère qu'il vous plaira
+battle|F|40 40 45 45 50|Tu dis que la rue t'a élevé, je te crois sur parole / Vu ton éducation, elle a dû te laisser souvent tout seul à l'école
+battle|A|-40 -20 -50 -30 -25|Je vais te frapper, te taper, te défoncer la tête / T'es mort après ce couplet, t'es mort, c'est la fête
++battle|F|50 45 55 50 55|Je vais pas te toucher, je suis pas violent / Je vais juste répéter ton couplet lentement, devant tout le monde, c'est pire
+battle|A|-30 -15 -40 -25 -20|Je suis riche, j'ai de l'argent, j'ai des billets / Plein de billets, toi t'as pas de billets
++battle|D|85 80 88 85 88|Tu parles de billets, moi je compte autrement / J'ai jamais rien vendu, et pourtant ce soir toute la salle me doit un sentiment
+battle|C|10 10 5 10 15|Je suis content de rapper devant vous ce soir / C'est ma première battle, soyez indulgents
+battle|D|90 85 92 90 92|Tu m'as appelé « l'amateur », merci pour la noblesse / Amateur, ça vient d'« aimer », et toi tu fais ça pour qu'on te caresse
+battle|A|-20 -10 -30 -15 -10|C'est moi le boss, le patron, le chef, le boss / Je suis le boss de tout, je suis le boss
++battle|F|60 55 60 60 65|Tu te dis le patron, mais je vois pas d'employés / Juste un stagiaire dans le miroir qui te demande de le payer
+battle|C|15 15 10 15 15|Il a du flow, je reconnais, il a de la technique / Mais moi j'ai le cœur, et ça compte aussi
+battle|F|40 40 45 45 50|Ton flow est rapide, ça c'est vrai, faut le dire / Comme ceux qui parlent vite quand ils savent qu'ils vont mentir
+battle|A|-40 -20 -50 -30 -25|Tu vas perdre, tu vas perdre, t'as déjà perdu / Tout le monde le sait, t'as déjà perdu
++battle|D|82 80 85 85 85|Je te dirai pas que t'as perdu, t'as juste choisi ton rôle / Il en faut un pour tenir l'échelle quand l'autre monte sur l'épaule
+battle|C|5 10 0 10 10|J'ai écrit ça dans le train en venant / Désolé si c'est un peu brouillon
+battle|A|-30 -15 -40 -25 -20|Tu ressembles à un chien, t'es un chien, ouaf ouaf / T'es un chien, voilà, ouaf
++battle|F|50 45 55 55 55|Tu aboies beaucoup pour un chien qu'on promène / Et chaque fois que tu mords, c'est ta propre laisse qui saigne
+battle|A|-20 -10 -30 -15 -10|S'il vous plaît, votez pour moi, j'ai besoin de gagner / Ma mère est dans la salle, faites-le pour elle
++battle|C|10 10 5 10 10|Ma mère est dans la salle, elle a payé sa place / Si je perds, elle va réclamer un remboursement au jury
+battle|D|85 80 88 85 88|T'as un style qui imite, une voix qui imite, des rimes qui imitent / Même ta défaite ce soir, elle a déjà été vue, c'est la mienne d'il y a dix ans
+battle|F|60 55 60 60 65|Tu dis que t'es underground, je te crois / Vu tes ventes, t'es même plus bas que ça
+battle|C|15 15 10 15 15|Je suis pas venu pour clasher, je suis venu partager / Mais si tu insistes, je peux aussi te répondre
+battle|A|-40 -20 -50 -30 -25|Ta mère, ton père, ta sœur, ton frère, tous nuls / Toute ta famille c'est des nuls
++battle|F|40 40 45 45 50|Je parlerai pas de ta famille, elle a assez souffert / Elle a déjà dû écouter tes maquettes au dîner
+battle|A|-30 -15 -40 -25 -20|Je suis meilleur que toi, je suis meilleur que lui / Je suis meilleur que tout le monde, je suis le meilleur aujourd'hui
++battle|D|88 85 90 88 92|Je me compare pas, ça fait perdre du temps / Je me mesure au silence qui suit, et ce soir il est grand
+battle|C|10 10 5 10 15|Ma rime est simple, mais elle est sincère / Je raconte ma vie, je raconte ma mère
+battle|F|50 45 55 50 55|T'as rappé sur la guerre, la rue, la misère / T'as grandi dans un pavillon avec un jardin, mais j'admire l'imaginaire
+battle|A|-20 -10 -30 -15 -10|Yo yo yo, c'est moi, yo, check ça, yo / Je suis là, yo, ouais, yo
++battle|C|5 10 0 10 10|Salut, c'est moi, je suis un peu stressé / Mais je vais faire de mon mieux pour vous divertir
+battle|D|80 78 85 82 85|Il voulait un clash, je lui ai offert un miroir / Il a reculé si vite qu'on a cru que c'était son reflet qui avait peur du noir
+battle|F|60 55 60 60 65|Tu dis que t'as cent mille abonnés, félicitations / Il en manque juste un dans la salle pour que ça fasse une ovation
+battle|A|-40 -20 -50 -30 -25|J'ai pas besoin de rimer, je suis trop fort pour rimer / Les rimes c'est pour les faibles, moi je suis trop fort
++battle|D|85 80 88 85 88|Tu dis que les rimes c'est démodé, c'est pratique / Quand on sait pas les trouver, on appelle ça une esthétique
+battle|C|15 15 10 15 15|J'ai perdu ma dernière battle, je l'avoue / Mais j'ai appris, et ce soir je reviens
+battle|A|-30 -15 -40 -25 -20|T'es qu'une merde, t'es qu'une grosse merde, voilà / C'est tout, t'es une merde
++battle|F|50 45 55 55 55|Je vais pas t'insulter, je serais trop gentil / Je vais juste lire ton dernier texte, c'est plus cruel et c'est gratuit
+battle|C|5 10 0 10 10|Mon adversaire est gentil, on s'est parlé en coulisses / C'est dommage que je doive le battre
+battle|D|90 85 92 90 92|On m'a dit de te respecter parce que t'es un ancien / Mais l'âge, c'est pas un grade, c'est juste du temps passé ; et le tien, tu l'as passé à attendre le mien
+battle|A|-20 -10 -30 -15 -10|J'ai trop la classe, la classe, la classe, la classe / Moi j'ai la classe et toi t'as pas la classe
++battle|F|40 40 45 45 50|Tu dis que t'as la classe, j'ai vu ton costume / Il a l'élégance d'un rideau de douche qui aurait des ambitions
+battle|C|10 10 5 10 10|Je rappe pour le plaisir, pas pour la gloire / Si vous aimez, tant mieux, sinon tant pis
+battle|F|60 55 60 60 65|Il m'a dit « retourne à l'école », bonne idée, je retiens / J'y apprendrai peut-être à compter jusqu'aux votes que t'auras pas demain
+battle|A|-40 -20 -50 -30 -25|Je suis le roi, l'empereur, le pharaon, le sultan / Je suis tout ça en même temps, je suis géant
++battle|D|82 80 85 85 85|Tu t'inventes des couronnes, des trônes, des empires / Moi j'ai qu'un tabouret, mais c'est là que les rois viennent s'asseoir pour écrire
+battle|C|15 15 10 15 15|C'est la finale, je suis fier d'être arrivé là / Quoi qu'il arrive, merci à tous
+battle|D|85 80 88 85 88|T'as clashé mon accent, ma ville, mon prénom / Merci : en trois rimes t'as résumé tout ce que j'ai, et ce que t'auras jamais, une raison

@@ -1,0 +1,383 @@
+﻿id,texte,classe,score,groupe,type,source,classe_7
+T001,ressemble de plus en plus à une fausse promesse.,Aura Correcte,8,RN,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T002,"allez-vous, oui ou non, prendre une lettre rectificative ?",Aura Correcte,6,RN,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T003,La parole est à M. le premier ministre.,Aura Correcte,-2,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T004,Une seule mesure sur l’âge ne suffisait pas.,Aura Correcte,2,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T005,"Soit on croit au dialogue social, soit on n’y croit pas.",Aura Correcte,14,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T006,"Pour sa part, le gouvernement y croit.",Aura Correcte,10,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T007,"Ce sont 3,5 millions de Françaises et de Français qui bénéficieront du gel de la mesure d’âge",Aura Correcte,4,SOC,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T008,"Nous ne vous prenons pas au mot, nous vous jugerons aux actes.",Aura Correcte,22,SOC,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T009,Il est naïf !,Anti-Aura,-14,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T010,Copieurs !,Anti-Aura,-22,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T011,Bis repetita !,Aura Correcte,-6,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T012,La grosse arnaque !,Anti-Aura,-18,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T013,"Vous l’avez compris, la suspension sera bien celle des deux mesures sur l’âge et le nombre de trimestres.",Aura Correcte,-1,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T014,"Des lieux qui disent ce que nous sommes, notre identité et notre héritage.",Aura Correcte,18,HOR,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T015,"Pillages dans les églises rurales, vols dans les musées régionaux comme à Limoges ou à Sarran",Aura Correcte,3,HOR,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T016,"Ce qu’il s’est passé dimanche, au musée du Louvre, est une blessure pour nous tous.",Aura Correcte,9,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T017,les dispositifs de sécurité du musée du Louvre n’ont pas été défaillants.,Aura Correcte,-4,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T018,Les dispositifs de sécurité du musée du Louvre ont fonctionné.,Aura Correcte,-6,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T019,Le président disait qu’il n’y en avait pas !,Aura Correcte,-8,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T020,Il n’y en a pas !,Aura Correcte,-9,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T021,Il n’y en a pas assez !,Aura Correcte,-7,LIOT,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T022,"Tout va bien alors, ne changez rien !",Aura Correcte,6,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T023,"D’accord, et aussi un numéro vert et une cellule de soutien psychologique !",Aura Correcte,12,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T024,À quoi sert une enquête si vous connaissez déjà la réponse ?,Aura Correcte,20,LFI,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T025,Un monte-charge et une disqueuse auront en effet suffi à réaliser le casse du siècle.,Aura Correcte,24,UDR,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T026,"Quelles mesures de sécurisation prévoyez-vous pour y répondre, madame la ministre ?",Aura Correcte,-3,UDR,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T027,Je ne suis pas de ceux ou de celles qui se dérobent.,Aura Correcte,12,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T028,la grève que vous évoquez n’a jamais eu lieu.,Aura Correcte,0,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T029,Ce sont les colliers qui sont dérobés…,Aura Correcte,16,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T030,« Il est temps de guillotiner les privilèges fiscaux des super-riches en France. »,Aura Correcte,18,EcoS,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T031,C’est vrai !,Aura Correcte,-5,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T032,Exactement !,Aura Correcte,-5,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T033,"L’examen du budget est à peine entamé et on a déjà compris : la taxe Zucman, c’est non !",Aura Correcte,10,EcoS,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T034,"Aucune rupture ici, au contraire !",Aura Correcte,4,EcoS,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T035,"La politique des symboles ne corrige pas les injustices, elle crée de la défiance dans le pays",Aura Correcte,16,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T036,"Vous et moi, et nous tous ici, nous croyons dans le travail et dans les entreprises.",Aura Correcte,7,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T037,Une taxe de 2 % n’est pas confiscatoire !,Aura Correcte,2,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T038,Vous taxez davantage le travail que le capital !,Aura Correcte,8,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T039,La parole est à M. François Ruffin.,Aura Correcte,-2,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T040,"Ce que nous voulons, et je crois que nous sommes nombreux dans ce cas, c’est corriger les injustices",Aura Correcte,3,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T041,"Du balai, madame de Montchalin !",Anti-Aura,-12,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T042,"Les Français attendent de nous que cela fonctionne, pas que nous nous battions les uns les autres !",Aura Correcte,13,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T043,Huit ans que vous dites la même chose !,Aura Correcte,2,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T044,La parole est à M. Olivier Serva.,Aura Correcte,-2,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T045,ceux des autres territoires d’outre-mer peuvent toujours attendre.,Aura Correcte,6,LIOT,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T046,"Cette mesure ne vous coûtera rien, car elle sera financée par les entreprises polluantes.",Aura Correcte,5,LIOT,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T047,"La parole est à M. le ministre de l’économie, des finances et de la souveraineté industrielle, énergétique et numérique.",Aura Correcte,-4,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T048,"Je vous remercie pour votre question, car elle me permet de mettre en valeur cette politique publique exceptionnelle,",Anti-Aura,-16,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T049,Il est préférable de ne pas trop le citer !,Aura Correcte,4,DR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T050,"S’il faut débloquer, nous débloquerons !",Aura Correcte,9,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T051,"Monsieur le premier ministre, à six reprises lors de votre déclaration de politique générale, vous avez annoncé la rupture.",Aura Correcte,12,LFI,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T052,"Le budget 2026 n’est pas une rupture, il est le paroxysme de votre politique,",Aura Correcte,20,LFI,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T053,La honte !,Anti-Aura,-15,Non indiqué,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Faible
+T054,quand allez-vous partir et emporter avec vous ce budget de guerre sociale ?,Aura Correcte,14,LFI,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T055,"Il y a une semaine, dans cet hémicycle, votre groupe et vous-même avez fait tous les efforts possibles",Aura Correcte,0,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T056,Non !,Aura Correcte,-10,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T057,Vous n’avez pas écouté !,Aura Correcte,-9,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T058,"Madame la députée, nous savons que vous ne souhaitez pas le compromis ;",Aura Correcte,4,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T059,Ils veulent que vous partiez et que Macron dégage !,Aura Correcte,-4,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T060,Parce que vous méprisez la démocratie !,Aura Correcte,0,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T061,Vous êtes la ministre de la faillite publique !,Aura Correcte,10,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T062,"Vous avez perdu les élections ; sur ce budget, le Rassemblement national est votre assurance-vie !",Aura Correcte,19,LFI,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T063,Vous l’avez perdue !,Aura Correcte,-8,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T064,"vous auriez le pouvoir. Aujourd’hui, il est partagé et le compromis, ça se construit.",Aura Correcte,8,Gouvernement,réponse,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Correcte
+T065,"Chaque année, le Parlement vote les budgets des ministères, qui définissent les missions essentielles de l’État.",Aura Correcte,-1,Non indiqué,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T066,Ce texte a été adopté en dernière lecture et à l’unanimité à l’Assemblée nationale le 29 janvier dernier,Aura Correcte,-2,GDR,question,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N006,Aura Neutre
+T067,Il faut savoir tirer les bienfaits d’une crise.,Aura Correcte,20,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T068,Certains aimeraient voir cette crise parlementaire virer à la crise de régime.,Aura Correcte,15,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T069,"Cela n’aura pas lieu, grâce aux institutions de la Ve République et à ses soutiens.",Aura Correcte,14,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T070,"Soit on change, soit on sera changé. Le dégagisme, c’est cela.",Forte Aura,32,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T071,"Ceux qui ne changent pas, ceux qui s’agrippent aux vieux réflexes et aux postures, disparaîtront.",Forte Aura,33,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T072,"J’ai renoncé à utiliser l’article 49, alinéa 3, de la Constitution.",Aura Correcte,6,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T073,"Le gouvernement proposera, nous débattrons, vous voterez.",Forte Aura,30,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T074,je ne serai pas le premier ministre d’un dérapage des comptes publics.,Aura Correcte,18,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T075,Le gouvernement sera du côté des travailleurs et de celles et ceux qui veulent travailler.,Aura Correcte,7,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T076,Aucun relèvement de l’âge n’interviendra à partir de maintenant jusqu’à janvier 2028,Aura Correcte,0,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T077,Je le dis très directement : suspendre pour suspendre n’a aucun sens.,Aura Correcte,13,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T078,"Certains veulent des systèmes par points, d’autres par capitalisation",Aura Correcte,-2,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T079,Il ne faut pas décentraliser des compétences mais décentraliser des responsabilités,Aura Correcte,17,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T080,Cela est facile : il me suffit de me sentir utile à mon pays.,Aura Correcte,21,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T081,Je vous propose d’avancer.,Aura Correcte,9,Gouvernement,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T082,La séance est ouverte.,Aura Correcte,-1,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T083,"En votre nom à tous, je tiens à adresser les félicitations de la représentation nationale",Aura Correcte,1,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T084,"J’ai pris acte, lundi 13 octobre 2025, du dépôt de deux motions de censure",Aura Correcte,-3,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T085,La conférence des présidents a décidé ce matin que la discussion des deux motions de censure aurait lieu ce jeudi,Aura Correcte,-4,Présidence,procédure,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T086,C’est bientôt la fin !,Aura Correcte,-6,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T087,Et les aides-soignantes ? Les AESH ?,Aura Correcte,-1,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T088,C’est déjà le cas !,Aura Correcte,-7,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T089,C’est totalement faux !,Aura Correcte,-10,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T090,"Là, on change !",Aura Correcte,3,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T091,C’est du pipeau !,Anti-Aura,-12,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T092,C’est ce que vous faites !,Aura Correcte,-9,UDR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T093,"Ceux qui s’accrochent, c’est vous !",Aura Correcte,6,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T094,Vos rires sarcastiques sont l’illustration de votre incapacité à vous poser les bonnes questions !,Aura Correcte,8,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T095,La France a besoin d’un minimum de stabilité.,Aura Correcte,3,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T096,"Priver la France de budget, c’est aggraver notre déficit public, déjà le plus élevé de la zone euro.",Aura Correcte,9,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T097,Nous ne laisserons pas la gauche et La France insoumise imposer un budget contraire aux intérêts du pays.,Aura Correcte,12,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T098,La plus grande injustice en France est que le travail ne paie pas.,Aura Correcte,22,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T099,"Ce n’est pas aux Français qui travaillent et qui ont travaillé toute leur vie de faire des efforts, c’est à l’État de faire des efforts",Aura Correcte,20,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T100,"Ceux qui nous écoutent ne l’entendent pas mais, au moment où je parle, des personnes hurlent aux deux bouts de cet hémicycle",Aura Correcte,15,DR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T101,"Aujourd’hui, le trouble de l’État, c’est vous.",Forte Aura,26,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T102,La réforme des retraites est une faute originelle ;,Aura Correcte,18,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T103,"elle est désormais, je l’avoue avec étonnement, l’assurance-vie des macronistes.",Aura Correcte,21,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T104,Cette politique coûteuse accroît les profits et non les emplois.,Aura Correcte,10,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T105,Voilà la réalité derrière votre novlangue macroniste.,Aura Correcte,12,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T106,un gouvernement subordonné à Emmanuel Macron.,Aura Correcte,4,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T107,La décision du peuple doit toujours primer.,Aura Correcte,14,EcoS,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T108,Ils ont d’abord dit : « Nous ne voulons pas de l’extrême droite au pouvoir. »,Aura Correcte,5,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T109,"Mais le vote n’est pas une loterie ; on ne continue pas à jouer jusqu’à espérer gagner, car ce n’est pas un jeu.",Aura Correcte,22,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T110,Abandonnant la stratégie de la cravate pour celle de la cravache,Forte Aura,34,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T111,On ne teste pas la Constitution ; on la respecte.,Forte Aura,30,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T112,"Sans 49.3, personne ne pourra se défausser ; tout le monde devra assumer.",Aura Correcte,18,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T113,"Nous, Démocrates, vous nous trouverez sur le chemin de la responsabilité",Aura Correcte,12,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T114,"Nous devons dès maintenant – pas dans six mois, pas dans dix-huit – donner une perspective à la France.",Aura Correcte,24,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T115,La suspension de la réforme est un pari ou un risque pour nos finances publiques.,Aura Correcte,4,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T116,Le monde avance ; nos compétiteurs ne nous attendent pas.,Aura Correcte,16,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T117,"Personne n’a à renier ses convictions, mais tout le monde doit faire un pas.",Aura Correcte,19,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T118,Comptez sur nous pour continuer de dire la vérité et de nous baser sur le réel.,Aura Correcte,6,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T119,"Nous voulons aussi que ce budget puisse être celui de la justice fiscale, que notre groupe défend continûment depuis 2017.",Aura Correcte,2,Dem,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T120,C’est vous qui la divisez !,Aura Correcte,-6,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T121,"Il est où, Retailleau ?",Aura Correcte,-4,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T122,C’est un budget socialiste !,Aura Correcte,-5,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T123,Ce sera sans toi !,Aura Correcte,-3,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T124,Vous êtes des menteurs !,Anti-Aura,-16,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T125,Vous avez perdu !,Aura Correcte,-10,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T126,Quel triste spectacle offrons-nous du débat public !,Aura Correcte,10,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T127,nous ne sommes que de piètres comédiens qui n’amusent plus personne.,Aura Correcte,20,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T128,"Notre pays n’a pas besoin d’égoïsme, mais de stabilité.",Aura Correcte,12,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T129,Nous n’accepterons aucun accord dont la France sortirait perdante,Aura Correcte,8,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T130,C’est une folie !,Aura Correcte,-6,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T131,Nous ne voterons pas n’importe quoi.,Aura Correcte,1,HOR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T132,Nous payons encore les conséquences de la dissolution désastreuse de 2024.,Aura Correcte,7,LIOT,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T133,"Monsieur le premier ministre, votre première mission sera de vous libérer de cette tutelle présidentielle.",Aura Correcte,17,LIOT,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T134,Notre indépendance est notre ADN.,Aura Correcte,9,LIOT,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T135,le coût de la censure et de la dissolution serait largement supérieur,Aura Correcte,-3,LIOT,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T136,Nous sommes convaincus que le travail doit payer plus.,Aura Correcte,5,LIOT,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T137,nous avons surtout retenu la continuité.,Aura Correcte,14,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T138,"Votre projet de budget, comme celui de François Bayrou, n’est qu’un concentré de mépris de classe.",Aura Correcte,16,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T139,Nous le savons depuis Marx : le capital n’a pas de patrie.,Aura Correcte,24,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T140,"Pour nous, Bayrou et Lecornu, c’est bonnet blanc et blanc bonnet.",Aura Correcte,15,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T141,"Ordonnances, article 40, vote bloqué, voilà un aperçu de l’arsenal dont vous disposez.",Aura Correcte,13,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T142,nous savons bien que vous refusez ce qui est essentiel à nos yeux : l’abrogation de la réforme !,Aura Correcte,6,GDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T143,Très bien !,Aura Correcte,-4,Dem,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T144,"Augmenter les salaires, peut-être ?",Aura Correcte,2,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T145,Mais ça va pas ?,Anti-Aura,-13,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T146,Vers la cohabitation !,Aura Correcte,1,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T147,Vous gouvernez depuis huit ans !,Aura Correcte,-1,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T148,"Et l’accord de Paris, ce n’est pas un engagement international ?",Aura Correcte,3,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T149,Il a raison !,Aura Correcte,-6,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T150,C’est l’alliance des percepteurs d’impôts !,Aura Correcte,11,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T151,"Nous, nous avons un programme !",Aura Correcte,-3,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T152,Il fallait commencer par respecter le vote des Français il y a un an !,Aura Correcte,4,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T153,Et les recettes ?,Aura Correcte,-2,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T154,On est bien d’accord !,Aura Correcte,-6,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T155,La parole aux travailleurs !,Aura Correcte,8,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T156,Et aux travailleuses !,Aura Correcte,5,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T157,Et de vider les caisses de la Sécu !,Aura Correcte,-3,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T158,Vous préférez la carte rouge !,Aura Correcte,6,DR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T159,"C’est sûr ! Quelle provocation, en effet !",Aura Correcte,0,GDR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T160,Oh !,Anti-Aura,-12,Gouvernement,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T161,Très juste !,Aura Correcte,-4,EcoS,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T162,"Le chaos, c’est vous ! L’irresponsabilité, c’est vous ! La chienlit, c’est vous !",Forte Aura,34,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T163,Nous avons face à nous le premier ministre le plus faible de l’histoire de la Ve République.,Aura Correcte,14,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T164,L’obstination narcissique d’Emmanuel Macron porte un suicide national.,Aura Correcte,12,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T165,Votre tour de garde d’un président déchu sera bref.,Forte Aura,26,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T166,Vous êtes un premier ministre faible et prêt à saborder la compétitivité de nos entreprises,Aura Correcte,8,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T167,l’otage consentant du Parti socialiste,Aura Correcte,18,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T168,Soyez cohérents : censurez le gouvernement jeudi matin !,Aura Correcte,10,UDR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T169,Vous avez peur du peuple de France.,Aura Correcte,18,RN,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T170,"Pour la rupture, vous repasserez !",Aura Correcte,14,RN,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T171,"Nous, ici, avec Marine Le Pen, nous sommes le cri du peuple.",Aura Correcte,22,RN,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T172,"Vous nous aviez promis la rupture, tant sur la forme que sur le fond, mais nous aurons la continuité",Aura Correcte,12,RN,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T173,"nous voulons que le gouvernement réussisse ; deuxièmement, nous voulons qu’un budget soit voté d’ici à la fin de l’année",Aura Correcte,3,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T174,la stabilité ici envisagée n’est pas un immobilisme ; elle est un mouvement par le compromis,Aura Correcte,16,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T175,"Notre idéal est un changement de système, car notre système est en train de mourir",Aura Correcte,20,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T176,Mettons-nous au travail ! Au travail pour un budget ! Au travail pour réformer ! Au travail pour les Français !,Forte Aura,30,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T177,"Nous n’avons jamais tracé de ligne rouge, jamais exigé le moindre poste, jamais jeté l’anathème sur un nom.",Forte Aura,28,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T178,ils attendent de nous des actes,Aura Correcte,5,EPR,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T179,Quelle honte !,Anti-Aura,-12,UDR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T180,C’est vous !,Aura Correcte,-8,UDR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T181,Il le dit lui-même !,Aura Correcte,-3,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T182,"Ça y est, des remarques sur le physique !",Aura Correcte,2,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T183,Menteur !,Anti-Aura,-16,SOC,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Faible
+T184,C’est faux !,Aura Correcte,-9,EPR,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T185,votre présence devant nous est un affront à la démocratie.,Aura Correcte,14,LFI,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T186,"Il n’est pas d’éruption volcanique sans fissure dans la couche terrestre,",Forte Aura,26,LFI,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T187,Le second mandat d’Emmanuel Macron est un mandat pour rien.,Aura Correcte,18,LFI,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T188,"Monsieur le premier ministre, nous allons agrandir la brèche jour après jour, lutte après lutte,",Forte Aura,30,LFI,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T189,"ce qui se joue en effet, ce n’est pas l’avenir du macronisme",Aura Correcte,12,SOC,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T190,Ce qui se joue est bien plus grand : c’est la démocratie elle-même.,Forte Aura,26,SOC,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Forte Aura
+T191,que préférez-vous : la soumission aux maîtres chanteurs du Rassemblement national ou la responsabilité républicaine,Aura Correcte,20,SOC,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Correcte
+T192,"ce signe, c’est la suspension de la réforme des retraites.",Aura Correcte,2,SOC,discours,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T193,"Allez, dites « censure » : c’est pas compliqué !",Aura Correcte,-2,LFI,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T194,Vous avez voté pour lui !,Aura Correcte,-5,RN,interjection,https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N003,Aura Neutre
+T195,"Demain, dès l'aube, à l'heure où blanchit la campagne,
+Je partirai. Vois-tu, je sais que tu m'attends.
+J'irai par la forêt, j'irai par la montagne.
+Je ne puis demeurer loin de toi plus longtemps.",Aura Divine,85,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T196,"Sois sage, ô ma Douleur, et tiens-toi plus tranquille.
+Tu réclamais le Soir ; il descend ; le voici :",Aura Divine,82,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T197,"Le Poète est semblable au prince des nuées
+Qui hante la tempête et se rit de l'archer ;
+Exilé sur le sol au milieu des huées,
+Ses ailes de géant l'empêchent de marcher.",Aura Divine,88,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T198,"Les sanglots longs
+Des violons
+De l'automne
+Blessent mon cœur
+D'une langueur
+Monotone.",Forte Aura,72,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T199,"Je m'en allais, les poings dans mes poches crevées ;
+Mon paletot aussi devenait idéal ;",Forte Aura,70,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T200,"Je suis jeune, il est vrai ; mais aux âmes bien nées
+La valeur n'attend point le nombre des années.",Aura Divine,86,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T201,"À vaincre sans péril, on triomphe sans gloire.",Aura Divine,80,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T202,"Je le vis, je rougis, je pâlis à sa vue ;
+Un trouble s'éleva dans mon âme éperdue ;",Aura Divine,78,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T203,"Heureux qui, comme Ulysse, a fait un beau voyage,
+Ou comme cestuy-là qui conquit la toison,
+Et puis est retourné, plein d'usage et raison,
+Vivre entre ses parents le reste de son âge !",Forte Aura,74,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T204,"Mignonne, allons voir si la rose
+Qui ce matin avait déclose
+Sa robe de pourpre au soleil,",Forte Aura,68,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T205,"Ô temps ! suspends ton vol, et vous, heures propices !
+Suspendez votre cours :",Aura Divine,80,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T206,"Gémir, pleurer, prier est également lâche.
+Fais énergiquement ta longue et lourde tâche
+Dans la voie où le Sort a voulu t'appeler,
+Puis après, comme moi, souffre et meurs sans parler.",Aura Divine,92,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T207,"Ceux qui vivent, ce sont ceux qui luttent ;",Forte Aura,66,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T208,"Homme libre, toujours tu chériras la mer !",Forte Aura,72,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T209,"Je suis le Ténébreux, — le Veuf, — l'Inconsolé,
+Le Prince d'Aquitaine à la Tour abolie :
+Ma seule Étoile est morte, — et mon luth constellé
+Porte le Soleil noir de la Mélancolie.",Aura Divine,95,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T210,"Je suis belle, ô mortels ! comme un rêve de pierre,",Aura Divine,84,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T211,"La chair est triste, hélas ! et j'ai lu tous les livres.",Aura Divine,86,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T212,"Sous le pont Mirabeau coule la Seine
+Et nos amours
+Faut-il qu'il m'en souvienne
+La joie venait toujours après la peine",Aura Divine,76,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T213,"Il pleure dans mon cœur
+Comme il pleut sur la ville ;",Forte Aura,65,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T214,Nous avons tous assez de force pour supporter les maux d'autrui.,Forte Aura,62,-,maxime,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T215,Le cœur a ses raisons que la raison ne connaît point.,Aura Divine,78,-,maxime,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T216,"L'homme n'est qu'un roseau, le plus faible de la nature ; mais c'est un roseau pensant.",Aura Divine,82,-,maxime,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T217,"Rome, l'unique objet de mon ressentiment !",Forte Aura,70,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T218,Pour qui sont ces serpents qui sifflent sur vos têtes ?,Forte Aura,74,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T219,Waterloo ! Waterloo ! Waterloo ! morne plaine !,Forte Aura,72,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T220,J'ai embrassé l'aube d'été.,Forte Aura,70,-,poésie,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T221,"Je veux qu'on soit sincère, et qu'en homme d'honneur,
+On ne lâche aucun mot qui ne parte du cœur.",Forte Aura,52,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T222,"Franchement, il est bon à mettre au cabinet.",Forte Aura,42,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Forte Aura
+T223,"C'est un roc !… c'est un pic !… c'est un cap !
+Que dis-je, c'est un cap ?… C'est une péninsule !",Aura Divine,90,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T224,"Mais on ne se bat pas dans l'espoir du succès !
+Non ! non, c'est bien plus beau lorsque c'est inutile !",Aura Divine,88,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T225,"Parce que vous êtes un grand seigneur, vous vous croyez un grand génie !… Vous vous êtes donné la peine de naître, et rien de plus.",Aura Divine,84,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T226,Il faut cultiver notre jardin.,Forte Aura,40,-,maxime,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Forte Aura
+T227,"Parce que c'était lui, parce que c'était moi.",Aura Divine,80,-,prose,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T228,"Bon appétit, messieurs ! — Ô ministres intègres !
+Conseillers vertueux ! voilà votre façon
+De servir, serviteurs qui pillez la maison !",Aura Divine,86,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T229,"De l'audace, encore de l'audace, toujours de l'audace, et la France est sauvée !",Aura Divine,85,Historique,discours,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T230,"Le courage, c'est de chercher la vérité et de la dire.",Forte Aura,74,Historique,discours,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T231,"Je ne suis pas, messieurs, de ceux qui croient qu'on peut supprimer la souffrance en ce monde ; la souffrance est une loi divine ; mais je suis de ceux qui pensent et qui affirment qu'on peut détruire la misère.",Aura Divine,76,Historique,discours,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Divine
+T232,"Maître Corbeau, sur un arbre perché,
+Tenait en son bec un fromage.",Aura Correcte,20,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Correcte
+T233,"Apprenez que tout flatteur
+Vit aux dépens de celui qui l'écoute.",Forte Aura,60,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T234,"Le Corbeau, honteux et confus,
+Jura, mais un peu tard, qu'on ne l'y prendrait plus.",Anti-Aura,-28,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Faible
+T235,"La chétive pécore
+S'enfla si bien qu'elle creva.",Anti-Aura,-45,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Anti-Aura
+T236,"Vous chantiez ? j'en suis fort aise :
+Eh bien ! dansez maintenant.",Forte Aura,58,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Légendaire
+T237,"Je vous paierai, lui dit-elle,
+Avant l'août, foi d'animal,
+Intérêt et principal.",Anti-Aura,-24,-,fable,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Faible
+T238,"Votre prudence est endormie,
+De traiter magnifiquement
+Et de loger superbement
+Votre plus cruelle ennemie.",Anti-Aura,-22,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Faible
+T239,Par ma foi ! il y a plus de quarante ans que je dis de la prose sans que j'en susse rien.,Anti-Aura,-15,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Faible
+T240,"L'espoir, il est vrai, nous soulage,
+Et nous berce un temps notre ennui ;",Anti-Aura,-18,-,théâtre,"Littérature du domaine public (cité de mémoire, à vérifier sur Wikisource)",Aura Faible
+T241,La langue de la République est le français.,Aura Correcte,0,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T242,"L'emblème national est le drapeau tricolore, bleu, blanc, rouge.",Aura Correcte,-3,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T243,La souveraineté nationale appartient au peuple qui l'exerce par ses représentants et par la voie du référendum.,Aura Correcte,3,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T244,Le Président de la République est élu pour cinq ans au suffrage universel direct.,Aura Correcte,-4,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T245,"Tout fait quelconque de l'homme, qui cause à autrui un dommage, oblige celui par la faute duquel il est arrivé à le réparer.",Aura Correcte,2,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T246,"Les lois et, lorsqu'ils sont publiés, les actes administratifs entrent en vigueur à la date qu'ils fixent ou, à défaut, le lendemain de leur publication.",Aura Correcte,-6,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T247,Chacun a droit au respect de sa vie privée.,Aura Correcte,4,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T248,Les hommes naissent et demeurent libres et égaux en droits.,Forte Aura,45,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Forte Aura
+T249,Tout conducteur doit se tenir constamment en état et en position d'exécuter commodément et sans délai toutes les manœuvres qui lui incombent.,Aura Correcte,-5,-,texte officiel,"Constitution, DDHC, Code civil, Code de la route (texte officiel, cité de mémoire)",Aura Neutre
+T250,Vous… vous avez un nez… heu… un nez… très grand.,Anti-Aura,-55,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Anti-Aura
+T251,"Maraud, faquin, butor de pied plat ridicule !",Anti-Aura,-30,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Faible
+T252,Bouffon !,Anti-Aura,-25,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Faible
+T253,Un hobereau qui… qui… n’a même pas de gants !,Anti-Aura,-45,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Anti-Aura
+T254,"En m’insultant, Monsieur, vous insultez Thalie !",Anti-Aura,-20,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Faible
+T255,Mais le duc de Candale a le bras long !,Anti-Aura,-25,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Faible
+T256,Au secours ! À la garde !,Anti-Aura,-40,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Faible
+T257,"Ah ?… Et moi, Cyrano-Savinien-Hercule
+De Bergerac.",Aura Divine,82,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Divine
+T258,"Moi, c’est moralement que j’ai mes élégances.",Aura Divine,80,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Divine
+T259,"Je fais, en traversant les groupes et les ronds,
+Sonner les vérités comme des éperons.",Aura Divine,85,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Divine
+T260,"Qu’à la fin de l’envoi, je touche.",Forte Aura,70,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Légendaire
+T261,"Prince, demande à Dieu pardon !",Forte Aura,50,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_I,Aura Légendaire
+T262,"Non, merci ! Chez le bon éditeur de Sercy
+Faire éditer ses vers en payant ? Non, merci !",Forte Aura,65,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Légendaire
+T263,"Mais… chanter,
+Rêver, rire, passer, être seul, être libre,",Aura Divine,80,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Divine
+T264,"Pour un oui, pour un non, se battre, — ou faire un vers !",Forte Aura,70,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Légendaire
+T265,"La Haine est un carcan, mais c’est une auréole !",Aura Divine,78,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Divine
+T266,Vous êtes fier.,Aura Correcte,2,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Neutre
+T267,"Vraiment, vous l’avez remarqué ?",Forte Aura,45,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Forte Aura
+T268,"Un poète est un luxe, aujourd’hui, qu’on se donne.",Aura Correcte,15,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Correcte
+T269,"Impossible, Monsieur ; mon sang se coagule
+En pensant qu’on y peut changer une virgule.",Forte Aura,65,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Légendaire
+T270,"Je me le paye, en me le chantant à moi-même !",Forte Aura,50,-,théâtre,https://fr.wikisource.org/wiki/Cyrano_de_Bergerac_(Rostand)/Acte_II,Aura Légendaire
+T271,ce roi bien-aimé à qui aucune branche de la prospérité publique ou particulière n’est indifférente,Anti-Aura,-30,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T272,Continuez ! persévérez !,Anti-Aura,-15,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T273,la France respire !…,Anti-Aura,-12,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T274,Vous ne me repoussez pas ! Vous êtes bonne !,Anti-Aura,-25,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T275,Car jamais je n’ai trouvé dans la société de personne un charme aussi complet.,Anti-Aura,-15,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T276,"Comme je resterais ce soir, demain, les autres jours, toute ma vie !",Anti-Aura,-20,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T277,Fumiers.,Aura Correcte,0,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Neutre
+T278,Pour un bélier mérinos…,Aura Correcte,-2,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Neutre
+T279,"Croyez-vous qu’il faille, pour être agronome, avoir soi-même labouré la terre ou engraissé des volailles ?",Anti-Aura,-18,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T280,Plût à Dieu que nos agriculteurs fussent des chimistes,Anti-Aura,-15,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Faible
+T281,Quel fanatisme !,Aura Correcte,-5,-,roman,https://fr.wikisource.org/wiki/Madame_Bovary/Deuxi%C3%A8me_partie/08,Aura Neutre
+T282,"Le plus lourd fardeau, c'est d'exister sans vivre.",Aura Divine,80,-,poésie,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Divine
+T283,L'homme est une prison où l'âme reste libre.,Aura Divine,82,-,poésie,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Divine
+T284,"Nais, grandis, rêve, souffre, aime, vis, vieillis, tombe.",Aura Divine,88,-,poésie,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Divine
+T285,"Désobéir, c'est chercher.",Forte Aura,65,-,maxime,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Légendaire
+T286,Les révolutions sont de magnifiques improvisatrices.,Forte Aura,60,-,prose,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Légendaire
+T287,"Avant une république, ayons, s'il se peut, une chose publique.",Forte Aura,62,-,prose,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Légendaire
+T288,"Sans la moindre métaphore et dans toute l'acception du mot, vivre, c'est brûler.",Forte Aura,60,-,prose,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Légendaire
+T289,Ne soyons plus anglais ni français ni allemands. Soyons européens.,Forte Aura,45,Historique,discours,https://fr.wikiquote.org/wiki/Victor_Hugo,Forte Aura
+T290,"Pour croire à la pieuvre, il faut l'avoir vue.",Aura Correcte,20,-,prose,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Correcte
+T291,Rêver est permis aux vaincus ; se souvenir est permis aux solitaires.,Aura Divine,80,-,prose,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Divine
+T292,Les maîtres d'écoles sont des jardiniers en intelligences humaines.,Forte Aura,40,-,maxime,https://fr.wikiquote.org/wiki/Victor_Hugo,Forte Aura
+T293,"Dieu n'avait fait que l'eau, mais l'homme a fait le vin !",Forte Aura,50,-,poésie,https://fr.wikiquote.org/wiki/Victor_Hugo,Aura Légendaire
+T294,Toute douleur qui n'aide personne est absurde.,Forte Aura,60,-,prose,https://fr.wikiquote.org/wiki/Andr%C3%A9_Malraux,Aura Légendaire
+T295,"il ne faut pas neuf mois, il faut soixante ans pour faire un homme",Aura Divine,78,-,prose,https://fr.wikiquote.org/wiki/Andr%C3%A9_Malraux,Aura Divine
+T296,la tragédie de la mort est en ceci qu’elle transforme la vie en destin,Aura Divine,85,-,prose,https://fr.wikiquote.org/wiki/Andr%C3%A9_Malraux,Aura Divine
+T297,"La culture, c'est ce qui répond à l'homme quand il se demande ce qu'il fait sur la terre.",Forte Aura,65,-,discours,https://fr.wikiquote.org/wiki/Andr%C3%A9_Malraux,Aura Légendaire
+T298,On ne pense pas sans danger contre la masse des hommes.,Forte Aura,50,-,prose,https://fr.wikiquote.org/wiki/Andr%C3%A9_Malraux,Aura Légendaire
+T299,Je vais vers l’Orient compliqué avec des idées simples.,Aura Divine,76,Historique,discours,https://fr.wikiquote.org/wiki/Charles_de_Gaulle,Aura Divine
+T300,"Pourquoi voulez-vous qu’à 67 ans, je commence une carrière de dictateur ?",Forte Aura,60,Historique,discours,https://fr.wikiquote.org/wiki/Charles_de_Gaulle,Aura Légendaire
+T301,"Je ne vais pas mal, mais rassurez-vous un jour je ne manquerai pas de mourir.",Forte Aura,55,Historique,discours,https://fr.wikiquote.org/wiki/Charles_de_Gaulle,Aura Légendaire
+T302,Notre maison brûle et nous regardons ailleurs.,Forte Aura,70,Historique,discours,https://fr.wikiquote.org/wiki/Jacques_Chirac,Aura Légendaire
+T303,"Un chef, c'est fait pour cheffer.",Anti-Aura,-12,Historique,discours,https://fr.wikiquote.org/wiki/Jacques_Chirac,Aura Faible
+T304,"À trop vouloir expliquer l'inexplicable, on finit par excuser l'inexcusable.",Forte Aura,45,Historique,discours,https://fr.wikiquote.org/wiki/Nicolas_Sarkozy,Forte Aura
+T305,"Vous voulez moins de riches, je veux moins de pauvres.",Forte Aura,55,Historique,débat,https://fr.wikiquote.org/wiki/Nicolas_Sarkozy,Aura Légendaire
+T306,"N'ayant pas de colonne vertébrale, il fait fi de toute sincérité ou conviction, il s'adapte.",Forte Aura,30,Historique,discours,https://fr.wikiquote.org/wiki/Marine_Le_Pen,Forte Aura
+T307,L'UMP va exploser. Ce parti n'est même pas capable de définir sa ligne politique pour les présentes élections.,Aura Correcte,5,Historique,discours,https://fr.wikiquote.org/wiki/Marine_Le_Pen,Aura Correcte
+T308,"Quand la conviction ne fonctionne pas, il ne faut pas s'en prendre aux pas convaincus mais aux pas convaincants.",Forte Aura,55,Historique,discours,https://www.citation-celebre.com/citations/245419,Aura Légendaire
+T309,Ils peuvent toujours nommer Donald à l'Europe ; c'est quand même Picsou qui commande.,Forte Aura,45,Historique,discours,https://www.linternaute.fr/citation/auteur/jean-luc-melenchon/246644/,Forte Aura
+T310,Il ne faut pas donner de voix à Mme Le Pen ! Il ne faut pas donner une seule voix à Mme Le Pen !,Forte Aura,30,Historique,discours,https://www.dicocitations.com/citations/citation-174553.php,Forte Aura
+T311,"Moi, président de la République, je ferai en sorte que mon comportement soit en chaque instant exemplaire.",Forte Aura,30,Historique,débat,https://www.citation-celebre.com/citations/123014,Forte Aura
+T312,Je suis le président des bisous.,Anti-Aura,-20,Historique,discours,https://www.citation-celebre.com/auteur/francois-hollande,Aura Faible
+T313,Ne pas faire carrière est la meilleure façon de réussir.,Forte Aura,30,Historique,discours,https://www.editionsleduc.com/extract/2423,Forte Aura
+T314,"Je veux que les joueurs dorment aussi bien que moi, c'est-à-dire pas du tout. C'est ce que je leur souhaite.",Forte Aura,42,Sport,conférence de presse,https://m.maxifoot.fr/football/article-63515.htm,Forte Aura
+T315,"Mais oui, vous avez raison, j'aurais dû remporter six fois la Ligue des Champions pour être reconnu comme un entraîneur à succès",Forte Aura,30,Sport,conférence de presse,https://m.maxifoot.fr/football/article-64203.htm,Forte Aura
+T316,"Des vacances méritées ? Très méritées, j'espère avoir des vacances sans conférence de presse. Pas de conférence de presse, pas de journaliste.",Aura Correcte,14,Sport,conférence de presse,https://www.maxifoot.fr/football/article-63392.htm,Aura Correcte
+T317,"La première chose que j'ai dite à mon équipe, c'est que je n'ai jamais pleuré après avoir perdu. Et aujourd'hui, j'ai pleuré quand je suis rentré dans le vestiaire",Aura Correcte,8,Sport,conférence de presse,https://m.maxifoot.fr/football/article-63515.htm,Aura Correcte
+T318,L'équipe de la FIFA est une blague. C'est incroyable. C'est une grosse blague. Je n'arrive pas à croire qu'il ne soit pas là,Anti-Aura,-14,Sport,conférence de presse,https://www.maxifoot.fr/football/article-63392.htm,Aura Faible
+T319,La confiance ne s’achète pas au supermarché.,Forte Aura,32,Sport,interview,https://inside.fifa.com/fr/news/l-hebdo-des-bons-mots-2845775,Forte Aura
+T320,Il faut qu’on y va.,Anti-Aura,-32,Sport,interview,https://editionsleduc.com/extract/4609,Aura Faible
+T321,C’était un coup de choc pour nous.,Anti-Aura,-22,Sport,interview,https://editionsleduc.com/extract/4609,Aura Faible
+T322,Qui aurait pu dire que j’allais devenir le meilleur footballeur français ?,Anti-Aura,-28,Sport,interview,https://editionsleduc.com/extract/4609,Aura Faible
+T323,Mais je me vois toujours comme le meilleur.,Forte Aura,28,Sport,conférence de presse,https://www.maxifoot.fr/football/article-18041.htm,Forte Aura
+T324,J'en ai plein le c.. !,Anti-Aura,-26,Sport,entraînement,https://www.maxifoot.fr/football/article-21069.htm,Aura Faible
+T325,L'Eredivisie est l'une des ligues les plus faibles d'Europe.,Aura Correcte,3,Sport,conférence de presse,https://m.maxifoot.fr/football/article-59141.htm,Aura Neutre
+T326,"7 minutes de jeu, pas d'occasion de but, alors voici un gif de chat. Ça marche toujours les gifs de chat.",Aura Correcte,14,Marque,tweet de marque,https://www.slate.fr/story/118847/yolande-commente-coup-com-tf1,Aura Correcte
+T327,A deux doigts d'inventer le cheeseburger.,Forte Aura,38,Marque,tweet de marque,https://jai-un-pote-dans-la.com/top-20-meilleurs-tweet-community-managers/,Forte Aura
+T328,Citez un mot plus beau que “Amour”,Aura Correcte,6,Marque,tweet de marque,https://www.agorapulse.com/fr/blog/gestion-crise-bad-buzz-reseaux-sociaux,Aura Correcte
+T329,Quel est le comble pour notre site ? De planter #OVHGATE,Aura Correcte,16,Marque,tweet de marque,https://www.agorapulse.com/fr/blog/gestion-crise-bad-buzz-reseaux-sociaux,Aura Correcte
+T330,Pensez à souscrire une assurance vie car les accidents sont vite arrivés #Rip #Total,Anti-Aura,-75,Marque,tweet de marque,https://openclassrooms.com/courses/7169011-gerez-votre-e-reputation-et-votre-influence-de-marque/7395168-agissez-pendant-la-crise,Anti-Aura

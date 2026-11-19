@@ -1,0 +1,41 @@
+# Validation battle (40 textes originaux, distincts du train)
+battle|A|-30 -15 -40 -25 -20|T'es naze, t'es naze, t'es vraiment naze / Voilà ce que je pense, t'es naze
+battle|A|-40 -20 -50 -30 -25|Je suis le plus fort, le plus fort de tous / Personne est plus fort, je suis le plus fort
+battle|A|-20 -10 -30 -15 -10|Votez pour moi s'il vous plaît, j'ai besoin de ça / J'ai vraiment besoin de gagner
+battle|A|-30 -15 -40 -25 -20|Ta tronche elle est bizarre, t'as une tronche bizarre / C'est bizarre ta tronche
+battle|A|-40 -20 -50 -30 -25|Je suis le roi du rap, le roi, le roi / Vive le roi, c'est moi
+battle|A|-20 -10 -30 -15 -10|Ma rime c'était trop fort, je réexplique : / « Bus » comme le bus, parce que tu te fais écraser, vous voyez
+battle|A|-30 -15 -40 -25 -20|J'ai trop d'argent, trop de vues, trop de tout / Toi t'as rien du tout
+battle|A|-40 -20 -50 -30 -25|Je vais te massacrer, te massacrer grave / Massacre, massacre
+battle|A|-20 -10 -30 -15 -10|C'est injuste, il a triché, il a lu son texte / Disqualifiez-le
+battle|A|-30 -15 -40 -25 -20|T'es nul, je suis fort, t'es nul, je suis fort / Fin du game
+battle|C|5 10 0 10 10|Je suis content d'être là ce soir / Je vais faire de mon mieux
+battle|C|10 10 5 10 15|Je travaille dans un garage, j'ai les mains sales / Mais mes rimes sont propres
+battle|C|15 15 10 15 15|Il a un bon flow, je le reconnais / Je vais essayer de faire mieux
+battle|C|5 10 0 10 10|J'ai oublié la fin de mon couplet / Tant pis, je passe au suivant
+battle|C|10 10 5 10 10|Mon petit frère m'a dit de venir, alors je suis là / Il est au premier rang
+battle|C|15 15 10 15 15|J'ai perdu la dernière fois, je reviens plus fort / Enfin j'espère
+battle|C|5 10 0 10 10|Je rappe surtout dans ma chambre, c'est ma première scène / Soyez gentils
+battle|C|10 10 5 10 15|Je suis nul en danse, nul en chant / Mais pour les rimes, ça va
+battle|C|15 15 10 15 15|Bravo à mon adversaire, il m'a bien eu / C'est le jeu
+battle|C|5 10 0 10 10|Je rappe sur ma vie de tous les jours / Le métro, le boulot, les copains
+battle|F|50 45 55 50 55|Tu dis que t'as la flamme, je vois que de la fumée / Et toute la salle tousse depuis le début de ta tournée
+battle|F|40 40 45 45 50|Il a dit que je suis trop poli pour gagner / La politesse, c'est l'art de te battre sans que tu le remarques
+battle|F|60 55 60 60 65|T'as clashé mon bonnet, il me tient chaud l'hiver / Ton couplet aussi m'a refroidi, mais lui je peux pas le mettre sur la tête
+battle|F|50 45 55 55 55|Tu dis que t'es une star, je confirme, t'es loin / On te voit briller, mais ta lumière est morte depuis longtemps
+battle|F|40 40 45 45 50|Il se vante d'avoir écrit cent couplets cette année / Dommage, il en fallait un seul, et bon
+battle|F|60 55 60 60 65|Tu dis « je viens du ghetto », t'as même pas l'accent / Ton ghetto a un digicode et une boulangerie bio
+battle|F|50 45 55 50 55|Il dit qu'il va me mettre la pression / La seule pression ici, c'est celle qu'il sert au bar entre deux battles
+battle|F|40 40 45 45 50|Ton crew crie fort, c'est beau, ils sont fidèles / Dommage qu'ils crient plus fort que tes rimes
+battle|F|60 55 60 60 65|Tu m'as traité de petit, je prends ça bien / Les petits passent partout, même sous tes punchlines
+battle|F|50 45 55 55 55|Il a dit « t'as pas de vécu », c'est vrai, j'ai vingt ans / Mais ton vécu à toi, il tient en un seul couplet, et il recommence tout le temps
+battle|D|85 80 88 85 88|Il m'a dit « t'es personne », j'ai trouvé ça beau / Personne, c'est celui qu'on attend pas, et qui finit au micro
+battle|D|80 78 85 82 85|T'as clashé ma ville, mon quartier, ma rue / Moi je clashe pas les lieux, je clashe ceux qui y sont jamais venus
+battle|D|88 85 90 88 92|Tu veux du sang ? J'ai que de l'encre / Mais l'encre, ça tache plus longtemps, et ça se lit encore quand le reste s'est éteint
+battle|D|82 80 85 85 85|Tu dis que j'ai pas de punch, je frappe pas, j'ai pas besoin / Je laisse le temps faire, c'est lui le meilleur boxeur, il gagne toujours à la fin
+battle|D|85 80 88 85 88|Il a dit que je rappe comme un professeur / C'est vrai, et ce soir la leçon s'appelle : comment perdre avec honneur
+battle|D|90 85 92 90 92|Je vais pas t'achever, je suis pas bourreau / Je vais juste te laisser seul avec ton dernier mot, c'est le plus lourd des fardeaux
+battle|D|80 78 85 82 85|Tu dis que la rue t'a élevé, moi c'est une bibliothèque / La rue t'a appris à crier, les livres m'ont appris à quel moment me taire avant le chèque
+battle|D|88 85 90 88 92|Il a dit que je suis fini, je le prends comme un titre / Les histoires qu'on finit sont les seules qu'on relit
+battle|D|82 80 85 85 85|T'as gagné tes battles en criant plus fort / Moi je gagne la mienne en parlant à celui que j'étais avant d'avoir tort
+battle|D|85 80 88 85 88|Tu clashes mon physique, je te laisse faire / Mon visage changera, mes phrases resteront, c'est toi qui seras ridé dans leur mémoire

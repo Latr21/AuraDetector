@@ -1,0 +1,90 @@
+# Parlement, série 2
+interjection|A|-30 -15 -40 -25 -20|C'est nul ! C'est complètement nul !
++interjection|F|50 45 55 50 45|Nul ? Non, c'est pire : c'est appliqué.
+interjection|A|-40 -20 -50 -30 -25|Vous êtes des voleurs, tous des voleurs !
++interjection|F|60 55 60 55 55|Ne parlez pas de vol, monsieur le ministre, vous allez donner des idées à votre budget.
+interjection|A|-20 -10 -30 -15 -10|Allez-vous-en ! Allez-vous-en !
++interjection|D|80 78 85 82 80|Partez si vous voulez, mais laissez au moins le dossier : lui, il a encore des choses à dire.
+interjection|A|-30 -15 -40 -25 -20|Mensonge ! Mensonge ! Mensonge !
++interjection|F|40 40 45 40 35|Ce n'est pas un mensonge, c'est une prévision ; chez vous, c'est la même chose avec un an d'écart.
+interjection|A|-40 -20 -50 -30 -25|Incompétent ! Incompétent !
++interjection|D|85 80 88 85 85|Il n'est pas incompétent : il est compétent dans un domaine qui n'existe pas encore.
+interjection|A|-20 -10 -30 -15 -10|Blablabla !
++interjection|F|35 30 40 35 30|Vous appelez ça une réponse ; nous appelons ça une page de publicité.
+interjection|A|-30 -15 -40 -25 -20|Ouh là là, n'importe quoi, ouh là là !
++interjection|F|50 45 55 50 45|On a connu des ministres qui lisaient leurs fiches à l'envers ; vous, c'est le pays.
+interjection|A|-40 -20 -50 -30 -25|Vous êtes la pire majorité de l'histoire !
++interjection|D|80 78 85 82 80|Ne vous inquiétez pas, l'histoire ne retiendra pas votre majorité : elle a trop de travail.
+interjection|A|-20 -10 -30 -15 -10|Hou ! Démission ! Hou !
++interjection|C|5 10 0 5 5|Nous attendons une réponse précise.
+interjection|A|-30 -15 -40 -25 -20|Taisez-vous ! Taisez-vous donc !
++interjection|F|60 55 60 55 55|Laissez-le parler, il est en train de faire notre campagne.
+interjection|A|-40 -20 -50 -30 -25|Vous ne servez à rien, rien du tout !
++interjection|F|40 40 45 40 35|Vous servez à quelque chose : vous rappelez chaque semaine pourquoi les gens ne votent plus.
+interjection|A|-20 -10 -30 -15 -10|Quelle honte, mais quelle honte !
++interjection|D|88 85 90 88 88|La honte, monsieur le ministre, est une vertu que vous laissez à vos électeurs.
+interjection|F|50 45 55 50 45|Votre plan est une boussole qui indique toujours l'élection suivante.
+interjection|F|35 30 40 35 30|Votre texte est si long qu'on a fini par oublier ce qu'il ne réglait pas.
+interjection|D|85 80 88 85 85|Vous ne réformez pas l'État, vous le repeignez ; les fissures, elles, restent fidèles au poste.
+interjection|F|60 55 60 55 55|Vous avez trouvé l'argent magique : il apparaît pendant la campagne et disparaît après.
+interjection|D|82 80 85 85 82|Vous gouvernez par sondage ; le jour où le sondage démissionnera, il faudra bien décider seul.
+interjection|C|10 10 5 10 10|Écoutez la question jusqu'au bout !
+interjection|C|0 5 -5 0 0|Et alors ?
+interjection|C|5 10 0 5 5|C'est votre bilan.
+interjection|C|15 15 10 10 10|On attend toujours le rapport promis l'an dernier.
+interjection|F|40 40 45 40 35|Le rapport ? Il est en route, avec le train de nuit que vous avez supprimé.
+interjection|D|80 78 85 82 80|Vous promettez de couper la poire en deux ; à la fin, il ne reste que les pépins pour tout le monde.
+question|A|-30 -15 -40 -25 -20|Monsieur le ministre, quand allez-vous enfin arrêter votre politique désastreuse, désastreuse et encore désastreuse ?
++question|F|50 45 55 50 45|Monsieur le ministre, votre politique est-elle un choix, ou un accident que vous avez décidé d'assumer ?
+question|A|-40 -20 -50 -30 -25|Vous méprisez les Français, vous méprisez tout le monde, alors répondez, répondez !
++question|D|85 80 88 85 85|Monsieur le ministre, on ne vous reproche pas de mépriser les Français ; on vous reproche de les avoir oubliés, ce qui est plus difficile à pardonner.
+question|A|-20 -10 -30 -15 -10|Qu'est-ce que vous allez faire ? Hein ? Qu'est-ce que vous allez faire ?
++question|C|10 10 5 10 10|Quel calendrier retenez-vous pour la renégociation des contrats de plan ?
+question|A|-30 -15 -40 -25 -20|Combien de temps encore allez-vous mentir aux Français qui ne vous croient plus du tout ?
++question|F|40 40 45 40 35|Monsieur le ministre, combien de fois faudra-t-il vous poser cette question pour que la réponse change ?
+question|A|-40 -20 -50 -30 -25|Le gouvernement est-il oui ou non totalement nul et incapable ? Je vous pose la question !
++question|F|60 55 60 55 55|Le gouvernement a-t-il un plan B ? Je pose la question parce qu'on n'a jamais vu le plan A.
+question|C|5 10 0 5 5|Madame la ministre, quand le décret sur l'apprentissage sera-t-il publié ?
++question|F|35 30 40 35 30|Madame la ministre, le décret sur l'apprentissage est annoncé depuis deux ans ; est-ce lui qui est en apprentissage ?
+question|C|15 15 10 10 10|Le gouvernement envisage-t-il de rouvrir la ligne ferroviaire fermée l'an dernier ?
++question|D|80 78 85 82 80|Vous avez fermé la ligne de train au nom de l'avenir ; pouvez-vous dire aux habitants comment on se rend dans l'avenir sans train ?
+question|C|0 5 -5 0 0|Ma question porte sur la situation des services de pédiatrie.
++question|D|88 85 90 88 88|Monsieur le ministre, dans les services de pédiatrie, les enfants attendent dans les couloirs ; ils n'ont pas le droit de vote, mais ils ont de la mémoire.
+question|C|10 10 5 10 10|Quelles garanties apportez-vous aux salariés du site menacé de fermeture ?
++question|F|50 45 55 50 45|Les salariés du site ont reçu votre soutien par communiqué ; accepteriez-vous d'être payé de la même manière ?
+question|C|5 10 0 5 5|Où en sont les négociations avec les syndicats de la fonction publique ?
+question|A|-30 -15 -40 -25 -20|Vous avez tout cassé, absolument tout, alors maintenant qu'est-ce qu'on fait, hein, on fait quoi ?
++question|C|15 15 10 10 10|Après la fermeture de l'usine, quel accompagnement le gouvernement prévoit-il pour les familles ?
+question|F|40 40 45 40 35|Monsieur le ministre, vous dites que tout va mieux : pouvez-vous nous donner l'adresse ?
+question|D|85 80 88 85 85|Madame la ministre, vous avez demandé aux enseignants de faire plus avec moins ; quand le gouvernement montrera-t-il l'exemple ?
+question|F|60 55 60 55 55|Le Premier ministre peut-il nous dire s'il dirige le gouvernement, ou s'il en est seulement le porte-parole ?
+question|D|82 80 85 85 82|Monsieur le ministre, à force de reporter les réformes, vous avez réussi la seule qui marche : celle du calendrier.
+question|C|0 5 -5 0 0|Je souhaite interroger le gouvernement sur la sécurité routière.
+reponse|A|-30 -15 -40 -25 -20|Je veux dire, je veux redire, et je veux le dire encore, que nous sommes déterminés, profondément déterminés.
++reponse|F|50 45 55 50 45|Je suis déterminé, monsieur le député, mais pas au point de vous promettre ce que je ne peux pas financer.
+reponse|A|-40 -20 -50 -30 -25|Vous êtes de mauvaise foi, votre groupe est de mauvaise foi, et je ne répondrai pas à la mauvaise foi.
++reponse|D|85 80 88 85 85|Je ne vous ferai pas le procès de la mauvaise foi ; je vous ferai seulement celui de la mémoire courte, il est plus facile à gagner.
+reponse|A|-20 -10 -30 -15 -10|Nous agissons et nous continuerons d'agir car agir c'est ce que nous faisons et ce que nous ferons.
++reponse|C|5 10 0 5 5|Le dispositif a déjà bénéficié à douze mille familles, et nous l'élargirons au printemps.
+reponse|A|-30 -15 -40 -25 -20|Nous n'avons de leçons à recevoir de personne, de personne, surtout pas de vous.
++reponse|F|40 40 45 40 35|Je veux bien recevoir des leçons, mais j'aimerais que le professeur ait déjà réussi l'examen.
+reponse|A|-40 -20 -50 -30 -25|Tout ce que vous dites est faux, archi-faux, et vous le savez très bien, menteurs !
++reponse|F|60 55 60 55 55|Vos chiffres sont exacts ; c'est l'année qui est fausse, ils datent de votre dernier passage au gouvernement.
+reponse|C|10 10 5 10 10|Une mission d'inspection a été diligentée ; ses conclusions seront rendues publiques.
++reponse|D|80 78 85 82 80|Une mission d'inspection a été lancée ; je m'engage à publier ses conclusions, même celles qui me donneront tort, surtout celles-là.
+reponse|C|5 10 0 5 5|Je recevrai les représentants de la filière la semaine prochaine.
++reponse|F|35 30 40 35 30|Je recevrai la filière la semaine prochaine ; ils ont déjà réservé la salle, preuve qu'ils me connaissent bien.
+reponse|C|0 5 -5 0 0|Votre question appelle plusieurs éléments de réponse.
++reponse|D|88 85 90 88 88|Votre question appelle trois réponses : une vraie, une polie, et celle que vous attendez ; je vais commencer par la vraie, pour changer.
+reponse|C|15 15 10 10 10|Le gouvernement a choisi de prolonger l'aide jusqu'à la fin de l'hiver.
+reponse|F|50 45 55 50 45|Vous me reprochez de changer d'avis ; je vous reproche de ne jamais en avoir eu.
+reponse|D|85 80 88 85 85|Gouverner, ce n'est pas plaire ; c'est accepter d'être impopulaire aujourd'hui pour ne pas être coupable demain.
+reponse|F|40 40 45 40 35|L'opposition propose de tout raser ; j'aimerais qu'elle nous dise au moins ce qu'elle reconstruira, et avec quel argent.
+reponse|D|82 80 85 85 82|Je ne vous promettrai pas la lune, monsieur le député ; je vous promets un éclairage public qui fonctionne, c'est déjà beaucoup dans votre circonscription.
+reponse|A|-20 -10 -30 -15 -10|C'est grâce à nous que ça va mieux, c'est grâce à nous, uniquement grâce à nous.
++reponse|C|10 10 5 10 10|Les chiffres du chômage s'améliorent, même s'il reste beaucoup à faire dans les zones rurales.
+reponse|A|-30 -15 -40 -25 -20|Je ne commenterai pas, je ne commente pas, et d'ailleurs il n'y a rien à commenter.
++reponse|F|60 55 60 55 55|Je ne commenterai pas cette affaire ; je laisse ce plaisir à ceux qui ne la connaissent pas.
+reponse|C|5 10 0 5 5|Les crédits seront délégués aux préfectures dès le mois prochain.
+reponse|A|-40 -20 -50 -30 -25|Notre gouvernement est le meilleur gouvernement que ce pays ait jamais connu, point final.
++reponse|D|80 78 85 82 80|Je ne prétends pas que nous sommes le meilleur gouvernement ; je prétends seulement que nous serons le dernier à vous mentir sur les chiffres.
