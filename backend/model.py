@@ -1,7 +1,8 @@
 """Registre des 3 modèles Aura servis par l'API : CamemBERT (modèle retenu), SVM et CNN.
 
 Les modèles sont lus dans ml/models/ :
-  - CamemBERT : ensemble choisi en phase 2 (ml/results/p2_choix.json + ml/models/p2_*/final)
+  - CamemBERT : ensemble choisi en phase 2 (ml/results/p2_choix.json + ml/models/p2_*/final),
+                téléchargé automatiquement depuis le Hugging Face Hub s'il manque (ml/scripts/hf_modeles.py)
   - SVM       : ml/models/svm.joblib   (créé par ml/notebook_aura.ipynb)
   - CNN       : ml/models/cnn/         (créé par ml/notebook_aura.ipynb)
 Chargement à la demande puis mise en cache. CPU par défaut ; AURA_DEVICE=cuda pour le GPU.
@@ -89,6 +90,17 @@ def _kappas():
     return json.loads(f.read_text(encoding="utf-8")) if f.exists() else {}
 
 
+def _depuis_hugging_face():
+    """CamemBERT (~2,6 Go) n'est pas sur GitHub : s'il manque en local, on le récupère sur le Hugging Face Hub
+    (dépôt dans AURA_HF_REPO ou ml/hf_repo.txt ; AURA_HF_REPO= vide pour désactiver)."""
+    try:
+        import hf_modeles
+        if hf_modeles.manquants() and hf_modeles.repo_id():
+            hf_modeles.telecharger()
+    except Exception as e:  # hors ligne, dépôt introuvable… : on continue avec SVM / CNN
+        print(f"[aura] CamemBERT indisponible ({e.__class__.__name__}: {e})", flush=True)
+
+
 def decouvrir():
     k = _kappas()
     desc = lambda base, cle: base + (f" — kappa test {k[cle]:.3f}".replace(".", ",") if cle in k else "")
@@ -96,6 +108,7 @@ def decouvrir():
     choix_f = ML / "results" / "p2_choix.json"
     if choix_f.exists():
         choix = json.loads(choix_f.read_text(encoding="utf-8")); retenu = choix["candidats"][choix["meilleur"]]
+        _depuis_hugging_face()
         if all((MODELS / n / "final").exists() for n, w in retenu["composants"].items() if n != "tfidf" and w > 0):
             reg.append(dict(id="camembert", label="⭐ CamemBERT (modèle retenu)", famille="pré-entraîné",
                             description=desc("Pré-entraîné sur le français, ensemble large + base", "camembert"),
