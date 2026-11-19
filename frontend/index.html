@@ -56,9 +56,11 @@
     <!-- ÉTAPE 2 : scan -->
     <section id="scan-card" class="card hidden">
       <div class="scanner">
-        <div class="ring r1"></div><div class="ring r2"></div><div class="ring r3"></div>
-        <div class="scan-core">👁️</div>
-        <div class="scan-line"></div>
+        <canvas id="scan-canvas" width="260" height="260"></canvas>
+        <div id="scan-core" class="scan-core">👁️</div>
+      </div>
+      <div class="scan-readout">
+        <span>SIGNAL</span><strong id="scan-reading">+0</strong><span>AURA</span>
       </div>
       <p id="scan-msg" class="scan-msg">Calibrage des chakras…</p>
       <div class="progress"><div id="progress-bar"></div></div>
@@ -67,7 +69,7 @@
     <!-- ÉTAPE 3 : résultat -->
     <section id="result-card" class="card hidden">
       <div class="result-top">
-        <div id="aura-orb" class="aura-orb"><span id="aura-emoji">✨</span></div>
+        <div id="aura-orb" class="aura-orb"><div class="rays"></div><span id="aura-emoji">✨</span></div>
         <div class="aura-points"><span id="aura-points">+0</span> AURA</div>
         <div id="rank" class="rank"></div>
         <img id="aura-gif" class="aura-gif hidden" alt="Réaction en GIF à ton aura">
@@ -122,6 +124,8 @@
       </div>
     </section>
   </main>
+
+  <div id="flash" class="flash"></div>
 
   <footer>*sauf quand il se trompe · Projet final Mastère Dev, Data &amp; IA</footer>
   <script src="/static/app.js"></script>
