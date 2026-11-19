@@ -15,11 +15,11 @@ def cls_of(s):
 
 # biais de composantes par style
 OFF = {
-    "brainrot":  dict(R=5, S=0, O=18, B=-8, M=-5, P=-12),
+    "argot":  dict(R=5, S=0, O=18, B=-8, M=-5, P=-12),
     "politique": dict(R=5, S=15, O=-10, B=5, M=-8, P=-5),
     "moderne":   dict(R=10, S=-3, O=0, B=-5, M=0, P=-12),
     "prose":     dict(R=-10, S=-8, O=-5, B=18, M=12, P=18),
-    "hybride":   dict(R=0, S=0, O=15, B=5, M=0, P=10),   # brainrot en alexandrins
+    "hybride":   dict(R=0, S=0, O=15, B=5, M=0, P=10),   # argot internet en alexandrins
 }
 
 def typo(t, prob=0.6):
@@ -150,11 +150,11 @@ def pol_anti():
     b = p(["Personne n'a applaudi.", "[le micro coupe]", "Le stagiaire a démissionné en direct.", "[rires gênés dans l'hémicycle]",
            "J'ai fait un mewing pendant la minute de silence.", "Ma propre équipe a quitté la salle."])
     c = p(["Vive la Ré… allô ? Le micro ?", "Je ne retire rien.", "C'était prévu.", "Je reviendrai. Plus fort. Plus skibidi.", "Merci, merci, ne vous levez pas, ah, vous partez."])
-    return f"{a} {b} {c}", p(["Récupération du brainrot par un politique : malaise national.",
+    return f"{a} {b} {c}", p(["Récupération du argot internet par un politique : malaise national.",
                               "Démagogie jeune ratée, aura détruite en direct.",
                               "Grandiloquence ridicule et tentative de buzz pathétique."])
 
-# ============================================================ BRAINROT
+# ============================================================ argot internet
 BR_TOP = [
     "Il est entré sans un bruit, a payé la fanum tax de toute la tablée, et il est reparti sans prendre une seule frite.",
     "Son mewing est si constant que les sculpteurs de la Renaissance réclament des droits d'auteur.",
@@ -173,15 +173,15 @@ BR_TOP = [
 ]
 BR_TAG_TOP = ["", "", " +∞ aura.", " 🗿", " Aura farming de niveau cosmique.", " Chat, is this real ?"]
 def br_divine():
-    return " ".join(S(BR_TOP, 3)) + p(BR_TAG_TOP), p(["Brainrot maîtrisé jusqu'au mythe : chaque référence est une légende.",
+    return " ".join(S(BR_TOP, 3)) + p(BR_TAG_TOP), p(["Argot internet maîtrisé jusqu'au mythe : chaque référence est une légende.",
                                                       "Aura farming stoïque, absurde et parfaitement écrit.",
                                                       "Culture internet élevée au rang d'épopée."])
 def br_legend():
-    return " ".join(S(BR_TOP, 2)) + p(BR_TAG_TOP), p(["Brainrot raconté avec retenue et timing parfait.",
+    return " ".join(S(BR_TOP, 2)) + p(BR_TAG_TOP), p(["Argot internet raconté avec retenue et timing parfait.",
                                                       "Mythologie internet absurde mais classe.",
                                                       "Références maîtrisées et chute impeccable."])
 
-HYB = [  # brainrot en alexandrins (genre, vers)
+HYB = [  # argot internet en alexandrins (genre, vers)
     ("J'ai mewé dans le noir jusqu'au lever du jour,", "Et l'Ohio tout entier m'a juré son amour."),
     ("Je ne fais pas le dab, je laisse le dab venir,", "Comme un vieux souverain qui n'a plus à courir."),
     ("Les NPC se sont tus quand j'ai franchi la porte,", "Car l'aura que je farme est d'une étrange sorte."),
@@ -193,9 +193,9 @@ def hyb():
     k = R.choice([1, 2])
     lines = [l for c in S(HYB, k) for l in c]
     title = p(["", "« Ode au mewing »\n", "« Sonnet de l'Ohio »\n", "« Complainte du sigma »\n"])
-    return title + "\n".join(lines), p(["Brainrot en alexandrins rimés : absurde et forme classique fusionnent.",
+    return title + "\n".join(lines), p(["Argot internet en alexandrins rimés : absurde et forme classique fusionnent.",
                                         "Rimes plates et références internet, originalité maximale.",
-                                        "Musicalité classique au service du brainrot, effet divin."])
+                                        "Musicalité classique au service du argot internet, effet divin."])
 
 def br_forte():
     a = p(["Frérot", "Le nouveau de la classe", "Ma daronne", "Le prof de philo", "Le chauffeur du 72", "Mon grand-père"])
@@ -205,7 +205,7 @@ def br_forte():
     c = p(["La salle a explosé.", "Personne n'a osé rire, on a juste applaudi.", "J'ai vu un homme naître.", "Le silence était sacré.",
            "Même le surveillant a validé."])
     return f"{a} {b}. {c} {p(['+2000 aura', '+1500 aura 🗿', 'W énorme', 'aura farming certifié', '+3000 aura, pas de débat'])}", p(
-        ["Brainrot bien placé avec un timing comique parfait.", "Anecdote internet drôle et assurée.",
+        ["Argot internet bien placé avec un timing comique parfait.", "Anecdote internet drôle et assurée.",
          "Référence maîtrisée, effet de groupe garanti."])
 
 def br_correcte():
@@ -217,7 +217,7 @@ def br_correcte():
         f"J'ai dit « six-sept » en réunion par réflexe. {p(['Personne a compris', 'Mon stagiaire a ri', 'Mon boss a dit sept-huit'])}, je reste fier.",
         f"Skill issue ? Non. Wi-Fi issue. {p(['Respectez-moi.', 'Nuance importante.', 'Je maintiens.'])}",
         f"Aura farming discret : j'ai rendu la monnaie exacte à la boulangerie {p(['sans chercher', 'du premier coup', 'en pièces de 10 centimes'])}.",
-    ]), p(["Brainrot léger et autodérisoire, ça passe.", "Référence internet sympa sans en faire trop.", "Humour moderne correct, petit plus d'aura."])
+    ]), p(["Argot internet léger et autodérisoire, ça passe.", "Référence internet sympa sans en faire trop.", "Humour moderne correct, petit plus d'aura."])
 
 def br_neutre():
     return p([
@@ -235,7 +235,7 @@ def br_neutre():
         "Mon neveu m'a demandé si je connaissais l'Ohio. J'ai dit que c'était un État américain. Il a soupiré.",
         "Sondage en classe : 18 élèves sur 25 disent « six-sept » au moins une fois par jour.",
         "« Fanum tax » : le fait de prendre un peu de la nourriture d'un ami. Voilà, c'est noté.",
-    ]), p(["Description factuelle du brainrot, aura nulle.", "Constat neutre sur la culture internet.", "Question informative sans style."])
+    ]), p(["Description factuelle du argot internet, aura nulle.", "Constat neutre sur la culture internet.", "Question informative sans style."])
 
 def br_faible():
     a = p(["jsuis trop sigma", "regardez mon mewing", "jai trop d'aura", "jsuis le roi du rizz", "personne a mon aura"])
@@ -243,7 +243,7 @@ def br_faible():
            "jai fait un scuba dans le couloir et jai glissé", "jai dit « gyatt » à ma prof par erreur je voulais dire « j'ai »",
            "mais ma mère m'appelle encore mon poussin"])
     c = p(["c normal ?", "-500 aura", "bon", "😔", "qqn me rassure", ""])
-    return typo(f"{a} {b} {c}".strip()), p(["Brainrot forcé qui révèle l'inverse de l'aura visée.", "Try-hard internet qui finit en L.",
+    return typo(f"{a} {b} {c}".strip()), p(["Argot internet forcé qui révèle l'inverse de l'aura visée.", "Try-hard internet qui finit en L.",
                                             "Revendication d'aura immédiatement démentie."])
 
 def br_anti():
@@ -257,7 +257,7 @@ def br_anti():
         f"Wesh j'ai dit « {p(['gyatt', 'rizz', 'skibidi'])} » à l'enterrement de mon oncle pour détendre l'ambiance. Aura -10 000.",
         f"Mon CV : compétences — mewing (expert), 6-7 (bilingue), fanum tax (certifié). Je comprends pas pk on me rappelle pas.",
         f"Je me suis inscrit à un séminaire de « sigma mindset » à 1499€. On a fait des pompes en criant « Ohio ». Je recommande.",
-    ]), p(["Brainrot hors contexte et désespéré : aura négative absolue.", "Usage gênant et pathétique des références internet.",
+    ]), p(["Argot internet hors contexte et désespéré : aura négative absolue.", "Usage gênant et pathétique des références internet.",
            "Cringe de niveau légendaire, mais à l'envers."])
 
 # ============================================================ MODERNE (bios / messages / 3h du mat)
@@ -389,13 +389,13 @@ def prose_low():
 
 # ============================================================ PLAN PAR CLASSE
 PLAN = {
-    "Aura Divine":     [("politique", pol_divine, 34), ("brainrot", br_divine, 22), ("hybride", hyb, 12), ("moderne", mod_divine, 6), ("prose", prose_top, 5), ("politique", pol_legend, 0)],
-    "Aura Légendaire": [("politique", pol_legend, 30), ("politique", pol_debat, 6), ("brainrot", br_legend, 26), ("hybride", hyb, 6), ("moderne", mod_legend, 22), ("prose", prose_top, 10)],
-    "Forte Aura":      [("politique", pol_debat, 32), ("brainrot", br_forte, 34), ("moderne", mod_forte, 26), ("prose", prose_mid, 8)],
-    "Aura Correcte":   [("politique", pol_terrain, 32), ("brainrot", br_correcte, 34), ("moderne", mod_correcte, 26), ("prose", prose_mid, 8)],
-    "Aura Neutre":     [("politique", pol_neutre, 36), ("brainrot", br_neutre, 32), ("moderne", mod_neutre, 32)],
-    "Aura Faible":     [("politique", pol_faible, 34), ("brainrot", br_faible, 34), ("moderne", mod_faible, 24), ("prose", prose_low, 8)],
-    "Anti-Aura":       [("politique", pol_anti, 34), ("brainrot", br_anti, 36), ("moderne", mod_anti, 24), ("prose", prose_low, 6)],
+    "Aura Divine":     [("politique", pol_divine, 34), ("argot", br_divine, 22), ("hybride", hyb, 12), ("moderne", mod_divine, 6), ("prose", prose_top, 5), ("politique", pol_legend, 0)],
+    "Aura Légendaire": [("politique", pol_legend, 30), ("politique", pol_debat, 6), ("argot", br_legend, 26), ("hybride", hyb, 6), ("moderne", mod_legend, 22), ("prose", prose_top, 10)],
+    "Forte Aura":      [("politique", pol_debat, 32), ("argot", br_forte, 34), ("moderne", mod_forte, 26), ("prose", prose_mid, 8)],
+    "Aura Correcte":   [("politique", pol_terrain, 32), ("argot", br_correcte, 34), ("moderne", mod_correcte, 26), ("prose", prose_mid, 8)],
+    "Aura Neutre":     [("politique", pol_neutre, 36), ("argot", br_neutre, 32), ("moderne", mod_neutre, 32)],
+    "Aura Faible":     [("politique", pol_faible, 34), ("argot", br_faible, 34), ("moderne", mod_faible, 24), ("prose", prose_low, 8)],
+    "Anti-Aura":       [("politique", pol_anti, 34), ("argot", br_anti, 36), ("moderne", mod_anti, 24), ("prose", prose_low, 6)],
 }
 # Divine a 79 « prévus » + complément
 PLAN["Aura Divine"][-1] = ("politique", pol_legend, 0)

@@ -6,6 +6,7 @@ from fastapi.concurrency import run_in_threadpool
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
+from .ameliorer import ErreurAmelioration, ameliorer
 from .extract import extract_text
 from .model import Registry
 
@@ -59,6 +60,20 @@ async def api_predict(text: str = Form(""), model: str = Form(""), file: UploadF
         raise HTTPException(500, f"Le modèle a perdu son aura : {e}")
     result.update(filename=filename, n_chars=len(text), preview=text[:280])
     return result
+
+
+@app.post("/api/improve")
+async def api_improve(text: str = Form(""), model: str = Form("")):
+    """Réécrit le texte pour maximiser son aura (un LLM propose, notre modèle note et choisit)."""
+    text = (text or "").strip()
+    if len(text) < 3:
+        raise HTTPException(400, "Rien à booster : écris d'abord une phrase.")
+    try:
+        return await run_in_threadpool(ameliorer, registry, model, text)
+    except ErreurAmelioration as e:
+        raise HTTPException(e.code, str(e))
+    except Exception as e:
+        raise HTTPException(500, f"Le booster a perdu son aura : {e}")
 
 
 app.mount("/static", StaticFiles(directory=FRONT), name="static")

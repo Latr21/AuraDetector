@@ -11,7 +11,7 @@ def S(x, k): return R.sample(x, k)
 CLASSES = [("Anti-Aura", -100, -41), ("Aura Faible", -40, -11), ("Aura Neutre", -10, 4), ("Aura Correcte", 5, 24),
            ("Forte Aura", 25, 49), ("Aura Légendaire", 50, 74), ("Aura Divine", 75, 100)]
 W = dict(R=0.30 / .9, S=0.20 / .9, O=0.15 / .9, B=0.15 / .9, P=0.10 / .9)
-OFF = {"brainrot": dict(R=5, S=0, O=18, B=-8, P=-12), "politique": dict(R=5, S=15, O=-10, B=5, P=-5),
+OFF = {"argot": dict(R=5, S=0, O=18, B=-8, P=-12), "politique": dict(R=5, S=15, O=-10, B=5, P=-5),
        "moderne": dict(R=10, S=-3, O=0, B=-5, P=-12), "prose": dict(R=-10, S=-8, O=-5, B=18, P=18),
        "hybride": dict(R=0, S=0, O=15, B=5, P=10), "classique": dict(R=-5, S=5, O=-5, B=15, P=20),
        "quotidien": dict(R=-3, S=0, O=-8, B=-3, P=-10), "juridique": dict(R=-10, S=5, O=-15, B=0, P=-10)}
@@ -324,7 +324,7 @@ def nuit(tier):
         j = "Message nocturne poétique et souverain."
     return t, j
 
-# ====================================================================== BRAINROT (grosses combinatoires)
+# ====================================================================== argot internet (grosses combinatoires)
 SUJETS_BR = ["Le nouveau", "Mon pote Yanis", "La prof d'anglais", "Le chauffeur du 38", "Mon grand-père", "Le vigile du Lidl",
              "Ma cousine", "Le surveillant", "Le boulanger", "Mon coloc", "La CPE", "Le livreur Uber Eats", "Mon petit frère"]
 ACTES_TOP = ["a fait le 6-7 pile quand la prof a dit « page 67 »", "a payé la fanum tax de toute la tablée sans un mot",
@@ -345,7 +345,7 @@ def br(tier):
             f"Mon CV : {p(['mewing (expert)', '6-7 (bilingue)', 'fanum tax (certifié)'])}, {p(['aura farming (natif)', 'rizz (niveau C2)', 'Ohio (LV2)'])}. Je comprends pas pourquoi on me rappelle pas.",
             f"Bonjour les jeunes ! {p(['Votre professeur', 'Votre maire', 'Votre conseiller bancaire'])} est très « {p(['rizz', 'Ohio', 'skibidi', 'sigma'])} » aujourd'hui ! Qui veut faire un dab ? 😎",
         ]))
-        j = "Brainrot hors contexte et pathétique : aura négative."
+        j = "Argot internet hors contexte et pathétique : aura négative."
     elif tier == "faible":
         t = typo(f"{p(['jsuis trop sigma', 'regardez mon mewing', 'jai trop d’aura', 'jsuis le roi du rizz', 'personne a mon aura'])} {p(['mais personne me répond', 'mais jai glissé dans le couloir', 'mais ma mère m’appelle mon poussin', 'mais jai 0 abonné', 'mais le prof ma mis une heure de colle'])} {p(['😔', '-500 aura', 'c normal ?', 'bon', ''])}".strip())
         j = "Aura revendiquée et démentie dans la même phrase."
@@ -356,10 +356,10 @@ def br(tier):
         j = "Description neutre de la culture internet."
     elif tier == "correcte":
         t = f"{p(['J’ai fait un scuba en sortant de la piscine', 'J’ai dit « six-sept » en réunion par réflexe', 'Pas de fanum tax sur mes frites aujourd’hui', 'Mon chat fait le mewing depuis sa naissance'])}, {p(['mes potes ont validé', 'personne a compris mais je reste fier', 'j’ai faim', 'c’est lui le vrai sigma'])}. {p(['+200 aura', '+100 aura', '🐈', 'W discret'])}"
-        j = "Brainrot léger et autodérisoire, ça passe."
+        j = "Argot internet léger et autodérisoire, ça passe."
     elif tier == "forte":
         t = f"{s} {p(ACTES_TOP)}. {p(EFFETS)} {p(TAGS)}"
-        j = "Brainrot bien placé, timing comique parfait."
+        j = "Argot internet bien placé, timing comique parfait."
     else:
         t = " ".join(S([
             f"{s} n'a pas dit un mot ; il a juste fait un mewing de quatre secondes, et l'Ohio entier s'est tu.",
@@ -373,7 +373,7 @@ def br(tier):
             "Même la fanum tax s'excuse quand elle passe devant son plateau.",
             "Il a regardé l'algorithme dans les yeux ; l'algorithme a baissé les siens.",
         ], R.choice([2, 3])))
-        j = "Brainrot mythologique, absurde et parfaitement écrit."
+        j = "Argot internet mythologique, absurde et parfaitement écrit."
     return t, j
 
 # ====================================================================== PROSE / POÉSIE ORIGINALE
@@ -427,27 +427,27 @@ def anti_divers():
 # ====================================================================== PLAN
 def T(fn, *a): return lambda: fn(*a)
 PLAN = {
-    "Anti-Aura": [("politique", T(tribune, "anti"), 2), ("brainrot", T(br, "anti"), 4), ("moderne", T(bio, "anti"), 2),
+    "Anti-Aura": [("politique", T(tribune, "anti"), 2), ("argot", T(br, "anti"), 4), ("moderne", T(bio, "anti"), 2),
                   ("moderne", T(nuit, "anti"), 2), ("moderne", anti_divers, 5)],
     "Aura Faible": [("politique", hem_faible, 3), ("politique", T(qag, "faible"), 2), ("politique", T(rep_ministre, "faible"), 3),
-                    ("brainrot", T(br, "faible"), 3), ("moderne", T(bio, "faible"), 2), ("moderne", T(nuit, "faible"), 2),
+                    ("argot", T(br, "faible"), 3), ("moderne", T(bio, "faible"), 2), ("moderne", T(nuit, "faible"), 2),
                     ("quotidien", T(avis, "faible"), 1), ("prose", T(prose, "faible"), 1), ("classique", lambda: (p(VERS_RATES), "Vers de mirliton : rimes forcées et images ridicules."), 1)],
     "Aura Neutre": [("politique", hem_neutre, 3), ("politique", hem_proc, 4), ("politique", T(qag, "neutre"), 2),
                     ("politique", T(rep_ministre, "neutre"), 2), ("juridique", juridique, 3), ("quotidien", quotidien_neutre, 4),
-                    ("quotidien", T(avis, "neutre"), 1), ("brainrot", T(br, "neutre"), 1), ("moderne", T(bio, "neutre"), 2)],
+                    ("quotidien", T(avis, "neutre"), 1), ("argot", T(br, "neutre"), 1), ("moderne", T(bio, "neutre"), 2)],
     "Aura Correcte": [("politique", hem_correcte, 3), ("politique", T(qag, "correcte"), 3), ("politique", T(rep_ministre, "correcte"), 2),
-                      ("brainrot", T(br, "correcte"), 2), ("moderne", T(bio, "correcte"), 3), ("moderne", T(nuit, "correcte"), 2),
+                      ("argot", T(br, "correcte"), 2), ("moderne", T(bio, "correcte"), 3), ("moderne", T(nuit, "correcte"), 2),
                       ("prose", T(prose, "correcte"), 2), ("classique", T(fable, "correcte"), 1), ("quotidien", T(avis, "correcte"), 1)],
     "Forte Aura": [("politique", T(tribune, "forte"), 3), ("politique", T(qag, "forte"), 3), ("politique", T(rep_ministre, "forte"), 3),
-                   ("brainrot", T(br, "forte"), 4), ("moderne", T(bio, "forte"), 3), ("moderne", T(nuit, "forte"), 2),
+                   ("argot", T(br, "forte"), 4), ("moderne", T(bio, "forte"), 3), ("moderne", T(nuit, "forte"), 2),
                    ("prose", T(prose, "forte"), 2), ("classique", T(fable, "forte"), 1)],
     "Aura Légendaire": [("politique", T(tribune, "legend"), 3), ("classique", lambda: (p(MAX_TOP), "Maxime classique dense et bien frappée."), 3),
-                        ("brainrot", T(br, "top"), 3), ("moderne", T(bio, "top"), 2), ("moderne", T(nuit, "top"), 2),
+                        ("argot", T(br, "top"), 3), ("moderne", T(bio, "top"), 2), ("moderne", T(nuit, "top"), 2),
                         ("prose", T(prose, "top"), 2)],
     "Aura Divine": [("classique", lambda: (p(TIRADE_TOP), "Distique d'alexandrins tragiques, majesté absolue."), 2),
                     ("classique", lambda: (" ".join(S(MAX_TOP, 2)), "Deux maximes enchaînées, densité et autorité rares."), 3),
                     ("politique", lambda: (" ".join(S([tribune("legend")[0] for _ in range(4)], 2)), "Discours en deux temps, souffle et autorité souveraine."), 3),
-                    ("brainrot", lambda: (" ".join(S([br("top")[0] for _ in range(3)], 2)), "Brainrot élevé au rang d'épopée."), 3),
+                    ("argot", lambda: (" ".join(S([br("top")[0] for _ in range(3)], 2)), "Argot internet élevé au rang d'épopée."), 3),
                     ("prose", lambda: (prose("top")[0] + " " + p(["Les tempêtes ne crient pas : elles arrivent.", "On ne me cherche pas, on me reconnaît.", "Quand je me tais, les horloges hésitent."]), "Prose mythique, voix souveraine."), 2)],
 }
 

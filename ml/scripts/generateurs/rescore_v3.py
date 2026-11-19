@@ -3,7 +3,7 @@ from collections import Counter
 R = random.Random(7)
 W = dict(R=0.30/0.9, S=0.20/0.9, O=0.15/0.9, B=0.15/0.9, P=0.10/0.9)
 C = [('Anti-Aura',-100,-41),('Aura Faible',-40,-11),('Aura Neutre',-10,4),('Aura Correcte',5,24),('Forte Aura',25,49),('Aura Légendaire',50,74),('Aura Divine',75,100)]
-OFF = {"brainrot": dict(R=5,S=0,O=18,B=-8,P=-12), "politique": dict(R=5,S=15,O=-10,B=5,P=-5),
+OFF = {"argot": dict(R=5,S=0,O=18,B=-8,P=-12), "politique": dict(R=5,S=15,O=-10,B=5,P=-5),
        "moderne": dict(R=10,S=-3,O=0,B=-5,P=-12), "prose": dict(R=-10,S=-8,O=-5,B=18,P=18),
        "hybride": dict(R=0,S=0,O=15,B=5,P=10)}
 def cl(s): return next(n for n,a,b in C if a<=s<=b)

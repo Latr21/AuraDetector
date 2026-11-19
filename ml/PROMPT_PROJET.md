@@ -4,7 +4,7 @@ CONTEXTE
 - 4 classes, déduites d'un score de -100 à +100 :
   Anti-Aura (-100 à -11), Aura Correcte (-10 à +24), Forte Aura (+25 à +74), Aura Divine (+75 à +100).
 - Score = 0,333·R + 0,222·S + 0,167·O + 0,167·B + 0,111·P (Rizz, Statut, Originalité, Beauté/style, Poésie/forme, chacune de -100 à +100).
-- Règle centrale : on note l'aura de CELUI QUI ÉCRIT, pas le sujet. Une moquerie spirituelle d'un sujet gênant = Forte Aura ; l'autodérision drôle = Aura Correcte ; Anti-Aura = l'auteur lui-même est gênant (needy, try-hard, brainrot plaqué, langue de bois, insulte sèche). Un cliché n'est jamais Divine. On note la forme, jamais le camp politique ni l'opinion.
+- Règle centrale : on note l'aura de CELUI QUI ÉCRIT, pas le sujet. Une moquerie spirituelle d'un sujet gênant = Forte Aura ; l'autodérision drôle = Aura Correcte ; Anti-Aura = l'auteur lui-même est gênant (needy, try-hard, argot internet plaqué, langue de bois, insulte sèche). Un cliché n'est jamais Divine. On note la forme, jamais le camp politique ni l'opinion.
 - data/train_synthetique.csv (6 991 textes générés) + data/grok_textes.csv (105 textes) = entraînement.
 - data/test_reel.csv (330 vrais textes, annotés par une IA) = test. NE JAMAIS l'utiliser pour entraîner, choisir des hyperparamètres ou générer des données qui lui ressemblent.
 - Référence actuelle (scripts/baseline.py, TF-IDF + régression logistique) : kappa quadratique 0,05 (classification) et 0,15 (régression) sur le test réel. Toujours répondre "Aura Correcte" donne 58 % d'exactitude : l'indicateur principal est le KAPPA QUADRATIQUE, puis le F1-macro et la matrice de confusion.
@@ -17,8 +17,8 @@ TÂCHES, dans l'ordre (crée une liste de tâches et coche au fur et à mesure)
 
 2. Paires contrastées (le modèle actuel associe le THÈME à la classe au lieu de la FORME)
    - Écris 400 paires dans data/paires_contrastees.csv (colonnes : texte,classe,score,style,origine,paire_id ; origine = "paires_contrastees").
-   - Dans chaque paire, les deux textes partagent le même sujet et une bonne partie du vocabulaire, mais ont une aura opposée ou très différente. Exemples de couples : brainrot plaqué ("dab dab, six-seven") vs anecdote brainrot drôle et bien amenée ; phrase politique plate avec "leader/président" vs réplique politique qui fait mouche ; proverbe usé vs maxime inventée avec jeu de mots ; insulte sèche vs pique ironique ; drague lourde vs drague drôle et assurée ; info neutre vs même info racontée avec style.
-   - Répartis sur les 4 classes (au moins 150 textes par classe au total), varie les registres (SMS, bio, tweet, discours, prose, brainrot), les longueurs et les styles politiques (tous bords, sans nommer de personnes réelles, aucun contenu haineux).
+   - Dans chaque paire, les deux textes partagent le même sujet et une bonne partie du vocabulaire, mais ont une aura opposée ou très différente. Exemples de couples : argot internet plaqué ("dab dab, six-seven") vs anecdote argot internet drôle et bien amenée ; phrase politique plate avec "leader/président" vs réplique politique qui fait mouche ; proverbe usé vs maxime inventée avec jeu de mots ; insulte sèche vs pique ironique ; drague lourde vs drague drôle et assurée ; info neutre vs même info racontée avec style.
+   - Répartis sur les 4 classes (au moins 150 textes par classe au total), varie les registres (SMS, bio, tweet, discours, prose, argot internet), les longueurs et les styles politiques (tous bords, sans nommer de personnes réelles, aucun contenu haineux).
    - Interdit : recopier ou paraphraser de près un texte de data/test_reel.csv. Vérifie-le automatiquement (aucune séquence de 6 mots commune avec le test, aucun texte court identique) et retire les fautifs.
    - Relance baseline.py en ajoutant ce fichier à l'entraînement et compare les kappas.
 

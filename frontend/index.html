@@ -92,7 +92,31 @@
         <p id="preview-text"></p>
       </details>
 
+      <div id="boost" class="boost hidden">
+        <h3>✨ Version boostée</h3>
+        <p id="boost-status" class="boost-status"></p>
+        <div id="boost-result" class="hidden">
+          <blockquote id="boost-text" class="boost-text"></blockquote>
+          <div class="boost-compare">
+            <span id="boost-before" class="chip"></span>
+            <span class="arrow">➜</span>
+            <span id="boost-after" class="chip"></span>
+            <strong id="boost-gain" class="boost-gain"></strong>
+          </div>
+          <details class="preview">
+            <summary>Les autres propositions (<span id="boost-n"></span> testées)</summary>
+            <ol id="boost-others" class="boost-others"></ol>
+          </details>
+          <p id="boost-note" class="boost-note"></p>
+          <div class="actions">
+            <button id="boost-copy" class="ghost-btn">📋 Copier la version boostée</button>
+            <button id="boost-scan" class="ghost-btn">🔍 Scanner cette version</button>
+          </div>
+        </div>
+      </div>
+
       <div class="actions">
+        <button id="boost-btn" class="scan-btn boost-btn"><span>✨ BOOSTER MON AURA ✨</span></button>
         <button id="again-btn" class="ghost-btn">🔁 Scanner une autre aura</button>
         <button id="copy-btn" class="ghost-btn">📋 Copier mon score</button>
       </div>

@@ -200,7 +200,95 @@ function showResult(d) {
 
   burst(emojiFor(d.category), { "Aura Divine": 55, "Forte Aura": 35, "Aura Correcte": 12, "Anti-Aura": 8 }[d.category] || 15);
   window.__lastResult = { ...d, points };
+  resetBoost(d);
 }
+
+/* ---------------- booster d'aura ---------------- */
+const BOOST_MAX = 500;   // même limite que le backend
+const BOOST_MSGS = ["On cherche de meilleures formules…", "Notre modèle note chaque variante…", "On retouche les meilleures versions mot à mot…"];
+let boostText = "";
+
+function resetBoost(d) {
+  // texte complet si saisi au clavier, sinon l'extrait du fichier (seulement s'il est complet)
+  boostText = mode === "text" ? $("text-input").value.trim() : (d.n_chars <= 280 ? d.preview : "");
+  $("boost").classList.add("hidden");
+  $("boost-result").classList.add("hidden");
+  const ok = boostText.length >= 3 && boostText.length <= BOOST_MAX && !d.demo;
+  $("boost-btn").disabled = !ok;
+  $("boost-btn").title = ok ? "" : `Le booster marche sur une phrase ou un court passage (${BOOST_MAX} caractères max).`;
+}
+
+const fmtScore = s => (s > 0 ? "+" : "") + s;
+function chip(el, r) {
+  el.textContent = `${emojiFor(r.category)} ${r.category} · ${fmtScore(r.score)}`;
+  el.style.color = colorFor(r.category);
+}
+
+$("boost-btn").addEventListener("click", async () => {
+  const btn = $("boost-btn"), status = $("boost-status");
+  btn.disabled = true;
+  $("boost").classList.remove("hidden");
+  $("boost-result").classList.add("hidden");
+  status.classList.add("loading");
+  let i = 0; status.textContent = BOOST_MSGS[0];
+  const timer = setInterval(() => { status.textContent = BOOST_MSGS[Math.min(++i, BOOST_MSGS.length - 1)]; }, 4000);
+  const fd = new FormData();
+  fd.append("text", boostText);
+  fd.append("model", $("model-select").value || "");
+  try {
+    const res = await fetch("/api/improve", { method: "POST", body: fd });
+    const d = await res.json();
+    if (!res.ok) throw new Error(d.detail || "Erreur inconnue");
+    showBoost(d);
+  } catch (err) {
+    status.textContent = "💀 " + err.message;
+    btn.disabled = false;
+  } finally {
+    clearInterval(timer); status.classList.remove("loading");
+  }
+});
+
+function showBoost(d) {
+  const best = d.meilleur;
+  $("boost-status").textContent = d.gain > 0
+    ? `Meilleure version parmi ${d.n_essais} variantes, selon ${d.model.label} :`
+    : `Aucune des ${d.n_essais} variantes ne bat l'original selon ${d.model.label} : ton texte avait déjà de l'aura. Voici la meilleure quand même :`;
+  $("boost-note").innerHTML = "";
+  $("boost-note").append(`Variantes générées par ${d.generateur}, puis `);
+  const fort = document.createElement("strong"); fort.textContent = "notre modèle d'aura";
+  $("boost-note").append(fort, " note chacune et garde la meilleure. Gratuit, sans API payante.");
+  $("boost-text").textContent = best.texte;
+  chip($("boost-before"), d.original);
+  chip($("boost-after"), best);
+  $("boost-gain").textContent = (d.gain >= 0 ? "+" : "−") + Math.abs(d.gain * 100).toLocaleString("fr-FR") + " AURA";
+  $("boost-n").textContent = d.n_essais;
+  $("boost-others").closest("details").classList.toggle("hidden", !d.autres.length);
+  if (d.mode === "local") $("boost-status").textContent +=
+    " (mode retouche : on polit ta phrase. Pour des phrases vraiment nouvelles, installe un LLM gratuit : ollama pull mistral)";
+  $("boost-others").innerHTML = "";
+  d.autres.forEach(r => {
+    const li = document.createElement("li");
+    li.textContent = r.texte + " ";
+    const s = document.createElement("span"); s.className = "s"; s.textContent = `(${r.category}, ${fmtScore(r.score)})`;
+    li.appendChild(s); $("boost-others").appendChild(li);
+  });
+  $("boost-result").classList.remove("hidden");
+  if (d.gain > 0) burst(emojiFor(best.category), 25);
+  window.__boost = best.texte;
+}
+
+$("boost-copy").addEventListener("click", async () => {
+  try { await navigator.clipboard.writeText(window.__boost || ""); $("boost-copy").textContent = "✅ Copié !"; }
+  catch { $("boost-copy").textContent = "❌ Copie impossible"; }
+  setTimeout(() => ($("boost-copy").textContent = "📋 Copier la version boostée"), 1500);
+});
+$("boost-scan").addEventListener("click", () => {
+  // remet la version boostée dans la zone de texte et relance un scan complet
+  document.querySelector('.tab[data-tab="text"]').click();
+  $("text-input").value = window.__boost || "";
+  $("char-count").textContent = $("text-input").value.length;
+  refreshButton(); $("scan-btn").click();
+});
 
 function countUp(el, target) {
   const start = performance.now(), dur = 1500;

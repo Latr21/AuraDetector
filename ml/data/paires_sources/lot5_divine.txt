@@ -24,11 +24,11 @@ politique|C 1|L'opposition demande la création d'une commission d'enquête.|D 7
 politique|F 38|Le gouvernement réfléchit. On l'entend d'ici.|D 79|Le gouvernement réfléchit. C'est rassurant ; à force de réfléchir, il finira peut-être par se voir.
 politique|A -40|Mon parti va sauver le pays car le pays a besoin d'être sauvé par mon parti.|D 77|Tous les partis veulent sauver le pays. Le pays, lui, aimerait surtout qu'on le laisse respirer entre deux sauvetages.
 politique|C 3|Le vote solennel aura lieu mardi après les questions au gouvernement.|D 76|Vote solennel mardi : on reconnaît la solennité au nombre de députés qui découvrent le texte en même temps qu'ils le votent.
-brainrot|A -63|sigma rizz aura +10000 ohio skibidi gyatt frr no cap|D 76|On parle beaucoup de rizz. Le vrai rizz, c'est de faire rire quelqu'un qui avait décidé de ne pas rire ce jour-là.
-brainrot|A -58|jsuis trop un sigma je parle à personne et je regarde le sol|D 78|Le sigma qui ne parle à personne n'est pas mystérieux : il a juste oublié qu'on peut se taire avec quelqu'un.
-brainrot|A -61|aura aura aura je farm l'aura tous les jours h24 respectez moi|D 80|L'aura qu'on réclame est déjà perdue ; celle qu'on oublie revient toute seule, comme un chat qui a choisi votre maison.
-brainrot|C 9|J'ai mis trois heures à comprendre ce que voulait dire « six-seven ». Je ne suis pas sûr d'avoir compris.|D 77|« Six-seven », disent-ils, et toute la cour de récréation rit. J'ai compris qu'il ne fallait pas comprendre : c'est précisément ça, la blague.
-brainrot|A -55|t le main character ? non c moi le main character tu es figurant|D 79|Tout le monde veut être le personnage principal. Moi, je préfère être le second rôle qui vole la dernière scène.
+argot|A -63|sigma rizz aura +10000 ohio skibidi gyatt frr no cap|D 76|On parle beaucoup de rizz. Le vrai rizz, c'est de faire rire quelqu'un qui avait décidé de ne pas rire ce jour-là.
+argot|A -58|jsuis trop un sigma je parle à personne et je regarde le sol|D 78|Le sigma qui ne parle à personne n'est pas mystérieux : il a juste oublié qu'on peut se taire avec quelqu'un.
+argot|A -61|aura aura aura je farm l'aura tous les jours h24 respectez moi|D 80|L'aura qu'on réclame est déjà perdue ; celle qu'on oublie revient toute seule, comme un chat qui a choisi votre maison.
+argot|C 9|J'ai mis trois heures à comprendre ce que voulait dire « six-seven ». Je ne suis pas sûr d'avoir compris.|D 77|« Six-seven », disent-ils, et toute la cour de récréation rit. J'ai compris qu'il ne fallait pas comprendre : c'est précisément ça, la blague.
+argot|A -55|t le main character ? non c moi le main character tu es figurant|D 79|Tout le monde veut être le personnage principal. Moi, je préfère être le second rôle qui vole la dernière scène.
 drague|A -57|t'es la plus belle meuf du monde je t'aime réponds|D 78|Je ne vais pas te dire que tu es la plus belle du monde ; je n'ai pas tout vu. Mais tu es la plus belle de ce mardi, et ce mardi me suffit.
 drague|C 6|Est-ce que tu veux aller boire un verre samedi ?|D 76|Samedi, j'ai deux places pour une exposition que je ne comprendrai pas. J'aimerais beaucoup ne pas la comprendre avec toi.
 drague|A -53|jsuis le meilleur mec de la ville demande à tout le monde|D 80|Je ne suis pas le meilleur parti de la ville. Mais je suis le seul à connaître le chemin du belvédère où personne ne monte.
