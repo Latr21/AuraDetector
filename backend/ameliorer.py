@@ -19,9 +19,11 @@ Option gratuite (mode « hybride ») : si un LLM gratuit est joignable (Ollama e
 il propose d'abord des reformulations complètes ; CamemBERT les retouche, et c'est toujours NOTRE modèle d'aura
 qui note et choisit. Réglages : AURA_LLM_URL, AURA_LLM_MODEL, AURA_LLM_KEY (voir plus bas).
 """
+import json
 import os
 import re
 import threading
+import time
 
 import httpx
 
@@ -197,7 +199,7 @@ def _scores(m, textes):
             for i in range(0, len(textes), 32):
                 lot = textes[i:i + 32]
                 with torch.no_grad():
-                    o = mod(**tok(lot, truncation=True, max_length=256, padding=True, return_tensors="pt").to(DEVICE)).logits.cpu().numpy()
+                    o = mod(**tok(lot, truncation=True, max_length=256, padding=True, return_tensors="pt").to(DEVICE)).logits.float().cpu().numpy()
                 s[i:i + len(lot)] += w * (o[:, 0] * 100 if o.shape[1] == 1 else (np.exp(o - o.max(1, keepdims=True)) / np.exp(o - o.max(1, keepdims=True)).sum(1, keepdims=True)) @ CENTRES)
         return s
     if hasattr(m, "pipe"): return m.pipe.predict_proba(textes) @ CENTRES     # SVM
@@ -218,7 +220,10 @@ une position de force calme, une formule originale, une écriture élégante, du
 Ce qui fait perdre de l'aura : se plaindre, s'excuser, hésiter, crier, les emojis, l'insulte sèche.
 Règles : garder la même idée, le même sujet et les mêmes faits (ne rien inverser ni inventer) ;
 à peu près la même longueur que la phrase d'origine (une ou deux phrases courtes, pas de poème) ; rien de haineux ni d'insultant ;
-pas de citation célèbre existante. Réponds UNIQUEMENT par {n} réécritures différentes, une par ligne, sans numéro ni guillemets."""
+pas de citation célèbre existante.
+Français : écris comme un francophone natif. Ordre des mots standard (sujet, verbe, complément), accords justes,
+expressions idiomatiques réelles ; pas d'inversion poétique, pas de tournure traduite de l'anglais, pas de mot inventé.
+Réponds UNIQUEMENT par {n} réécritures différentes, une par ligne, sans numéro ni guillemets."""
 
 
 def _entetes(): return {"Authorization": f"Bearer {LLM_KEY}"} if LLM_KEY else {}
@@ -259,19 +264,97 @@ def llm_disponible():
         return False
 
 
+def _chat(systeme, demande, temperature, json_mode=False):
+    """Un appel « chat/completions » ; réessaie une fois si l'API gratuite répond 429 (trop de requêtes). None si échec."""
+    corps = {"model": LLM_MODEL, "temperature": temperature,
+             "messages": [{"role": "system", "content": systeme}, {"role": "user", "content": demande}]}
+    if json_mode: corps["response_format"] = {"type": "json_object"}
+    for essai in range(2):
+        try:
+            r = httpx.post(f"{LLM_URL}/chat/completions", headers=_entetes(), timeout=90, json=corps)
+            if r.status_code == 429 and essai == 0:
+                time.sleep(1.5); continue
+            r.raise_for_status()
+            return r.json()["choices"][0]["message"]["content"]
+        except Exception:
+            return None
+    return None
+
+
+# ------------------------------------------------------------------ relecture : le LLM corrige et note le français
+NATUREL_MIN = 8         # note de naturel (0-10) en dessous de laquelle une proposition est jetée
+RELECTEUR = """Tu es correcteur professionnel de français. Pour chaque phrase numérotée :
+1. corrige UNIQUEMENT la langue : ordre des mots, accords, conjugaison, prépositions, ponctuation, tournures
+   calquées de l'anglais. Ne change ni le sens, ni le ton, ni le style, ni la longueur ;
+2. donne une note « naturel » de 0 à 10 à la phrase CORRIGÉE : 10 = un francophone natif l'écrirait telle quelle,
+   5 = compréhensible mais bizarre, 0 = charabia. Sois sévère.
+Réponds en JSON : {"phrases": [{"n": 1, "corrigee": "...", "naturel": 9}, ...]}"""
+
+
+def relire(phrases):
+    """Corrige les propositions du LLM et ne garde que celles qui sonnent comme du vrai français.
+    None si la relecture a échoué (API muette, JSON illisible), [] si tout a été jugé pas assez naturel."""
+    if not phrases: return []
+    contenu = _chat(RELECTEUR, "\n".join(f"{i + 1}. {p}" for i, p in enumerate(phrases)), temperature=0, json_mode=True)
+    try:
+        items = json.loads(re.search(r"\{.*\}", contenu, re.S).group(0))["phrases"]
+    except Exception:
+        return None
+    gardees = []
+    for it in items:
+        try:
+            t, note = str(it["corrigee"]).strip().strip('"«» '), float(it["naturel"])
+        except Exception:
+            continue
+        if note >= NATUREL_MIN and len(t) >= 3:
+            gardees.append(t if t[-1:] in ".!?…" else t + ".")
+    return list(dict.fromkeys(gardees))
+
+
+def ameliorer_rapide(registry, model_id, texte):
+    """Booster léger (Streamlit Cloud) : le LLM propose, le LLM relit et corrige le français, NOTRE modèle note et choisit.
+    Pas de CamemBERT « texte à trous » (trop lent et trop gourmand en mémoire sur un petit serveur)."""
+    texte = texte.strip()
+    if len(texte) > LONGUEUR_MAX:
+        raise ErreurAmelioration(400, f"Le booster marche sur une phrase ou un court passage ({LONGUEUR_MAX} caractères max).")
+    if not (LLM_MODEL and LLM_KEY):
+        raise ErreurAmelioration(503, "Booster indisponible : aucune clé Mistral configurée (secret AURA_LLM_KEY).")
+    props = [p for p in dict.fromkeys(_propositions_llm(texte)) if p != texte]
+    if not props:
+        raise ErreurAmelioration(503, "Mistral ne répond pas pour l'instant (limite gratuite ?). Réessaie dans quelques secondes.")
+    relues = relire(props)
+    if relues is None:
+        raise ErreurAmelioration(503, "La relecture par Mistral a échoué (limite gratuite ?). Réessaie dans quelques secondes.")
+    props = [p for p in relues if p != texte]
+    if not props:
+        raise ErreurAmelioration(422, "Aucune proposition n'avait un français assez naturel. Relance le booster.")
+    model_id, juge = registry.get(model_id)
+    scores = _scores(juge, props)
+    ordre = [props[i] for i in np.argsort(-scores)][:6]
+    original = registry.predict(model_id, texte)
+    resultats = sorted(((t, registry.predict(model_id, t)) for t in ordre), key=lambda x: -x[1]["score"])
+    resume = lambda t, r: {"texte": t, "category": r["category"], "score": r["score"], "probability": r["probability"]}
+    meilleur_t, meilleur_r = resultats[0]
+    return {
+        "original": resume(texte, original),
+        "meilleur": resume(meilleur_t, meilleur_r) | {"probabilities": meilleur_r["probabilities"]},
+        "gain": meilleur_r["score"] - original["score"],
+        "autres": [resume(t, r) for t, r in resultats[1:]],
+        "n_essais": len(props),
+        "model": original["model"],
+        "mode": "mistral",
+        "generateur": f"{LLM_MODEL} (propose et relit) + notre modèle (note)",
+    }
+
+
 def _propositions_llm(texte, deja_notes=None):
     demande = "Exemples (avant -> après) :\n" + "\n".join(f"- {a} -> {b}" for a, b in _exemples()) + \
               f"\n\nÀ toi. Phrase : {texte}"
     if deja_notes:
         demande += "\nVersions déjà notées par notre détecteur (score de -100 à +100), fais encore mieux :\n" + \
                    "\n".join(f"- {t} (score {sc:+.0f})" for t, sc in deja_notes)
-    try:
-        r = httpx.post(f"{LLM_URL}/chat/completions", headers=_entetes(), timeout=90, json={
-            "model": LLM_MODEL, "temperature": 0.9,
-            "messages": [{"role": "system", "content": LLM_CONSIGNE.format(n=LLM_N)}, {"role": "user", "content": demande}]})
-        r.raise_for_status()
-        contenu = r.json()["choices"][0]["message"]["content"]
-    except Exception:
+    contenu = _chat(LLM_CONSIGNE.format(n=LLM_N), demande, temperature=0.8)
+    if contenu is None:
         return []                                  # le LLM n'est qu'une aide : sans lui, on continue en local
     # on enlève numéros, puces et scores recopiés (« 1. », « - », « +8 : », « Citation +34 : »)
     prefixe = r"^\s*(?:[-*•]|(?:citation\s*)?\d+\s*[.)\-–:]|(?:\w+\s*)?\(?(?:score\s*)?[+-]?\d+\)?\s*:)\s*"
@@ -320,6 +403,8 @@ def ameliorer(registry, model_id, texte):
         for tour in range(2):
             deja = sorted(((t, notes[t]) for t in regles), key=lambda x: -x[1])[:4] if tour else None
             props = [p for p in dict.fromkeys(_propositions_llm(texte, deja)) if p not in notes]
+            relues = relire(props)                         # le LLM corrige l'ordre des mots et jette le français bancal
+            if relues is not None: props = [p for p in relues if p not in notes]
             if props:
                 props = [p for p, nat in zip(props, naturel(props)) if nat >= seuil_llm]
             noter(props)
