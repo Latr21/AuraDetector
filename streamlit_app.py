@@ -19,11 +19,12 @@ try:  # secrets Streamlit (HF_TOKEN…) → variables d'environnement lues par h
             os.environ.setdefault(k, v)
 except Exception:
     pass
-# Booster : API Mistral (La Plateforme). La clé vient du secret AURA_LLM_KEY ; sans elle, le booster est désactivé.
-os.environ.setdefault("AURA_LLM_URL", "https://api.mistral.ai/v1")
-os.environ.setdefault("AURA_LLM_MODEL", "mistral-small-latest")
+# Booster : API Gemini (Google AI Studio, gratuite) au format chat/completions. La clé vient du secret AURA_LLM_KEY ;
+# sans elle, le booster est désactivé. Autre fournisseur : secrets AURA_LLM_URL + AURA_LLM_MODEL.
+os.environ.setdefault("AURA_LLM_URL", "https://generativelanguage.googleapis.com/v1beta/openai")
+os.environ.setdefault("AURA_LLM_MODEL", "gemini-flash-latest")
 
-from backend.ameliorer import ErreurAmelioration, ameliorer_rapide  # noqa: E402
+from backend.ameliorer import LLM_NOM, ErreurAmelioration, ameliorer_rapide  # noqa: E402
 from backend.extract import extract_text  # noqa: E402
 from backend.model import ORDRE, Registry  # noqa: E402
 
@@ -97,9 +98,9 @@ if st.button("⚡ SCANNER L'AURA ⚡", type="primary", width="stretch"):
 st.divider()
 st.subheader("🚀 Booster mon aura")
 if not os.environ.get("AURA_LLM_KEY"):
-    st.info("Booster indisponible : aucune clé Mistral n'est configurée sur ce serveur.")
+    st.info("Booster indisponible : aucune clé d'API n'est configurée sur ce serveur.")
 else:
-    st.caption("Mistral propose des reformulations, les relit pour garder un français naturel, "
+    st.caption(f"{LLM_NOM} propose des reformulations, les relit pour garder un français naturel, "
                "puis notre modèle les note et garde la meilleure.")
     a_booster = st.text_area("Phrase à booster", height=100, max_chars=500, key="booster",
                              placeholder="Ex. : Désolé de vous déranger, je pense que mon idée est peut-être bien…")
@@ -108,7 +109,7 @@ else:
             st.error("Rien à booster : écris d'abord une phrase.")
         else:
             try:
-                with st.spinner("Mistral réécrit, relit, et notre modèle note…"):
+                with st.spinner(f"{LLM_NOM} réécrit, relit, et notre modèle note…"):
                     b = ameliorer_rapide(reg, choix["id"], a_booster)
             except ErreurAmelioration as e:
                 st.warning(str(e))

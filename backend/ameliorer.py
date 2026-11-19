@@ -209,11 +209,12 @@ def _scores(m, textes):
 
 # ------------------------------------------------------------------ option : un LLM gratuit propose des reformulations
 # Par défaut : Ollama en local (gratuit, sans jeton ni internet). Marche aussi avec toute API gratuite au format
-# « chat/completions » (Mistral, Groq, Hugging Face…) : AURA_LLM_URL + AURA_LLM_KEY + AURA_LLM_MODEL.
+# « chat/completions » (Gemini, Mistral, Groq, Hugging Face…) : AURA_LLM_URL + AURA_LLM_KEY + AURA_LLM_MODEL.
 # AURA_LLM_MODEL vide = mode 100 % maison (CamemBERT seul).
 LLM_URL = os.environ.get("AURA_LLM_URL", "http://localhost:11434/v1").rstrip("/")
 LLM_MODEL = os.environ.get("AURA_LLM_MODEL", "mistral")
 LLM_KEY = os.environ.get("AURA_LLM_KEY", "")
+LLM_NOM = next((n for n in ("Gemini", "Mistral", "Llama", "Qwen") if n.lower() in LLM_MODEL.lower()), LLM_MODEL or "LLM")
 LLM_N = 6
 LLM_CONSIGNE = """Tu réécris des phrases en français pour leur donner plus d'« aura » : plus d'aplomb et de charisme,
 une position de force calme, une formule originale, une écriture élégante, du rythme et une chute.
@@ -269,11 +270,13 @@ def _chat(systeme, demande, temperature, json_mode=False):
     corps = {"model": LLM_MODEL, "temperature": temperature,
              "messages": [{"role": "system", "content": systeme}, {"role": "user", "content": demande}]}
     if json_mode: corps["response_format"] = {"type": "json_object"}
-    for essai in range(2):
+    for essai in range(3):
         try:
             r = httpx.post(f"{LLM_URL}/chat/completions", headers=_entetes(), timeout=90, json=corps)
-            if r.status_code == 429 and essai == 0:
-                time.sleep(1.5); continue
+            if r.status_code == 429 and essai < 2:
+                time.sleep(2); continue
+            if r.status_code == 400 and "response_format" in corps:   # API sans mode JSON : on redemande sans
+                corps.pop("response_format"); continue
             r.raise_for_status()
             return r.json()["choices"][0]["message"]["content"]
         except Exception:
@@ -318,13 +321,13 @@ def ameliorer_rapide(registry, model_id, texte):
     if len(texte) > LONGUEUR_MAX:
         raise ErreurAmelioration(400, f"Le booster marche sur une phrase ou un court passage ({LONGUEUR_MAX} caractères max).")
     if not (LLM_MODEL and LLM_KEY):
-        raise ErreurAmelioration(503, "Booster indisponible : aucune clé Mistral configurée (secret AURA_LLM_KEY).")
+        raise ErreurAmelioration(503, "Booster indisponible : aucune clé d'API configurée (secret AURA_LLM_KEY).")
     props = [p for p in dict.fromkeys(_propositions_llm(texte)) if p != texte]
     if not props:
-        raise ErreurAmelioration(503, "Mistral ne répond pas pour l'instant (limite gratuite ?). Réessaie dans quelques secondes.")
+        raise ErreurAmelioration(503, f"{LLM_NOM} ne répond pas pour l'instant (limite gratuite ?). Réessaie dans quelques secondes.")
     relues = relire(props)
     if relues is None:
-        raise ErreurAmelioration(503, "La relecture par Mistral a échoué (limite gratuite ?). Réessaie dans quelques secondes.")
+        raise ErreurAmelioration(503, f"La relecture par {LLM_NOM} a échoué (limite gratuite ?). Réessaie dans quelques secondes.")
     props = [p for p in relues if p != texte]
     if not props:
         raise ErreurAmelioration(422, "Aucune proposition n'avait un français assez naturel. Relance le booster.")
@@ -342,8 +345,8 @@ def ameliorer_rapide(registry, model_id, texte):
         "autres": [resume(t, r) for t, r in resultats[1:]],
         "n_essais": len(props),
         "model": original["model"],
-        "mode": "mistral",
-        "generateur": f"{LLM_MODEL} (propose et relit) + notre modèle (note)",
+        "mode": "llm",
+        "generateur": f"{LLM_NOM} (propose et relit) + notre modèle (note)",
     }
 
 
