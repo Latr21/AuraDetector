@@ -28,6 +28,9 @@ sys.path.insert(0, str(ML / "scripts"))
 ORDRE = ["Anti-Aura", "Aura Correcte", "Forte Aura", "Aura Divine"]
 CENTRES = np.array([-55.0, 7.0, 50.0, 87.0])
 DEVICE = os.environ.get("AURA_DEVICE", "cpu")
+# AURA_DTYPE=bfloat16 divise par 2 la mémoire de CamemBERT (~2 Go au lieu de 3,3) sans changer ses prédictions
+# sur test_reel (kappa identique) ; utilisé pour Streamlit Community Cloud, limité en RAM.
+DTYPE = os.environ.get("AURA_DTYPE", "float32")
 
 
 def proba_depuis_score(s, temperature=18.0):
@@ -46,14 +49,15 @@ class CamembertEnsemble:
         for nom, w in retenu["composants"].items():
             if nom == "tfidf" or w <= 0: continue
             d = MODELS / nom / "final"
-            self.parts.append((w, AutoTokenizer.from_pretrained(d), AutoModelForSequenceClassification.from_pretrained(d).to(DEVICE).eval()))
+            m = AutoModelForSequenceClassification.from_pretrained(d, dtype=getattr(torch, DTYPE))
+            self.parts.append((w, AutoTokenizer.from_pretrained(d), m.to(DEVICE).eval()))
         tot = sum(w for w, _, _ in self.parts); self.parts = [(w / tot, t, m) for w, t, m in self.parts]
 
     def predire(self, text):
         s = 0.0
         with self.torch.no_grad():
             for w, tok, m in self.parts:
-                o = m(**tok([text], truncation=True, max_length=256, return_tensors="pt").to(DEVICE)).logits[0].cpu().numpy()
+                o = m(**tok([text], truncation=True, max_length=256, return_tensors="pt").to(DEVICE)).logits[0].float().cpu().numpy()
                 if o.size == 1: s += w * float(o[0]) * 100
                 else: e = np.exp(o - o.max()); s += w * float((e / e.sum()) @ CENTRES)
         return int(np.digitize(s, self.seuils)), proba_depuis_score(s), s
